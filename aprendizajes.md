@@ -704,3 +704,78 @@ con esa combinación.
 
 Demasiado pronto para juzgar los experimentos de hoy (títulos de
 flamencos/muralla, keywords de los largos) — revisar en próximos días.
+
+## 2026-09-20 21:15 — Migración a la nube: repo Git creado y empujado
+
+El usuario pidió montar un agente externo en la nube para las subidas
+(independiente de que el PC esté encendido), empezando por el canal de
+ciencia. Primer paso: repositorio Git.
+
+- Usuario real de GitHub: **C4RR0** (nombre visible "J3C4R"). La org
+  "carrosdev" que el usuario mencionó no existe/no es accesible desde esa
+  cuenta (comprobado: 0 organizaciones). Se creó el repo directamente en
+  la cuenta personal: `github.com/C4RR0/canalia-cienciaespacio` (privado).
+- `.gitignore` excluye credenciales (`token.json`, `client_secret.json`,
+  `pexels_api_key.txt`) y todo lo multimedia generado (audio/, imagenes/,
+  videos/, subtitulos/, *.mp4/*.mp3/*.jpg/*.png/*.srt/*.ass) — se
+  verificó explícitamente que no quedó ningún secreto en el primer commit
+  antes de subirlo.
+- Hubo que activar Git Credential Manager (`git config --global
+  credential.helper manager`) y borrar una credencial de GitHub vieja
+  cacheada (de otra cuenta, "J3C4R"/otra) para que pidiera login fresco.
+- Push inicial funcionó: `main` ya está en GitHub.
+
+Pendiente: credenciales seguras para que el agente en la nube pueda subir
+a YouTube (vault de Managed Agents en vez de meter token.json en el repo),
+instalar dependencias (ffmpeg, edge-tts, faster-whisper, etc.) en el
+entorno cloud, y crear el routine con cron.
+
+## 2026-09-20 21:26 — Migración a la nube: acceso a GitHub RESUELTO
+
+Los dos bloqueos de la migración a la nube quedaron resueltos:
+
+1. **Conectar GitHub a la cuenta de Claude** (claude.ai → Configuración →
+   Conectores → "Integración de GitHub" → Conectar). Esto autoriza la
+   IDENTIDAD pero NO instala la app — sin el paso 2 siguiente, cualquier
+   routine que use un repo falla con 403 "You don't have access to a
+   repository this routine uses."
+2. **Instalar la GitHub App "Claude"** en la cuenta de GitHub
+   (github.com/apps/claude → Instalar → "Solo repositorios seleccionados"
+   → elegir el repo). Este es el paso que realmente faltaba — sin él, la
+   app aparece "Nunca usado" en github.com/settings/connections/applications
+   aunque el conector de Claude ya muestre "Conectado".
+
+Con los dos pasos hechos, un routine de prueba (`RemoteTrigger`)
+**clonó el repo Y HIZO PUSH con éxito** (`git push origin main` funcionó
+sin ningún token/credencial que yo tuviera que gestionar — el proxy de git
+de Anthropic lo resuelve solo). Confirmado también: Python 3.11.15 + pip
+disponibles en el entorno cloud (`env_01NnKAy9NTQnhechhtzkr6aS`).
+**ffmpeg NO está instalado** — pendiente instalarlo (probar apt-get, o usar
+el "setup script" del entorno — el log dijo "No setup script configured",
+sugiriendo que existe esa opción de configuración pendiente de explorar).
+
+**Siguiente paso pendiente:** decidir cómo pasar el token de YouTube
+(token.json/client_secret.json) — el usuario ya aceptó que quede en el
+historial del chat como texto plano vía `environment_variables` del
+routine (no hay vault-style encryption disponible para este tipo "ccr").
+
+## 2026-09-20 21:33 — Entorno cloud validado por completo
+
+Prueba de instalación en un routine: usuario `root` en el sandbox (no hace
+falta sudo). `apt-get update && apt-get install -y ffmpeg` funciona sin
+problema (2 warnings menores de PPAs de terceros no relacionados,
+ignorables). `pip3 install -r requirements.txt` instaló edge-tts,
+faster-whisper, google-api-python-client, pydub, pillow y requests sin
+fallos. Todos los imports de Python verificados OK. Tiempo total:
+82 segundos — aceptable como paso de arranque en cada ejecución del
+routine (cada sesión es un sandbox nuevo, no hay instalación persistente
+entre ejecuciones salvo que se investigue un "setup script" del entorno
+más adelante).
+
+**Migración a la nube — piezas ya validadas:**
+1. ✅ Repo Git con código (sin secretos) — `github.com/C4RR0/canalia-cienciaespacio`.
+2. ✅ Acceso de lectura+escritura desde la nube (GitHub App instalada).
+3. ✅ Entorno cloud puede instalar ffmpeg + todas las dependencias Python.
+
+**Pendiente:** inyectar el token de YouTube (token.json/client_secret.json)
+y montar el routine final con cron que replique el checklist de producción.
