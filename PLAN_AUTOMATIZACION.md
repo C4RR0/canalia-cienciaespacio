@@ -20,11 +20,24 @@ formato ni un proyecto distinto.
 - **Contenido "infantil":** solo estética family-friendly (paleta de color
   `familiar` en `generar_diapositiva_lista.py`), NUNCA marcar `selfDeclaredMadeForKids: true`.
   Ya está fijado a `False` en `scripts/subir_youtube.py`.
-- **Mecanismo:** todo corre dentro de esta sesión de Claude Code vía `/loop`,
-  despertando periódicamente con `ScheduleWakeup`. Requiere el PC y esta
-  ventana encendidos. Si la sesión se cierra, el bucle se detiene (no hay
-  cron en la nube: no tiene acceso al sistema de archivos local, ffmpeg ni
-  al token de YouTube).
+- **Mecanismo (local, histórico):** todo corre dentro de esta sesión de Claude
+  Code vía `/loop`, despertando periódicamente con `ScheduleWakeup`. Requiere
+  el PC y esta ventana encendidos. Si la sesión se cierra, el bucle se
+  detiene.
+- **Mecanismo (nube, 2026-09-20 en adelante):** migración en curso a un
+  routine cloud (`RemoteTrigger`) sobre `github.com/C4RR0/canalia-cienciaespacio`.
+  Bloqueo encontrado: el TTS (`edge-tts`) no puede salir a internet dentro
+  del sandbox cloud (su cliente HTTP no respeta la CA del proxy de seguridad
+  del sandbox, y tocar esa confianza TLS está bloqueado por el propio
+  clasificador de seguridad — ver aprendizajes.md 2026-09-20). Arquitectura
+  híbrida adoptada: el audio (TTS) se genera EN LOCAL con
+  `scripts/generar_audio_pipeline.py <config.json>`, que deja el resultado en
+  `cola_audio/<id>_final.mp3` (y `_duraciones.json` si es formato "lista");
+  ese fichero SÍ viaja por git (excepción en `.gitignore`). La nube hace
+  `git pull`, y `scripts/producir_video.py` detecta automáticamente ese
+  audio ya hecho y se salta el paso de TTS, completando el resto (imágenes,
+  ensamblado, subtítulos, miniatura, subida a YouTube). Tras subir con
+  éxito, la nube borra `cola_audio/<id>_*` y hace commit+push de limpieza.
 
 ## Mejora continua obligatoria (pedido explícito del usuario, reforzado 2026-09-19)
 

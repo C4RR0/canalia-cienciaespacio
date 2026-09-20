@@ -19,6 +19,13 @@ videos/
 subtitulos/
 _tmp_v2/
 
+# Excepcion: cola_audio/ SI viaja por git a proposito (puente local->nube,
+# ver scripts/generar_audio_pipeline.py). Son ficheros temporales que la
+# nube borra tras consumirlos, pero mientras estan en cola deben subirse.
+!cola_audio/
+!cola_audio/*.mp3
+!cola_audio/*.json
+
 # Python
 __pycache__/
 *.pyc

@@ -195,6 +195,7 @@ def producir(cfg: dict) -> dict:
     dir_imagenes = BASE / "imagenes"
     dir_subs = BASE / "subtitulos"
     dir_salidas = BASE / "salidas"
+    dir_cola = BASE / "cola_audio"
     for d in (dir_guiones, dir_audio, dir_imagenes, dir_subs, dir_salidas):
         d.mkdir(exist_ok=True)
 
@@ -210,7 +211,21 @@ def producir(cfg: dict) -> dict:
 
     duraciones_clips = None  # solo se rellena en formato "lista"
 
-    if formato == "lista":
+    # Audio ya generado en local (ver generar_audio_pipeline.py): el TTS
+    # (edge-tts) no puede salir a internet dentro del sandbox cloud porque
+    # su cliente HTTP no respeta la CA del proxy de seguridad (ver
+    # aprendizajes.md 2026-09-20). Si ya llega hecho en cola_audio/, se
+    # reutiliza y se salta por completo el paso de TTS.
+    audio_precocinado = dir_cola / f"{vid}_final.mp3"
+    if audio_precocinado.exists():
+        log("2/8 Audio (reutilizado de cola_audio/, generado en local)")
+        audio_final = dir_audio / f"{vid}_final.mp3"
+        audio_final.write_bytes(audio_precocinado.read_bytes())
+        print(f"Audio reutilizado: {audio_precocinado} -> {audio_final}")
+        if formato == "lista":
+            meta_path = dir_cola / f"{vid}_duraciones.json"
+            duraciones_clips = json.loads(meta_path.read_text(encoding="utf-8"))
+    elif formato == "lista":
         # 2) Audio POR SEGMENTO (no todo junto de una vez): así se conoce la
         # duración exacta de cada dato narrado, y el clip de vídeo de ese dato
         # puede durar exactamente lo mismo en pantalla. Con un único bloque de
