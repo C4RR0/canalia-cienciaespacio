@@ -1,0 +1,22 @@
+{
+  "id": "short_013_jirafas_sueno",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-ElviraNeural",
+  "tema_visual": "familiar",
+  "guion": "¿Sabías que las jirafas son de los mamíferos que menos duermen de todo el reino animal? En estado salvaje, una jirafa adulta suele dormir en total menos de dos horas al día, repartidas en siestas de apenas unos minutos cada una.\n\nLa razón es la supervivencia. Las jirafas son presas de leones y otros grandes depredadores, y tumbarse por completo las deja en una posición muy vulnerable: les cuesta varios segundos incorporarse desde el suelo, tiempo que en una emergencia puede ser mortal. Por eso la mayoría de sus siestas las hacen de pie, con los ojos entreabiertos, y solo se tumban del todo unos minutos al día, normalmente cuando el resto de la manada vigila alrededor.\n\nCuando sí llegan a un sueño más profundo, suelen doblar el cuello hacia atrás y apoyar la cabeza cerca de las caderas, una postura curiosa que dura solo unos minutos antes de que se despierten de nuevo.\n\nAsí que la próxima vez que te cueste dormir, recuerda: podría ser peor. Podrías ser una jirafa.",
+  "queries_imagenes": [
+    "giraffe standing savanna photo",
+    "giraffe herd Africa wildlife",
+    "giraffe close up head neck",
+    "giraffe lying down resting",
+    "African savanna sunset wildlife"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Las jirafas duermen menos de 2 horas al día (y casi nunca tumbadas)",
+  "descripcion": "Las jirafas salvajes duermen en total menos de 2 horas al día, en siestas de apenas unos minutos y casi siempre de pie. La razón: tumbarse del todo las deja indefensas ante los depredadores.\n\n#curiosidades #datoscuriosos #animales #naturaleza #jirafas #shorts",
+  "tags": ["curiosidades", "datos curiosos", "animales", "naturaleza", "jirafas", "shorts"],
+  "categoria_id": "27",
+  "privacidad": "public",
+  "hook_miniatura": "DUERMEN MENOS DE 2 HORAS AL DÍA"
+}

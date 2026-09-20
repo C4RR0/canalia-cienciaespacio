@@ -1,0 +1,22 @@
+{
+  "id": "short_014_venus_retrogrado",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "espacio",
+  "guion": "¿Sabías que en Venus el Sol sale por el oeste y se pone por el este, justo al revés que en la Tierra? Venus gira sobre su propio eje en sentido contrario al resto de los planetas del sistema solar, en lo que se llama rotación retrógrada.\n\nAdemás, gira muchísimo más despacio que cualquier otro planeta: un solo día en Venus, es decir, una vuelta completa sobre su eje, dura doscientos cuarenta y tres días terrestres. Eso significa que un día en Venus dura más que su propio año, porque Venus tarda solo doscientos veinticinco días terrestres en dar la vuelta al Sol.\n\nNadie sabe con certeza por qué gira al revés. La teoría más aceptada es que, hace miles de millones de años, un objeto enorme chocó contra Venus con tanta fuerza que invirtió su rotación por completo. Otra posibilidad es que la intensísima atmósfera de Venus, mucho más densa que la nuestra, haya ido frenando y volteando su giro poco a poco.\n\nAsí que si alguna vez vives en Venus, acostúmbrate: allí el atardecer sale por donde menos lo esperas.",
+  "queries_imagenes": [
+    "Venus planet surface radar image NASA",
+    "Venus atmosphere clouds photo NASA",
+    "solar system planets illustration",
+    "sunset horizon silhouette photo",
+    "space telescope planet image"
+  ],
+  "fuente_imagenes": "nasa",
+  "titulo": "En Venus el Sol sale por el oeste (y un día dura más que un año)",
+  "descripcion": "Venus gira al revés que el resto de los planetas del sistema solar: el Sol sale por el oeste. Además, un día en Venus (243 días terrestres) dura más que su propio año (225 días). Nadie sabe con certeza por qué gira así.\n\n#curiosidades #datoscuriosos #espacio #venus #astronomia #shorts",
+  "tags": ["curiosidades", "datos curiosos", "espacio", "venus", "astronomia", "sistema solar", "shorts"],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "EL SOL SALE POR EL OESTE"
+}

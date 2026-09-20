@@ -1,0 +1,25 @@
+# Credenciales - NUNCA subir
+token.json
+client_secret.json
+pexels_api_key.txt
+.env
+
+# Archivos multimedia generados (pesados, regenerables, no aptos para git)
+*.mp4
+*.mp3
+*.wav
+*.jpg
+*.jpeg
+*.png
+*.srt
+*.ass
+audio/
+imagenes/
+videos/
+subtitulos/
+_tmp_v2/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

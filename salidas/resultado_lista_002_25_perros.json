@@ -1,0 +1,12 @@
+{
+  "id": "lista_002_25_perros",
+  "formato": "lista",
+  "titulo": "25 cosas que no sabías sobre los perros",
+  "video_id": "vfbFVaKpIo0",
+  "video_url": "https://youtu.be/vfbFVaKpIo0",
+  "duracion_seg": 115.0,
+  "video_final": "C:\\Users\\Sergio\\CanalIA-CienciaEspacio\\salidas\\lista_002_25_perros_FINAL.mp4",
+  "miniatura": "C:\\Users\\Sergio\\CanalIA-CienciaEspacio\\salidas\\miniatura_lista_002_25_perros.jpg",
+  "error_subida": "<HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
+  "timestamp": "2026-09-19T15:27:14"
+}

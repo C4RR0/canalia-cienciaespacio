@@ -1,0 +1,12 @@
+{
+  "id": "short_022_cielo_azul",
+  "formato": "curiosidad",
+  "titulo": "Por qué el cielo es azul (no es por el reflejo del mar)",
+  "video_id": "De0TS_XBL-I",
+  "video_url": "https://youtu.be/De0TS_XBL-I",
+  "duracion_seg": 52.7,
+  "video_final": "C:\\Users\\Sergio\\CanalIA-CienciaEspacio\\salidas\\short_022_cielo_azul_FINAL.mp4",
+  "miniatura": "C:\\Users\\Sergio\\CanalIA-CienciaEspacio\\salidas\\miniatura_short_022_cielo_azul.jpg",
+  "error_subida": "<HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
+  "timestamp": "2026-09-20T01:10:17"
+}

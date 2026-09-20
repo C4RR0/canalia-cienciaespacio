@@ -1,0 +1,22 @@
+{
+  "id": "short_019_tardigrados_espacio",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "guion": "¿Sabías que existe un animal capaz de sobrevivir en el vacío del espacio exterior, sin traje ni protección de ningún tipo? Se llama tardígrado, mide menos de un milímetro y parece un osito microscópico con ocho patas.\n\nEn 2007, científicos europeos enviaron miles de tardígrados al espacio a bordo de un satélite y los expusieron directamente al vacío, a temperaturas bajo cero y a la radiación cósmica sin ningún tipo de escudo. Cuando el satélite volvió a la Tierra, muchos de ellos seguían vivos y hasta pusieron huevos que nacieron sanos.\n\n¿Cómo lo consiguen? Cuando las condiciones se vuelven extremas, el tardígrado expulsa casi toda el agua de su cuerpo y entra en un estado llamado criptobiosis: su metabolismo se reduce a prácticamente cero y puede aguantar así durante años.\n\nDe hecho, se ha demostrado que sobreviven al calor de más de 150 grados, al frío de casi el cero absoluto, y a una presión seis veces mayor que en el punto más profundo del océano. Si alguna vez ocurre un desastre que borre a la humanidad del planeta, probablemente los tardígrados seguirán ahí.",
+  "queries_imagenes": [
+    "tardigrade microscope photo",
+    "satellite in orbit photo NASA",
+    "outer space vacuum stars photo NASA",
+    "extreme environment ice photo",
+    "earth from space photo NASA"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Este animal sobrevive en el vacío del espacio sin ninguna protección",
+  "descripcion": "El tardígrado es capaz de sobrevivir expuesto directamente al vacío espacial, la radiación cósmica y temperaturas extremas gracias a un estado llamado criptobiosis. En 2007 varios sobrevivieron un viaje real al espacio.\n\n#curiosidades #datoscuriosos #ciencia #naturaleza #espacio #shorts",
+  "tags": ["curiosidades", "datos curiosos", "ciencia", "naturaleza", "tardigrados", "espacio", "shorts"],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "SOBREVIVE EN EL VACÍO DEL ESPACIO"
+}

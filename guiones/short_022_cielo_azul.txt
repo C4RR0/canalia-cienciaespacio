@@ -1,0 +1,7 @@
+¿Sabías que el cielo no es azul porque refleje el color del mar, como mucha gente cree? La verdadera razón tiene que ver con cómo la luz del Sol choca contra las moléculas de nuestra atmósfera.
+
+La luz blanca del Sol en realidad contiene todos los colores del arcoíris mezclados. Cuando esa luz entra en la atmósfera, choca contra las moléculas de nitrógeno y oxígeno del aire, y se dispersa en todas direcciones. Este fenómeno se llama dispersión de Rayleigh.
+
+Lo curioso es que no todos los colores se dispersan igual: la luz azul, al tener una longitud de onda más corta, se dispersa muchísimo más que la luz roja o amarilla. Por eso, cuando miras hacia cualquier parte del cielo, lo que ves es sobre todo esa luz azul rebotando en todas direcciones.
+
+Y esto explica también por qué al atardecer el cielo se pone naranja o rojo: la luz del Sol tiene que atravesar mucha más atmósfera en un ángulo bajo, así que casi toda la luz azul se dispersa por el camino y solo llega hasta tus ojos el rojo y el naranja que quedan.

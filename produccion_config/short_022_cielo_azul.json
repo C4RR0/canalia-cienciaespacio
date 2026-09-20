@@ -1,0 +1,22 @@
+{
+  "id": "short_022_cielo_azul",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "curiosidades",
+  "guion": "¿Sabías que el cielo no es azul porque refleje el color del mar, como mucha gente cree? La verdadera razón tiene que ver con cómo la luz del Sol choca contra las moléculas de nuestra atmósfera.\n\nLa luz blanca del Sol en realidad contiene todos los colores del arcoíris mezclados. Cuando esa luz entra en la atmósfera, choca contra las moléculas de nitrógeno y oxígeno del aire, y se dispersa en todas direcciones. Este fenómeno se llama dispersión de Rayleigh.\n\nLo curioso es que no todos los colores se dispersan igual: la luz azul, al tener una longitud de onda más corta, se dispersa muchísimo más que la luz roja o amarilla. Por eso, cuando miras hacia cualquier parte del cielo, lo que ves es sobre todo esa luz azul rebotando en todas direcciones.\n\nY esto explica también por qué al atardecer el cielo se pone naranja o rojo: la luz del Sol tiene que atravesar mucha más atmósfera en un ángulo bajo, así que casi toda la luz azul se dispersa por el camino y solo llega hasta tus ojos el rojo y el naranja que quedan.",
+  "queries_imagenes": [
+    "blue sky clouds photo",
+    "sunset orange sky photo",
+    "Earth atmosphere limb from space photo NASA",
+    "sunlight rays through clouds photo",
+    "clear daytime sky photo"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Por qué el cielo es azul (no es por el reflejo del mar)",
+  "descripcion": "La luz del Sol se dispersa al chocar con las moléculas del aire (dispersión de Rayleigh). El azul se dispersa mucho más que el rojo, por eso vemos el cielo azul de día y rojo/naranja al atardecer.\n\n#curiosidades #datoscuriosos #ciencia #fisica #naturaleza #shorts",
+  "tags": ["curiosidades", "datos curiosos", "ciencia", "fisica", "naturaleza", "atmosfera", "shorts"],
+  "categoria_id": "27",
+  "privacidad": "public",
+  "hook_miniatura": "POR QUÉ EL CIELO ES AZUL"
+}

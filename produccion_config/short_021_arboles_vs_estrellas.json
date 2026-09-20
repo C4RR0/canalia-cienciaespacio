@@ -1,0 +1,22 @@
+{
+  "id": "short_021_arboles_vs_estrellas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "guion": "¿Sabías que hay más árboles en la Tierra que estrellas en toda la Vía Láctea? Suena imposible, pero es un dato real confirmado por un estudio publicado en la revista Nature en 2015.\n\nLos científicos usaron una combinación de imágenes de satélite, inventarios forestales y modelos de densidad para estimar el número total de árboles del planeta. El resultado: unos tres billones de árboles, con b de billón español, es decir, tres millones de millones.\n\nLa Vía Láctea, en cambio, se estima que tiene entre cien mil y cuatrocientos mil millones de estrellas. Aunque parezca una cifra gigantesca, sigue siendo muchísimo menor que el número de árboles.\n\nEso significa que, por cada estrella que puedas ver brillando en el cielo nocturno, existen aproximadamente entre siete y treinta árboles en algún lugar del planeta. Y aun así, ese mismo estudio calcula que hemos talado casi la mitad de todos los árboles que existían antes de que empezara la civilización humana.",
+  "queries_imagenes": [
+    "forest aerial view photo",
+    "milky way galaxy night sky photo NASA",
+    "dense rainforest canopy photo",
+    "satellite forest map photo NASA",
+    "old growth forest trees photo"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Hay más árboles en la Tierra que estrellas en la Vía Láctea",
+  "descripcion": "Un estudio de Nature (2015) estimó que existen unos 3 billones de árboles en la Tierra, muchos más que los 100.000-400.000 millones de estrellas de la Vía Láctea. Por cada estrella que ves, hay decenas de árboles en el planeta.\n\n#curiosidades #datoscuriosos #ciencia #naturaleza #espacio #shorts",
+  "tags": ["curiosidades", "datos curiosos", "ciencia", "naturaleza", "arboles", "espacio", "shorts"],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "HAY MÁS ÁRBOLES QUE ESTRELLAS"
+}

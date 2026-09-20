@@ -1,0 +1,12 @@
+{
+  "id": "short_019_tardigrados_espacio",
+  "formato": "curiosidad",
+  "titulo": "Este animal sobrevive en el vacío del espacio sin ninguna protección",
+  "video_id": "Bi7SFHQuJso",
+  "video_url": "https://youtu.be/Bi7SFHQuJso",
+  "duracion_seg": 56.8,
+  "video_final": "C:\\Users\\Sergio\\CanalIA-CienciaEspacio\\salidas\\short_019_tardigrados_espacio_FINAL.mp4",
+  "miniatura": "C:\\Users\\Sergio\\CanalIA-CienciaEspacio\\salidas\\miniatura_short_019_tardigrados_espacio.jpg",
+  "error_subida": "<HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
+  "timestamp": "2026-09-20T00:47:58"
+}

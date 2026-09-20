@@ -1,0 +1,12 @@
+{
+  "id": "short_021_arboles_vs_estrellas",
+  "formato": "curiosidad",
+  "titulo": "Hay más árboles en la Tierra que estrellas en la Vía Láctea",
+  "video_id": "0LP1rFWliWw",
+  "video_url": "https://youtu.be/0LP1rFWliWw",
+  "duracion_seg": 51.0,
+  "video_final": "C:\\Users\\Sergio\\CanalIA-CienciaEspacio\\salidas\\short_021_arboles_vs_estrellas_FINAL.mp4",
+  "miniatura": "C:\\Users\\Sergio\\CanalIA-CienciaEspacio\\salidas\\miniatura_short_021_arboles_vs_estrellas.jpg",
+  "error_subida": "<HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
+  "timestamp": "2026-09-20T00:56:12"
+}

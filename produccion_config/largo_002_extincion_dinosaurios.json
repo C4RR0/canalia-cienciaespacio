@@ -1,0 +1,37 @@
+{
+  "id": "largo_002_extincion_dinosaurios",
+  "formato": "largo",
+  "orientacion": "horizontal",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "historia",
+  "guion": "Hace sesenta y seis millones de años, era un día como cualquier otro en la Tierra. Los dinosaurios llevaban ya más de ciento cincuenta millones de años dominando el planeta. Y entonces, en cuestión de horas, casi todo cambió para siempre.\n\nUn asteroide de unos diez a doce kilómetros de diámetro, del tamaño aproximado de una ciudad pequeña, entró en la atmósfera terrestre viajando a unos veinte kilómetros por segundo, unas sesenta veces más rápido que una bala. Impactó en lo que hoy es la península de Yucatán, en México, cerca de un pueblo que hoy se llama Chicxulub.\n\nEl impacto liberó una energía equivalente a varios miles de millones de bombas atómicas como la de Hiroshima. En cuestión de segundos, abrió un cráter de unos ciento ochenta kilómetros de diámetro. Para hacerte una idea, eso es más grande que muchos países enteros.\n\nLo que pasó justo después fue todavía más brutal que el propio impacto. La onda de choque arrasó todo en cientos de kilómetros a la redonda. Se generaron megatsunamis que cruzaron océanos enteros. Y enormes cantidades de roca pulverizada salieron disparadas hacia el espacio, para luego caer de vuelta a la atmósfera como una lluvia de fragmentos incandescentes que calentó el aire lo suficiente como para provocar incendios forestales en buena parte del planeta, incluso a miles de kilómetros del punto de impacto.\n\nPero la parte que realmente acabó con la mayoría de la vida en la Tierra vino después. El impacto lanzó a la atmósfera enormes cantidades de azufre y polvo, que bloquearon la luz del sol durante meses, quizás años. Sin luz solar suficiente, las plantas dejaron de poder hacer la fotosíntesis. Y cuando las plantas empiezan a morir, toda la cadena alimenticia se derrumba detrás de ellas.\n\nSe calcula que alrededor del setenta y cinco por ciento de todas las especies del planeta desaparecieron en ese periodo. Todos los dinosaurios no aviares, es decir, todos excepto el grupo que dio lugar a las aves modernas, se extinguieron. También desaparecieron los grandes reptiles marinos y voladores. Los ganadores inesperados de esta catástrofe fueron los animales pequeños que podían esconderse bajo tierra o sobrevivir con muy poca comida: pequeños mamíferos parecidos a musarañas, y algunas aves.\n\nDurante mucho tiempo, la comunidad científica no estaba segura de qué había causado esta extinción masiva. La pista definitiva llegó en mil novecientos ochenta, cuando el físico Luis Álvarez y su hijo, el geólogo Walter Álvarez, encontraron algo extraño en una capa de arcilla de esa época exacta, en varios puntos del planeta: una concentración anormalmente alta de iridio, un metal rarísimo en la superficie terrestre pero mucho más común en los asteroides. Esa capa, hoy conocida como el límite K-Pg, se convirtió en la prueba de que algo había caído del cielo.\n\nDurante años, muchos científicos fueron escépticos. El cráter de Chicxulub no se identificó con claridad hasta principios de los años noventa, cuando geólogos que trabajaban para una petrolera mexicana ya lo habían detectado décadas antes sin saber lo que realmente era. Cuando se confirmó su edad y su tamaño, todas las piezas encajaron.\n\nY aquí viene la parte que más sorprende a la gente: los dinosaurios, en realidad, no desaparecieron del todo. Las aves son dinosaurios. Literalmente pertenecen al mismo grupo evolutivo que el Tiranosaurio Rex. Así que la próxima vez que veas una paloma en la calle, recuerda que estás mirando a un pariente directo de los dinosaurios que dominaron este planeta durante ciento cincuenta millones de años, y que sobrevivió al peor día de la historia de la Tierra.\n\nSin aquel asteroide, es muy probable que los mamíferos nunca hubieran tenido la oportunidad de diversificarse y crecer. Y sin eso, tú y yo probablemente no estaríamos aquí para contarlo.",
+  "queries_imagenes": [
+    "Chicxulub crater satellite image Yucatan",
+    "asteroid impact illustration space",
+    "Tyrannosaurus rex fossil skeleton museum",
+    "Yucatan peninsula satellite photo",
+    "dinosaur fossil excavation site",
+    "K-Pg boundary iridium clay layer rock",
+    "meteor impact crater Earth aerial",
+    "prehistoric small mammal fossil",
+    "Archaeopteryx fossil bird skeleton",
+    "volcanic ash cloud dark sky",
+    "dinosaur skeleton museum exhibit",
+    "Earth from space asteroid orbit",
+    "pigeon bird close up photo",
+    "paleontology dig site bones"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Qué le pasó realmente a los dinosaurios (el día que cambió la vida en la Tierra)",
+  "descripcion": "Hace 66 millones de años, un asteroide de unos 10 km impactó en Chicxulub, México, y acabó con el 75% de las especies del planeta, incluidos todos los dinosaurios no aviares. Esta es la historia real de aquel día, cómo lo descubrimos décadas después, y por qué las aves de hoy son, literalmente, dinosaurios que sobrevivieron.\n\n#dinosaurios #ciencia #paleontologia #curiosidades #historia #chicxulub",
+  "tags": ["dinosaurios", "extincion dinosaurios", "chicxulub", "ciencia", "paleontologia", "curiosidades", "documental"],
+  "categoria_id": "27",
+  "privacidad": "public",
+  "hook_miniatura": "EL DÍA QUE MURIERON LOS DINOSAURIOS",
+  "correcciones_subtitulos": {
+    "chicxulub": "Chicxulub",
+    "Chicxulub,": "Chicxulub,",
+    "k pg": "K-Pg",
+    "K pg": "K-Pg"
+  }
+}

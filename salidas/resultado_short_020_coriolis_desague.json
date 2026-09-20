@@ -1,0 +1,12 @@
+{
+  "id": "short_020_coriolis_desague",
+  "formato": "curiosidad",
+  "titulo": "El agua del inodoro NO gira distinto según el hemisferio (mito desmontado)",
+  "video_id": "M0DsVFdZjOY",
+  "video_url": "https://youtu.be/M0DsVFdZjOY",
+  "duracion_seg": 52.1,
+  "video_final": "C:\\Users\\Sergio\\CanalIA-CienciaEspacio\\salidas\\short_020_coriolis_desague_FINAL.mp4",
+  "miniatura": "C:\\Users\\Sergio\\CanalIA-CienciaEspacio\\salidas\\miniatura_short_020_coriolis_desague.jpg",
+  "error_subida": "<HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">",
+  "timestamp": "2026-09-20T00:51:32"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "short_023_piedra_rosetta",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "adulto",
+  "guion": "¿Sabías que durante casi mil quinientos años nadie en el mundo pudo leer los jeroglíficos egipcios? El secreto para descifrarlos estuvo escondido en una simple losa de piedra encontrada por accidente.\n\nEn 1799, un soldado del ejército de Napoleón encontró en la ciudad egipcia de Rosetta una piedra con el mismo texto escrito en tres formas distintas: jeroglíficos egipcios, escritura demótica y griego antiguo. Como los estudiosos sí podían leer griego, tenían por fin una manera de comparar y empezar a descifrar el resto.\n\nEl reto no fue nada rápido: el investigador francés Jean-François Champollion tardó catorce años en descifrar completamente el sistema, publicando su avance definitivo en 1822. Descubrió que los jeroglíficos no eran solo dibujos simbólicos, sino que también representaban sonidos, igual que un alfabeto.\n\nGracias a ese trabajo, hoy podemos leer con precisión miles de textos egipcios: desde decretos de faraones hasta cartas y listas de la compra de hace más de tres mil años. La piedra original se conserva en el Museo Británico desde 1802, aunque Egipto lleva años reclamando que sea devuelta.\n\nSi te ha parecido fascinante esta historia, sígueme para descubrir más secretos que la historia mantuvo ocultos durante siglos.",
+  "queries_imagenes": [
+    "Rosetta Stone British Museum photo",
+    "ancient Egyptian hieroglyphs wall photo",
+    "Jean-Francois Champollion portrait painting",
+    "Egyptian temple hieroglyphs carved photo",
+    "British Museum Egyptian gallery photo"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "La piedra que descifró los jeroglíficos egipcios (Piedra de Rosetta)",
+  "descripcion": "Durante 1500 años nadie pudo leer los jeroglíficos egipcios, hasta que una losa de piedra encontrada por casualidad en 1799 dio la clave. Jean-François Champollion tardó 14 años en descifrarla del todo.\n\n#historia #curiosidades #egipto #arqueologia #datoscuriosos #shorts",
+  "tags": ["historia", "curiosidades", "egipto", "arqueologia", "datos curiosos", "jeroglificos", "shorts"],
+  "categoria_id": "27",
+  "privacidad": "public",
+  "hook_miniatura": "LA PIEDRA QUE DESCIFRÓ LOS JEROGLÍFICOS"
+}

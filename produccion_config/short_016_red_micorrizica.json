@@ -1,0 +1,22 @@
+{
+  "id": "short_016_red_micorrizica",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-ElviraNeural",
+  "tema_visual": "naturaleza",
+  "guion": "¿Sabías que los árboles de un bosque pueden comunicarse entre ellos bajo tierra? Lo hacen a través de una red de hongos microscópicos llamados micorrizas, que conectan las raíces de árboles distintos, incluso de especies diferentes, formando lo que algunos científicos llaman, de forma informal, el internet de los árboles.\n\nA través de esta red, un árbol puede enviar nutrientes, como azúcares, a otro árbol que esté más débil o en la sombra, incluso si no son de la misma especie. También pueden enviarse señales de advertencia: si un árbol es atacado por insectos, puede liberar señales químicas que viajan por la red y hacen que árboles vecinos empiecen a producir defensas antes de que el ataque les llegue.\n\nLos llamados árboles madre, los más grandes y viejos del bosque, suelen estar conectados a cientos de árboles más jóvenes a la vez, y parecen reconocer y favorecer a sus propias crías dentro de esa red.\n\nAsí que la próxima vez que pasees por un bosque, recuerda: bajo tus pies hay una conversación que llevamos décadas sin haber sabido escuchar.",
+  "queries_imagenes": [
+    "forest trees roots underground illustration",
+    "old growth forest canopy photo",
+    "fungus mycelium forest floor",
+    "sunlight forest trees photo",
+    "tree roots close up ground"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Los árboles se comunican entre sí bajo tierra (el \"internet\" del bosque)",
+  "descripcion": "Los árboles de un bosque están conectados bajo tierra por una red de hongos (micorrizas) a través de la cual se envían nutrientes y señales de advertencia ante plagas. Los científicos la llaman, de forma informal, el internet de los árboles.\n\n#curiosidades #datoscuriosos #naturaleza #arboles #ciencia #shorts",
+  "tags": ["curiosidades", "datos curiosos", "naturaleza", "arboles", "ciencia", "bosque", "shorts"],
+  "categoria_id": "27",
+  "privacidad": "public",
+  "hook_miniatura": "EL INTERNET SECRETO DE LOS ÁRBOLES"
+}
