@@ -1144,3 +1144,31 @@ generar audio+imágenes+subtítulos en local con
 `producir_video.py` en la nube (manual con `RemoteTrigger` por ahora; se
 podría convertir en rutina recurrente con cron si se quiere producción
 100% desatendida, pendiente de decidir la cadencia).
+
+## 2026-09-21 (tarde) — Rutina recurrente de producción montada
+
+Convertida la rutina de prueba (`trig_017zTpBFNNUjHe9qf9Ppa2EK`) en
+recurrente: "Sabías Qué - completar vídeos en cola", cron cada 3h
+(`20 */3 * * *`). Cada vez que se despierta:
+1. Comprueba RÁPIDO (sin instalar nada) si hay algún `<id>` con las tres
+   colas completas (`cola_audio/`, `cola_imagenes/`, `cola_subtitulos/`)
+   + su `produccion_config/<id>.json`. Si no hay nada, termina en
+   segundos sin gastar tiempo de sandbox — importante porque la mayoría
+   de las veces no habrá nada pendiente.
+2. Si hay algo, instala dependencias, produce y publica (hasta 3 vídeos
+   por ejecución, para no pasarse de la cuota diaria de YouTube), limpia
+   la cola consumida y hace commit+push.
+3. Incluye ya las soluciones a todos los problemas encontrados hoy:
+   arreglo automático del bug de `cryptography`, manejo de `detached
+   HEAD` sin `checkout -B` (bloqueado por el clasificador de seguridad
+   como "Git Destructive"), y manejo de conflictos de push concurrentes.
+
+**Importante — límite real de esta automatización:** esta rutina SOLO
+completa (ensambla + sube) lo que ya esté en la cola. Elegir tema,
+investigar palabras clave, escribir guion, y generar audio/imágenes/
+subtítulos sigue necesitando una sesión LOCAL (con `generar_audio_pipeline.py`)
+porque esos pasos necesitan salir a dominios bloqueados en el sandbox
+cloud. No es "producción 100% autónoma sin intervención humana", es
+"terminar y publicar en la nube lo que se prepare en local", que es lo
+que sí se puede automatizar del todo con las restricciones actuales de
+red del sandbox.
