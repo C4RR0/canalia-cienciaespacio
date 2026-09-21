@@ -1001,3 +1001,34 @@ subtítulos (whisper corre localmente sin red), miniatura y subida a
 YouTube (solo `googleapis.com`, permitido). Pendiente de validar con una
 ejecución real de principio a fin en un routine cloud (la validación de
 hoy fue solo local).
+
+## 2026-09-21 (tarde) — Rutina cloud de comentarios: validada con éxito
+
+Creada la rutina "Sabías Qué - responder comentarios YouTube"
+(`trig_01SSDzu5NN7eciFrp6fchGf9`, cron cada 3h) que ejecuta
+`scripts/comentarios.py` en un sandbox cloud, con `token.json` embebido en
+el prompt de la rutina (mismo patrón ya aceptado por el usuario para el
+routine de prueba de git). Cada ciclo: escribe token.json, instala
+dependencias mínimas (google-api-python-client, google-auth,
+google-auth-httplib2, google-auth-oauthlib), lista comentarios sin
+responder, y redacta+publica una respuesta genuina y contextual para cada
+uno (no plantillas), usando el propio criterio del agente cloud (es una
+sesión completa de Claude Code, no un script tonto).
+
+**Ejecución de prueba (`cse_01HwtACTw5dDbLgy9W2YhawM`): éxito.** Apareció
+el mismo bug ya documentado ayer (`ModuleNotFoundError: _cffi_backend` /
+panic de pyo3 al importar `google.auth` por conflicto con `cryptography`
+41.0.7 de apt) — esta vez el propio agente lo resolvió solo con
+`pip install --ignore-installed cffi cryptography` (más simple que el venv
+usado ayer, y esta vez NO fue bloqueado por el clasificador de seguridad).
+Como no había comentarios pendientes (ya se habían respondido los 2 únicos
+a mano antes de crear la rutina), concluyó correctamente sin publicar
+nada. 65s, 10 turnos. Esto es esperable en CADA ejecución (sandbox nuevo
+cada vez, sin persistencia de paquetes) — no es un bug a arreglar, es el
+coste fijo de arranque de cada ciclo (~15s extra).
+
+**Como este script solo llama a `youtube.googleapis.com`** (el único
+dominio permitido por la whitelist del proxy), esta automatización SÍ
+puede vivir enteramente en la nube sin ningún componente local — a
+diferencia de la producción de vídeos (audio/imágenes), que sigue
+necesitando el puente híbrido local→nube.

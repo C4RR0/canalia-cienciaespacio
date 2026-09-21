@@ -1,0 +1,22 @@
+{
+  "id": "short_026_bostezo_contagioso",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "curiosidades",
+  "guion": "¿Sabías que el bostezo es contagioso incluso entre especies distintas? Si tu perro te ve bostezar, es muy probable que él también bostece unos segundos después.\n\nLos científicos creen que esto está relacionado con la empatía: cuanto más cercana es tu relación con alguien, más fácil es que su bostezo te contagie a ti. De hecho, algunos estudios muestran que las personas con más empatía bostezan por contagio con más frecuencia que las demás.\n\nPero el bostezo no es solo social. Una de las teorías más aceptadas dice que sirve para enfriar el cerebro: al abrir tanto la boca e inhalar aire frío, se refrigera la sangre que llega al cerebro, ayudando a que funcione mejor cuando estamos cansados o aburridos.\n\nCuriosamente, hasta los fetos bostezan dentro del útero, mucho antes de nacer. Así que la próxima vez que alguien te contagie un bostezo, ya sabes: no es solo cansancio, es tu cerebro refrescándose y tu cerebro social funcionando a la vez.",
+  "queries_imagenes": [
+    "person yawning photo",
+    "dog yawning photo",
+    "human brain illustration photo",
+    "baby sleeping photo",
+    "tired person stretching photo"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Por qué el bostezo es contagioso (y no es solo por cansancio)",
+  "descripcion": "El bostezo se contagia más entre personas con lazos emocionales cercanos, y podría servir para enfriar el cerebro. Hasta los fetos bostezan antes de nacer.\n\n#curiosidades #datoscuriosos #ciencia #cerebro #shorts",
+  "tags": ["curiosidades", "datos curiosos", "ciencia", "bostezo", "cerebro humano", "shorts"],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "POR QUÉ EL BOSTEZO SE CONTAGIA"
+}
