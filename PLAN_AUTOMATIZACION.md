@@ -102,30 +102,24 @@ la prioridad relativa de FORMATO.
    **Es el formato prioritario ahora mismo** — el único con tracción real.
 2. **`lista`** (short, "25 cosas que no sabías en 1 minuto"): 25 datos rápidos
    sobre un tema, diapositivas generadas con número + texto. Validado
-   2026-09-19 con `short_011_25_cuerpo_humano`, pero rendimiento muy por
-   debajo de `curiosidad` en vídeos de edad comparable — hipótesis: al ser
-   horizontal no encaja bien en el feed vertical nativo de Shorts. **Antes
-   de producir más en horizontal, probar una versión VERTICAL del formato
-   lista** para aislar si el problema es la orientación o el contenido.
-3. **`largo`** (objetivo ampliado 2026-09-20: **15-30 min**, antes 8-20 min).
-   **REACTIVADO 2026-09-20** a petición explícita del usuario ("meterle
-   caña"), pese a que los 3 largos anteriores (agujeros negros, dinosaurios,
-   viruela) tienen casi 0 vistas — el usuario decidió explícitamente
-   aplicar aquí también la regla de tema extremo/poco manido en vez de
-   parar el formato. Condiciones para que valga la pena esta vez:
-   - **Tema**: mismo criterio que en `curiosidad` (ver más abajo) — extremo,
-     poco conocido o con giro fuerte, NUNCA trivia genérica tipo "qué
-     pasaría si caes en un agujero negro" (demasiado manido/abstracto).
-   - **Título y miniatura**: cuidar especialmente, puede que el problema
-     real de los 3 largos anteriores fuera ahí más que en el contenido —
-     título con dato concreto y extremo, no genérico.
-   - **Longitud del guion**: para 15-30 min reales de narración, ~3000-6500
-     palabras (~18.000-40.000 caracteres) — contar caracteres antes de
-     lanzar la producción, no basta con escribir "largo" a ojo (aprendido
-     en largo_002, que salió de solo 3:14 por quedarse corto).
-   - Revisar en unos días si estos nuevos largos remontan vistas frente a
-     los anteriores, para confirmar si el problema era el tema/título o
-     es estructural del formato en un canal sin audiencia todavía.
+   2026-09-19 con `short_011_25_cuerpo_humano` (671 vistas), pero los dos
+   siguientes (`25_gatos`: 3 vistas, `25_perros`: 0 vistas) confirman que
+   el problema persiste y empeora. **PENDIENTE PRIORITARIO (2026-09-21):
+   antes de producir más `lista` en horizontal, probar la versión VERTICAL**
+   para aislar si el problema es la orientación (no encaja en el feed
+   nativo de Shorts) o el contenido — llevaba días anotado sin hacerse,
+   priorizarlo la próxima vez que se produzca un `lista`.
+3. **`largo`** — **PAUSADO DE NUEVO (2026-09-21), con datos reales.** Se
+   había reactivado el 2026-09-20 a petición del usuario pese al mal
+   histórico, pero los 3 vídeos largos (agujeros negros, dinosaurios,
+   viruela) siguen con **2, 1 y 0 vistas** — ninguna señal de tracción ni
+   con temas más extremos ni con más cuidado en título. El canal no tiene
+   autoridad suficiente todavía para que el algoritmo distribuya vídeo
+   largo. **No producir más `largo` por ahora** — revisar esta decisión
+   más adelante cuando el canal tenga más suscriptores/historial, no antes.
+   Si el usuario pide explícitamente reactivarlo de nuevo, hacerlo, pero
+   por iniciativa propia no proponer más largos mientras los datos sigan
+   así.
 4. **Variación de audiencia/estilo** (usando `tema_visual` en el config, NO afecta
    `madeForKids`, solo estética):
    - `familiar`: colores vivos, temas más ligeros/positivos (animales, cuerpo
@@ -148,6 +142,14 @@ la prioridad relativa de FORMATO.
    se ve desde el espacio" — correctos pero manidos). Si el tema elegido es
    de este segundo tipo, buscar un ángulo más extremo/específico o
    descartarlo por otro más fresco.
+   **Refuerzo 2026-09-21 (la regla no se estaba aplicando con rigor):**
+   varios vídeos recientes de trivia genérica sin ángulo extremo real
+   (árboles que se comunican: 24 vistas, más árboles que estrellas: 16,
+   jirafas duermen poco: 26, diamantes en Júpiter/Saturno: 30) confirman
+   otra vez el patrón. Antes de dar un tema por bueno, preguntarse
+   explícitamente: "¿esto ya lo sabe/lo ha visto mucha gente, o es
+   genuinamente sorprendente?" — si la respuesta es la primera, descartar
+   el tema aunque el dato sea correcto y curioso en abstracto.
 2. Escribir el contenido (guion o los 25 hechos) en español, con la voz y
    estilo ya establecidos (ver ejemplos en `guiones/`). Cuidar que sea
    **verificable y preciso** — no inventar datos falsos ni exagerar mitos
@@ -163,6 +165,15 @@ la prioridad relativa de FORMATO.
    así" — variar la redacción vídeo a vídeo. El pipeline ya añade además
    ~0.8s de silencio final automáticamente (`anadir_silencio_final` en
    `producir_video.py`) para que el corte no sea brusco justo tras hablar.
+   **Regla del título sin resolver el misterio (añadido 2026-09-21, dato
+   real):** comparando dos vídeos del mismo tipo de historia (hombre que
+   sobrevivió a las DOS bombas atómicas: 1241 vistas, vs. hombre que evitó
+   una guerra nuclear -Stanislav Petrov-: 3 vistas), la diferencia clave
+   parece ser que el primer título deja una pregunta abierta ("¿cómo?") y
+   el segundo ya cuenta el desenlace completo en el propio título, sin
+   intriga. **Nunca resolver el misterio/resultado en el título** — dejar
+   la pregunta o la sorpresa para que se responda DENTRO del vídeo, el
+   título solo debe generar curiosidad suficiente para hacer clic.
    **Regla de honestidad en el título:** no prometer "(en 1 minuto)" salvo que
    la duración real vaya a ser &lt;70s (con 25 datos a ritmo normal de voz
    la duración real ronda 1:30-1:50). Preferir títulos tipo "25 cosas que no

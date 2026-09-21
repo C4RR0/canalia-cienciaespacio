@@ -1080,3 +1080,36 @@ consumir, así que no se perdió nada — se puede reintentar.
    subir el modelo entero, y consistente con el patrón ya establecido.
    Requeriría además subir el video_mudo intermedio o repetir el
    ensamblado, a decidir el punto exacto de corte.
+
+## 2026-09-21 17:30 — Análisis con 29 vídeos: largo pausado, regla de título nueva
+
+Análisis completo con datos reales de los 29 vídeos publicados (ver tabla
+completa vistas/retención/fecha pedida y revisada con el usuario). Cuatro
+decisiones tomadas y ya aplicadas en `PLAN_AUTOMATIZACION.md`:
+
+1. **Formato `largo` pausado de nuevo.** Los 3 largos siguen en 2, 1 y 0
+   vistas pese a la reactivación explícita de ayer con tema más extremo —
+   confirma que el problema es estructural (el canal no tiene autoridad
+   suficiente para que el algoritmo distribuya vídeo largo), no de tema.
+2. **Nueva regla de título: nunca resolver el misterio.** "Único hombre
+   que sobrevivió a las DOS bombas atómicas" (1241 vistas, pregunta
+   abierta) vs. "El hombre que evitó una guerra nuclear" -Stanislav
+   Petrov, historia igualmente extrema- (3 vistas, título ya cuenta el
+   desenlace). Mismo tipo de historia dramática, resultado radicalmente
+   distinto — el título debe generar intriga, no resolverla.
+3. **Refuerzo de la regla de tema extremo** (ya existía pero no se
+   aplicaba con rigor): árboles que se comunican (24), más árboles que
+   estrellas (16), jirafas duermen poco (26), diamantes en Júpiter (30) —
+   todos trivia correcta pero sin sorpresa real, todos con vistas
+   mínimas.
+4. **`lista` en vertical sigue siendo el experimento pendiente
+   prioritario** — llevaba días anotado sin hacerse, con dos datos más
+   confirmando el problema (25 gatos: 3, 25 perros: 0).
+
+**Hallazgo adicional interesante (no accionable todavía, solo anotado):**
+la retención alta NO predice vistas altas en este canal — el vídeo del
+corazón de ballena azul tiene 88.6% de retención pero solo 36 vistas.
+Sugiere que el cuello de botella real está en si el algoritmo de Shorts
+decide distribuir el vídeo al principio (título/miniatura/primer
+segundo), no en la calidad percibida una vez que alguien ya lo está
+viendo.
