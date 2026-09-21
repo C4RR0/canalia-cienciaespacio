@@ -34,6 +34,13 @@ _tmp_v2/
 !cola_imagenes/
 !cola_imagenes/**/*.jpg
 
+# Excepcion: cola_subtitulos/ SI viaja por git (mismo puente local->nube,
+# 2026-09-21 tarde — el modelo de faster-whisper tambien esta bloqueado
+# por la whitelist del sandbox cloud al intentar descargarlo desde
+# Hugging Face Hub). La nube los borra tras consumirlos.
+!cola_subtitulos/
+!cola_subtitulos/*.srt
+
 # Python
 __pycache__/
 *.pyc

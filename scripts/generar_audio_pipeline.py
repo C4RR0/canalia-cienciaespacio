@@ -26,6 +26,8 @@ sys.path.insert(0, str(SCRIPTS))
 
 import generar_audio
 import suavizar_audio
+import generar_subtitulos
+import corregir_subtitulos
 import ensamblar_lista_horizontal as ensamblador_lista
 import producir_video
 
@@ -150,6 +152,43 @@ def generar_imagenes_para_config(cfg: dict) -> Path | None:
     return dir_cola_img
 
 
+def generar_subtitulos_para_config(cfg: dict, audio_final: Path) -> Path | None:
+    """Transcribe y corrige los subtítulos EN LOCAL (faster-whisper necesita
+    descargar su modelo de Hugging Face Hub la primera vez, y ese dominio
+    también está bloqueado por la whitelist del sandbox cloud — ver
+    aprendizajes.md 2026-09-21 tarde) y deja el .srt ya corregido listo en
+    cola_subtitulos/<id>_corregido.srt para que la nube lo reutilice sin
+    necesitar red para nada de transcripción."""
+    if cfg["formato"] == "lista":
+        print("Formato 'lista': no usa transcripción por whisper, nada que encolar aquí.")
+        return None
+
+    vid = cfg["id"]
+    dir_subs = BASE / "subtitulos"
+    dir_cola_subs = BASE / "cola_subtitulos"
+    dir_subs.mkdir(exist_ok=True)
+    dir_cola_subs.mkdir(exist_ok=True)
+
+    log("Subtítulos (transcripción whisper + corrección, en local)")
+    srt_crudo = dir_subs / f"{vid}.srt"
+    generar_subtitulos.generar_srt(str(audio_final), str(srt_crudo), "small")
+
+    srt_corregido = dir_subs / f"{vid}_corregido.srt"
+    correcciones = cfg.get("correcciones_subtitulos")
+    correcciones_path = None
+    if correcciones:
+        correcciones_path = dir_subs / f"correcciones_{vid}.txt"
+        correcciones_path.write_text(
+            "\n".join(f"{k}|{v}" for k, v in correcciones.items()), encoding="utf-8"
+        )
+    corregir_subtitulos.corregir(str(srt_crudo), str(srt_corregido), correcciones_path)
+
+    destino = dir_cola_subs / f"{vid}_corregido.srt"
+    destino.write_bytes(srt_corregido.read_bytes())
+    print(f"Subtítulos listos para la nube: {destino}")
+    return destino
+
+
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Uso: python generar_audio_pipeline.py <config.json>")
@@ -157,5 +196,6 @@ if __name__ == "__main__":
 
     config_path = Path(sys.argv[1])
     cfg = json.loads(config_path.read_text(encoding="utf-8"))
-    generar_audio_para_config(cfg)
+    audio_final = generar_audio_para_config(cfg)
     generar_imagenes_para_config(cfg)
+    generar_subtitulos_para_config(cfg, audio_final)

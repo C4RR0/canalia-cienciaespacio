@@ -360,19 +360,31 @@ def producir(cfg: dict) -> dict:
         ensamblador.ensamblar(carpeta_final_img, str(audio_final), str(video_mudo_con_audio), ancho, alto, None, None)
 
     # 5) Subtitulos
-    log("5/8 Subtítulos (transcripción + corrección + quemado)")
-    srt_crudo = dir_subs / f"{vid}.srt"
-    generar_subtitulos.generar_srt(str(audio_final), str(srt_crudo), "small")
-
+    # Subtítulos ya transcritos y corregidos en local (ver
+    # generar_audio_pipeline.py): faster-whisper necesita descargar su
+    # modelo de Hugging Face Hub la primera vez, y ese dominio también
+    # está bloqueado por la whitelist del sandbox cloud (ver
+    # aprendizajes.md 2026-09-21 tarde). Si ya llegan por
+    # cola_subtitulos/, se reutilizan y no se llama a whisper en absoluto.
+    cola_srt = BASE / "cola_subtitulos" / f"{vid}_corregido.srt"
     srt_corregido = dir_subs / f"{vid}_corregido.srt"
-    correcciones = cfg.get("correcciones_subtitulos")
-    correcciones_path = None
-    if correcciones:
-        correcciones_path = dir_subs / f"correcciones_{vid}.txt"
-        correcciones_path.write_text(
-            "\n".join(f"{k}|{v}" for k, v in correcciones.items()), encoding="utf-8"
-        )
-    corregir_subtitulos.corregir(str(srt_crudo), str(srt_corregido), correcciones_path)
+    if cola_srt.exists():
+        log("5/8 Subtítulos (reutilizados de cola_subtitulos/, transcritos en local)")
+        srt_corregido.write_bytes(cola_srt.read_bytes())
+        print(f"Subtítulos reutilizados: {cola_srt} -> {srt_corregido}")
+    else:
+        log("5/8 Subtítulos (transcripción + corrección + quemado)")
+        srt_crudo = dir_subs / f"{vid}.srt"
+        generar_subtitulos.generar_srt(str(audio_final), str(srt_crudo), "small")
+
+        correcciones = cfg.get("correcciones_subtitulos")
+        correcciones_path = None
+        if correcciones:
+            correcciones_path = dir_subs / f"correcciones_{vid}.txt"
+            correcciones_path.write_text(
+                "\n".join(f"{k}|{v}" for k, v in correcciones.items()), encoding="utf-8"
+            )
+        corregir_subtitulos.corregir(str(srt_crudo), str(srt_corregido), correcciones_path)
 
     video_final = dir_salidas / f"{vid}_FINAL.mp4"
     quemar_subtitulos.quemar(str(video_mudo_con_audio), str(srt_corregido), str(video_final), "abajo", ancho, alto)
