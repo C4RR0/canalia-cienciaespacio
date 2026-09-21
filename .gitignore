@@ -2,6 +2,7 @@
 token.json
 client_secret.json
 pexels_api_key.txt
+azure_speech_key.json
 .env
 
 # Archivos multimedia generados (pesados, regenerables, no aptos para git)
@@ -25,6 +26,13 @@ _tmp_v2/
 !cola_audio/
 !cola_audio/*.mp3
 !cola_audio/*.json
+
+# Excepcion: cola_imagenes/ SI viaja por git (mismo puente local->nube,
+# 2026-09-21 — Wikimedia/NASA/Pollinations tambien estan bloqueados por la
+# whitelist del sandbox cloud, igual que le pasaba al TTS). La nube las
+# borra tras consumirlas.
+!cola_imagenes/
+!cola_imagenes/**/*.jpg
 
 # Python
 __pycache__/

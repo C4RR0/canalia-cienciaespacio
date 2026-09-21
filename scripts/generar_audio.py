@@ -1,20 +1,81 @@
 """
-Genera un audio narrado en español a partir de un guion de texto usando edge-tts (gratis, sin API key).
+Genera un audio narrado en español a partir de un guion de texto usando la
+API REST oficial de Azure AI Speech (de pago, capa gratis 500k caracteres/mes).
+
+Reemplaza al antiguo cliente edge-tts (no oficial, gratis): edge-tts usaba
+aiohttp con un contexto SSL que ignora la CA del proxy de seguridad del
+sandbox cloud, así que no podía salir a internet desde ahí (ver
+aprendizajes.md 2026-09-20). Esta versión usa `requests`, que sí respeta
+las variables de entorno de CA del proxy, así que puede funcionar tanto en
+local como (si el proxy permite el dominio de Azure) dentro de un routine
+cloud.
 
 Uso:
     python generar_audio.py guiones/mi_guion.txt audio/mi_guion.mp3 [voz]
 
-Voces recomendadas en español (prueba varias y elige la que más encaje con el canal):
+Requiere azure_speech_key.json en la raíz del proyecto:
+    {"key": "...", "region": "northeurope"}
+
+Voces recomendadas en español (mismos nombres que antes con edge-tts, son
+voces neuronales reales de Azure):
     es-ES-AlvaroNeural   -> hombre, España, tono serio/narrativo
     es-ES-ElviraNeural   -> mujer, España, tono claro/neutro
+    es-ES-XimenaNeural   -> mujer, España, tono dulce/cálido
     es-MX-JorgeNeural    -> hombre, México, tono cercano
     es-MX-DaliaNeural    -> mujer, México, tono cercano
 """
 import sys
-import asyncio
+import json
+from pathlib import Path
+from xml.sax.saxutils import escape
+import requests
 import edge_tts
 
 VOZ_POR_DEFECTO = "es-ES-AlvaroNeural"
+
+BASE = Path(__file__).resolve().parent.parent
+CREDENCIALES_PATH = BASE / "azure_speech_key.json"
+
+
+def cargar_credenciales() -> tuple[str, str]:
+    if not CREDENCIALES_PATH.exists():
+        raise FileNotFoundError(
+            f"No se encontró {CREDENCIALES_PATH}. Crea un recurso 'Speech' en "
+            "Azure y guarda su clave así: "
+            '{"key": "TU_KEY", "region": "tu-region"}'
+        )
+    datos = json.loads(CREDENCIALES_PATH.read_text(encoding="utf-8"))
+    return datos["key"], datos["region"]
+
+
+def _generar_azure(texto: str, salida_path: str, voz: str):
+    key, region = cargar_credenciales()
+    ssml = (
+        "<speak version='1.0' xml:lang='es-ES'>"
+        f"<voice name='{voz}'>{escape(texto)}</voice>"
+        "</speak>"
+    )
+    respuesta = requests.post(
+        f"https://{region}.tts.speech.microsoft.com/cognitiveservices/v1",
+        headers={
+            "Ocp-Apim-Subscription-Key": key,
+            "Content-Type": "application/ssml+xml",
+            "X-Microsoft-OutputFormat": "audio-24khz-96kbitrate-mono-mp3",
+            "User-Agent": "canalia-cienciaespacio",
+        },
+        data=ssml.encode("utf-8"),
+        timeout=60,
+    )
+    if respuesta.status_code != 200:
+        raise RuntimeError(
+            f"Azure Speech devolvió {respuesta.status_code}: {respuesta.text[:500]}"
+        )
+    Path(salida_path).write_bytes(respuesta.content)
+
+
+async def _generar_edge_tts(texto: str, salida_path: str, voz: str):
+    comunicador = edge_tts.Communicate(texto, voz, rate="+0%", pitch="+0Hz")
+    await comunicador.save(salida_path)
 
 
 async def generar(texto_path: str, salida_path: str, voz: str):
@@ -24,12 +85,23 @@ async def generar(texto_path: str, salida_path: str, voz: str):
     if not texto:
         raise ValueError("El guion está vacío.")
 
-    comunicador = edge_tts.Communicate(texto, voz, rate="+0%", pitch="+0Hz")
-    await comunicador.save(salida_path)
-    print(f"Audio generado: {salida_path} (voz: {voz})")
+    try:
+        _generar_azure(texto, salida_path, voz)
+        print(f"Audio generado (Azure Speech): {salida_path} (voz: {voz})")
+    except Exception as e:
+        # Fallback temporal (2026-09-21): la clave de Azure Speech sigue
+        # devolviendo 401 muchas horas despues de crearla, no es solo el
+        # retraso de activacion antifraude — ver aprendizajes.md. No bloquear
+        # la produccion local por esto, edge-tts sigue funcionando bien en
+        # local (aunque no en el sandbox cloud, ver aprendizajes.md 2026-09-20).
+        print(f"AVISO: Azure Speech falló ({e}), usando edge-tts como respaldo.")
+        await _generar_edge_tts(texto, salida_path, voz)
+        print(f"Audio generado (edge-tts, respaldo): {salida_path} (voz: {voz})")
 
 
 if __name__ == "__main__":
+    import asyncio
+
     if len(sys.argv) < 3:
         print("Uso: python generar_audio.py <guion.txt> <salida.mp3> [voz]")
         sys.exit(1)

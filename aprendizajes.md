@@ -830,3 +830,63 @@ del repo, no del sandbox, así que no debería chocar con el permiso
 variables de entorno estándar de CA. token.json quedó creado y validado
 como JSON correcto, pero nunca se llegó a ejercitar contra la API de
 YouTube.
+
+## 2026-09-21 07:13 — Miniaturas pendientes aplicadas por completo
+
+Al retomar la sesión, se reintentaron las 16 miniaturas que quedaron en
+cola por `uploadRateLimitExceeded` (ver 2026-09-20). Esta vez las 16 se
+aplicaron seguidas sin ningún error — el límite ya se había liberado tras
+~10h. `salidas/pendiente_miniaturas.json` queda con `pendientes: []`.
+Confirma que el límite de miniaturas se resetea en bastante menos de 24h
+(entre 21:11 del día 20 y 07:13 del día 21, ~10h).
+
+## 2026-09-21 09:52 — Azure Speech sigue en 401, fallback a edge-tts añadido
+
+La clave de Azure Speech creada ayer (21:26) seguía devolviendo 401
+("invalid subscription key or wrong API endpoint") más de 12h después —
+ya no es el retraso de activación antifraude esperado (30-60 min), algo
+más está mal (clave/región equivocada, recurso no activo, etc.). Bloqueaba
+la producción del vídeo del día.
+
+**Arreglo aplicado:** `generar_audio.py` ahora intenta Azure primero y, si
+falla por cualquier motivo, cae automáticamente a `edge-tts` (mismo motor
+que se usaba antes de la migración a Azure, sigue funcionando bien en
+local). Probado en `short_025_medusa_inmortal`: Azure falló con 401, el
+aviso se imprimió, y edge-tts generó el audio sin problema (64.9s -> 54.7s
+final). Producción del canal ya no depende de que Azure esté operativo.
+
+**Pendiente real:** investigar por qué la clave de Azure sigue sin
+funcionar (revisar en portal.azure.com si el recurso `canalia-speech`
+existe, está en estado "activo", y si la clave copiada es la correcta —
+posible que se copiara mal o que el recurso se haya eliminado/cambiado).
+No es urgente ya que edge-tts cubre la producción local, pero sigue
+haciendo falta para si se retoma la migración a la nube con Azure (aunque
+esa vía ya tenía SU PROPIO bloqueo aparte: el dominio de Azure también
+está en la lista blanca bloqueada del sandbox cloud, ver aprendizajes.md
+2026-09-20 noche).
+
+## 2026-09-21 09:52 — short_025_medusa_inmortal: publicado, miniatura mejorada a mano
+
+**Publicado:** https://youtu.be/thgXjs-BGRQ (55.5s). Tema investigado con
+autocompletado de YouTube ("medusa inmortal" con buena señal). Producido
+con el fallback de audio nuevo (Azure Speech seguía en 401, usó edge-tts
+sin problema, ver entrada anterior).
+
+**Matiz nuevo a la regla "nunca usar imagen IA como miniatura":** de las
+5 imágenes, solo 2 fueron de IA (incluida la única que muestra claramente
+una medusa) y las otras 3 fueron fotos reales de Wikimedia pero de temas
+tangenciales (algas/rocas de fondo marino, un barco de carga, una persona
+mirando al mar) — ninguna mostraba el sujeto real del vídeo. La regla
+automática eligió correctamente una foto real para la miniatura (algas),
+pero el resultado era mucho menos atractivo/claro que la imagen IA de la
+propia medusa. **Corregido a mano:** generada una miniatura nueva a partir
+de `img_01.jpg` (la medusa IA) con el mismo estilo de texto que
+`generar_miniatura.py`, aplicada con `poner_miniatura.py` sobre el vídeo
+ya publicado (el canal ya está verificado, así que esto SÍ funciona ahora).
+**Regla afinada para temas de animales raros/poco fotografiados:** si
+ninguna de las fotos reales encontradas muestra claramente al sujeto del
+vídeo, revisar visualmente antes de dar la miniatura automática por buena
+y, si la imagen IA es la única que representa bien el tema, usarla a mano
+para la miniatura (sigue sin usarse como imagen de contenido dentro del
+vídeo si hay alternativa real, solo para la miniatura en este caso
+excepcional).

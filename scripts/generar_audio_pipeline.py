@@ -1,12 +1,14 @@
 """
-Paso 1-2 del pipeline (guion + audio TTS), pensado para ejecutarse EN LOCAL,
-porque el TTS (edge-tts) necesita salir a internet por una via que la nube
-no puede ofrecer todavia (el proxy de seguridad de los routines cloud
-intercepta TLS y edge-tts no respeta esa CA - ver aprendizajes.md 2026-09-20).
+Prepara EN LOCAL los medios que la nube no puede generar por si misma
+(audio TTS e imagenes reales), porque tanto edge-tts como Wikimedia/NASA/
+Pollinations quedan bloqueados por la whitelist de dominios del proxy de
+seguridad del sandbox cloud (ver aprendizajes.md 2026-09-20 y 2026-09-21).
 
-Deja el audio final listo en cola_audio/<id>_final.mp3 para que la nube
-(producir_video.py) lo recoja y complete el resto del pipeline (imagenes,
-ensamblado, subtitulos, miniatura, subida) sin volver a tocar TTS.
+Deja el audio en cola_audio/<id>_final.mp3 y las imagenes en
+cola_imagenes/<id>/img_XX.jpg (+ un _reales.json con que imagenes son
+fotos reales vs respaldo IA) para que la nube (producir_video.py) los
+recoja y complete el resto del pipeline (ensamblado, subtitulos,
+miniatura, subida) sin volver a tocar TTS ni buscadores de imagenes.
 
 Uso:
     python generar_audio_pipeline.py produccion_config/<id>.json
@@ -25,6 +27,7 @@ sys.path.insert(0, str(SCRIPTS))
 import generar_audio
 import suavizar_audio
 import ensamblar_lista_horizontal as ensamblador_lista
+import producir_video
 
 
 def log(msg: str):
@@ -116,6 +119,37 @@ def generar_audio_para_config(cfg: dict) -> Path:
     return destino
 
 
+def generar_imagenes_para_config(cfg: dict) -> Path | None:
+    """Solo aplica a formato curiosidad/largo (queries_imagenes). El formato
+    'lista' usa clips de vídeo de Pexels, no imagenes fijas, y Pexels no
+    tiene (de momento) el mismo bloqueo confirmado en el sandbox cloud."""
+    vid = cfg["id"]
+    if cfg["formato"] == "lista":
+        print("Formato 'lista': no usa queries_imagenes, nada que encolar aquí.")
+        return None
+
+    fuente = cfg.get("fuente_imagenes", "wikimedia")
+    dir_imagenes = BASE / "imagenes"
+    dir_cola_img = BASE / "cola_imagenes" / vid
+    dir_cola_img.mkdir(parents=True, exist_ok=True)
+
+    log("Imágenes reales (Wikimedia/NASA + respaldo IA)")
+    carpeta_raw = dir_imagenes / vid
+    rutas = producir_video.obtener_imagenes_reales(cfg["queries_imagenes"], carpeta_raw, fuente)
+    if not rutas:
+        raise RuntimeError("No se consiguió ninguna imagen para el vídeo.")
+
+    reales_flags = []
+    for i, (ruta, es_real) in enumerate(rutas, start=1):
+        destino = dir_cola_img / ruta.name
+        destino.write_bytes(ruta.read_bytes())
+        reales_flags.append(es_real)
+    meta_path = dir_cola_img / "_reales.json"
+    meta_path.write_text(json.dumps(reales_flags), encoding="utf-8")
+    print(f"{len(rutas)} imágenes listas para la nube en: {dir_cola_img}")
+    return dir_cola_img
+
+
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Uso: python generar_audio_pipeline.py <config.json>")
@@ -124,3 +158,4 @@ if __name__ == "__main__":
     config_path = Path(sys.argv[1])
     cfg = json.loads(config_path.read_text(encoding="utf-8"))
     generar_audio_para_config(cfg)
+    generar_imagenes_para_config(cfg)

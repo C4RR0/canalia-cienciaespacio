@@ -326,9 +326,27 @@ def producir(cfg: dict) -> dict:
                 print(f"  [{i}] sin clip propio, reutilizado el del dato anterior")
             ultimo_clip_ok = salida
     else:
-        fuente = cfg.get("fuente_imagenes", "wikimedia")
         carpeta_raw = dir_imagenes / vid
-        rutas = obtener_imagenes_reales(cfg["queries_imagenes"], carpeta_raw, fuente)
+        # Imagenes ya conseguidas en local (ver generar_audio_pipeline.py):
+        # Wikimedia/NASA/Pollinations tambien estan bloqueados por la
+        # whitelist del sandbox cloud (igual que edge-tts, ver
+        # aprendizajes.md 2026-09-21). Si ya llegan por cola_imagenes/, se
+        # reutilizan y no se llama a ningun buscador de imagenes.
+        cola_img = BASE / "cola_imagenes" / vid
+        meta_cola = cola_img / "_reales.json"
+        if meta_cola.exists():
+            log("3/8 Imágenes (reutilizadas de cola_imagenes/, generadas en local)")
+            carpeta_raw.mkdir(parents=True, exist_ok=True)
+            reales_flags = json.loads(meta_cola.read_text(encoding="utf-8"))
+            rutas = []
+            for archivo, es_real in zip(sorted(p for p in cola_img.glob("img_*.jpg")), reales_flags):
+                destino = carpeta_raw / archivo.name
+                destino.write_bytes(archivo.read_bytes())
+                rutas.append((destino, es_real))
+            print(f"{len(rutas)} imágenes reutilizadas de {cola_img}")
+        else:
+            fuente = cfg.get("fuente_imagenes", "wikimedia")
+            rutas = obtener_imagenes_reales(cfg["queries_imagenes"], carpeta_raw, fuente)
         if not rutas:
             raise RuntimeError("No se consiguió ninguna imagen para el vídeo.")
         reales = preparar_carpeta_final(rutas, carpeta_final_img)
