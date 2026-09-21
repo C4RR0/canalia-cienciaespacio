@@ -1113,3 +1113,34 @@ Sugiere que el cuello de botella real está en si el algoritmo de Shorts
 decide distribuir el vídeo al principio (título/miniatura/primer
 segundo), no en la calidad percibida una vez que alguien ya lo está
 viendo.
+
+## 2026-09-21 (tarde) — MIGRACIÓN A LA NUBE COMPLETADA: primer vídeo de principio a fin
+
+Segunda ejecución de la rutina `trig_017zTpBFNNUjHe9qf9Ppa2EK`, esta vez
+con las tres colas completas (audio + imágenes + subtítulos, ver entrada
+anterior sobre `cola_subtitulos/`). **Resultado: éxito total.**
+
+- Bug de `cryptography`/`_cffi_backend` volvió a aparecer (sandbox nuevo
+  cada vez) — el propio agente lo diagnosticó y arregló solo, sin
+  intervención, siguiendo la instrucción ya documentada en el prompt de
+  la rutina.
+- Audio, imágenes Y subtítulos se reutilizaron de sus tres colas sin
+  ninguna llamada a dominios bloqueados.
+- **Vídeo publicado: https://youtu.be/1r0E1WZ3J94** ("Por qué el bostezo
+  es contagioso", 49.6s). De inicio (15:17 UTC) a vídeo publicado
+  (15:29 UTC) ≈ 12 min, la mayor parte instalando dependencias (ffmpeg +
+  pip) desde cero en el sandbox limpio.
+- Limpieza de cola (borrar `cola_audio/`, `cola_imagenes/` y commit+push)
+  completada tras resolver un problema de `git` (el checkout inicial
+  estaba en "detached HEAD", típico de un checkout tipo CI) y un
+  conflicto normal de push (otro commit mío había llegado al remoto
+  mientras la rutina trabajaba) — el propio agente lo resolvió con un
+  merge limpio sin necesitar intervención.
+
+**Conclusión: la arquitectura híbrida está terminada y validada de
+extremo a extremo.** El patrón es replicable para cualquier vídeo nuevo:
+generar audio+imágenes+subtítulos en local con
+`generar_audio_pipeline.py`, hacer commit+push, y lanzar
+`producir_video.py` en la nube (manual con `RemoteTrigger` por ahora; se
+podría convertir en rutina recurrente con cron si se quiere producción
+100% desatendida, pendiente de decidir la cadencia).
