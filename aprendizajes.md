@@ -1032,3 +1032,51 @@ dominio permitido por la whitelist del proxy), esta automatización SÍ
 puede vivir enteramente en la nube sin ningún componente local — a
 diferencia de la producción de vídeos (audio/imágenes), que sigue
 necesitando el puente híbrido local→nube.
+
+## 2026-09-21 (tarde) — Validación real en la nube: llegó hasta el ensamblado, nuevo bloqueo en subtítulos
+
+Primera prueba end-to-end de la arquitectura híbrida completa (audio +
+imágenes precocinados en local vía `cola_audio/`/`cola_imagenes/`,
+`short_026_bostezo_contagioso`) ejecutada en una rutina cloud real
+(`trig_017zTpBFNNUjHe9qf9Ppa2EK`, sesión `cse_01MeMdykowLCtMJfpW3c7bpu`).
+
+**✅ Confirmado que funciona:**
+- `token.json` escrito sin problema.
+- `apt-get install ffmpeg` (~38s) y `pip3 install -r requirements.txt`
+  (~28s) sin problemas nuevos.
+- El bug ya conocido de `cryptography`/`_cffi_backend` volvió a aparecer
+  (cada sandbox es nuevo) y el propio agente cloud lo diagnosticó y
+  arregló solo con `pip3 install --ignore-installed cffi cryptography`,
+  sin necesitar intervención — la instrucción en el prompt de la rutina
+  funcionó.
+- **Audio e imágenes SE REUTILIZARON de `cola_audio/`/`cola_imagenes/`
+  sin ningún intento de red a dominios bloqueados** — el log dice
+  literalmente "Audio (reutilizado de cola_audio/...)" e "Imágenes
+  (reutilizadas de cola_imagenes/...)". La parte de arquitectura que se
+  diseñó hoy funciona exactamente como se pretendía.
+- Paso 4/8 (ensamblado del vídeo, ffmpeg con las animaciones) se completó
+  con éxito (`video_mudo.mp4` generado).
+
+**❌ Nuevo bloqueo, no visto hasta ahora: paso 5/8 (subtítulos).**
+`faster-whisper` necesita descargar el modelo (`small`) la primera vez
+que se usa, desde Hugging Face Hub — y ese dominio tampoco está en la
+whitelist del proxy del sandbox (mismo patrón que Wikimedia/NASA/
+Pollinations/Azure: bloqueo en el túnel del proxy, no de TLS). Esto no se
+había detectado antes porque las pruebas anteriores nunca habían llegado
+tan lejos en el pipeline dentro de un sandbox cloud.
+**Resultado:** el vídeo NO se publicó (el script se detiene si falla un
+paso). La cola (`cola_audio/`, `cola_imagenes/`) quedó intacta sin
+consumir, así que no se perdió nada — se puede reintentar.
+
+**Pendiente para cerrar la migración del todo (dos opciones a evaluar):**
+1. **Descargar el modelo de whisper también en LOCAL y subirlo por git**
+   (mismo patrón que audio/imágenes) a una carpeta cache que
+   `faster-whisper` pueda reutilizar sin descargar nada — sería el
+   fichero más pesado de la cola con diferencia (los modelos "small"
+   pesan cientos de MB), a valorar si compensa.
+   2. **Generar los subtítulos también en LOCAL** (ya se tiene
+   `generar_subtitulos.py` funcionando ahí) y subir el `.srt` ya hecho por
+   una `cola_subtitulos/`, igual que audio/imágenes — más ligero que
+   subir el modelo entero, y consistente con el patrón ya establecido.
+   Requeriría además subir el video_mudo intermedio o repetir el
+   ensamblado, a decidir el punto exacto de corte.
