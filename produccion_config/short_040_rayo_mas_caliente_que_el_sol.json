@@ -1,0 +1,22 @@
+{
+  "id": "short_040_rayo_mas_caliente_que_el_sol",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "espacio",
+  "guion": "¿Sabías que un simple rayo puede ser más caliente que la superficie del Sol?\n\nUn rayo típico alcanza temperaturas de hasta treinta mil grados Celsius en su interior, en solo una fracción de segundo. La superficie del Sol, en cambio, ronda los cinco mil quinientos grados. Es decir, ese rayo que ves durante una tormenta es unas cinco veces más caliente que la estrella que ilumina todo el sistema solar.\n\nEse calor extremo y repentino es precisamente lo que provoca el trueno: el aire alrededor del rayo se expande de forma explosiva en cuestión de microsegundos, generando una onda de choque que escuchamos como un estruendo.\n\nUn fenómeno que dura menos de un abrir y cerrar de ojos... y que por un instante es más caliente que una estrella.\n\nSi te ha sorprendido este dato, sígueme para más curiosidades tan extremas como esta.",
+  "queries_imagenes": [
+    "lightning bolt photo",
+    "lightning storm night photo",
+    "thunderstorm clouds photo",
+    "lightning strike photo",
+    "the sun surface photo"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Un rayo es 5 veces más caliente que el Sol",
+  "descripcion": "Un rayo puede alcanzar los 30.000°C en su interior, casi 5 veces más que los 5.500°C de la superficie del Sol. Ese calor extremo y repentino es lo que provoca el trueno, al expandir el aire de forma explosiva.\n\n#curiosidades #datoscuriosos #ciencia #rayos #tormentas #shorts",
+  "tags": ["curiosidades", "datos curiosos", "rayo", "tormenta", "ciencia", "sol", "shorts"],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "MÁS CALIENTE QUE EL SOL"
+}
