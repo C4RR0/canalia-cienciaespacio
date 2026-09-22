@@ -1,0 +1,22 @@
+{
+  "id": "short_033_voyager1",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "espacio",
+  "guion": "¿Sabías que hay un objeto construido por el ser humano que lleva casi cincuenta años viajando sin parar... y todavía nos habla?\n\nSe llama Voyager 1, y la NASA la lanzó en 1977 para estudiar Júpiter y Saturno. Cumplió su misión y siguió viajando, y viajando, hasta convertirse en el objeto hecho por humanos que más lejos ha llegado jamás: hoy está a más de veinticuatro mil millones de kilómetros de la Tierra, fuera de nuestro sistema solar, en el espacio interestelar.\n\nSus señales de radio, viajando a la velocidad de la luz, tardan ahora más de veintidós horas en llegar hasta nosotros. Y pese a llevar casi medio siglo en el vacío del espacio, con una tecnología de los años setenta, la sonda todavía envía datos reales a la Tierra, aunque cada vez con menos instrumentos encendidos para ahorrar su energía, que se agota poco a poco.\n\nA bordo lleva un disco de oro con sonidos e imágenes de la Tierra, por si algún día, dentro de miles de millones de años, alguien más lo encuentra.\n\nSi te ha sorprendido este dato, sígueme para más curiosidades tan extremas como esta.",
+  "queries_imagenes": [
+    "Voyager 1 spacecraft photo",
+    "Voyager golden record photo",
+    "outer solar system illustration NASA",
+    "interstellar space illustration NASA",
+    "Jupiter Saturn photo NASA"
+  ],
+  "fuente_imagenes": "nasa",
+  "titulo": "Hay un objeto humano que lleva casi 50 años viajando y todavía nos habla",
+  "descripcion": "La sonda Voyager 1, lanzada por la NASA en 1977, es el objeto hecho por humanos que más lejos ha llegado: más de 24.000 millones de kilómetros, fuera del sistema solar. Casi 50 años después, con tecnología de los años 70, todavía envía datos reales a la Tierra.\n\n#curiosidades #datoscuriosos #espacio #voyager1 #nasa #shorts",
+  "tags": ["curiosidades", "datos curiosos", "voyager 1", "espacio", "nasa", "sistema solar", "shorts"],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "LLEVA 50 AÑOS VIAJANDO SIN PARAR"
+}

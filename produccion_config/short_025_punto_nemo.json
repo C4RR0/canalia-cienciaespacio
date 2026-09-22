@@ -15,8 +15,16 @@
   "fuente_imagenes": "wikimedia",
   "titulo": "El lugar más remoto de la Tierra está más cerca de astronautas que de humanos",
   "descripcion": "Punto Nemo, en el Pacífico Sur, es el lugar más alejado de cualquier costa del planeta — tan remoto que cuando la Estación Espacial Internacional pasa por encima, sus astronautas están más cerca que cualquier humano en tierra firme.\n\n#curiosidades #datoscuriosos #puntonemo #espacio #oceano #shorts",
-  "tags": ["curiosidades", "datos curiosos", "punto nemo", "lugar mas remoto", "estacion espacial", "oceano pacifico", "shorts"],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "punto nemo",
+    "lugar mas remoto",
+    "estacion espacial",
+    "oceano pacifico",
+    "shorts"
+  ],
   "categoria_id": "27",
-  "privacidad": "private",
+  "privacidad": "public",
   "hook_miniatura": "MÁS CERCA DE ASTRONAUTAS QUE DE HUMANOS"
 }

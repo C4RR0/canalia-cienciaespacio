@@ -1,0 +1,22 @@
+{
+  "id": "short_028_estrella_neutrones",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "espacio",
+  "guion": "¿Sabías que existe algo en el universo tan denso que una simple cucharadita suya pesaría más que el monte Everest entero?\n\nSe llama estrella de neutrones, y es lo que queda cuando una estrella gigante explota en supernova y su núcleo colapsa sobre sí mismo. Toda esa masa, similar a la de nuestro Sol, queda comprimida en una esfera de apenas veinte kilómetros de diámetro, del tamaño de una ciudad.\n\nLa gravedad ahí es tan extrema que si dejaras caer un objeto desde solo un metro de altura, llegaría al suelo a más de siete millones de kilómetros por hora. Y algunas estrellas de neutrones, llamadas púlsares, giran sobre sí mismas cientos de veces por segundo, más rápido que las aspas de una batidora.\n\nSi algún día una de estas estrellas se acercara demasiado a la Tierra, ni siquiera haría falta que chocara con nosotros: su gravedad bastaría para destrozar el planeta a distancia.\n\nSi te ha sorprendido este dato, sígueme para más curiosidades tan extremas como esta.",
+  "queries_imagenes": [
+    "neutron star illustration NASA",
+    "supernova explosion photo NASA",
+    "pulsar star illustration NASA",
+    "milky way galaxy stars photo",
+    "black hole illustration NASA"
+  ],
+  "fuente_imagenes": "nasa",
+  "titulo": "Existe algo en el universo tan denso que pesaría más que el Everest",
+  "descripcion": "Una estrella de neutrones es lo que queda cuando una estrella gigante explota en supernova: toda su masa, comparable a la del Sol, queda comprimida en una esfera de solo 20 km. Una cucharadita de ese material pesaría más que el monte Everest.\n\n#curiosidades #datoscuriosos #espacio #estrelladeneutrones #universo #shorts",
+  "tags": ["curiosidades", "datos curiosos", "espacio", "estrella de neutrones", "universo", "astronomia", "shorts"],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "PESARÍA MÁS QUE EL EVEREST"
+}
