@@ -22,15 +22,20 @@ def escapar_ruta_ffmpeg(ruta: str) -> str:
 
 
 def quemar(video_path: str, srt_path: str, salida: str, posicion: str = "abajo", ancho: int = 1080, alto: int = 1920):
-    import sys as _sys
-    from pathlib import Path as _Path
-    _sys.path.insert(0, str(_Path(__file__).parent))
-    from srt_a_ass import convertir as srt_a_ass_convertir
-
+    """Si srt_path ya es un .ass (subtítulos palabra-por-palabra pre-generados por
+    generar_subtitulos_ass_palabras.py), se usa directamente sin conversión."""
     ffmpeg = shutil.which("ffmpeg") or FFMPEG_FALLBACK
 
-    ass_path = str(Path(srt_path).with_suffix(".ass"))
-    srt_a_ass_convertir(srt_path, ass_path, ancho, alto, posicion)
+    if str(srt_path).lower().endswith(".ass"):
+        ass_path = str(srt_path)
+    else:
+        import sys as _sys
+        from pathlib import Path as _Path
+        _sys.path.insert(0, str(_Path(__file__).parent))
+        from srt_a_ass import convertir as srt_a_ass_convertir
+
+        ass_path = str(Path(srt_path).with_suffix(".ass"))
+        srt_a_ass_convertir(srt_path, ass_path, ancho, alto, posicion)
     ass_escapado = escapar_ruta_ffmpeg(str(Path(ass_path).resolve()))
 
     vf = f"ass='{ass_escapado}'"

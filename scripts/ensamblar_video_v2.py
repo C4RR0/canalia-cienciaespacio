@@ -77,8 +77,13 @@ def ensamblar(carpeta_imagenes: Path, audio_path: str, salida: str, ancho: int, 
             zoom_expr = "min(zoom+0.0006,1.2)"
         else:
             zoom_expr = "if(eq(on,1),1.2,max(zoom-0.0006,1.0))"
+        # Gradeado cinematográfico: mas contraste/saturacion + nitidez leve
+        # (compensa fotos reales algo planas o de baja resolucion de archivo)
+        # + vineta sutil para dirigir la mirada al centro, estilo documental.
         filtro_partes.append(
             f"[{i}:v]scale=8000:-1,zoompan=z='{zoom_expr}':d={n_frames}:s={ancho}x{alto}:fps={FPS},"
+            f"eq=contrast=1.12:saturation=1.22:brightness=0.01:gamma=1.03,"
+            f"unsharp=5:5:0.5,vignette=PI/5.5,"
             f"format=yuva420p,setsar=1[c{i}]"
         )
 

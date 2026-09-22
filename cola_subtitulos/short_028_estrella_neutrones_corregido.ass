@@ -1,0 +1,181 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,40,108,422,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}¿SABÍAS{\r} QUE EXISTE ALGO
+Dialogue: 0,0:00:00.50,0:00:00.70,Default,,0,0,0,,¿SABÍAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} EXISTE ALGO
+Dialogue: 0,0:00:00.70,0:00:01.02,Default,,0,0,0,,¿SABÍAS QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXISTE{\r} ALGO
+Dialogue: 0,0:00:01.02,0:00:01.32,Default,,0,0,0,,¿SABÍAS QUE EXISTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGO{\r}
+Dialogue: 0,0:00:01.32,0:00:01.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} EL UNIVERSO TAN
+Dialogue: 0,0:00:01.46,0:00:01.56,Default,,0,0,0,,EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} UNIVERSO TAN
+Dialogue: 0,0:00:01.56,0:00:01.88,Default,,0,0,0,,EN EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNIVERSO{\r} TAN
+Dialogue: 0,0:00:01.88,0:00:02.22,Default,,0,0,0,,EN EL UNIVERSO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TAN{\r}
+Dialogue: 0,0:00:02.22,0:00:02.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DENSO{\r} QUE UNA SIMPLE
+Dialogue: 0,0:00:02.48,0:00:02.66,Default,,0,0,0,,DENSO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} UNA SIMPLE
+Dialogue: 0,0:00:02.66,0:00:02.82,Default,,0,0,0,,DENSO QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} SIMPLE
+Dialogue: 0,0:00:02.82,0:00:03.14,Default,,0,0,0,,DENSO QUE UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIMPLE{\r}
+Dialogue: 0,0:00:03.14,0:00:03.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUCHARADITA{\r} SUYA PESARÍA
+Dialogue: 0,0:00:03.80,0:00:04.16,Default,,0,0,0,,CUCHARADITA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUYA{\r} PESARÍA
+Dialogue: 0,0:00:04.16,0:00:04.54,Default,,0,0,0,,CUCHARADITA SUYA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PESARÍA{\r}
+Dialogue: 0,0:00:04.54,0:00:04.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} QUE EL MONTE?
+Dialogue: 0,0:00:04.78,0:00:04.94,Default,,0,0,0,,MÁS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} EL MONTE?
+Dialogue: 0,0:00:04.94,0:00:05.02,Default,,0,0,0,,MÁS QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} MONTE?
+Dialogue: 0,0:00:05.02,0:00:05.42,Default,,0,0,0,,MÁS QUE EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MONTE?{\r}
+Dialogue: 0,0:00:05.58,0:00:05.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EVEREST{\r} ENTERO, SE LLAMA
+Dialogue: 0,0:00:05.96,0:00:06.54,Default,,0,0,0,,EVEREST {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENTERO,{\r} SE LLAMA
+Dialogue: 0,0:00:06.54,0:00:06.70,Default,,0,0,0,,EVEREST ENTERO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} LLAMA
+Dialogue: 0,0:00:06.70,0:00:06.92,Default,,0,0,0,,EVEREST ENTERO, SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMA{\r}
+Dialogue: 0,0:00:06.92,0:00:07.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTRELLA{\r} DE NEUTRONES, Y
+Dialogue: 0,0:00:07.32,0:00:07.44,Default,,0,0,0,,ESTRELLA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} NEUTRONES, Y
+Dialogue: 0,0:00:07.44,0:00:08.14,Default,,0,0,0,,ESTRELLA DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NEUTRONES,{\r} Y
+Dialogue: 0,0:00:08.14,0:00:08.24,Default,,0,0,0,,ESTRELLA DE NEUTRONES, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
+Dialogue: 0,0:00:08.24,0:00:08.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r} LO QUE QUEDA
+Dialogue: 0,0:00:08.38,0:00:08.50,Default,,0,0,0,,ES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} QUE QUEDA
+Dialogue: 0,0:00:08.50,0:00:08.60,Default,,0,0,0,,ES LO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} QUEDA
+Dialogue: 0,0:00:08.60,0:00:08.82,Default,,0,0,0,,ES LO QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUEDA{\r}
+Dialogue: 0,0:00:08.82,0:00:09.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUANDO{\r} UNA ESTRELLA
+Dialogue: 0,0:00:09.04,0:00:09.30,Default,,0,0,0,,CUANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} ESTRELLA
+Dialogue: 0,0:00:09.30,0:00:09.70,Default,,0,0,0,,CUANDO UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTRELLA{\r}
+Dialogue: 0,0:00:09.70,0:00:10.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GIGANTE{\r} EXPLOTA EN
+Dialogue: 0,0:00:10.10,0:00:10.58,Default,,0,0,0,,GIGANTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXPLOTA{\r} EN
+Dialogue: 0,0:00:10.58,0:00:10.70,Default,,0,0,0,,GIGANTE EXPLOTA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
+Dialogue: 0,0:00:10.70,0:00:11.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUPERNOVA{\r} Y SU NÚCLEO
+Dialogue: 0,0:00:11.18,0:00:11.38,Default,,0,0,0,,SUPERNOVA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} SU NÚCLEO
+Dialogue: 0,0:00:11.38,0:00:11.50,Default,,0,0,0,,SUPERNOVA Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r} NÚCLEO
+Dialogue: 0,0:00:11.50,0:00:11.86,Default,,0,0,0,,SUPERNOVA Y SU {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NÚCLEO{\r}
+Dialogue: 0,0:00:11.86,0:00:12.30,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COLAPSA{\r} SOBRE SÍ MISMO.
+Dialogue: 0,0:00:12.30,0:00:12.54,Default,,0,0,0,,COLAPSA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOBRE{\r} SÍ MISMO.
+Dialogue: 0,0:00:12.54,0:00:12.72,Default,,0,0,0,,COLAPSA SOBRE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÍ{\r} MISMO.
+Dialogue: 0,0:00:12.72,0:00:13.26,Default,,0,0,0,,COLAPSA SOBRE SÍ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MISMO.{\r}
+Dialogue: 0,0:00:13.26,0:00:13.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TODA{\r} ESA MASA, SIMILAR
+Dialogue: 0,0:00:13.48,0:00:13.70,Default,,0,0,0,,TODA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESA{\r} MASA, SIMILAR
+Dialogue: 0,0:00:13.70,0:00:14.30,Default,,0,0,0,,TODA ESA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MASA,{\r} SIMILAR
+Dialogue: 0,0:00:14.30,0:00:14.58,Default,,0,0,0,,TODA ESA MASA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIMILAR{\r}
+Dialogue: 0,0:00:14.58,0:00:14.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} LA DE NUESTRO
+Dialogue: 0,0:00:14.78,0:00:14.82,Default,,0,0,0,,A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} DE NUESTRO
+Dialogue: 0,0:00:14.82,0:00:14.96,Default,,0,0,0,,A LA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} NUESTRO
+Dialogue: 0,0:00:14.96,0:00:15.10,Default,,0,0,0,,A LA DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NUESTRO{\r}
+Dialogue: 0,0:00:15.10,0:00:15.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOL,{\r} QUEDA COMPRIMIDA EN
+Dialogue: 0,0:00:15.72,0:00:15.86,Default,,0,0,0,,SOL, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUEDA{\r} COMPRIMIDA EN
+Dialogue: 0,0:00:15.86,0:00:16.44,Default,,0,0,0,,SOL, QUEDA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMPRIMIDA{\r} EN
+Dialogue: 0,0:00:16.44,0:00:16.60,Default,,0,0,0,,SOL, QUEDA COMPRIMIDA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
+Dialogue: 0,0:00:16.60,0:00:16.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} ESFERA DE APENAS
+Dialogue: 0,0:00:16.76,0:00:17.06,Default,,0,0,0,,UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESFERA{\r} DE APENAS
+Dialogue: 0,0:00:17.06,0:00:17.22,Default,,0,0,0,,UNA ESFERA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} APENAS
+Dialogue: 0,0:00:17.22,0:00:17.46,Default,,0,0,0,,UNA ESFERA DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}APENAS{\r}
+Dialogue: 0,0:00:17.46,0:00:17.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}20{\r} KILÓMETROS DE
+Dialogue: 0,0:00:17.80,0:00:18.32,Default,,0,0,0,,20 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}KILÓMETROS{\r} DE
+Dialogue: 0,0:00:18.32,0:00:18.50,Default,,0,0,0,,20 KILÓMETROS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:18.50,0:00:19.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DIÁMETRO,{\r} DEL TAMAÑO DE
+Dialogue: 0,0:00:19.20,0:00:19.38,Default,,0,0,0,,DIÁMETRO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} TAMAÑO DE
+Dialogue: 0,0:00:19.38,0:00:19.72,Default,,0,0,0,,DIÁMETRO, DEL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TAMAÑO{\r} DE
+Dialogue: 0,0:00:19.72,0:00:19.84,Default,,0,0,0,,DIÁMETRO, DEL TAMAÑO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:19.84,0:00:20.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} CIUDAD, LA GRAVEDAD
+Dialogue: 0,0:00:20.00,0:00:20.56,Default,,0,0,0,,UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIUDAD,{\r} LA GRAVEDAD
+Dialogue: 0,0:00:20.56,0:00:20.70,Default,,0,0,0,,UNA CIUDAD, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} GRAVEDAD
+Dialogue: 0,0:00:20.70,0:00:21.08,Default,,0,0,0,,UNA CIUDAD, LA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GRAVEDAD{\r}
+Dialogue: 0,0:00:21.08,0:00:21.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} ES TAN EXTREMA
+Dialogue: 0,0:00:21.28,0:00:21.50,Default,,0,0,0,,Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r} TAN EXTREMA
+Dialogue: 0,0:00:21.50,0:00:21.56,Default,,0,0,0,,Y ES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TAN{\r} EXTREMA
+Dialogue: 0,0:00:21.56,0:00:22.00,Default,,0,0,0,,Y ES TAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXTREMA{\r}
+Dialogue: 0,0:00:22.00,0:00:22.14,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} SI DEJARAS CAER
+Dialogue: 0,0:00:22.14,0:00:22.26,Default,,0,0,0,,QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} DEJARAS CAER
+Dialogue: 0,0:00:22.26,0:00:22.68,Default,,0,0,0,,QUE SI {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEJARAS{\r} CAER
+Dialogue: 0,0:00:22.68,0:00:22.90,Default,,0,0,0,,QUE SI DEJARAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAER{\r}
+Dialogue: 0,0:00:22.90,0:00:23.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} OBJETO DESDE SOLO
+Dialogue: 0,0:00:23.02,0:00:23.30,Default,,0,0,0,,UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OBJETO{\r} DESDE SOLO
+Dialogue: 0,0:00:23.30,0:00:23.54,Default,,0,0,0,,UN OBJETO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESDE{\r} SOLO
+Dialogue: 0,0:00:23.54,0:00:23.86,Default,,0,0,0,,UN OBJETO DESDE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOLO{\r}
+Dialogue: 0,0:00:23.86,0:00:24.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} METRO DE ALTURA,
+Dialogue: 0,0:00:24.02,0:00:24.22,Default,,0,0,0,,UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}METRO{\r} DE ALTURA,
+Dialogue: 0,0:00:24.22,0:00:24.38,Default,,0,0,0,,UN METRO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} ALTURA,
+Dialogue: 0,0:00:24.38,0:00:24.90,Default,,0,0,0,,UN METRO DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALTURA,{\r}
+Dialogue: 0,0:00:24.96,0:00:25.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLEGARÍA{\r} AL SUELO A
+Dialogue: 0,0:00:25.34,0:00:25.54,Default,,0,0,0,,LLEGARÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AL{\r} SUELO A
+Dialogue: 0,0:00:25.54,0:00:25.82,Default,,0,0,0,,LLEGARÍA AL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUELO{\r} A
+Dialogue: 0,0:00:25.82,0:00:25.94,Default,,0,0,0,,LLEGARÍA AL SUELO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
+Dialogue: 0,0:00:25.94,0:00:26.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} DE 7 MILLONES
+Dialogue: 0,0:00:26.06,0:00:26.20,Default,,0,0,0,,MÁS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} 7 MILLONES
+Dialogue: 0,0:00:26.20,0:00:26.46,Default,,0,0,0,,MÁS DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}7{\r} MILLONES
+Dialogue: 0,0:00:26.46,0:00:26.76,Default,,0,0,0,,MÁS DE 7 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MILLONES{\r}
+Dialogue: 0,0:00:26.76,0:00:27.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} KILÓMETROS POR HORA,
+Dialogue: 0,0:00:27.04,0:00:27.52,Default,,0,0,0,,DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}KILÓMETROS{\r} POR HORA,
+Dialogue: 0,0:00:27.52,0:00:27.78,Default,,0,0,0,,DE KILÓMETROS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} HORA,
+Dialogue: 0,0:00:27.78,0:00:28.20,Default,,0,0,0,,DE KILÓMETROS POR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HORA,{\r}
+Dialogue: 0,0:00:28.22,0:00:28.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} ALGUNAS ESTRELLAS DE
+Dialogue: 0,0:00:28.32,0:00:28.62,Default,,0,0,0,,Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGUNAS{\r} ESTRELLAS DE
+Dialogue: 0,0:00:28.62,0:00:29.14,Default,,0,0,0,,Y ALGUNAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTRELLAS{\r} DE
+Dialogue: 0,0:00:29.14,0:00:29.24,Default,,0,0,0,,Y ALGUNAS ESTRELLAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:29.24,0:00:29.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NEUTRONES,{\r} LLAMADAS
+Dialogue: 0,0:00:29.96,0:00:30.34,Default,,0,0,0,,NEUTRONES, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMADAS{\r}
+Dialogue: 0,0:00:30.34,0:00:31.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PÚLSARES,{\r} TIRAN SOBRE SÍ
+Dialogue: 0,0:00:31.08,0:00:31.32,Default,,0,0,0,,PÚLSARES, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIRAN{\r} SOBRE SÍ
+Dialogue: 0,0:00:31.32,0:00:31.50,Default,,0,0,0,,PÚLSARES, TIRAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOBRE{\r} SÍ
+Dialogue: 0,0:00:31.50,0:00:31.72,Default,,0,0,0,,PÚLSARES, TIRAN SOBRE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÍ{\r}
+Dialogue: 0,0:00:31.72,0:00:32.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MISMAS{\r} CIENTOS DE VECES
+Dialogue: 0,0:00:32.08,0:00:32.36,Default,,0,0,0,,MISMAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIENTOS{\r} DE VECES
+Dialogue: 0,0:00:32.36,0:00:32.52,Default,,0,0,0,,MISMAS CIENTOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} VECES
+Dialogue: 0,0:00:32.52,0:00:32.74,Default,,0,0,0,,MISMAS CIENTOS DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VECES{\r}
+Dialogue: 0,0:00:32.74,0:00:33.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} SEGUNDO, MÁS RÁPIDO
+Dialogue: 0,0:00:33.02,0:00:33.70,Default,,0,0,0,,POR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SEGUNDO,{\r} MÁS RÁPIDO
+Dialogue: 0,0:00:33.70,0:00:33.90,Default,,0,0,0,,POR SEGUNDO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} RÁPIDO
+Dialogue: 0,0:00:33.90,0:00:34.20,Default,,0,0,0,,POR SEGUNDO, MÁS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RÁPIDO{\r}
+Dialogue: 0,0:00:34.20,0:00:34.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} LAS ASPAS DE
+Dialogue: 0,0:00:34.42,0:00:34.58,Default,,0,0,0,,QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} ASPAS DE
+Dialogue: 0,0:00:34.58,0:00:34.96,Default,,0,0,0,,QUE LAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ASPAS{\r} DE
+Dialogue: 0,0:00:34.96,0:00:35.06,Default,,0,0,0,,QUE LAS ASPAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:35.06,0:00:35.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} BATIDORA.
+Dialogue: 0,0:00:35.20,0:00:35.88,Default,,0,0,0,,UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BATIDORA.{\r}
+Dialogue: 0,0:00:35.98,0:00:36.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} ALGÚN DÍA UNA
+Dialogue: 0,0:00:36.08,0:00:36.32,Default,,0,0,0,,SI {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGÚN{\r} DÍA UNA
+Dialogue: 0,0:00:36.32,0:00:36.52,Default,,0,0,0,,SI ALGÚN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DÍA{\r} UNA
+Dialogue: 0,0:00:36.52,0:00:36.72,Default,,0,0,0,,SI ALGÚN DÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
+Dialogue: 0,0:00:36.72,0:00:36.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} ESTAS ESTRELLAS SE
+Dialogue: 0,0:00:36.84,0:00:37.04,Default,,0,0,0,,DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTAS{\r} ESTRELLAS SE
+Dialogue: 0,0:00:37.04,0:00:37.60,Default,,0,0,0,,DE ESTAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTRELLAS{\r} SE
+Dialogue: 0,0:00:37.60,0:00:37.74,Default,,0,0,0,,DE ESTAS ESTRELLAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r}
+Dialogue: 0,0:00:37.74,0:00:38.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ACERCARA{\r} DEMASIADO A LA
+Dialogue: 0,0:00:38.16,0:00:38.38,Default,,0,0,0,,ACERCARA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEMASIADO{\r} A LA
+Dialogue: 0,0:00:38.38,0:00:38.72,Default,,0,0,0,,ACERCARA DEMASIADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} LA
+Dialogue: 0,0:00:38.72,0:00:38.78,Default,,0,0,0,,ACERCARA DEMASIADO A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
+Dialogue: 0,0:00:38.78,0:00:39.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIERRA,{\r} NI SIQUIERA
+Dialogue: 0,0:00:39.42,0:00:39.52,Default,,0,0,0,,TIERRA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NI{\r} SIQUIERA
+Dialogue: 0,0:00:39.52,0:00:39.84,Default,,0,0,0,,TIERRA, NI {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIQUIERA{\r}
+Dialogue: 0,0:00:39.84,0:00:40.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HARÍA{\r} FALTA QUE CHOCARA
+Dialogue: 0,0:00:40.10,0:00:40.34,Default,,0,0,0,,HARÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FALTA{\r} QUE CHOCARA
+Dialogue: 0,0:00:40.34,0:00:40.58,Default,,0,0,0,,HARÍA FALTA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} CHOCARA
+Dialogue: 0,0:00:40.58,0:00:40.96,Default,,0,0,0,,HARÍA FALTA QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CHOCARA{\r}
+Dialogue: 0,0:00:40.96,0:00:41.14,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} NOSOTROS, SU
+Dialogue: 0,0:00:41.14,0:00:41.90,Default,,0,0,0,,CON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NOSOTROS,{\r} SU
+Dialogue: 0,0:00:41.90,0:00:42.02,Default,,0,0,0,,CON NOSOTROS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
+Dialogue: 0,0:00:42.02,0:00:42.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GRAVEDAD{\r} BASTARÍA PARA
+Dialogue: 0,0:00:42.40,0:00:42.86,Default,,0,0,0,,GRAVEDAD {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BASTARÍA{\r} PARA
+Dialogue: 0,0:00:42.86,0:00:43.10,Default,,0,0,0,,GRAVEDAD BASTARÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
+Dialogue: 0,0:00:43.10,0:00:43.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESTROZAR{\r} EL PLANETA A
+Dialogue: 0,0:00:43.54,0:00:43.70,Default,,0,0,0,,DESTROZAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} PLANETA A
+Dialogue: 0,0:00:43.70,0:00:44.00,Default,,0,0,0,,DESTROZAR EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLANETA{\r} A
+Dialogue: 0,0:00:44.00,0:00:44.18,Default,,0,0,0,,DESTROZAR EL PLANETA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
+Dialogue: 0,0:00:44.18,0:00:44.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DISTANCIA.{\r}
+Dialogue: 0,0:00:45.00,0:00:45.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} TE HAS SORPRENDIDO
+Dialogue: 0,0:00:45.10,0:00:45.20,Default,,0,0,0,,SI {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} HAS SORPRENDIDO
+Dialogue: 0,0:00:45.20,0:00:45.34,Default,,0,0,0,,SI TE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAS{\r} SORPRENDIDO
+Dialogue: 0,0:00:45.34,0:00:45.86,Default,,0,0,0,,SI TE HAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
+Dialogue: 0,0:00:45.86,0:00:46.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTE{\r} DATO, SÍGUEME PARA
+Dialogue: 0,0:00:46.08,0:00:46.72,Default,,0,0,0,,ESTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DATO,{\r} SÍGUEME PARA
+Dialogue: 0,0:00:46.72,0:00:47.02,Default,,0,0,0,,ESTE DATO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÍGUEME{\r} PARA
+Dialogue: 0,0:00:47.02,0:00:47.22,Default,,0,0,0,,ESTE DATO, SÍGUEME {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
+Dialogue: 0,0:00:47.22,0:00:47.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} CURIOSIDADES TAN
+Dialogue: 0,0:00:47.40,0:00:48.04,Default,,0,0,0,,MÁS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CURIOSIDADES{\r} TAN
+Dialogue: 0,0:00:48.04,0:00:48.28,Default,,0,0,0,,MÁS CURIOSIDADES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TAN{\r}
+Dialogue: 0,0:00:48.28,0:00:48.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXTREMAS{\r} COMO ÉSTA.
+Dialogue: 0,0:00:48.80,0:00:48.98,Default,,0,0,0,,EXTREMAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} ÉSTA.
+Dialogue: 0,0:00:48.98,0:00:49.48,Default,,0,0,0,,EXTREMAS COMO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÉSTA.{\r}

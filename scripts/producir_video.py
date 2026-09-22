@@ -367,11 +367,16 @@ def producir(cfg: dict) -> dict:
     # aprendizajes.md 2026-09-21 tarde). Si ya llegan por
     # cola_subtitulos/, se reutilizan y no se llama a whisper en absoluto.
     cola_srt = BASE / "cola_subtitulos" / f"{vid}_corregido.srt"
+    cola_ass = BASE / "cola_subtitulos" / f"{vid}_corregido.ass"
     srt_corregido = dir_subs / f"{vid}_corregido.srt"
+    ass_corregido = dir_subs / f"{vid}_corregido.ass"
     if cola_srt.exists():
         log("5/8 Subtítulos (reutilizados de cola_subtitulos/, transcritos en local)")
         srt_corregido.write_bytes(cola_srt.read_bytes())
         print(f"Subtítulos reutilizados: {cola_srt} -> {srt_corregido}")
+        if cola_ass.exists():
+            ass_corregido.write_bytes(cola_ass.read_bytes())
+            print(f"Subtítulos palabra-por-palabra reutilizados: {cola_ass} -> {ass_corregido}")
     else:
         log("5/8 Subtítulos (transcripción + corrección + quemado)")
         srt_crudo = dir_subs / f"{vid}.srt"
@@ -386,8 +391,17 @@ def producir(cfg: dict) -> dict:
             )
         corregir_subtitulos.corregir(str(srt_crudo), str(srt_corregido), correcciones_path)
 
+        palabras_json = srt_crudo.with_name(srt_crudo.stem + "_palabras.json")
+        if palabras_json.exists():
+            import generar_subtitulos_ass_palabras
+            generar_subtitulos_ass_palabras.generar(palabras_json, ass_corregido, ancho, alto, correcciones_path)
+
+    # Subtítulos palabra-por-palabra (más profesionales) si están disponibles,
+    # si no, se cae al .srt de frase completa clásico.
+    subs_para_quemar = ass_corregido if ass_corregido.exists() else srt_corregido
+
     video_final = dir_salidas / f"{vid}_FINAL.mp4"
-    quemar_subtitulos.quemar(str(video_mudo_con_audio), str(srt_corregido), str(video_final), "abajo", ancho, alto)
+    quemar_subtitulos.quemar(str(video_mudo_con_audio), str(subs_para_quemar), str(video_final), "abajo", ancho, alto)
 
     # 6) Miniatura
     log("6/8 Miniatura")
@@ -397,10 +411,18 @@ def producir(cfg: dict) -> dict:
     dur_video = float(json.loads(check_output([ffprobe, "-v", "error", "-show_entries", "format=duration", "-of", "json", str(video_final)]))["format"]["duration"])
     miniatura_path = dir_salidas / f"miniatura_{vid}.jpg"
     hook = cfg.get("hook_miniatura", cfg["titulo"][:60])
+    cola_miniatura = BASE / "cola_miniaturas" / f"{vid}.jpg"
     if formato == "lista":
         # Miniatura dedicada (no extraída del vídeo): evita que el texto de una
         # diapositiva de fondo choque con el texto de la miniatura.
         diapositivas.generar_miniatura_lista(len(cfg["hechos"]), hook, str(miniatura_path), tema_visual)
+    elif cola_miniatura.exists():
+        # Miniatura IA cinematográfica ya generada en local (ver
+        # generar_audio_pipeline.py): Pollinations está bloqueado en el
+        # sandbox cloud igual que Wikimedia/whisper, así que se reutiliza
+        # en vez de caer al método antiguo de fotograma+texto.
+        miniatura_path.write_bytes(cola_miniatura.read_bytes())
+        print(f"Miniatura IA reutilizada: {cola_miniatura} -> {miniatura_path}")
     else:
         segundo_frame = mejor_segundo_miniatura(reales, dur_video)
         # Se extrae del vídeo SIN subtítulos quemados (video_mudo_con_audio), no del

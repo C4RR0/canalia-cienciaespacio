@@ -28,6 +28,8 @@ import generar_audio
 import suavizar_audio
 import generar_subtitulos
 import corregir_subtitulos
+import generar_subtitulos_ass_palabras
+import generar_miniatura
 import ensamblar_lista_horizontal as ensamblador_lista
 import producir_video
 
@@ -185,7 +187,46 @@ def generar_subtitulos_para_config(cfg: dict, audio_final: Path) -> Path | None:
 
     destino = dir_cola_subs / f"{vid}_corregido.srt"
     destino.write_bytes(srt_corregido.read_bytes())
-    print(f"Subtítulos listos para la nube: {destino}")
+
+    # Subtítulos animados palabra-por-palabra (estilo viral), a partir del
+    # sidecar de timestamps por palabra que generar_subtitulos.py deja junto
+    # al .srt crudo. Es el formato que usa quemar_subtitulos.py por defecto
+    # ahora; el .srt de arriba se conserva como respaldo/legible.
+    ancho, alto = (1080, 1920) if cfg.get("orientacion", "vertical") == "vertical" else (1920, 1080)
+    palabras_json = srt_crudo.with_name(srt_crudo.stem + "_palabras.json")
+    ass_corregido = dir_subs / f"{vid}_corregido.ass"
+    generar_subtitulos_ass_palabras.generar(palabras_json, ass_corregido, ancho, alto, correcciones_path)
+    destino_ass = dir_cola_subs / f"{vid}_corregido.ass"
+    destino_ass.write_bytes(ass_corregido.read_bytes())
+
+    print(f"Subtítulos listos para la nube: {destino} (+ {destino_ass})")
+    return destino
+
+
+def generar_miniatura_para_config(cfg: dict) -> Path | None:
+    """Miniatura con imagen IA cinematográfica dedicada (Pollinations), no un
+    fotograma del propio vídeo: mucho más impactante (ver aprendizajes.md
+    2026-09-22). Pollinations está bloqueado por la whitelist del sandbox
+    cloud igual que Wikimedia/NASA/Azure, así que se genera aquí en local y
+    viaja por cola_miniaturas/<id>.jpg. Solo aplica a curiosidad/largo (el
+    formato 'lista' ya tiene su propia miniatura de diapositiva dedicada,
+    generada sin red, en producir_video.py)."""
+    vid = cfg["id"]
+    if cfg["formato"] == "lista":
+        print("Formato 'lista': ya genera su propia miniatura sin red, nada que encolar aquí.")
+        return None
+
+    dir_cola_mini = BASE / "cola_miniaturas"
+    dir_cola_mini.mkdir(exist_ok=True)
+    destino = dir_cola_mini / f"{vid}.jpg"
+
+    log("Miniatura IA cinematográfica")
+    hook = cfg.get("hook_miniatura", cfg["titulo"][:60])
+    sujeto_visual = cfg["queries_imagenes"][0]
+    orientacion = cfg.get("orientacion", "vertical" if cfg["formato"] != "largo" else "horizontal")
+    semilla = abs(hash(vid)) % 100000
+    generar_miniatura.generar_desde_ia(sujeto_visual, hook, str(destino), orientacion, semilla=semilla)
+    print(f"Miniatura lista para la nube: {destino}")
     return destino
 
 
@@ -199,3 +240,4 @@ if __name__ == "__main__":
     audio_final = generar_audio_para_config(cfg)
     generar_imagenes_para_config(cfg)
     generar_subtitulos_para_config(cfg, audio_final)
+    generar_miniatura_para_config(cfg)

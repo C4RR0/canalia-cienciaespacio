@@ -38,8 +38,19 @@ _tmp_v2/
 # 2026-09-21 tarde — el modelo de faster-whisper tambien esta bloqueado
 # por la whitelist del sandbox cloud al intentar descargarlo desde
 # Hugging Face Hub). La nube los borra tras consumirlos.
+# El .ass (2026-09-22) son los subtitulos palabra-por-palabra "profesionales";
+# el .srt de frase completa se conserva como respaldo si el .ass no llega.
 !cola_subtitulos/
 !cola_subtitulos/*.srt
+!cola_subtitulos/*.ass
+
+# Excepcion: cola_miniaturas/ SI viaja por git (mismo puente local->nube,
+# 2026-09-22 — la miniatura IA cinematografica usa Pollinations, tambien
+# bloqueado por la whitelist del sandbox cloud). La nube la borra tras
+# consumirla; si no llega, producir_video.py cae al metodo antiguo
+# (fotograma del video + texto).
+!cola_miniaturas/
+!cola_miniaturas/*.jpg
 
 # Python
 __pycache__/

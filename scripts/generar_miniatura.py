@@ -51,23 +51,27 @@ def ajustar_lineas(draw, texto, fuente, ancho_max):
     return lineas
 
 
-def generar(video_path: str, segundo: float, texto: str, salida: str, orientacion: str):
-    tmp_frame = Path(salida).with_suffix(".frame.jpg")
-    extraer_frame(video_path, segundo, tmp_frame)
-    frame = Image.open(tmp_frame).convert("RGB")
+def componer(imagen_base: Image.Image, texto: str, orientacion: str) -> Image.Image:
+    """Recibe una imagen base (frame real o hero IA) y le aplica el tratamiento
+    de miniatura: recorte a 1280x720, degradado oscuro inferior, texto gancho
+    grande con contorno negro. Compartido entre generar() (frame de vídeo) y
+    generar_desde_ia() (imagen IA cinematográfica dedicada)."""
+    frame = imagen_base.convert("RGB")
 
-    # Recorte a pantalla completa (llena todo el encuadre 16:9, sin barras laterales)
     ratio = max(ANCHO / frame.width, ALTO / frame.height)
     escalado = frame.resize((int(frame.width * ratio), int(frame.height * ratio)))
     ex = (escalado.width - ANCHO) // 2
-    # para verticales, ancla el recorte un poco por encima del centro (el sujeto suele estar ahí)
     sesgo_y = 0.42 if orientacion == "vertical" else 0.5
     ey = int((escalado.height - ALTO) * sesgo_y)
     lienzo = escalado.crop((ex, ey, ex + ANCHO, ey + ALTO))
-
     lienzo = lienzo.convert("RGBA")
 
-    # degradado oscuro inferior para legibilidad del texto
+    # ligero boost de contraste/saturacion, coherente con el gradeado del cuerpo del video
+    lienzo_rgb = lienzo.convert("RGB")
+    lienzo_rgb = ImageEnhance.Contrast(lienzo_rgb).enhance(1.12)
+    lienzo_rgb = ImageEnhance.Color(lienzo_rgb).enhance(1.20)
+    lienzo = lienzo_rgb.convert("RGBA")
+
     degradado = Image.new("L", (1, ALTO), 0)
     for y in range(ALTO):
         t = max(0.0, (y - ALTO * 0.45) / (ALTO * 0.55))
@@ -88,16 +92,54 @@ def generar(video_path: str, segundo: float, texto: str, salida: str, orientacio
     for linea in lineas:
         bbox = draw.textbbox((0, 0), linea, font=fuente)
         x = (ANCHO - (bbox[2] - bbox[0])) // 2
-        # contorno grueso negro
         for dx in range(-5, 6, 2):
             for dy in range(-5, 6, 2):
                 draw.text((x + dx, y + dy), linea, font=fuente, fill=(0, 0, 0, 255))
         draw.text((x, y), linea, font=fuente, fill=(255, 255, 255, 255))
         y += alto_linea
 
-    lienzo.convert("RGB").save(salida, quality=92)
+    return lienzo.convert("RGB")
+
+
+def generar(video_path: str, segundo: float, texto: str, salida: str, orientacion: str):
+    tmp_frame = Path(salida).with_suffix(".frame.jpg")
+    extraer_frame(video_path, segundo, tmp_frame)
+    frame = Image.open(tmp_frame)
+    resultado = componer(frame, texto, orientacion)
+    resultado.save(salida, quality=92)
     tmp_frame.unlink(missing_ok=True)
     print(f"Miniatura generada: {salida}")
+
+
+def generar_desde_ia(prompt_visual: str, texto: str, salida: str, orientacion: str, semilla: int = 7):
+    """Genera una imagen IA cinematográfica dedicada (no reutiliza fotogramas
+    del cuerpo del vídeo) como base de la miniatura: mucho más impactante que
+    un frame de slideshow, al estilo de las miniaturas de canales de
+    documentales/misterio profesionales (sujeto dramático + iluminación de
+    cine en vez de una foto de archivo plana)."""
+    import sys as _sys
+    from pathlib import Path as _Path
+    _sys.path.insert(0, str(_Path(__file__).parent))
+    import generar_imagenes
+
+    import re as _re
+    sujeto = _re.sub(r"\b(photo|photograph|illustration|picture)\b\.?\s*(NASA)?\s*$", "", prompt_visual, flags=_re.IGNORECASE).strip()
+    prompt_completo = (
+        f"cinematic dramatic photo of {sujeto}, moody dramatic lighting, "
+        f"high contrast, ultra detailed, 8k, photorealistic, national geographic style, "
+        f"deep shadows, volumetric light, full bleed close up, no border, no frame, no watermark"
+    )
+    # Se pide CUADRADA (no 1280x720 directo) a propósito: el recorte "cover"
+    # de componer() así SÍ recorta margen de verdad (en vez de solo reescalar
+    # 1:1 sin tocar bordes), lo que elimina la marca de agua de pollinations.ai
+    # que aparece pegada a la esquina inferior derecha de sus imágenes.
+    tmp_ia = Path(salida).with_suffix(".hero.jpg")
+    generar_imagenes.generar_imagen(prompt_completo, 1280, 1280, tmp_ia, semilla=semilla)
+    hero = Image.open(tmp_ia)
+    resultado = componer(hero, texto, orientacion)
+    resultado.save(salida, quality=92)
+    tmp_ia.unlink(missing_ok=True)
+    print(f"Miniatura IA generada: {salida}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,191 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,40,108,422,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SABÍAS{\r} QUE HAY ÁRBOLES
+Dialogue: 0,0:00:00.52,0:00:00.74,Default,,0,0,0,,SABÍAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} HAY ÁRBOLES
+Dialogue: 0,0:00:00.74,0:00:00.84,Default,,0,0,0,,SABÍAS QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAY{\r} ÁRBOLES
+Dialogue: 0,0:00:00.84,0:00:01.16,Default,,0,0,0,,SABÍAS QUE HAY {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÁRBOLES{\r}
+Dialogue: 0,0:00:01.16,0:00:01.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} SOBREVIVIERON A LA
+Dialogue: 0,0:00:01.40,0:00:01.98,Default,,0,0,0,,QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOBREVIVIERON{\r} A LA
+Dialogue: 0,0:00:01.98,0:00:02.10,Default,,0,0,0,,QUE SOBREVIVIERON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} LA
+Dialogue: 0,0:00:02.10,0:00:02.18,Default,,0,0,0,,QUE SOBREVIVIERON A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
+Dialogue: 0,0:00:02.18,0:00:02.44,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BOMBA{\r} ATÓMICA DE
+Dialogue: 0,0:00:02.44,0:00:02.86,Default,,0,0,0,,BOMBA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ATÓMICA{\r} DE
+Dialogue: 0,0:00:02.86,0:00:03.00,Default,,0,0,0,,BOMBA ATÓMICA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:03.00,0:00:03.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HIROSHIMA{\r} Y SIGUEN VIVOS
+Dialogue: 0,0:00:03.42,0:00:03.80,Default,,0,0,0,,HIROSHIMA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} SIGUEN VIVOS
+Dialogue: 0,0:00:03.80,0:00:04.10,Default,,0,0,0,,HIROSHIMA Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIGUEN{\r} VIVOS
+Dialogue: 0,0:00:04.10,0:00:04.48,Default,,0,0,0,,HIROSHIMA Y SIGUEN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIVOS{\r}
+Dialogue: 0,0:00:04.48,0:00:04.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HOY,{\r} MÁS DE 80
+Dialogue: 0,0:00:04.88,0:00:05.04,Default,,0,0,0,,HOY, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} DE 80
+Dialogue: 0,0:00:05.04,0:00:05.18,Default,,0,0,0,,HOY, MÁS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} 80
+Dialogue: 0,0:00:05.18,0:00:05.46,Default,,0,0,0,,HOY, MÁS DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}80{\r}
+Dialogue: 0,0:00:05.46,0:00:05.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑOS{\r} DESPUÉS, SE LLAMAN
+Dialogue: 0,0:00:05.76,0:00:06.34,Default,,0,0,0,,AÑOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESPUÉS,{\r} SE LLAMAN
+Dialogue: 0,0:00:06.34,0:00:06.50,Default,,0,0,0,,AÑOS DESPUÉS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} LLAMAN
+Dialogue: 0,0:00:06.50,0:00:06.72,Default,,0,0,0,,AÑOS DESPUÉS, SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMAN{\r}
+Dialogue: 0,0:00:06.72,0:00:07.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}IBAKUJUMOKU,{\r} QUE EN
+Dialogue: 0,0:00:07.76,0:00:07.84,Default,,0,0,0,,IBAKUJUMOKU, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} EN
+Dialogue: 0,0:00:07.84,0:00:07.94,Default,,0,0,0,,IBAKUJUMOKU, QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
+Dialogue: 0,0:00:07.94,0:00:08.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}JAPONÉS{\r} SIGNIFICA,
+Dialogue: 0,0:00:08.36,0:00:09.08,Default,,0,0,0,,JAPONÉS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIGNIFICA,{\r}
+Dialogue: 0,0:00:09.18,0:00:09.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÁRBOLES{\r} SUPERVIVIENTES
+Dialogue: 0,0:00:09.50,0:00:10.20,Default,,0,0,0,,ÁRBOLES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUPERVIVIENTES{\r}
+Dialogue: 0,0:00:10.20,0:00:10.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} LA BOMBA.
+Dialogue: 0,0:00:10.38,0:00:10.48,Default,,0,0,0,,DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} BOMBA.
+Dialogue: 0,0:00:10.48,0:00:10.98,Default,,0,0,0,,DE LA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BOMBA.{\r}
+Dialogue: 0,0:00:11.00,0:00:11.14,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUANDO{\r} LA BOMBA ATÓMICA
+Dialogue: 0,0:00:11.14,0:00:11.34,Default,,0,0,0,,CUANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} BOMBA ATÓMICA
+Dialogue: 0,0:00:11.34,0:00:11.60,Default,,0,0,0,,CUANDO LA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BOMBA{\r} ATÓMICA
+Dialogue: 0,0:00:11.60,0:00:12.02,Default,,0,0,0,,CUANDO LA BOMBA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ATÓMICA{\r}
+Dialogue: 0,0:00:12.02,0:00:12.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXPLOTÓ{\r} EN 1945,
+Dialogue: 0,0:00:12.50,0:00:12.62,Default,,0,0,0,,EXPLOTÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} 1945,
+Dialogue: 0,0:00:12.62,0:00:13.66,Default,,0,0,0,,EXPLOTÓ EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}1945,{\r}
+Dialogue: 0,0:00:14.28,0:00:14.70,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ARRASÓ{\r} PRÁCTICAMENTE
+Dialogue: 0,0:00:14.70,0:00:15.34,Default,,0,0,0,,ARRASÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PRÁCTICAMENTE{\r}
+Dialogue: 0,0:00:15.34,0:00:15.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TODO{\r} EN UN RADIO
+Dialogue: 0,0:00:15.66,0:00:15.84,Default,,0,0,0,,TODO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} UN RADIO
+Dialogue: 0,0:00:15.84,0:00:15.94,Default,,0,0,0,,TODO EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} RADIO
+Dialogue: 0,0:00:15.94,0:00:16.20,Default,,0,0,0,,TODO EN UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RADIO{\r}
+Dialogue: 0,0:00:16.20,0:00:16.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} 2 KILÓMETROS, PERO
+Dialogue: 0,0:00:16.38,0:00:16.58,Default,,0,0,0,,DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}2{\r} KILÓMETROS, PERO
+Dialogue: 0,0:00:16.58,0:00:17.38,Default,,0,0,0,,DE 2 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}KILÓMETROS,{\r} PERO
+Dialogue: 0,0:00:17.38,0:00:17.54,Default,,0,0,0,,DE 2 KILÓMETROS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERO{\r}
+Dialogue: 0,0:00:17.54,0:00:17.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r} POCOS ÁRBOLES,
+Dialogue: 0,0:00:17.76,0:00:18.10,Default,,0,0,0,,UNOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCOS{\r} ÁRBOLES,
+Dialogue: 0,0:00:18.10,0:00:18.72,Default,,0,0,0,,UNOS POCOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÁRBOLES,{\r}
+Dialogue: 0,0:00:18.80,0:00:19.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENTRE{\r} ELLOS VARIOS
+Dialogue: 0,0:00:19.04,0:00:19.28,Default,,0,0,0,,ENTRE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ELLOS{\r} VARIOS
+Dialogue: 0,0:00:19.28,0:00:19.48,Default,,0,0,0,,ENTRE ELLOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VARIOS{\r}
+Dialogue: 0,0:00:19.48,0:00:20.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}JINCOS,{\r} QUEDARON EN PIE
+Dialogue: 0,0:00:20.26,0:00:20.56,Default,,0,0,0,,JINCOS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUEDARON{\r} EN PIE
+Dialogue: 0,0:00:20.56,0:00:20.74,Default,,0,0,0,,JINCOS, QUEDARON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} PIE
+Dialogue: 0,0:00:20.74,0:00:20.88,Default,,0,0,0,,JINCOS, QUEDARON EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PIE{\r}
+Dialogue: 0,0:00:20.88,0:00:20.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} MENOS DE 2
+Dialogue: 0,0:00:20.98,0:00:21.12,Default,,0,0,0,,A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MENOS{\r} DE 2
+Dialogue: 0,0:00:21.12,0:00:21.34,Default,,0,0,0,,A MENOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} 2
+Dialogue: 0,0:00:21.34,0:00:21.50,Default,,0,0,0,,A MENOS DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}2{\r}
+Dialogue: 0,0:00:21.50,0:00:22.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}KILÓMETROS{\r} DEL
+Dialogue: 0,0:00:22.00,0:00:22.18,Default,,0,0,0,,KILÓMETROS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r}
+Dialogue: 0,0:00:22.18,0:00:22.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EPICENTRO,{\r} CALCINADOS
+Dialogue: 0,0:00:22.92,0:00:23.46,Default,,0,0,0,,EPICENTRO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CALCINADOS{\r}
+Dialogue: 0,0:00:23.46,0:00:23.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} FUERA, Y VOLVIERON
+Dialogue: 0,0:00:23.68,0:00:24.26,Default,,0,0,0,,POR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUERA,{\r} Y VOLVIERON
+Dialogue: 0,0:00:24.26,0:00:24.40,Default,,0,0,0,,POR FUERA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} VOLVIERON
+Dialogue: 0,0:00:24.40,0:00:24.70,Default,,0,0,0,,POR FUERA, Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VOLVIERON{\r}
+Dialogue: 0,0:00:24.70,0:00:24.86,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} BROTAR APENAS MESES
+Dialogue: 0,0:00:24.86,0:00:25.16,Default,,0,0,0,,A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BROTAR{\r} APENAS MESES
+Dialogue: 0,0:00:25.16,0:00:25.44,Default,,0,0,0,,A BROTAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}APENAS{\r} MESES
+Dialogue: 0,0:00:25.44,0:00:25.82,Default,,0,0,0,,A BROTAR APENAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MESES{\r}
+Dialogue: 0,0:00:25.82,0:00:26.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESPUÉS.{\r}
+Dialogue: 0,0:00:26.18,0:00:26.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HOY{\r} SE HAN IDENTIFICADO
+Dialogue: 0,0:00:26.68,0:00:26.84,Default,,0,0,0,,HOY {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} HAN IDENTIFICADO
+Dialogue: 0,0:00:26.84,0:00:26.96,Default,,0,0,0,,HOY SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAN{\r} IDENTIFICADO
+Dialogue: 0,0:00:26.96,0:00:27.56,Default,,0,0,0,,HOY SE HAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}IDENTIFICADO{\r}
+Dialogue: 0,0:00:27.56,0:00:27.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} DE 170 IBAKUJUMOKU
+Dialogue: 0,0:00:27.74,0:00:27.90,Default,,0,0,0,,MÁS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} 170 IBAKUJUMOKU
+Dialogue: 0,0:00:27.90,0:00:28.40,Default,,0,0,0,,MÁS DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}170{\r} IBAKUJUMOKU
+Dialogue: 0,0:00:28.40,0:00:29.20,Default,,0,0,0,,MÁS DE 170 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}IBAKUJUMOKU{\r}
+Dialogue: 0,0:00:29.20,0:00:29.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REPARTIDOS{\r} POR
+Dialogue: 0,0:00:29.74,0:00:29.96,Default,,0,0,0,,REPARTIDOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r}
+Dialogue: 0,0:00:29.96,0:00:30.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HIROSHIMA.{\r}
+Dialogue: 0,0:00:30.62,0:00:31.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGUNOS{\r} TODAVÍA EN EL
+Dialogue: 0,0:00:31.06,0:00:31.36,Default,,0,0,0,,ALGUNOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TODAVÍA{\r} EN EL
+Dialogue: 0,0:00:31.36,0:00:31.58,Default,,0,0,0,,ALGUNOS TODAVÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} EL
+Dialogue: 0,0:00:31.58,0:00:31.70,Default,,0,0,0,,ALGUNOS TODAVÍA EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
+Dialogue: 0,0:00:31.70,0:00:31.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MISMO{\r} LUGAR EXACTO DONDE
+Dialogue: 0,0:00:31.94,0:00:32.20,Default,,0,0,0,,MISMO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LUGAR{\r} EXACTO DONDE
+Dialogue: 0,0:00:32.20,0:00:32.74,Default,,0,0,0,,MISMO LUGAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXACTO{\r} DONDE
+Dialogue: 0,0:00:32.74,0:00:32.96,Default,,0,0,0,,MISMO LUGAR EXACTO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DONDE{\r}
+Dialogue: 0,0:00:32.96,0:00:33.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOBREVIVIERON{\r} A LA
+Dialogue: 0,0:00:33.66,0:00:33.78,Default,,0,0,0,,SOBREVIVIERON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} LA
+Dialogue: 0,0:00:33.78,0:00:33.86,Default,,0,0,0,,SOBREVIVIERON A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
+Dialogue: 0,0:00:33.86,0:00:34.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXPLOSIÓN.{\r}
+Dialogue: 0,0:00:34.66,0:00:34.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} CIENTÍFICOS LOS
+Dialogue: 0,0:00:34.82,0:00:35.46,Default,,0,0,0,,LOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIENTÍFICOS{\r} LOS
+Dialogue: 0,0:00:35.46,0:00:35.58,Default,,0,0,0,,LOS CIENTÍFICOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r}
+Dialogue: 0,0:00:35.58,0:00:36.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONSIDERAN{\r} UN SÍMBOLO
+Dialogue: 0,0:00:36.18,0:00:36.30,Default,,0,0,0,,CONSIDERAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} SÍMBOLO
+Dialogue: 0,0:00:36.30,0:00:36.72,Default,,0,0,0,,CONSIDERAN UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÍMBOLO{\r}
+Dialogue: 0,0:00:36.72,0:00:36.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r} MILAGROSO DE
+Dialogue: 0,0:00:36.92,0:00:37.52,Default,,0,0,0,,CASI {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MILAGROSO{\r} DE
+Dialogue: 0,0:00:37.52,0:00:37.60,Default,,0,0,0,,CASI MILAGROSO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:37.60,0:00:38.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RESISTENCIA.{\r}
+Dialogue: 0,0:00:38.52,0:00:38.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} JINGO BILÓVA ES,
+Dialogue: 0,0:00:38.66,0:00:38.94,Default,,0,0,0,,EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}JINGO{\r} BILÓVA ES,
+Dialogue: 0,0:00:38.94,0:00:39.38,Default,,0,0,0,,EL JINGO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BILÓVA{\r} ES,
+Dialogue: 0,0:00:39.38,0:00:39.78,Default,,0,0,0,,EL JINGO BILÓVA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES,{\r}
+Dialogue: 0,0:00:39.82,0:00:39.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} HECHO, UNO DE
+Dialogue: 0,0:00:39.96,0:00:40.54,Default,,0,0,0,,DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HECHO,{\r} UNO DE
+Dialogue: 0,0:00:40.54,0:00:40.66,Default,,0,0,0,,DE HECHO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNO{\r} DE
+Dialogue: 0,0:00:40.66,0:00:40.78,Default,,0,0,0,,DE HECHO, UNO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:40.78,0:00:40.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} ÁRBOLES MÁS
+Dialogue: 0,0:00:40.92,0:00:41.26,Default,,0,0,0,,LOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÁRBOLES{\r} MÁS
+Dialogue: 0,0:00:41.26,0:00:41.52,Default,,0,0,0,,LOS ÁRBOLES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r}
+Dialogue: 0,0:00:41.52,0:00:42.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RESISTENTES{\r} QUE EXISTEN,
+Dialogue: 0,0:00:42.06,0:00:42.28,Default,,0,0,0,,RESISTENTES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} EXISTEN,
+Dialogue: 0,0:00:42.28,0:00:42.96,Default,,0,0,0,,RESISTENTES QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXISTEN,{\r}
+Dialogue: 0,0:00:42.96,0:00:43.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAPAZ{\r} DE SOBREVIVIR A
+Dialogue: 0,0:00:43.20,0:00:43.40,Default,,0,0,0,,CAPAZ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} SOBREVIVIR A
+Dialogue: 0,0:00:43.40,0:00:43.90,Default,,0,0,0,,CAPAZ DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOBREVIVIR{\r} A
+Dialogue: 0,0:00:43.90,0:00:44.00,Default,,0,0,0,,CAPAZ DE SOBREVIVIR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
+Dialogue: 0,0:00:44.00,0:00:44.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLAGAS{\r} Y CONTAMINACIÓN,
+Dialogue: 0,0:00:44.32,0:00:44.42,Default,,0,0,0,,PLAGAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} CONTAMINACIÓN,
+Dialogue: 0,0:00:44.42,0:00:45.28,Default,,0,0,0,,PLAGAS Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONTAMINACIÓN,{\r}
+Dialogue: 0,0:00:45.34,0:00:45.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} APARENTEMENTE, HASTA
+Dialogue: 0,0:00:45.46,0:00:46.42,Default,,0,0,0,,Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}APARENTEMENTE,{\r} HASTA
+Dialogue: 0,0:00:46.42,0:00:46.64,Default,,0,0,0,,Y APARENTEMENTE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r}
+Dialogue: 0,0:00:46.64,0:00:46.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} BOMBA ATÓMICA.
+Dialogue: 0,0:00:46.90,0:00:47.20,Default,,0,0,0,,UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BOMBA{\r} ATÓMICA.
+Dialogue: 0,0:00:47.20,0:00:47.84,Default,,0,0,0,,UNA BOMBA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ATÓMICA.{\r}
+Dialogue: 0,0:00:47.88,0:00:48.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CADA{\r} AÑO SE RECOGEN
+Dialogue: 0,0:00:48.04,0:00:48.28,Default,,0,0,0,,CADA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑO{\r} SE RECOGEN
+Dialogue: 0,0:00:48.28,0:00:48.46,Default,,0,0,0,,CADA AÑO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} RECOGEN
+Dialogue: 0,0:00:48.46,0:00:48.84,Default,,0,0,0,,CADA AÑO SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RECOGEN{\r}
+Dialogue: 0,0:00:48.84,0:00:49.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SEMILLAS{\r} DE ESTOS
+Dialogue: 0,0:00:49.28,0:00:49.48,Default,,0,0,0,,SEMILLAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} ESTOS
+Dialogue: 0,0:00:49.48,0:00:49.64,Default,,0,0,0,,SEMILLAS DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTOS{\r}
+Dialogue: 0,0:00:49.64,0:00:50.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÁRBOLES{\r} Y SE ENVÍAN
+Dialogue: 0,0:00:50.08,0:00:50.28,Default,,0,0,0,,ÁRBOLES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} SE ENVÍAN
+Dialogue: 0,0:00:50.28,0:00:50.38,Default,,0,0,0,,ÁRBOLES Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} ENVÍAN
+Dialogue: 0,0:00:50.38,0:00:50.66,Default,,0,0,0,,ÁRBOLES Y SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENVÍAN{\r}
+Dialogue: 0,0:00:50.66,0:00:50.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} TODO EL MUNDO
+Dialogue: 0,0:00:50.78,0:00:50.92,Default,,0,0,0,,A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TODO{\r} EL MUNDO
+Dialogue: 0,0:00:50.92,0:00:51.12,Default,,0,0,0,,A TODO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} MUNDO
+Dialogue: 0,0:00:51.12,0:00:51.30,Default,,0,0,0,,A TODO EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUNDO{\r}
+Dialogue: 0,0:00:51.30,0:00:51.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r} PLANTAR NUEVOS,
+Dialogue: 0,0:00:51.54,0:00:51.96,Default,,0,0,0,,PARA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLANTAR{\r} NUEVOS,
+Dialogue: 0,0:00:51.96,0:00:52.40,Default,,0,0,0,,PARA PLANTAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NUEVOS,{\r}
+Dialogue: 0,0:00:52.64,0:00:52.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÁRBOLES{\r} DE LA PAZ,
+Dialogue: 0,0:00:52.98,0:00:53.18,Default,,0,0,0,,ÁRBOLES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} LA PAZ,
+Dialogue: 0,0:00:53.18,0:00:53.28,Default,,0,0,0,,ÁRBOLES DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} PAZ,
+Dialogue: 0,0:00:53.28,0:00:53.70,Default,,0,0,0,,ÁRBOLES DE LA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PAZ,{\r}
+Dialogue: 0,0:00:53.76,0:00:54.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESCENDIENTES{\r} DIRECTOS
+Dialogue: 0,0:00:54.26,0:00:54.76,Default,,0,0,0,,DESCENDIENTES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DIRECTOS{\r}
+Dialogue: 0,0:00:54.76,0:00:54.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} LOS SUPERVIVIENTES.
+Dialogue: 0,0:00:54.88,0:00:54.98,Default,,0,0,0,,DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} SUPERVIVIENTES.
+Dialogue: 0,0:00:54.98,0:00:55.60,Default,,0,0,0,,DE LOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUPERVIVIENTES.{\r}
+Dialogue: 0,0:00:55.60,0:00:56.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} TE HA SORPRENDIDO
+Dialogue: 0,0:00:56.06,0:00:56.18,Default,,0,0,0,,SI {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} HA SORPRENDIDO
+Dialogue: 0,0:00:56.18,0:00:56.26,Default,,0,0,0,,SI TE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HA{\r} SORPRENDIDO
+Dialogue: 0,0:00:56.26,0:00:56.86,Default,,0,0,0,,SI TE HA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
+Dialogue: 0,0:00:56.86,0:00:57.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTE{\r} DATO, SÍGUEME PARA
+Dialogue: 0,0:00:57.06,0:00:57.68,Default,,0,0,0,,ESTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DATO,{\r} SÍGUEME PARA
+Dialogue: 0,0:00:57.68,0:00:58.00,Default,,0,0,0,,ESTE DATO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÍGUEME{\r} PARA
+Dialogue: 0,0:00:58.00,0:00:58.18,Default,,0,0,0,,ESTE DATO, SÍGUEME {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
+Dialogue: 0,0:00:58.18,0:00:58.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} CURIOSIDADES TAN
+Dialogue: 0,0:00:58.38,0:00:59.00,Default,,0,0,0,,MÁS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CURIOSIDADES{\r} TAN
+Dialogue: 0,0:00:59.00,0:00:59.24,Default,,0,0,0,,MÁS CURIOSIDADES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TAN{\r}
+Dialogue: 0,0:00:59.24,0:00:59.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXTREMAS{\r} COMO ESTA.
+Dialogue: 0,0:00:59.78,0:00:59.94,Default,,0,0,0,,EXTREMAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} ESTA.
+Dialogue: 0,0:00:59.94,0:01:00.42,Default,,0,0,0,,EXTREMAS COMO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTA.{\r}
