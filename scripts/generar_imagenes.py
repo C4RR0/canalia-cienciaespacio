@@ -12,9 +12,28 @@ import sys
 import time
 import urllib.parse
 import requests
+from io import BytesIO
 from pathlib import Path
+from PIL import Image
 
 BASE_URL = "https://image.pollinations.ai/prompt/{prompt}"
+
+# Pollinations estampa su marca de agua "pollinations.ai" en una franja fija
+# de la esquina inferior derecha, y el parametro "nologo" no la quita en el
+# plan gratuito (mismo hallazgo que en CanalIA-Mitos, 2026-09-21). Se recorta
+# esa franja y se reescala la imagen a su tamano original en vez de dejar el
+# logo visible en el video final.
+RECORTE_INFERIOR = 0.07
+
+
+def _quitar_marca_agua(contenido: bytes) -> bytes:
+    img = Image.open(BytesIO(contenido)).convert("RGB")
+    w, h = img.size
+    recortada = img.crop((0, 0, w, int(h * (1 - RECORTE_INFERIOR))))
+    reescalada = recortada.resize((w, h), Image.LANCZOS)
+    buffer = BytesIO()
+    reescalada.save(buffer, format="JPEG", quality=95)
+    return buffer.getvalue()
 
 
 def generar_imagen(prompt: str, ancho: int, alto: int, salida: Path, semilla: int, intentos: int = 4):
@@ -32,7 +51,7 @@ def generar_imagen(prompt: str, ancho: int, alto: int, salida: Path, semilla: in
         try:
             resp = requests.get(url, params=params, timeout=120)
             resp.raise_for_status()
-            salida.write_bytes(resp.content)
+            salida.write_bytes(_quitar_marca_agua(resp.content))
             print(f"Imagen guardada: {salida}")
             return
         except requests.exceptions.RequestException as e:
