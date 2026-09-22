@@ -12,166 +12,104 @@ Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:00.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}¿SABÍAS{\r} QUE EL EJÉRCITO
-Dialogue: 0,0:00:00.50,0:00:00.72,Default,,0,0,0,,¿SABÍAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} EL EJÉRCITO
-Dialogue: 0,0:00:00.72,0:00:00.82,Default,,0,0,0,,¿SABÍAS QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} EJÉRCITO
-Dialogue: 0,0:00:00.82,0:00:01.26,Default,,0,0,0,,¿SABÍAS QUE EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EJÉRCITO{\r}
-Dialogue: 0,0:00:01.26,0:00:01.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} UN PAÍS PERDIÓ
-Dialogue: 0,0:00:01.40,0:00:01.52,Default,,0,0,0,,DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} PAÍS PERDIÓ
-Dialogue: 0,0:00:01.52,0:00:01.72,Default,,0,0,0,,DE UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PAÍS{\r} PERDIÓ
+Dialogue: 0,0:00:00.50,0:00:01.26,Default,,0,0,0,,¿SABÍAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EJÉRCITO{\r}
+Dialogue: 0,0:00:01.26,0:00:01.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PAÍS{\r} PERDIÓ
 Dialogue: 0,0:00:01.72,0:00:02.16,Default,,0,0,0,,DE UN PAÍS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERDIÓ{\r}
-Dialogue: 0,0:00:02.16,0:00:02.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} GUERRA REAL, CONTRA
-Dialogue: 0,0:00:02.32,0:00:02.54,Default,,0,0,0,,UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GUERRA{\r} REAL, CONTRA
+Dialogue: 0,0:00:02.16,0:00:02.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GUERRA{\r} REAL, CONTRA
 Dialogue: 0,0:00:02.54,0:00:03.18,Default,,0,0,0,,UNA GUERRA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REAL,{\r} CONTRA
 Dialogue: 0,0:00:03.18,0:00:03.40,Default,,0,0,0,,UNA GUERRA REAL, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONTRA{\r}
 Dialogue: 0,0:00:03.40,0:00:04.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PÁJARO?{\r}
-Dialogue: 0,0:00:04.06,0:00:04.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} 1932, AUSTRALIA ENVIÓ
-Dialogue: 0,0:00:04.20,0:00:05.78,Default,,0,0,0,,EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}1932,{\r} AUSTRALIA ENVIÓ
+Dialogue: 0,0:00:04.06,0:00:05.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}1932,{\r} AUSTRALIA ENVIÓ
 Dialogue: 0,0:00:05.78,0:00:06.18,Default,,0,0,0,,EN 1932, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AUSTRALIA{\r} ENVIÓ
 Dialogue: 0,0:00:06.18,0:00:06.60,Default,,0,0,0,,EN 1932, AUSTRALIA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENVIÓ{\r}
-Dialogue: 0,0:00:06.60,0:00:06.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} SU PROPIO EJÉRCITO,
-Dialogue: 0,0:00:06.72,0:00:06.84,Default,,0,0,0,,A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r} PROPIO EJÉRCITO,
-Dialogue: 0,0:00:06.84,0:00:07.10,Default,,0,0,0,,A SU {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PROPIO{\r} EJÉRCITO,
+Dialogue: 0,0:00:06.60,0:00:07.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PROPIO{\r} EJÉRCITO,
 Dialogue: 0,0:00:07.10,0:00:07.90,Default,,0,0,0,,A SU PROPIO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EJÉRCITO,{\r}
-Dialogue: 0,0:00:07.94,0:00:08.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} AMETRALLADORAS
-Dialogue: 0,0:00:08.08,0:00:08.76,Default,,0,0,0,,CON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AMETRALLADORAS{\r}
+Dialogue: 0,0:00:07.94,0:00:08.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AMETRALLADORAS{\r}
 Dialogue: 0,0:00:08.76,0:00:09.56,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INCLUIDAS,{\r} A COMBATIR
-Dialogue: 0,0:00:09.56,0:00:09.64,Default,,0,0,0,,INCLUIDAS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} COMBATIR
-Dialogue: 0,0:00:09.64,0:00:10.08,Default,,0,0,0,,INCLUIDAS, A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMBATIR{\r}
-Dialogue: 0,0:00:10.08,0:00:10.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONTRA{\r} UNOS 20 .000
-Dialogue: 0,0:00:10.34,0:00:10.62,Default,,0,0,0,,CONTRA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r} 20 .000
-Dialogue: 0,0:00:10.62,0:00:10.88,Default,,0,0,0,,CONTRA UNOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}20{\r} .000
-Dialogue: 0,0:00:10.88,0:00:11.16,Default,,0,0,0,,CONTRA UNOS 20 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}.000{\r}
+Dialogue: 0,0:00:09.56,0:00:10.08,Default,,0,0,0,,INCLUIDAS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMBATIR{\r}
+Dialogue: 0,0:00:10.08,0:00:10.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONTRA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r} 20 .000
+Dialogue: 0,0:00:10.62,0:00:11.16,Default,,0,0,0,,CONTRA UNOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}20{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}.000{\r}
 Dialogue: 0,0:00:11.16,0:00:11.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EMUÉS{\r} QUE ESTABAN
-Dialogue: 0,0:00:11.54,0:00:11.70,Default,,0,0,0,,EMUÉS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} ESTABAN
-Dialogue: 0,0:00:11.70,0:00:11.98,Default,,0,0,0,,EMUÉS QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTABAN{\r}
+Dialogue: 0,0:00:11.54,0:00:11.98,Default,,0,0,0,,EMUÉS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTABAN{\r}
 Dialogue: 0,0:00:11.98,0:00:12.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESTROZANDO{\r} LOS CULTIVOS
-Dialogue: 0,0:00:12.54,0:00:12.72,Default,,0,0,0,,DESTROZANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} CULTIVOS
-Dialogue: 0,0:00:12.72,0:00:13.16,Default,,0,0,0,,DESTROZANDO LOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CULTIVOS{\r}
-Dialogue: 0,0:00:13.16,0:00:13.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} TRIGO EN EL
-Dialogue: 0,0:00:13.28,0:00:13.56,Default,,0,0,0,,DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRIGO{\r} EN EL
-Dialogue: 0,0:00:13.56,0:00:13.70,Default,,0,0,0,,DE TRIGO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} EL
-Dialogue: 0,0:00:13.70,0:00:13.80,Default,,0,0,0,,DE TRIGO EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
-Dialogue: 0,0:00:13.80,0:00:14.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OESTE{\r} DEL PAÍS.
-Dialogue: 0,0:00:14.06,0:00:14.24,Default,,0,0,0,,OESTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} PAÍS.
+Dialogue: 0,0:00:12.54,0:00:13.16,Default,,0,0,0,,DESTROZANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CULTIVOS{\r}
+Dialogue: 0,0:00:13.16,0:00:13.56,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRIGO{\r} EN EL
+Dialogue: 0,0:00:13.56,0:00:13.80,Default,,0,0,0,,DE TRIGO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
+Dialogue: 0,0:00:13.80,0:00:14.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OESTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} PAÍS.
 Dialogue: 0,0:00:14.24,0:00:14.70,Default,,0,0,0,,OESTE DEL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PAÍS.{\r}
-Dialogue: 0,0:00:14.86,0:00:14.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} OPERACIÓN SE LLAMÓ,
-Dialogue: 0,0:00:14.96,0:00:15.40,Default,,0,0,0,,LA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OPERACIÓN{\r} SE LLAMÓ,
-Dialogue: 0,0:00:15.40,0:00:15.56,Default,,0,0,0,,LA OPERACIÓN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} LLAMÓ,
-Dialogue: 0,0:00:15.56,0:00:16.08,Default,,0,0,0,,LA OPERACIÓN SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMÓ,{\r}
+Dialogue: 0,0:00:14.86,0:00:15.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OPERACIÓN{\r} SE LLAMÓ,
+Dialogue: 0,0:00:15.40,0:00:16.08,Default,,0,0,0,,LA OPERACIÓN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMÓ,{\r}
 Dialogue: 0,0:00:16.16,0:00:17.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LITERALMENTE,{\r} LA GUERRA
-Dialogue: 0,0:00:17.10,0:00:17.22,Default,,0,0,0,,LITERALMENTE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} GUERRA
-Dialogue: 0,0:00:17.22,0:00:17.42,Default,,0,0,0,,LITERALMENTE, LA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GUERRA{\r}
-Dialogue: 0,0:00:17.42,0:00:17.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} LOS EMUÉS.
-Dialogue: 0,0:00:17.58,0:00:17.68,Default,,0,0,0,,DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} EMUÉS.
-Dialogue: 0,0:00:17.68,0:00:18.28,Default,,0,0,0,,DE LOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EMUÉS.{\r}
-Dialogue: 0,0:00:18.28,0:00:18.44,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} RESULTADO FUE UN
-Dialogue: 0,0:00:18.44,0:00:18.88,Default,,0,0,0,,EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RESULTADO{\r} FUE UN
-Dialogue: 0,0:00:18.88,0:00:19.18,Default,,0,0,0,,EL RESULTADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUE{\r} UN
-Dialogue: 0,0:00:19.18,0:00:19.30,Default,,0,0,0,,EL RESULTADO FUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r}
+Dialogue: 0,0:00:17.10,0:00:17.42,Default,,0,0,0,,LITERALMENTE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GUERRA{\r}
+Dialogue: 0,0:00:17.42,0:00:18.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EMUÉS.{\r}
+Dialogue: 0,0:00:18.28,0:00:18.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RESULTADO{\r} FUE UN
+Dialogue: 0,0:00:18.88,0:00:19.30,Default,,0,0,0,,EL RESULTADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r}
 Dialogue: 0,0:00:19.30,0:00:19.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESASTRE{\r} PARA LOS
-Dialogue: 0,0:00:19.72,0:00:19.92,Default,,0,0,0,,DESASTRE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r} LOS
-Dialogue: 0,0:00:19.92,0:00:20.08,Default,,0,0,0,,DESASTRE PARA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r}
+Dialogue: 0,0:00:19.72,0:00:20.08,Default,,0,0,0,,DESASTRE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r}
 Dialogue: 0,0:00:20.08,0:00:20.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOLDADOS.{\r}
-Dialogue: 0,0:00:20.86,0:00:20.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} EMUÉS RESULTARON SER
-Dialogue: 0,0:00:20.96,0:00:21.30,Default,,0,0,0,,LOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EMUÉS{\r} RESULTARON SER
+Dialogue: 0,0:00:20.86,0:00:21.30,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EMUÉS{\r} RESULTARON SER
 Dialogue: 0,0:00:21.30,0:00:21.82,Default,,0,0,0,,LOS EMUÉS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RESULTARON{\r} SER
 Dialogue: 0,0:00:21.82,0:00:22.04,Default,,0,0,0,,LOS EMUÉS RESULTARON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SER{\r}
 Dialogue: 0,0:00:22.04,0:00:22.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RAPIDÍSIMOS,{\r} CAPACES DE
 Dialogue: 0,0:00:22.94,0:00:23.32,Default,,0,0,0,,RAPIDÍSIMOS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAPACES{\r} DE
 Dialogue: 0,0:00:23.32,0:00:23.46,Default,,0,0,0,,RAPIDÍSIMOS, CAPACES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
 Dialogue: 0,0:00:23.46,0:00:24.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DISPERSARSE{\r} EN TODAS
-Dialogue: 0,0:00:24.04,0:00:24.24,Default,,0,0,0,,DISPERSARSE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} TODAS
-Dialogue: 0,0:00:24.24,0:00:24.40,Default,,0,0,0,,DISPERSARSE EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TODAS{\r}
+Dialogue: 0,0:00:24.04,0:00:24.40,Default,,0,0,0,,DISPERSARSE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TODAS{\r}
 Dialogue: 0,0:00:24.40,0:00:25.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DIRECCIONES,{\r} Y SU
-Dialogue: 0,0:00:25.20,0:00:25.36,Default,,0,0,0,,DIRECCIONES, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} SU
-Dialogue: 0,0:00:25.36,0:00:25.52,Default,,0,0,0,,DIRECCIONES, Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
+Dialogue: 0,0:00:25.20,0:00:25.52,Default,,0,0,0,,DIRECCIONES, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
 Dialogue: 0,0:00:25.52,0:00:25.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLUMAJE{\r} ABSORBÍA LAS
 Dialogue: 0,0:00:25.88,0:00:26.36,Default,,0,0,0,,PLUMAJE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ABSORBÍA{\r} LAS
 Dialogue: 0,0:00:26.36,0:00:26.54,Default,,0,0,0,,PLUMAJE ABSORBÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r}
-Dialogue: 0,0:00:26.54,0:00:26.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BALAS{\r} SIN APENAS
-Dialogue: 0,0:00:26.82,0:00:26.98,Default,,0,0,0,,BALAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIN{\r} APENAS
+Dialogue: 0,0:00:26.54,0:00:26.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BALAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIN{\r} APENAS
 Dialogue: 0,0:00:26.98,0:00:27.24,Default,,0,0,0,,BALAS SIN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}APENAS{\r}
 Dialogue: 0,0:00:27.24,0:00:27.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAUSARLES{\r} DAÑO GRAVE.
-Dialogue: 0,0:00:27.94,0:00:28.20,Default,,0,0,0,,CAUSARLES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DAÑO{\r} GRAVE.
-Dialogue: 0,0:00:28.20,0:00:28.64,Default,,0,0,0,,CAUSARLES DAÑO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GRAVE.{\r}
-Dialogue: 0,0:00:28.74,0:00:29.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESPUÉS{\r} DE VARIOS DÍAS
-Dialogue: 0,0:00:29.00,0:00:29.22,Default,,0,0,0,,DESPUÉS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} VARIOS DÍAS
-Dialogue: 0,0:00:29.22,0:00:29.44,Default,,0,0,0,,DESPUÉS DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VARIOS{\r} DÍAS
-Dialogue: 0,0:00:29.44,0:00:29.74,Default,,0,0,0,,DESPUÉS DE VARIOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DÍAS{\r}
+Dialogue: 0,0:00:27.94,0:00:28.64,Default,,0,0,0,,CAUSARLES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DAÑO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GRAVE.{\r}
+Dialogue: 0,0:00:28.74,0:00:29.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESPUÉS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} VARIOS DÍAS
+Dialogue: 0,0:00:29.22,0:00:29.74,Default,,0,0,0,,DESPUÉS DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VARIOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DÍAS{\r}
 Dialogue: 0,0:00:29.74,0:00:30.30,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DISPARANDO{\r} MILES DE
-Dialogue: 0,0:00:30.30,0:00:30.54,Default,,0,0,0,,DISPARANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MILES{\r} DE
-Dialogue: 0,0:00:30.54,0:00:30.72,Default,,0,0,0,,DISPARANDO MILES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:30.30,0:00:30.72,Default,,0,0,0,,DISPARANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MILES{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
 Dialogue: 0,0:00:30.72,0:00:31.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CARTUCHOS,{\r} EL EJÉRCITO
-Dialogue: 0,0:00:31.52,0:00:31.62,Default,,0,0,0,,CARTUCHOS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} EJÉRCITO
-Dialogue: 0,0:00:31.62,0:00:32.08,Default,,0,0,0,,CARTUCHOS, EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EJÉRCITO{\r}
-Dialogue: 0,0:00:32.08,0:00:32.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÓLO{\r} HABÍA CONSEGUIDO
-Dialogue: 0,0:00:32.36,0:00:32.60,Default,,0,0,0,,SÓLO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HABÍA{\r} CONSEGUIDO
+Dialogue: 0,0:00:31.52,0:00:32.08,Default,,0,0,0,,CARTUCHOS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EJÉRCITO{\r}
+Dialogue: 0,0:00:32.08,0:00:32.60,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÓLO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HABÍA{\r} CONSEGUIDO
 Dialogue: 0,0:00:32.60,0:00:33.14,Default,,0,0,0,,SÓLO HABÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONSEGUIDO{\r}
-Dialogue: 0,0:00:33.14,0:00:33.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MATAR{\r} A UNOS POCOS
-Dialogue: 0,0:00:33.40,0:00:33.58,Default,,0,0,0,,MATAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} UNOS POCOS
-Dialogue: 0,0:00:33.58,0:00:33.72,Default,,0,0,0,,MATAR A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r} POCOS
-Dialogue: 0,0:00:33.72,0:00:34.14,Default,,0,0,0,,MATAR A UNOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCOS{\r}
-Dialogue: 0,0:00:34.14,0:00:34.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIENTOS{\r} DE AVES, UNA
-Dialogue: 0,0:00:34.42,0:00:34.64,Default,,0,0,0,,CIENTOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} AVES, UNA
+Dialogue: 0,0:00:33.14,0:00:33.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MATAR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} UNOS POCOS
+Dialogue: 0,0:00:33.58,0:00:34.14,Default,,0,0,0,,MATAR A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCOS{\r}
+Dialogue: 0,0:00:34.14,0:00:34.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIENTOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} AVES, UNA
 Dialogue: 0,0:00:34.64,0:00:35.10,Default,,0,0,0,,CIENTOS DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AVES,{\r} UNA
 Dialogue: 0,0:00:35.10,0:00:35.26,Default,,0,0,0,,CIENTOS DE AVES, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
 Dialogue: 0,0:00:35.26,0:00:35.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FRACCIÓN{\r} MÍNIMA DE LA
 Dialogue: 0,0:00:35.64,0:00:36.02,Default,,0,0,0,,FRACCIÓN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÍNIMA{\r} DE LA
-Dialogue: 0,0:00:36.02,0:00:36.10,Default,,0,0,0,,FRACCIÓN MÍNIMA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} LA
-Dialogue: 0,0:00:36.10,0:00:36.20,Default,,0,0,0,,FRACCIÓN MÍNIMA DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
+Dialogue: 0,0:00:36.02,0:00:36.20,Default,,0,0,0,,FRACCIÓN MÍNIMA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
 Dialogue: 0,0:00:36.20,0:00:36.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POBLACIÓN{\r} TOTAL.
 Dialogue: 0,0:00:36.52,0:00:37.12,Default,,0,0,0,,POBLACIÓN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TOTAL.{\r}
-Dialogue: 0,0:00:37.26,0:00:37.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} COMANDANTE A CARGO
-Dialogue: 0,0:00:37.36,0:00:37.94,Default,,0,0,0,,EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMANDANTE{\r} A CARGO
-Dialogue: 0,0:00:37.94,0:00:38.04,Default,,0,0,0,,EL COMANDANTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} CARGO
-Dialogue: 0,0:00:38.04,0:00:38.24,Default,,0,0,0,,EL COMANDANTE A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CARGO{\r}
+Dialogue: 0,0:00:37.26,0:00:37.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMANDANTE{\r} A CARGO
+Dialogue: 0,0:00:37.94,0:00:38.24,Default,,0,0,0,,EL COMANDANTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CARGO{\r}
 Dialogue: 0,0:00:38.24,0:00:38.70,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TERMINÓ{\r} RINDIÉNDOSE
 Dialogue: 0,0:00:38.70,0:00:39.24,Default,,0,0,0,,TERMINÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RINDIÉNDOSE{\r}
 Dialogue: 0,0:00:39.24,0:00:40.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OFICIALMENTE,{\r} Y HOY LA
-Dialogue: 0,0:00:40.22,0:00:40.32,Default,,0,0,0,,OFICIALMENTE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} HOY LA
-Dialogue: 0,0:00:40.32,0:00:40.42,Default,,0,0,0,,OFICIALMENTE, Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HOY{\r} LA
-Dialogue: 0,0:00:40.42,0:00:40.56,Default,,0,0,0,,OFICIALMENTE, Y HOY {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
-Dialogue: 0,0:00:40.56,0:00:40.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GUERRA{\r} DE LOS EMUÉS
-Dialogue: 0,0:00:40.74,0:00:40.92,Default,,0,0,0,,GUERRA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} LOS EMUÉS
-Dialogue: 0,0:00:40.92,0:00:41.02,Default,,0,0,0,,GUERRA DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} EMUÉS
-Dialogue: 0,0:00:41.02,0:00:41.42,Default,,0,0,0,,GUERRA DE LOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EMUÉS{\r}
-Dialogue: 0,0:00:41.42,0:00:41.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} RECUERDA COMO UNA
-Dialogue: 0,0:00:41.52,0:00:41.94,Default,,0,0,0,,SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RECUERDA{\r} COMO UNA
-Dialogue: 0,0:00:41.94,0:00:42.14,Default,,0,0,0,,SE RECUERDA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} UNA
-Dialogue: 0,0:00:42.14,0:00:42.34,Default,,0,0,0,,SE RECUERDA COMO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
-Dialogue: 0,0:00:42.34,0:00:42.44,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} LAS DERROTAS
-Dialogue: 0,0:00:42.44,0:00:42.56,Default,,0,0,0,,DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} DERROTAS
-Dialogue: 0,0:00:42.56,0:00:42.96,Default,,0,0,0,,DE LAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DERROTAS{\r}
+Dialogue: 0,0:00:40.22,0:00:40.56,Default,,0,0,0,,OFICIALMENTE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HOY{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
+Dialogue: 0,0:00:40.56,0:00:40.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GUERRA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} LOS EMUÉS
+Dialogue: 0,0:00:40.92,0:00:41.42,Default,,0,0,0,,GUERRA DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EMUÉS{\r}
+Dialogue: 0,0:00:41.42,0:00:41.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RECUERDA{\r} COMO UNA
+Dialogue: 0,0:00:41.94,0:00:42.34,Default,,0,0,0,,SE RECUERDA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
+Dialogue: 0,0:00:42.34,0:00:42.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DERROTAS{\r}
 Dialogue: 0,0:00:42.96,0:00:43.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MILITARES{\r} MÁS
 Dialogue: 0,0:00:43.50,0:00:43.70,Default,,0,0,0,,MILITARES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r}
 Dialogue: 0,0:00:43.70,0:00:44.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HUMILLANTES{\r} Y ABSURDAS
-Dialogue: 0,0:00:44.18,0:00:44.38,Default,,0,0,0,,HUMILLANTES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} ABSURDAS
-Dialogue: 0,0:00:44.38,0:00:44.82,Default,,0,0,0,,HUMILLANTES Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ABSURDAS{\r}
-Dialogue: 0,0:00:44.82,0:00:44.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} LA HISTORIA, CONTRA
-Dialogue: 0,0:00:44.92,0:00:45.00,Default,,0,0,0,,DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} HISTORIA, CONTRA
-Dialogue: 0,0:00:45.00,0:00:45.62,Default,,0,0,0,,DE LA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HISTORIA,{\r} CONTRA
+Dialogue: 0,0:00:44.18,0:00:44.82,Default,,0,0,0,,HUMILLANTES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ABSURDAS{\r}
+Dialogue: 0,0:00:44.82,0:00:45.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HISTORIA,{\r} CONTRA
 Dialogue: 0,0:00:45.62,0:00:45.84,Default,,0,0,0,,DE LA HISTORIA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONTRA{\r}
-Dialogue: 0,0:00:45.84,0:00:46.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} ENEMIGO QUE NI
-Dialogue: 0,0:00:46.02,0:00:46.38,Default,,0,0,0,,UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENEMIGO{\r} QUE NI
-Dialogue: 0,0:00:46.38,0:00:46.56,Default,,0,0,0,,UN ENEMIGO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} NI
-Dialogue: 0,0:00:46.56,0:00:46.70,Default,,0,0,0,,UN ENEMIGO QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NI{\r}
+Dialogue: 0,0:00:45.84,0:00:46.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENEMIGO{\r} QUE NI
+Dialogue: 0,0:00:46.38,0:00:46.70,Default,,0,0,0,,UN ENEMIGO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NI{\r}
 Dialogue: 0,0:00:46.70,0:00:47.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIQUIERA{\r} SABÍA QUE
 Dialogue: 0,0:00:47.02,0:00:47.38,Default,,0,0,0,,SIQUIERA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SABÍA{\r} QUE
 Dialogue: 0,0:00:47.38,0:00:47.54,Default,,0,0,0,,SIQUIERA SABÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
-Dialogue: 0,0:00:47.54,0:00:47.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTABA{\r} EN GUERRA.
-Dialogue: 0,0:00:47.82,0:00:47.98,Default,,0,0,0,,ESTABA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} GUERRA.
+Dialogue: 0,0:00:47.54,0:00:47.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTABA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} GUERRA.
 Dialogue: 0,0:00:47.98,0:00:48.42,Default,,0,0,0,,ESTABA EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GUERRA.{\r}
-Dialogue: 0,0:00:48.54,0:00:48.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} TE HA SORPRENDIDO
-Dialogue: 0,0:00:48.64,0:00:48.76,Default,,0,0,0,,SI {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} HA SORPRENDIDO
-Dialogue: 0,0:00:48.76,0:00:48.84,Default,,0,0,0,,SI TE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HA{\r} SORPRENDIDO
-Dialogue: 0,0:00:48.84,0:00:49.40,Default,,0,0,0,,SI TE HA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
-Dialogue: 0,0:00:49.40,0:00:49.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTE{\r} DATO, SÍGUEME PARA
-Dialogue: 0,0:00:49.64,0:00:50.24,Default,,0,0,0,,ESTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DATO,{\r} SÍGUEME PARA
-Dialogue: 0,0:00:50.24,0:00:50.54,Default,,0,0,0,,ESTE DATO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÍGUEME{\r} PARA
-Dialogue: 0,0:00:50.54,0:00:50.76,Default,,0,0,0,,ESTE DATO, SÍGUEME {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
-Dialogue: 0,0:00:50.76,0:00:50.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} CURIOSIDADES TAN
-Dialogue: 0,0:00:50.94,0:00:51.58,Default,,0,0,0,,MÁS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CURIOSIDADES{\r} TAN
+Dialogue: 0,0:00:48.54,0:00:49.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
+Dialogue: 0,0:00:49.40,0:00:50.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DATO,{\r} SÍGUEME PARA
+Dialogue: 0,0:00:50.24,0:00:50.76,Default,,0,0,0,,ESTE DATO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÍGUEME{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
+Dialogue: 0,0:00:50.76,0:00:51.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CURIOSIDADES{\r} TAN
 Dialogue: 0,0:00:51.58,0:00:51.80,Default,,0,0,0,,MÁS CURIOSIDADES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TAN{\r}
 Dialogue: 0,0:00:51.80,0:00:52.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXTREMAS{\r} COMO ÉSTA.
-Dialogue: 0,0:00:52.34,0:00:52.52,Default,,0,0,0,,EXTREMAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} ÉSTA.
-Dialogue: 0,0:00:52.52,0:00:53.04,Default,,0,0,0,,EXTREMAS COMO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÉSTA.{\r}
+Dialogue: 0,0:00:52.34,0:00:53.04,Default,,0,0,0,,EXTREMAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÉSTA.{\r}

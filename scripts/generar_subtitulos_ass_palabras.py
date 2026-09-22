@@ -24,6 +24,10 @@ MAX_PALABRAS_POR_BLOQUE = 4
 MAX_CHARS_POR_BLOQUE = 24
 PAUSA_CORTE_S = 0.5  # una pausa >= esto entre palabras siempre corta el bloque
 PAD_FINAL_S = 0.20  # cuanto se mantiene en pantalla la ultima palabra de un bloque
+MIN_DUR_RESALTE_S = 0.32  # por debajo de esto el cambio de palabra resaltada
+# "parpadea" y es ilegible (queja real: "van super rapido") -- palabras cortas
+# (articulos, conjunciones) se agrupan con la siguiente hasta sumar este minimo,
+# en vez de tener su propio paso de resaltado de 100-150ms.
 
 COLOR_RESALTE = "&H0000FFFF&"  # amarillo (BGR), palabra que se esta diciendo ahora
 COLOR_BASE = "&H00FFFFFF&"  # blanco, resto de palabras del bloque
@@ -82,11 +86,14 @@ def _tiempo_ass(segundos: float) -> str:
     return f"{h}:{m:02d}:{s:02d}.{cs:02d}"
 
 
-def _renderizar_texto_bloque(bloque: list[dict], idx_resaltada: int) -> str:
+def _renderizar_texto_bloque(bloque: list[dict], idx_inicio: int, idx_fin: int) -> str:
+    """Resalta las palabras [idx_inicio, idx_fin] (ambas incluidas) del bloque —
+    normalmente un rango de 1 palabra, más de una cuando se agruparon por ser
+    demasiado cortas para tener su propio paso de resaltado (ver MIN_DUR_RESALTE_S)."""
     partes = []
     for i, w in enumerate(bloque):
         texto = w["word"].upper()
-        if i == idx_resaltada:
+        if idx_inicio <= i <= idx_fin:
             partes.append(
                 f"{{\\c{COLOR_RESALTE}\\t(0,90,\\fscx116\\fscy116)\\t(90,200,\\fscx100\\fscy100)}}{texto}{{\\r}}"
             )
@@ -129,15 +136,23 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         fin_bloque = bloque[-1]["end"] + PAD_FINAL_S
         if siguiente_bloque:
             fin_bloque = min(fin_bloque, siguiente_bloque[0]["start"])
-        for wi, w in enumerate(bloque):
-            inicio_palabra = w["start"]
-            fin_palabra = bloque[wi + 1]["start"] if wi + 1 < len(bloque) else fin_bloque
-            if fin_palabra <= inicio_palabra:
+        wi = 0
+        while wi < len(bloque):
+            wj = wi
+            inicio_grupo = bloque[wi]["start"]
+            while True:
+                fin_grupo = bloque[wj + 1]["start"] if wj + 1 < len(bloque) else fin_bloque
+                if fin_grupo - inicio_grupo >= MIN_DUR_RESALTE_S or wj == len(bloque) - 1:
+                    break
+                wj += 1
+            if fin_grupo <= inicio_grupo:
+                wi = wj + 1
                 continue
-            texto = _renderizar_texto_bloque(bloque, wi)
+            texto = _renderizar_texto_bloque(bloque, wi, wj)
             lineas_dialogo.append(
-                f"Dialogue: 0,{_tiempo_ass(inicio_palabra)},{_tiempo_ass(fin_palabra)},Default,,0,0,0,,{texto}"
+                f"Dialogue: 0,{_tiempo_ass(inicio_grupo)},{_tiempo_ass(fin_grupo)},Default,,0,0,0,,{texto}"
             )
+            wi = wj + 1
 
     salida_ass.write_text(cabecera + "\n".join(lineas_dialogo) + "\n", encoding="utf-8")
     print(f"Generados {len(bloques)} bloques / {len(lineas_dialogo)} diálogos en: {salida_ass}")
