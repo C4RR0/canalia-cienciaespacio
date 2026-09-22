@@ -61,6 +61,7 @@ import generar_subtitulos
 import corregir_subtitulos
 import quemar_subtitulos
 import generar_miniatura
+import musica
 import subir_youtube
 
 
@@ -353,11 +354,12 @@ def producir(cfg: dict) -> dict:
 
     # 4) Ensamblado
     log("4/8 Ensamblado de vídeo")
+    ruta_musica, titulo_musica = musica.elegir_pista(vid)
     video_mudo_con_audio = dir_salidas / f"{vid}.mp4"
     if formato == "lista":
         ensamblador_lista.ensamblar(carpeta_clips, duraciones_clips, str(audio_final), str(video_mudo_con_audio), ancho, alto)
     else:
-        ensamblador.ensamblar(carpeta_final_img, str(audio_final), str(video_mudo_con_audio), ancho, alto, None, None)
+        ensamblador.ensamblar(carpeta_final_img, str(audio_final), str(video_mudo_con_audio), ancho, alto, None, None, musica_path=ruta_musica)
 
     # 5) Subtitulos
     # Subtítulos ya transcritos y corregidos en local (ver
@@ -433,14 +435,17 @@ def producir(cfg: dict) -> dict:
     log("7/8 Subida a YouTube")
     titulo_path = dir_salidas / f"titulo_{vid}.txt"
     descripcion_path = dir_salidas / f"descripcion_{vid}.txt"
+    # Atribucion obligatoria (licencia CC BY 4.0) de la musica de fondo elegida
+    # arriba, en el paso de ensamblado -- ver scripts/musica.py.
+    descripcion_final = cfg["descripcion"].rstrip() + "\n\n" + musica.atribucion(titulo_musica)
     titulo_path.write_text(cfg["titulo"], encoding="utf-8")
-    descripcion_path.write_text(cfg["descripcion"], encoding="utf-8")
+    descripcion_path.write_text(descripcion_final, encoding="utf-8")
 
     video_id = None
     error_subida = None
     try:
         video_id = subir_youtube.subir(
-            str(video_final), cfg["titulo"], cfg["descripcion"], cfg.get("tags", []),
+            str(video_final), cfg["titulo"], descripcion_final, cfg.get("tags", []),
             cfg.get("categoria_id", "27"), cfg.get("privacidad", "public"), str(miniatura_path),
         )
     except Exception as e:

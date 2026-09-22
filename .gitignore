@@ -44,6 +44,15 @@ _tmp_v2/
 !cola_subtitulos/*.srt
 !cola_subtitulos/*.ass
 
+# Excepcion: musica/ SI viaja por git -- son 5 pistas FIJAS de fondo
+# (Kevin MacLeod / incompetech.com, CC BY 4.0, ver musica/CREDITOS.txt),
+# no colas temporales: viven en el repo permanentemente porque el mezclado
+# ocurre dentro de producir_video.py, que SI corre en la nube (a diferencia
+# de TTS/imagenes/subtitulos/miniatura, no dependen de red en tiempo de
+# ejecucion, solo del propio fichero ya en el repo).
+!musica/
+!musica/*.mp3
+
 # Excepcion: cola_miniaturas/ SI viaja por git (mismo puente local->nube,
 # 2026-09-22 — la miniatura IA cinematografica usa Pollinations, tambien
 # bloqueado por la whitelist del sandbox cloud). La nube la borra tras

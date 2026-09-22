@@ -49,7 +49,7 @@ def cargar_secuencia(secuencia_path: Path, dur_total: float, t: float, dur_min: 
     return imagenes, duraciones
 
 
-def ensamblar(carpeta_imagenes: Path, audio_path: str, salida: str, ancho: int, alto: int, overlays_index: Path | None, secuencia_path: Path | None = None):
+def ensamblar(carpeta_imagenes: Path, audio_path: str, salida: str, ancho: int, alto: int, overlays_index: Path | None, secuencia_path: Path | None = None, musica_path: Path | None = None):
     ffmpeg, ffprobe = resolver_bin()
     dur_total = duracion_audio(ffprobe, audio_path)
     t = TRANSICION_DUR
@@ -142,9 +142,27 @@ def ensamblar(carpeta_imagenes: Path, audio_path: str, salida: str, ancho: int, 
             raise RuntimeError("ffmpeg falló aplicando las tarjetas de datos")
         print(f"Vídeo con tarjetas de datos generado: {video_con_overlays}")
 
-    cmd_final = [ffmpeg, "-y", "-i", str(video_con_overlays), "-i", audio_path,
-                 "-c:v", "libx264", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
-                 "-shortest", salida]
+    if musica_path and Path(musica_path).exists():
+        # Cama musical de fondo, en bucle si hace falta y recortada a la duracion
+        # exacta de la narracion, con fade in/out y volumen bajo (no debe competir
+        # con la voz). amix con normalize=0 para controlar el nivel a mano en vez
+        # de que ffmpeg divida ambas pistas a la mitad automaticamente.
+        fade_out_inicio = max(dur_total - 1.5, 0)
+        filtro_audio = (
+            f"[2:a]aloop=loop=-1:size=2147483647,atrim=0:{dur_total:.3f},"
+            f"afade=t=in:st=0:d=1.5,afade=t=out:st={fade_out_inicio:.3f}:d=1.5,"
+            f"volume=0.13[musica];"
+            f"[1:a]volume=1.0[voz];"
+            f"[voz][musica]amix=inputs=2:duration=first:dropout_transition=0:normalize=0[aout]"
+        )
+        cmd_final = [ffmpeg, "-y", "-i", str(video_con_overlays), "-i", audio_path, "-i", str(musica_path),
+                     "-filter_complex", filtro_audio, "-map", "0:v", "-map", "[aout]",
+                     "-c:v", "libx264", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
+                     "-shortest", salida]
+    else:
+        cmd_final = [ffmpeg, "-y", "-i", str(video_con_overlays), "-i", audio_path,
+                     "-c:v", "libx264", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
+                     "-shortest", salida]
     r = subprocess.run(cmd_final, capture_output=True, text=True)
     if r.returncode != 0:
         print(r.stderr[-4000:])

@@ -1,0 +1,16 @@
+Música de fondo del canal "Sabías Qué" — todas las pistas son de Kevin MacLeod
+(incompetech.com), licenciadas bajo Creative Commons Attribution 4.0
+(https://creativecommons.org/licenses/by/4.0/). Uso libre con atribución.
+Catálogo obtenido vía la API pública de incompetech.com (pieces.json), 2026-09-22.
+
+Pistas incluidas y su crédito exacto (usar tal cual en la descripción del vídeo
+que la use, ver `atribucion()` en scripts/musica.py):
+
+- comfortable_mystery_3.mp3  <- "Comfortable Mystery 3" Kevin MacLeod (incompetech.com)
+- comfortable_mystery_4.mp3  <- "Comfortable Mystery 4" Kevin MacLeod (incompetech.com)
+- living_voyage.mp3          <- "Living Voyage" Kevin MacLeod (incompetech.com)
+- ancient_rite.mp3           <- "Ancient Rite" Kevin MacLeod (incompetech.com)
+- envision.mp3               <- "Envision" Kevin MacLeod (incompetech.com)
+
+Licencia completa: Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
