@@ -34,3 +34,5 @@ el escarabajo bombardero dispara un chorro de liquido hirviendo como defensa (re
 el hongo Ophiocordyceps unilateralis controla la mente de las hormigas ("hongo zombi") - short_031_hongo_zombi_hormigas
 la Guerra de los Emus en Australia 1932, el ejercito perdio contra los pajaros - short_032_guerra_emus
 la sonda Voyager 1, el objeto humano mas lejano, sigue transmitiendo casi 50 anos despues - short_033_voyager1
+el pulpo mimico (Thaumoctopus mimicus) puede imitar mas de 15 animales marinos distintos segun el depredador - short_034_pulpo_mimico
+el arbol mas solitario del mundo (Isla Campbell, 222km sin otro arbol), usado como registro de pruebas nucleares - short_035_arbol_mas_solo
