@@ -1,0 +1,22 @@
+{
+  "id": "short_037_sonido_agujero_negro",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "espacio",
+  "guion": "¿Sabías que la NASA grabó el sonido más grave jamás detectado en todo el universo, y viene de un agujero negro?\n\nEn el año dos mil tres, el telescopio espacial Chandra detectó ondas de presión viajando a través del gas que rodea a un agujero negro supermasivo, en el centro del cúmulo de galaxias Perseo. Esas ondas eran, literalmente, sonido, propagándose por el gas del espacio.\n\nLa nota resultante es un si bemol, cincuenta y siete octavas por debajo del do central de un piano. Para que te hagas una idea de lo grave que es esto, el oído humano no puede percibir nada por debajo de veinte hercios, y esta nota tiene una frecuencia de un ciclo cada diez millones de años.\n\nLos científicos tuvieron que acelerar esa frecuencia billones de veces para poder escucharla, convirtiéndola en el sonido más profundo jamás detectado en el cosmos.\n\nUn agujero negro, tocando una única nota grave, durante millones y millones de años, en el silencio absoluto del espacio.\n\nSi te ha sorprendido este dato, sígueme para más curiosidades tan extremas como esta.",
+  "queries_imagenes": [
+    "Perseus cluster galaxy photo",
+    "Chandra X-ray telescope space photo",
+    "black hole space photo",
+    "galaxy cluster space photo",
+    "deep space telescope image"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "La NASA grabó la nota más grave jamás detectada en el universo",
+  "descripcion": "En 2003, el telescopio Chandra detectó ondas sonoras reales propagándose por el gas alrededor de un agujero negro supermasivo en el cúmulo de Perseo: un si bemol 57 octavas por debajo del do central, con una frecuencia de un ciclo cada diez millones de años. El sonido más grave jamás detectado en el cosmos.\n\n#curiosidades #datoscuriosos #espacio #nasa #agujeronegro #shorts",
+  "tags": ["curiosidades", "datos curiosos", "agujero negro", "nasa", "espacio", "cumulo de perseo", "shorts"],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "EL SONIDO MÁS GRAVE DEL UNIVERSO"
+}
