@@ -1,0 +1,33 @@
+{
+  "id": "short_066_hongos_chernobil",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "curiosidades",
+  "guion": "Dentro de las ruinas de Chernóbil encontraron algo vivo. Y parecía alimentarse de la radiación.\n\nAños después del desastre, un robot enviado al interior del reactor encontró hongos negros creciendo en las paredes, en uno de los lugares más radiactivos del planeta.\n\nEstos hongos están cargados de melanina, el mismo pigmento que oscurece nuestra piel. Y en experimentos, algunos crecían más rápido cuando se les exponía a la radiación, como si la aprovecharan igual que las plantas aprovechan la luz del sol.\n\nIncluso se han probado en la Estación Espacial Internacional como posible escudo para astronautas.\n\nLo que para nosotros es mortal, para ellos podría ser comida.",
+  "queries_imagenes": [
+    "Chernobyl reactor 4",
+    "Chernobyl sarcophagus",
+    "black fungus mold",
+    "Cladosporium sphaerospermum",
+    "Pripyat abandoned",
+    "Chernobyl control room",
+    "International Space Station",
+    "fungus microscope"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Algo vivo crece dentro del reactor de Chernóbil",
+  "descripcion": "En las ruinas del reactor de Chernóbil se encontraron hongos negros ricos en melanina que, en experimentos, crecían más rápido expuestos a radiación. Incluso se han probado en la Estación Espacial Internacional como escudo contra la radiación.\n\n#curiosidades #chernobyl #ciencia #hongos #shorts",
+  "tags": [
+    "curiosidades",
+    "hongos chernobyl",
+    "hongo radiactivo chernobyl",
+    "chernobyl",
+    "radiacion",
+    "ciencia",
+    "shorts"
+  ],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "VIVE DE LA RADIACIÓN"
+}

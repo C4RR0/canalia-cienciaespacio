@@ -1,0 +1,33 @@
+{
+  "id": "short_067_platanos_radiactivos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "curiosidades",
+  "guion": "Tu desayuno es ligeramente radiactivo. Y no pasa absolutamente nada.\n\nLos plátanos tienen mucho potasio, y una parte diminuta de ese potasio es radiactiva de forma natural. Es algo tan conocido que hay científicos que usan la dosis equivalente a un plátano para explicar la radiación de forma sencilla.\n\nIncluso se ha dado el caso de camiones cargados de plátanos que hacían saltar los detectores de radiación en los puertos.\n\nPero tranquilo: para que fuera peligroso tendrías que comerte millones de plátanos de golpe, algo físicamente imposible.\n\nY por cierto: tu propio cuerpo también es un poco radiactivo. Por el mismo motivo.",
+  "queries_imagenes": [
+    "banana bunch",
+    "bananas",
+    "Geiger counter",
+    "radiation detector port",
+    "banana plantation",
+    "potassium",
+    "cargo truck port",
+    "banana split open"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Los plátanos son radiactivos (de verdad)",
+  "descripcion": "Los plátanos contienen potasio-40, un isótopo radiactivo natural. Existe incluso la 'dosis equivalente a un plátano' para explicar la radiación. Es totalmente inofensivo: tu propio cuerpo también contiene potasio-40.\n\n#curiosidades #ciencia #radiactividad #datoscuriosos #shorts",
+  "tags": [
+    "curiosidades",
+    "platanos radiactivos",
+    "radiactividad",
+    "ciencia",
+    "datos curiosos",
+    "dosis equivalente a un platano",
+    "shorts"
+  ],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "TU DESAYUNO ES RADIACTIVO"
+}

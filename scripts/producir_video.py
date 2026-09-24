@@ -447,14 +447,19 @@ def producir(cfg: dict) -> dict:
 
     video_id = None
     error_subida = None
-    try:
-        video_id = subir_youtube.subir(
-            str(video_final), cfg["titulo"], descripcion_final, cfg.get("tags", []),
-            cfg.get("categoria_id", "27"), cfg.get("privacidad", "public"), str(miniatura_path),
-        )
-    except Exception as e:
-        error_subida = str(e)
-        print(f"AVISO: la subida (o la miniatura) falló: {e}")
+    if cfg.get("solo_render"):
+        # Renderizado para otro canal (p. ej. CiberJuegos, que sube desde su
+        # propia cola_listos/): se deja el vídeo en salidas/ sin subirlo.
+        print("solo_render: vídeo renderizado, no se sube.")
+    else:
+        try:
+            video_id = subir_youtube.subir(
+                str(video_final), cfg["titulo"], descripcion_final, cfg.get("tags", []),
+                cfg.get("categoria_id", "27"), cfg.get("privacidad", "public"), str(miniatura_path),
+            )
+        except Exception as e:
+            error_subida = str(e)
+            print(f"AVISO: la subida (o la miniatura) falló: {e}")
 
     # 8) Resultado
     log("8/8 Resultado")

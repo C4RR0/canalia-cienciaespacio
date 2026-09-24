@@ -1172,3 +1172,21 @@ cloud. No es "producción 100% autónoma sin intervención humana", es
 "terminar y publicar en la nube lo que se prepare en local", que es lo
 que sí se puede automatizar del todo con las restricciones actuales de
 red del sandbox.
+
+## 2026-09-24 — Auditoría de estrategia orientada a monetización
+
+**Datos (base para comparar, `metricas/` desde hoy):** 41 vídeos, 20.833 vistas, 37 subs. Shorts `curiosidad` ~1.000 vistas de media desde el 20/09 (los del 18-19/09, más bajos, coinciden con el arranque del canal). `lista` y `largo` ≈ 0. Conversión a suscriptor ~0,17 %.
+
+**Mercado (búsqueda 24/09):**
+- YPP: 1.000 subs + 10M vistas Shorts en 90 días (o 4.000 h de largos). **El 1/02/2027 se dobla** (20M / 8.000 h).
+- RPM de Shorts ~0,01-0,07 $/1.000 vistas: los Shorts sirven para captar suscriptores; los ingresos de verdad vienen de los largos.
+- Algoritmo Shorts 2026: manda la retención; umbral ~50 % para 30-60 s; cambio visual cada 1,5-2 s; gancho en el primer segundo; los finales en bucle ayudan.
+- Política de "contenido no auténtico" (jul-2025): se evalúa a nivel de CANAL y penaliza vídeos con plantilla repetida o producidos en masa.
+
+**Problemas detectados y cambios:**
+1. Ritmo visual: 6 imágenes en 55 s (1 cambio cada ~9 s). → `ensamblar_video_v2.py` con `plano_max=2.5` para `curiosidad`: cada imagen se trocea en planos generales/primeros planos. Se aplica también a los vídeos que ya estaban en cola (se montan al publicar).
+2. Plantilla: 46/46 guiones empiezan con "¿Sabías que" y 31 terminan con el mismo CTA. → Desde `short_057` cada guion tiene gancho propio (afirmación impactante, dato imposible o pregunta) y un cierre distinto (reflexión, giro final o pregunta al espectador), sin CTA fijo.
+3. Duración: 50-60 s → 35-45 s (96-117 palabras) para subir el % visto.
+4. Imágenes por vídeo: 5 queries → 8.
+
+**Experimento a medir (7 días):** vistas a 48 h de `short_057`-`short_068` (formato nuevo) frente a `short_033`-`short_056` (formato antiguo, ritmo nuevo) y frente a los de antes del 24/09 (formato y ritmo antiguos).

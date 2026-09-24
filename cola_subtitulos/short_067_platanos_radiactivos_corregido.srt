@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:03,680
+Tu desayuno es ligeramente radiactivo, y no pasa absolutamente nada.
+
+2
+00:00:03,980 --> 00:00:08,939
+Los plátanos tienen mucho potasio, y una parte diminuta de ese potasio es radiactiva de forma natural.
+
+3
+00:00:09,240 --> 00:00:15,619
+Es algo tan conocido que hay científicos que usan la dosis equivalente a un plátano para explicar la radiación de, por más sencilla,
+
+4
+00:00:15,919 --> 00:00:21,480
+incluso se ha dado el caso de camiones cargados de plátanos que hacían saltar los detectores de radiación en los puertos.
+
+5
+00:00:21,760 --> 00:00:27,699
+Pero tranquilo, para que fuera peligroso tendrías que comerte millones de plátanos de golpe, algo físicamente imposible.
+
+6
+00:00:27,699 --> 00:00:31,879
+Y por cierto, tu propio cuerpo también es un poco radiactivo, por el mismo motivo.
+

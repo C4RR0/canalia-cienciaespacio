@@ -222,7 +222,9 @@ def generar_miniatura_para_config(cfg: dict) -> Path | None:
 
     log("Miniatura IA cinematográfica")
     hook = cfg.get("hook_miniatura", cfg["titulo"][:60])
-    sujeto_visual = cfg["queries_imagenes"][0]
+    # prompt_miniatura evita que la IA invente la cara de una persona real
+    # cuando la primera query es un nombre propio (p. ej. "Vesna Vulovic").
+    sujeto_visual = cfg.get("prompt_miniatura") or cfg["queries_imagenes"][0]
     orientacion = cfg.get("orientacion", "vertical" if cfg["formato"] != "largo" else "horizontal")
     semilla = abs(hash(vid)) % 100000
     generar_miniatura.generar_desde_ia(sujeto_visual, hook, str(destino), orientacion, semilla=semilla)
