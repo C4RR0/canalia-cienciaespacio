@@ -1,0 +1,43 @@
+# Foto diaria de métricas del canal en metricas/ (sin Claude). Sirve para
+# medir si cada cambio de estrategia mejora o no el rendimiento.
+name: Metricas diarias
+
+on:
+  schedule:
+    - cron: "40 6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  metricas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Snapshot
+        env:
+          YOUTUBE_TOKEN_JSON: ${{ secrets.YOUTUBE_TOKEN_JSON }}
+        run: |
+          pip install -q google-api-python-client google-auth
+          printf '%s' "$YOUTUBE_TOKEN_JSON" > token.json
+          python scripts/snapshot_metricas.py
+          rm -f token.json
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898183+github-actions[bot]@users.noreply.github.com"
+          git add metricas
+          git commit -m "Metricas diarias $(date -u +%F)" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
