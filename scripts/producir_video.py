@@ -359,7 +359,11 @@ def producir(cfg: dict) -> dict:
     if formato == "lista":
         ensamblador_lista.ensamblar(carpeta_clips, duraciones_clips, str(audio_final), str(video_mudo_con_audio), ancho, alto)
     else:
-        ensamblador.ensamblar(carpeta_final_img, str(audio_final), str(video_mudo_con_audio), ancho, alto, None, None, musica_path=ruta_musica)
+        # Shorts (curiosidad): cambio de plano cada ~2.5 s para retener; los
+        # largos mantienen el ritmo pausado de documental.
+        plano_max = cfg.get("plano_max", 2.5 if formato == "curiosidad" else None)
+        ensamblador.ensamblar(carpeta_final_img, str(audio_final), str(video_mudo_con_audio), ancho, alto, None, None,
+                              musica_path=ruta_musica, plano_max=plano_max)
 
     # 5) Subtitulos
     # Subtítulos ya transcritos y corregidos en local (ver

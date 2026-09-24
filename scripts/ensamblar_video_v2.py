@@ -15,6 +15,7 @@ FFMPEG_FALLBACK = r"C:\Users\Sergio\AppData\Local\Microsoft\WinGet\Packages\Gyan
 FFPROBE_FALLBACK = r"C:\Users\Sergio\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.1-full_build\bin\ffprobe.exe"
 
 TRANSICION_DUR = 0.7
+TRANSICION_RAPIDA = 0.25
 FPS = 30
 
 
@@ -49,7 +50,7 @@ def cargar_secuencia(secuencia_path: Path, dur_total: float, t: float, dur_min: 
     return imagenes, duraciones
 
 
-def ensamblar(carpeta_imagenes: Path, audio_path: str, salida: str, ancho: int, alto: int, overlays_index: Path | None, secuencia_path: Path | None = None, musica_path: Path | None = None):
+def ensamblar(carpeta_imagenes: Path, audio_path: str, salida: str, ancho: int, alto: int, overlays_index: Path | None, secuencia_path: Path | None = None, musica_path: Path | None = None, plano_max: float | None = None):
     ffmpeg, ffprobe = resolver_bin()
     dur_total = duracion_audio(ffprobe, audio_path)
     t = TRANSICION_DUR
@@ -67,21 +68,54 @@ def ensamblar(carpeta_imagenes: Path, audio_path: str, salida: str, ancho: int, 
     if n == 0:
         raise FileNotFoundError(f"No hay imágenes en {carpeta_imagenes}")
 
+    # Ritmo rápido (Shorts): cada imagen se trocea en varios "planos" de como
+    # mucho plano_max segundos, cada uno con un encuadre y zoom distintos, para
+    # que haya un cambio visual cada ~2-3 s (el algoritmo de Shorts 2026 premia
+    # la retención, y 9 s sobre la misma imagen hacía que la gente deslizara).
+    # (ax, ay, zoom_inicial, zoom_final): alterna plano general y primer plano
+    # en zonas distintas de la imagen, como cortes de cámara reales.
+    anclas = [(0.5, 0.5, 1.0, 1.15), (0.3, 0.35, 1.75, 1.6), (0.5, 0.5, 1.2, 1.05),
+              (0.7, 0.65, 1.6, 1.75), (0.5, 0.3, 1.1, 1.3)]
+    planos = []  # (imagen, duracion, ax, ay, direccion | (zoom_ini, zoom_fin))
+    if plano_max:
+        t = TRANSICION_RAPIDA
+        k = 0
+        for img, dur_clip in zip(imagenes, duraciones):
+            util = dur_clip - t
+            partes = max(1, round(util / plano_max))
+            for _ in range(partes):
+                ax, ay, z0, z1 = anclas[k % len(anclas)]
+                planos.append((img, util / partes + t, ax, ay, (z0, z1)))
+                k += 1
+        escala = 4000
+    else:
+        for i, (img, dur_clip) in enumerate(zip(imagenes, duraciones)):
+            planos.append((img, dur_clip, 0.5, 0.5, "in" if i % 2 == 0 else "out"))
+        escala = 8000
+    duraciones = [p[1] for p in planos]
+    n = len(planos)
+
     inputs = []
     filtro_partes = []
-    for i, (img, dur_clip) in enumerate(zip(imagenes, duraciones)):
+    for i, (img, dur_clip, ax, ay, direccion) in enumerate(planos):
         n_frames = int(dur_clip * FPS)
         inputs += ["-loop", "1", "-t", f"{dur_clip:.3f}", "-i", str(img)]
-        direccion = "in" if i % 2 == 0 else "out"
-        if direccion == "in":
-            zoom_expr = "min(zoom+0.0006,1.2)"
+        if plano_max:
+            # Planos cortos: zoom más marcado para que se note el movimiento.
+            z0, z1 = direccion
+            zoom_expr = f"{z0}+({z1}-{z0})*on/{n_frames}"
+            pos = f":x='(iw-iw/zoom)*{ax}':y='(ih-ih/zoom)*{ay}'"
         else:
-            zoom_expr = "if(eq(on,1),1.2,max(zoom-0.0006,1.0))"
+            if direccion == "in":
+                zoom_expr = "min(zoom+0.0006,1.2)"
+            else:
+                zoom_expr = "if(eq(on,1),1.2,max(zoom-0.0006,1.0))"
+            pos = ""
         # Gradeado cinematográfico: mas contraste/saturacion + nitidez leve
         # (compensa fotos reales algo planas o de baja resolucion de archivo)
         # + vineta sutil para dirigir la mirada al centro, estilo documental.
         filtro_partes.append(
-            f"[{i}:v]scale=8000:-1,zoompan=z='{zoom_expr}':d={n_frames}:s={ancho}x{alto}:fps={FPS},"
+            f"[{i}:v]scale={escala}:-1,zoompan=z='{zoom_expr}'{pos}:d={n_frames}:s={ancho}x{alto}:fps={FPS},"
             f"eq=contrast=1.12:saturation=1.22:brightness=0.01:gamma=1.03,"
             f"unsharp=5:5:0.5,vignette=PI/5.5,"
             f"format=yuva420p,setsar=1[c{i}]"
