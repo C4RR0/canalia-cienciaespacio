@@ -3,12 +3,12 @@
 # Requiere el secret YOUTUBE_TOKEN_JSON (contenido de token.json del canal).
 #
 # Cuota YouTube compartida por los 3 canales (mismo proyecto Google Cloud,
-# ~6 subidas/día, reinicio 07:00 UTC): Sabías Qué 4/día, Mitos 1, CiberJuegos 1.
+# ~6 subidas/día, reinicio 07:00 UTC): Sabías Qué 5/día (prioridad), CiberJuegos 1. Mitos en pausa.
 name: Publicar siguiente video
 
 on:
   schedule:
-    - cron: "20 8,12,16,20 * * *"
+    - cron: "20 8,11,14,17,20 * * *"
   workflow_dispatch:
 
 concurrency:
