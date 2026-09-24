@@ -3,12 +3,14 @@
 # Requiere el secret YOUTUBE_TOKEN_JSON (contenido de token.json del canal).
 #
 # Cuota YouTube compartida por los 3 canales (mismo proyecto Google Cloud,
-# ~6 subidas/día, reinicio 07:00 UTC): Sabías Qué 5/día (prioridad), CiberJuegos 1. Mitos en pausa.
+# ~6 subidas/día, reinicio 07:00 UTC en verano / 08:00 UTC desde el 1/11): Sabías Qué 5/día
+# (prioridad), CiberJuegos 1. Mitos en pausa. Primera a las 07:20 UTC = 9:20 en España,
+# justo tras el reinicio. OJO: desde el 1/11 el reinicio pasa a 08:00 UTC -> mover a 8,11,14,17,20.
 name: Publicar siguiente video
 
 on:
   schedule:
-    - cron: "20 8,11,14,17,20 * * *"
+    - cron: "20 7,10,13,16,19 * * *"
   workflow_dispatch:
     inputs:
       prueba:
