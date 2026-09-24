@@ -18,6 +18,7 @@ lo hace quien llama (workflow o persona en local).
 Uso:
     python scripts/publicar_siguiente.py            # publica 1
     python scripts/publicar_siguiente.py --listar   # solo lista los listos
+    python scripts/publicar_siguiente.py --prueba   # renderiza el siguiente SIN subir ni tocar la cola
 
 Salida: código 0 si publicó o no había nada; 1 si falló la producción/subida.
 Escribe la línea "PUBLICADO=<id>" para que el workflow la use en el commit.
@@ -68,11 +69,24 @@ def main():
     vid = listos[0]
     productor = next(BASE / p for p in PRODUCTORES if (BASE / p).exists())
     config = BASE / "produccion_config" / f"{vid}.json"
+    prueba = "--prueba" in sys.argv
+    if prueba:
+        # Ensayo completo en el servidor sin gastar cuota de YouTube.
+        cfg = json.loads(config.read_text(encoding="utf-8"))
+        cfg["solo_render"] = True
+        config = BASE / "salidas" / f"_prueba_{vid}.json"
+        config.parent.mkdir(exist_ok=True)
+        config.write_text(json.dumps(cfg, ensure_ascii=False), encoding="utf-8")
     print(f"Produciendo {vid} con {productor.name}...", flush=True)
     subprocess.run([sys.executable, str(productor), str(config)], cwd=BASE)
 
     resultado_path = BASE / "salidas" / f"resultado_{vid}.json"
     resultado = json.loads(resultado_path.read_text(encoding="utf-8")) if resultado_path.exists() else {}
+    if prueba:
+        final = BASE / "salidas" / f"{vid}_FINAL.mp4"
+        ok = final.exists() and final.stat().st_size > 100_000
+        print(f"PRUEBA {'OK' if ok else 'FALLIDA'}: {final.name} ({final.stat().st_size if final.exists() else 0} bytes), no se ha subido nada")
+        return 0 if ok else 1
     if not resultado.get("video_id"):
         print(f"ERROR: {vid} no se publicó: {resultado.get('error_subida') or 'sin resultado'}")
         return 1

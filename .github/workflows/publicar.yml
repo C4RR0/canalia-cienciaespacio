@@ -10,6 +10,11 @@ on:
   schedule:
     - cron: "20 8,11,14,17,20 * * *"
   workflow_dispatch:
+    inputs:
+      prueba:
+        description: "Ensayo: renderiza el siguiente video SIN subirlo"
+        type: boolean
+        default: false
 
 concurrency:
   group: publicar
@@ -47,11 +52,18 @@ jobs:
           YOUTUBE_TOKEN_JSON: ${{ secrets.YOUTUBE_TOKEN_JSON }}
         run: |
           printf '%s' "$YOUTUBE_TOKEN_JSON" > token.json
-          python scripts/publicar_siguiente.py | tee salida.txt
+          python scripts/publicar_siguiente.py ${{ inputs.prueba && '--prueba' || '' }} | tee salida.txt
           rm -f token.json
 
+      - name: Subir video de prueba como artefacto
+        if: inputs.prueba
+        uses: actions/upload-artifact@v4
+        with:
+          name: video-prueba
+          path: salidas/*_FINAL.mp4
+
       - name: Commit de limpieza de cola
-        if: steps.cola.outputs.hay == '1'
+        if: steps.cola.outputs.hay == '1' && !inputs.prueba
         run: |
           rm -f token.json
           ID=$(grep -oP "PUBLICADO=\K.*" salida.txt || true)
