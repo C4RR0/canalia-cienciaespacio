@@ -8,9 +8,10 @@
 # justo tras el reinicio. OJO: desde el 1/11 el reinicio pasa a 08:00 UTC -> mover a 8,11,14,17,20.
 name: Publicar siguiente video
 
+# Lo dispara cron-job.org (job "Publicar Sabías Qué", 9:20/12:20/15:20/18:20/21:20
+# hora de Madrid) vía API workflow_dispatch. NO usar `schedule`: el cron de GitHub
+# no llegó a dispararse nunca (24-25/09/2026) y además duplicaría subidas.
 on:
-  schedule:
-    - cron: "20 7,10,13,16,19 * * *"
   workflow_dispatch:
     inputs:
       prueba:
