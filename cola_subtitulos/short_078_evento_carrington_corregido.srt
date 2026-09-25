@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:06,419
+En 1859, una tormenta del sol hizo que los telégrafos soltaran chispas y funcionaran desconectados.
+
+2
+00:00:06,639 --> 00:00:11,640
+Es el evento Carrington, la tormenta solar más potente que se ha registrado. Una enorme eyección
+
+3
+00:00:11,640 --> 00:00:15,900
+del sol chocó contra el campo magnético de la Tierra. Hubo auroras boreales visibles
+
+4
+00:00:15,900 --> 00:00:20,600
+casi hasta el Ecuador. Eran tan brillantes que, en las montañas rocosas, unos mineros
+
+5
+00:00:20,600 --> 00:00:24,920
+se levantaron a preparar el desayuno creyendo que ya era de día. Algunos telegrafistas
+
+6
+00:00:24,920 --> 00:00:29,100
+recibieron descargas y hubo líneas que siguieron enviando mensajes con las baterías
+
+7
+00:00:29,100 --> 00:00:34,579
+quitadas. En 1859 casi no había electricidad. Hoy dependemos de ella para todo.
+

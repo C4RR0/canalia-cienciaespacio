@@ -1,0 +1,34 @@
+{
+  "id": "short_074_wojtek_oso_soldado",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "historia",
+  "guion": "En la Segunda Guerra Mundial hubo un soldado que medía casi dos metros, pesaba doscientos kilos y era un oso.\n\nSe llamaba Wojtek. Unos soldados polacos lo compraron de cachorro en Irán y lo criaron con ellos. Bebía cerveza, luchaba en broma con la tropa y dormía en las tiendas.\n\nPara poder llevarlo en los barcos, el ejército lo alistó de forma oficial, con nombre y número. Según los veteranos, en la batalla de Montecassino ayudó a cargar cajas de munición.\n\nSu unidad acabó usando como emblema un oso con un proyectil en brazos.\n\nPasó el resto de su vida en el zoo de Edimburgo.",
+  "queries_imagenes": [
+    "Wojtek bear",
+    "Wojtek soldier bear",
+    "Syrian brown bear",
+    "Polish II Corps",
+    "Monte Cassino",
+    "brown bear",
+    "Wojtek statue Edinburgh",
+    "artillery shells"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "El soldado de 200 kilos que luchó en la Segunda Guerra Mundial",
+  "descripcion": "Wojtek fue un oso pardo sirio adoptado por soldados polacos en 1942. Fue alistado oficialmente en el II Cuerpo polaco y, según los veteranos, cargó munición en Montecassino. Vivió después en el zoo de Edimburgo hasta 1963.\n\n#curiosidades #wojtek #segundaguerramundial #historiasreales #shorts",
+  "tags": [
+    "curiosidades",
+    "oso soldado",
+    "wojtek el oso soldado",
+    "oso soldado polaco",
+    "segunda guerra mundial",
+    "historias reales",
+    "shorts"
+  ],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "SOLDADO… Y OSO",
+  "prompt_miniatura": "a large brown bear sitting beside soldiers in a 1940s military camp, vintage war photograph style"
+}

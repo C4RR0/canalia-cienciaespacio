@@ -1,0 +1,76 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,40,108,422,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} 1518, EN ESTRASBURGO,
+Dialogue: 0,0:00:00.32,0:00:01.78,Default,,0,0,0,,EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}1518,{\r} EN ESTRASBURGO,
+Dialogue: 0,0:00:01.78,0:00:02.72,Default,,0,0,0,,EN 1518, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTRASBURGO,{\r}
+Dialogue: 0,0:00:02.76,0:00:03.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIENTOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} PERSONAS
+Dialogue: 0,0:00:03.20,0:00:03.58,Default,,0,0,0,,CIENTOS DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERSONAS{\r}
+Dialogue: 0,0:00:03.58,0:00:04.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EMPEZARON{\r} A BAILAR SIN
+Dialogue: 0,0:00:04.18,0:00:04.58,Default,,0,0,0,,EMPEZARON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BAILAR{\r} SIN
+Dialogue: 0,0:00:04.58,0:00:04.74,Default,,0,0,0,,EMPEZARON A BAILAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIN{\r}
+Dialogue: 0,0:00:04.74,0:00:05.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PODER{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARAR.{\r}
+Dialogue: 0,0:00:05.60,0:00:05.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DURANTE{\r} SEMANAS, TODO
+Dialogue: 0,0:00:05.92,0:00:06.66,Default,,0,0,0,,DURANTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SEMANAS,{\r} TODO
+Dialogue: 0,0:00:06.66,0:00:06.80,Default,,0,0,0,,DURANTE SEMANAS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TODO{\r}
+Dialogue: 0,0:00:06.80,0:00:07.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EMPEZÓ{\r} CON UNA SOLA
+Dialogue: 0,0:00:07.22,0:00:07.72,Default,,0,0,0,,EMPEZÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOLA{\r}
+Dialogue: 0,0:00:07.72,0:00:08.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUJER,{\r} QUE SALIÓ A
+Dialogue: 0,0:00:08.34,0:00:08.74,Default,,0,0,0,,MUJER, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SALIÓ{\r} A
+Dialogue: 0,0:00:08.74,0:00:08.82,Default,,0,0,0,,MUJER, QUE SALIÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
+Dialogue: 0,0:00:08.82,0:00:09.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CALLE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} BAILAR
+Dialogue: 0,0:00:09.28,0:00:09.56,Default,,0,0,0,,LA CALLE A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BAILAR{\r}
+Dialogue: 0,0:00:09.56,0:00:09.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} DETUVO
+Dialogue: 0,0:00:09.90,0:00:10.20,Default,,0,0,0,,Y NO SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DETUVO{\r}
+Dialogue: 0,0:00:10.20,0:00:10.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DÍAS.{\r}
+Dialogue: 0,0:00:10.84,0:00:11.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CABO{\r} DE UN
+Dialogue: 0,0:00:11.18,0:00:11.48,Default,,0,0,0,,AL CABO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r}
+Dialogue: 0,0:00:11.48,0:00:11.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MES,{\r} LAS CRÓNICAS HABLAN
+Dialogue: 0,0:00:11.98,0:00:12.54,Default,,0,0,0,,MES, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CRÓNICAS{\r} HABLAN
+Dialogue: 0,0:00:12.54,0:00:12.84,Default,,0,0,0,,MES, LAS CRÓNICAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HABLAN{\r}
+Dialogue: 0,0:00:12.84,0:00:13.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNAS{\r} 400 PERSONAS.
+Dialogue: 0,0:00:13.18,0:00:13.50,Default,,0,0,0,,DE UNAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}400{\r} PERSONAS.
+Dialogue: 0,0:00:13.50,0:00:14.48,Default,,0,0,0,,DE UNAS 400 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERSONAS.{\r}
+Dialogue: 0,0:00:14.62,0:00:14.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} INCREÍBLE FUE
+Dialogue: 0,0:00:14.94,0:00:15.44,Default,,0,0,0,,LO MÁS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INCREÍBLE{\r} FUE
+Dialogue: 0,0:00:15.44,0:00:15.66,Default,,0,0,0,,LO MÁS INCREÍBLE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUE{\r}
+Dialogue: 0,0:00:15.66,0:00:16.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOLUCIÓN{\r} DE LAS
+Dialogue: 0,0:00:16.28,0:00:16.50,Default,,0,0,0,,LA SOLUCIÓN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r}
+Dialogue: 0,0:00:16.50,0:00:17.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AUTORIDADES,{\r} PENSARON
+Dialogue: 0,0:00:17.32,0:00:17.74,Default,,0,0,0,,AUTORIDADES, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PENSARON{\r}
+Dialogue: 0,0:00:17.74,0:00:18.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CURA{\r} ERA
+Dialogue: 0,0:00:18.32,0:00:18.48,Default,,0,0,0,,QUE LA CURA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ERA{\r}
+Dialogue: 0,0:00:18.48,0:00:18.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BAILAR{\r} MÁS, ASÍ QUE
+Dialogue: 0,0:00:18.84,0:00:19.36,Default,,0,0,0,,BAILAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS,{\r} ASÍ QUE
+Dialogue: 0,0:00:19.36,0:00:19.70,Default,,0,0,0,,BAILAR MÁS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ASÍ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
+Dialogue: 0,0:00:19.70,0:00:20.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONTRATARON{\r} MÚSICOS Y
+Dialogue: 0,0:00:20.24,0:00:20.68,Default,,0,0,0,,CONTRATARON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÚSICOS{\r} Y
+Dialogue: 0,0:00:20.68,0:00:20.86,Default,,0,0,0,,CONTRATARON MÚSICOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
+Dialogue: 0,0:00:20.86,0:00:21.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MONTARON{\r} UN ESCENARIO.
+Dialogue: 0,0:00:21.22,0:00:22.02,Default,,0,0,0,,MONTARON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESCENARIO.{\r}
+Dialogue: 0,0:00:22.14,0:00:22.70,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SEGÚN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGUNOS{\r} RELATOS,
+Dialogue: 0,0:00:22.70,0:00:23.46,Default,,0,0,0,,SEGÚN ALGUNOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RELATOS,{\r}
+Dialogue: 0,0:00:23.46,0:00:23.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HUBO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GENTE{\r} QUE MURIÓ
+Dialogue: 0,0:00:23.94,0:00:24.40,Default,,0,0,0,,HUBO GENTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MURIÓ{\r}
+Dialogue: 0,0:00:24.40,0:00:25.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGOTAMIENTO.{\r}
+Dialogue: 0,0:00:25.34,0:00:25.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HOY{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUCHOS{\r} HISTORIADORES
+Dialogue: 0,0:00:25.72,0:00:26.28,Default,,0,0,0,,HOY MUCHOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HISTORIADORES{\r}
+Dialogue: 0,0:00:26.28,0:00:26.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CREEN{\r} QUE FUE UNA
+Dialogue: 0,0:00:26.78,0:00:27.24,Default,,0,0,0,,CREEN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
+Dialogue: 0,0:00:27.24,0:00:27.60,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTERIA{\r} COLECTIVA.
+Dialogue: 0,0:00:27.60,0:00:28.26,Default,,0,0,0,,ESTERIA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COLECTIVA.{\r}
+Dialogue: 0,0:00:28.30,0:00:28.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIUDAD{\r} CASTIGADA
+Dialogue: 0,0:00:28.84,0:00:29.46,Default,,0,0,0,,EN UNA CIUDAD {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASTIGADA{\r}
+Dialogue: 0,0:00:29.46,0:00:29.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} HAMBRE Y
+Dialogue: 0,0:00:29.78,0:00:30.10,Default,,0,0,0,,POR EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAMBRE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
+Dialogue: 0,0:00:30.10,0:00:31.14,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENFERMEDADES.{\r}

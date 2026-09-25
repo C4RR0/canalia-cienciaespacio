@@ -1,0 +1,77 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,40,108,422,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} NOCHE DE 1986,
+Dialogue: 0,0:00:00.36,0:00:00.82,Default,,0,0,0,,UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NOCHE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} 1986,
+Dialogue: 0,0:00:00.82,0:00:01.96,Default,,0,0,0,,UNA NOCHE DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}1986,{\r}
+Dialogue: 0,0:00:02.44,0:00:02.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAGO{\r} DE CAMERÚN
+Dialogue: 0,0:00:02.78,0:00:03.26,Default,,0,0,0,,UN LAGO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAMERÚN{\r}
+Dialogue: 0,0:00:03.26,0:00:03.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MATÓ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} MÁS DE
+Dialogue: 0,0:00:03.62,0:00:03.90,Default,,0,0,0,,MATÓ A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:03.90,0:00:04.30,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}1{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}.700{\r} PERSONAS, SIN
+Dialogue: 0,0:00:04.30,0:00:05.38,Default,,0,0,0,,1 .700 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERSONAS,{\r} SIN
+Dialogue: 0,0:00:05.38,0:00:05.60,Default,,0,0,0,,1 .700 PERSONAS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIN{\r}
+Dialogue: 0,0:00:05.60,0:00:06.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUEGO,{\r} SIN AGUA Y
+Dialogue: 0,0:00:06.20,0:00:06.60,Default,,0,0,0,,FUEGO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGUA{\r} Y
+Dialogue: 0,0:00:06.60,0:00:06.76,Default,,0,0,0,,FUEGO, SIN AGUA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
+Dialogue: 0,0:00:06.76,0:00:07.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HACER{\r} RUIDO.
+Dialogue: 0,0:00:07.10,0:00:07.66,Default,,0,0,0,,SIN HACER {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RUIDO.{\r}
+Dialogue: 0,0:00:07.70,0:00:08.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAGO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NI{\r} OS
+Dialogue: 0,0:00:08.16,0:00:08.26,Default,,0,0,0,,EL LAGO NI {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OS{\r}
+Dialogue: 0,0:00:08.26,0:00:08.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GUARDABA{\r} EN EL FONDO
+Dialogue: 0,0:00:08.62,0:00:09.06,Default,,0,0,0,,GUARDABA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FONDO{\r}
+Dialogue: 0,0:00:09.06,0:00:09.60,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENORME{\r} CANTIDAD DE
+Dialogue: 0,0:00:09.60,0:00:09.92,Default,,0,0,0,,UNA ENORME {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CANTIDAD{\r} DE
+Dialogue: 0,0:00:09.92,0:00:10.22,Default,,0,0,0,,UNA ENORME CANTIDAD {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:10.22,0:00:10.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DIÓXIDO{\r} DE CARBONO,
+Dialogue: 0,0:00:10.62,0:00:11.34,Default,,0,0,0,,DIÓXIDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CARBONO,{\r}
+Dialogue: 0,0:00:11.40,0:00:11.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DISUELTA{\r} DURANTE SIGLOS.
+Dialogue: 0,0:00:11.90,0:00:12.78,Default,,0,0,0,,DISUELTA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DURANTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIGLOS.{\r}
+Dialogue: 0,0:00:12.94,0:00:13.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REPENTE,{\r} SE LIBERÓ
+Dialogue: 0,0:00:13.78,0:00:14.22,Default,,0,0,0,,DE REPENTE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LIBERÓ{\r}
+Dialogue: 0,0:00:14.22,0:00:14.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GOLPE.{\r}
+Dialogue: 0,0:00:14.86,0:00:15.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NUBE{\r} DE GAS
+Dialogue: 0,0:00:15.28,0:00:15.58,Default,,0,0,0,,UNA NUBE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GAS{\r}
+Dialogue: 0,0:00:15.58,0:00:16.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INVISIBLE,{\r} MÁS PESADA
+Dialogue: 0,0:00:16.40,0:00:16.96,Default,,0,0,0,,INVISIBLE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PESADA{\r}
+Dialogue: 0,0:00:16.96,0:00:17.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AIRE,{\r} BAJÓ
+Dialogue: 0,0:00:17.72,0:00:18.00,Default,,0,0,0,,QUE EL AIRE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BAJÓ{\r}
+Dialogue: 0,0:00:18.00,0:00:18.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VALLES{\r} COMO
+Dialogue: 0,0:00:18.52,0:00:18.78,Default,,0,0,0,,POR LOS VALLES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r}
+Dialogue: 0,0:00:18.78,0:00:19.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RÍO,{\r} DESPLAZÓ EL
+Dialogue: 0,0:00:19.46,0:00:19.96,Default,,0,0,0,,UN RÍO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESPLAZÓ{\r} EL
+Dialogue: 0,0:00:19.96,0:00:20.06,Default,,0,0,0,,UN RÍO, DESPLAZÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
+Dialogue: 0,0:00:20.06,0:00:20.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OXÍGENO{\r} EN ALDEAS DE
+Dialogue: 0,0:00:20.54,0:00:21.00,Default,,0,0,0,,OXÍGENO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALDEAS{\r} DE
+Dialogue: 0,0:00:21.00,0:00:21.14,Default,,0,0,0,,OXÍGENO EN ALDEAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:21.14,0:00:21.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}25{\r} KILÓMETROS A
+Dialogue: 0,0:00:21.80,0:00:22.44,Default,,0,0,0,,HASTA 25 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}KILÓMETROS{\r} A
+Dialogue: 0,0:00:22.44,0:00:22.64,Default,,0,0,0,,HASTA 25 KILÓMETROS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
+Dialogue: 0,0:00:22.64,0:00:23.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REDONDA,{\r} LA GENTE
+Dialogue: 0,0:00:23.40,0:00:23.74,Default,,0,0,0,,LA REDONDA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GENTE{\r}
+Dialogue: 0,0:00:23.74,0:00:24.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MURIÓ{\r} MIENTRAS DORMÍA, Y
+Dialogue: 0,0:00:24.10,0:00:25.10,Default,,0,0,0,,MURIÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MIENTRAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DORMÍA,{\r} Y
+Dialogue: 0,0:00:25.10,0:00:25.18,Default,,0,0,0,,MURIÓ MIENTRAS DORMÍA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
+Dialogue: 0,0:00:25.18,0:00:25.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TAMBIÉN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MILES{\r} DE
+Dialogue: 0,0:00:25.74,0:00:25.92,Default,,0,0,0,,TAMBIÉN MILES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:25.92,0:00:26.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ANIMALES.{\r}
+Dialogue: 0,0:00:26.24,0:00:26.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HOY{\r} HAY TUBOS QUE
+Dialogue: 0,0:00:26.74,0:00:27.20,Default,,0,0,0,,HOY {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAY{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TUBOS{\r} QUE
+Dialogue: 0,0:00:27.20,0:00:27.32,Default,,0,0,0,,HOY HAY TUBOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
+Dialogue: 0,0:00:27.32,0:00:27.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SACAN{\r} EL GAS DEL
+Dialogue: 0,0:00:27.68,0:00:28.08,Default,,0,0,0,,SACAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r}
+Dialogue: 0,0:00:28.08,0:00:28.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FONDO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCO{\r} A POCO,
+Dialogue: 0,0:00:28.64,0:00:29.26,Default,,0,0,0,,FONDO POCO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCO,{\r}
+Dialogue: 0,0:00:29.28,0:00:29.70,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PORQUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} LAGO SE
+Dialogue: 0,0:00:29.70,0:00:30.08,Default,,0,0,0,,PORQUE EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAGO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r}
+Dialogue: 0,0:00:30.08,0:00:31.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIGUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CARGANDO.{\r}

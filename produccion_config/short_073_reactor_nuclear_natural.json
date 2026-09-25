@@ -1,0 +1,34 @@
+{
+  "id": "short_073_reactor_nuclear_natural",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "ciencia",
+  "guion": "Hace unos dos mil millones de años ya funcionaba un reactor nuclear en la Tierra. Y no lo construyó nadie.\n\nEstá en Oklo, en Gabón. En 1972, unos técnicos franceses notaron que al uranio de esa mina le faltaba una pequeña parte del isótopo que se usa como combustible. Como si alguien ya lo hubiera gastado.\n\nY así era. El agua subterránea se filtraba en la roca y hacía que el uranio reaccionara en cadena. Al calentarse, el agua hervía, la reacción se apagaba… y al volver el agua, se encendía otra vez.\n\nEstuvo así, a ratos, durante cientos de miles de años.",
+  "queries_imagenes": [
+    "open pit uranium mine",
+    "Cherenkov radiation reactor",
+    "uranium ore",
+    "Gabon landscape",
+    "nuclear reactor core",
+    "uraninite",
+    "underground mine",
+    "geology rock layers"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Un reactor nuclear de hace 2.000 millones de años que nadie construyó",
+  "descripcion": "En Oklo (Gabón) se descubrió en 1972 que el uranio había funcionado como un reactor nuclear natural hace unos 2.000 millones de años, regulado por el agua subterránea durante cientos de miles de años.\n\n#curiosidades #ciencia #nuclear #datoscuriosos #shorts",
+  "tags": [
+    "curiosidades",
+    "reactor nuclear natural",
+    "reactor nuclear natural de oklo",
+    "oklo",
+    "ciencia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "NADIE LO CONSTRUYÓ",
+  "prompt_miniatura": "glowing blue radioactive veins inside ancient dark rock deep underground, cinematic"
+}

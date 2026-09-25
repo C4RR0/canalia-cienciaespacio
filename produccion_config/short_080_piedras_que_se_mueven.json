@@ -1,0 +1,33 @@
+{
+  "id": "short_080_piedras_que_se_mueven",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "guion": "En el Valle de la Muerte hay piedras de cientos de kilos que se mueven solas y dejan un rastro en el suelo.\n\nNadie las había visto moverse nunca. Durante décadas se habló de campos magnéticos, de vientos imposibles, incluso de bromistas.\n\nHasta que en 2014 unos científicos pusieron cámaras y GPS y las pillaron en plena marcha.\n\nLa clave es el hielo. Cuando llueve, se forma una capa fina de agua que se congela por la noche. Por la mañana, el hielo se rompe en placas, y el viento las empuja lentamente con las piedras dentro.\n\nUn misterio de setenta años, resuelto con un poco de agua.",
+  "queries_imagenes": [
+    "Racetrack Playa",
+    "sailing stones Death Valley",
+    "Death Valley National Park",
+    "sailing stone",
+    "desert dry lake bed",
+    "thin ice sheet",
+    "Racetrack Playa rock",
+    "Death Valley landscape"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Las piedras del Valle de la Muerte que se mueven solas",
+  "descripcion": "En Racetrack Playa (Valle de la Muerte, EE. UU.) hay piedras que se desplazan dejando largos surcos. En 2014 se grabaron por fin en movimiento: placas finas de hielo empujadas por el viento las arrastran.\n\n#curiosidades #valledelamuerte #misterios #datoscuriosos #shorts",
+  "tags": [
+    "curiosidades",
+    "piedras que se mueven solas",
+    "piedras que se mueven en el valle de la muerte",
+    "misterios resueltos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "SE MUEVEN SOLAS",
+  "prompt_miniatura": "a single large rock on a cracked desert lake bed with a long trail behind it at sunrise, mysterious"
+}

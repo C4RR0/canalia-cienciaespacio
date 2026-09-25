@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:05,059
+Hace unos 2.000 millones de años ya funcionaba un reactor nuclear en la tierra y no lo construyó
+
+2
+00:00:05,059 --> 00:00:05,320
+nadie.
+
+3
+00:00:05,559 --> 00:00:07,019
+Está en Okelo, en Gabón.
+
+4
+00:00:07,299 --> 00:00:12,560
+En 1972, unos técnicos franceses notaron que al uranio de esa mina le faltaba una
+
+5
+00:00:12,560 --> 00:00:16,960
+pequeña parte del isótopo que se usa, como combustible, como si alguien ya lo hubiera
+
+6
+00:00:16,960 --> 00:00:17,440
+gastado.
+
+7
+00:00:17,640 --> 00:00:22,100
+Y así era, el agua subterránea se filtraba en la roca y hacía que el uranio reaccionara
+
+8
+00:00:22,100 --> 00:00:22,620
+en cadena.
+
+9
+00:00:22,859 --> 00:00:28,079
+Al calentarse, el agua hervía, la reacción se apagaba, y al volver el agua, se encendía
+
+10
+00:00:28,079 --> 00:00:28,500
+otra vez.
+
+11
+00:00:28,500 --> 00:00:31,719
+Estuvo así, a ratos, durante cientos de miles de años.
+

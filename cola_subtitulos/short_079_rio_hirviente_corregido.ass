@@ -1,0 +1,76 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,40,108,422,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} MITAD DEL AMAZONAS
+Dialogue: 0,0:00:00.34,0:00:00.80,Default,,0,0,0,,EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MITAD{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} AMAZONAS
+Dialogue: 0,0:00:00.80,0:00:01.34,Default,,0,0,0,,EN MITAD DEL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AMAZONAS{\r}
+Dialogue: 0,0:00:01.34,0:00:01.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAY{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RÍO{\r} QUE
+Dialogue: 0,0:00:01.82,0:00:01.98,Default,,0,0,0,,HAY UN RÍO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
+Dialogue: 0,0:00:01.98,0:00:02.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HIERVE.{\r}
+Dialogue: 0,0:00:02.52,0:00:03.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ANIMAL{\r} CAE
+Dialogue: 0,0:00:03.06,0:00:03.36,Default,,0,0,0,,SI UN ANIMAL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAE{\r}
+Dialogue: 0,0:00:03.36,0:00:03.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DENTRO,{\r} SALE COCIDO.
+Dialogue: 0,0:00:03.92,0:00:04.78,Default,,0,0,0,,DENTRO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SALE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COCIDO.{\r}
+Dialogue: 0,0:00:04.86,0:00:05.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTÁ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} PERÚ Y
+Dialogue: 0,0:00:05.24,0:00:05.60,Default,,0,0,0,,ESTÁ EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERÚ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
+Dialogue: 0,0:00:05.60,0:00:06.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOCALES{\r} LO LLAMAN
+Dialogue: 0,0:00:06.20,0:00:06.56,Default,,0,0,0,,LOS LOCALES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMAN{\r}
+Dialogue: 0,0:00:06.56,0:00:07.14,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SANAITIM{\r} PISKA.
+Dialogue: 0,0:00:07.14,0:00:07.62,Default,,0,0,0,,SANAITIM {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PISKA.{\r}
+Dialogue: 0,0:00:07.70,0:00:08.12,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGUNOS{\r} TRAMOS, EL
+Dialogue: 0,0:00:08.12,0:00:08.84,Default,,0,0,0,,EN ALGUNOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRAMOS,{\r} EL
+Dialogue: 0,0:00:08.84,0:00:08.92,Default,,0,0,0,,EN ALGUNOS TRAMOS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
+Dialogue: 0,0:00:08.92,0:00:09.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGUA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUPERA{\r} LOS 90
+Dialogue: 0,0:00:09.50,0:00:09.96,Default,,0,0,0,,AGUA SUPERA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}90{\r}
+Dialogue: 0,0:00:09.96,0:00:10.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GRADOS,{\r} CASI COMO UNA
+Dialogue: 0,0:00:10.58,0:00:11.04,Default,,0,0,0,,GRADOS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} UNA
+Dialogue: 0,0:00:11.04,0:00:11.28,Default,,0,0,0,,GRADOS, CASI COMO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
+Dialogue: 0,0:00:11.28,0:00:11.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OLLA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AL{\r} FUEGO.
+Dialogue: 0,0:00:11.64,0:00:12.02,Default,,0,0,0,,OLLA AL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUEGO.{\r}
+Dialogue: 0,0:00:12.22,0:00:12.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DURANTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑOS{\r} SE PENSÓ
+Dialogue: 0,0:00:12.72,0:00:13.30,Default,,0,0,0,,DURANTE AÑOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PENSÓ{\r}
+Dialogue: 0,0:00:13.30,0:00:13.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ERA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOLO{\r} UNA
+Dialogue: 0,0:00:13.84,0:00:14.06,Default,,0,0,0,,QUE ERA SOLO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
+Dialogue: 0,0:00:14.06,0:00:14.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LEYENDA.{\r}
+Dialogue: 0,0:00:14.72,0:00:15.12,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} UN
+Dialogue: 0,0:00:15.12,0:00:15.24,Default,,0,0,0,,HASTA QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r}
+Dialogue: 0,0:00:15.24,0:00:16.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GEOCENTÍFICO{\r} PERUANO,
+Dialogue: 0,0:00:16.00,0:00:16.66,Default,,0,0,0,,GEOCENTÍFICO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERUANO,{\r}
+Dialogue: 0,0:00:16.68,0:00:17.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HABÍA{\r} OÍDO
+Dialogue: 0,0:00:17.06,0:00:17.30,Default,,0,0,0,,QUE LA HABÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OÍDO{\r}
+Dialogue: 0,0:00:17.30,0:00:18.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NIÑO,{\r} FUE A
+Dialogue: 0,0:00:18.00,0:00:18.20,Default,,0,0,0,,DE NIÑO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
+Dialogue: 0,0:00:18.20,0:00:18.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BUSCARLO{\r} Y LO ENCONTRÓ.
+Dialogue: 0,0:00:18.66,0:00:19.40,Default,,0,0,0,,BUSCARLO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENCONTRÓ.{\r}
+Dialogue: 0,0:00:19.46,0:00:19.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RARO{\r} ES QUE
+Dialogue: 0,0:00:19.82,0:00:20.16,Default,,0,0,0,,LO RARO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
+Dialogue: 0,0:00:20.16,0:00:20.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAY{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NINGÚN{\r} VOLCÁN
+Dialogue: 0,0:00:20.68,0:00:21.04,Default,,0,0,0,,NO HAY NINGÚN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VOLCÁN{\r}
+Dialogue: 0,0:00:21.04,0:00:21.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CERCA.{\r}
+Dialogue: 0,0:00:21.68,0:00:22.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGUA{\r} SE CALIENTA
+Dialogue: 0,0:00:22.00,0:00:22.58,Default,,0,0,0,,EL AGUA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CALIENTA{\r}
+Dialogue: 0,0:00:22.58,0:00:23.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BAJAR{\r} MUY HONDO
+Dialogue: 0,0:00:23.00,0:00:23.38,Default,,0,0,0,,AL BAJAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUY{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HONDO{\r}
+Dialogue: 0,0:00:23.38,0:00:23.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GRIETAS{\r} DE LA
+Dialogue: 0,0:00:23.94,0:00:24.18,Default,,0,0,0,,POR GRIETAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
+Dialogue: 0,0:00:24.18,0:00:24.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CORTEZA{\r} Y VUELVE A
+Dialogue: 0,0:00:24.62,0:00:25.02,Default,,0,0,0,,CORTEZA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VUELVE{\r} A
+Dialogue: 0,0:00:25.02,0:00:25.12,Default,,0,0,0,,CORTEZA Y VUELVE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
+Dialogue: 0,0:00:25.12,0:00:25.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUBIR.{\r}
+Dialogue: 0,0:00:25.60,0:00:26.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SEIS{\r} KILÓMETROS DE
+Dialogue: 0,0:00:26.02,0:00:26.56,Default,,0,0,0,,UNOS SEIS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}KILÓMETROS{\r} DE
+Dialogue: 0,0:00:26.56,0:00:26.72,Default,,0,0,0,,UNOS SEIS KILÓMETROS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:26.72,0:00:27.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RÍO,{\r} HUMEANDO EN PLENA
+Dialogue: 0,0:00:27.28,0:00:27.62,Default,,0,0,0,,RÍO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HUMEANDO{\r} EN PLENA
+Dialogue: 0,0:00:27.62,0:00:28.08,Default,,0,0,0,,RÍO, HUMEANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLENA{\r}
+Dialogue: 0,0:00:28.08,0:00:28.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SELVA.{\r}

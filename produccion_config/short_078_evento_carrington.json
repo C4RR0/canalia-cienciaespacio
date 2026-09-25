@@ -1,0 +1,34 @@
+{
+  "id": "short_078_evento_carrington",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "espacio",
+  "guion": "En 1859, una tormenta del Sol hizo que los telégrafos soltaran chispas y funcionaran desconectados.\n\nEs el evento Carrington, la tormenta solar más potente que se ha registrado. Una enorme eyección del Sol chocó contra el campo magnético de la Tierra.\n\nHubo auroras boreales visibles casi hasta el ecuador. Eran tan brillantes que, en las Montañas Rocosas, unos mineros se levantaron a preparar el desayuno creyendo que ya era de día.\n\nAlgunos telegrafistas recibieron descargas, y hubo líneas que siguieron enviando mensajes con las baterías quitadas.\n\nEn 1859 casi no había electricidad. Hoy dependemos de ella para todo.",
+  "queries_imagenes": [
+    "Carrington event",
+    "solar flare",
+    "coronal mass ejection",
+    "aurora borealis",
+    "telegraph machine 1800s",
+    "sunspots group",
+    "telegraph key",
+    "red aurora"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "La tormenta solar de 1859 que hizo arder los telégrafos",
+  "descripcion": "El evento Carrington (septiembre de 1859) es la mayor tormenta geomagnética registrada: auroras visibles cerca del ecuador, telégrafos que soltaban chispas y líneas que funcionaban sin baterías. ¿Qué pasaría si ocurriera hoy?\n\n#curiosidades #eventocarrington #espacio #tormentasolar #shorts",
+  "tags": [
+    "curiosidades",
+    "evento carrington",
+    "evento carrington 1859",
+    "tormenta solar",
+    "espacio",
+    "datos curiosos",
+    "shorts"
+  ],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "EL SOL LO APAGÓ TODO",
+  "prompt_miniatura": "a giant solar flare erupting from the sun toward earth with intense auroras, cinematic space scene"
+}

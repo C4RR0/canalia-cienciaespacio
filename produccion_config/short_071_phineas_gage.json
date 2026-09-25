@@ -1,0 +1,34 @@
+{
+  "id": "short_071_phineas_gage",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "historia",
+  "guion": "Una barra de hierro le atravesó la cabeza de lado a lado. Y a los pocos minutos estaba hablando.\n\nPhineas Gage trabajaba en el ferrocarril en 1848. Una explosión lanzó una barra de un metro y seis kilos que le entró por la mejilla y le salió por la parte de arriba del cráneo.\n\nSobrevivió. Pero algo cambió: el capataz responsable y educado se volvió impulsivo y malhablado. Sus amigos decían que ya no era Gage.\n\nSu caso ayudó a entender que la personalidad depende de una parte concreta del cerebro, el lóbulo frontal.\n\nSu cráneo y la barra se conservan juntos en Harvard.",
+  "queries_imagenes": [
+    "Phineas Gage",
+    "Phineas Gage skull",
+    "tamping iron",
+    "Warren Anatomical Museum",
+    "railroad construction 1840s",
+    "frontal lobe brain",
+    "Phineas Gage daguerreotype",
+    "Vermont railroad"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Una barra le atravesó el cráneo y sobrevivió… pero cambió",
+  "descripcion": "En 1848, una barra de hierro de más de un metro atravesó la cabeza de Phineas Gage. Sobrevivió 12 años más, pero su personalidad cambió tanto que su caso se convirtió en uno de los más famosos de la neurociencia: la clave estaba en el lóbulo frontal.\n\n#curiosidades #phineasgage #cerebro #historiasreales #shorts",
+  "tags": [
+    "curiosidades",
+    "phineas gage",
+    "phineas gage historia",
+    "phineas gage lobulo frontal",
+    "cerebro",
+    "historias reales",
+    "shorts"
+  ],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "LE ATRAVESÓ EL CRÁNEO",
+  "prompt_miniatura": "an old iron rod next to an antique human skull on a dark museum table, dramatic side light"
+}
