@@ -26,13 +26,13 @@ Dialogue: 0,0:00:05.30,0:00:05.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:05.76,0:00:06.24,Default,,0,0,0,,CONOCÍAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HACE{\r} UNOS
 Dialogue: 0,0:00:06.24,0:00:06.38,Default,,0,0,0,,CONOCÍAN HASTA HACE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r}
 Dialogue: 0,0:00:06.38,0:00:06.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑOS?{\r}
-Dialogue: 0,0:00:06.96,0:00:07.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMA{\r} ESTEVE, UNA
-Dialogue: 0,0:00:07.28,0:00:07.96,Default,,0,0,0,,SE LLAMA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTEVE,{\r} UNA
-Dialogue: 0,0:00:07.96,0:00:08.12,Default,,0,0,0,,SE LLAMA ESTEVE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
+Dialogue: 0,0:00:06.96,0:00:07.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMA{\r} STEVE, UNA
+Dialogue: 0,0:00:07.28,0:00:07.96,Default,,0,0,0,,SE LLAMA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}STEVE,{\r} UNA
+Dialogue: 0,0:00:07.96,0:00:08.12,Default,,0,0,0,,SE LLAMA STEVE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
 Dialogue: 0,0:00:08.12,0:00:08.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FRANJA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LARGA{\r} Y ESTRECHA
 Dialogue: 0,0:00:08.78,0:00:09.24,Default,,0,0,0,,FRANJA LARGA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTRECHA{\r}
-Dialogue: 0,0:00:09.24,0:00:09.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LUZ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PURPURA{\r} Y
-Dialogue: 0,0:00:09.96,0:00:10.04,Default,,0,0,0,,DE LUZ PURPURA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
+Dialogue: 0,0:00:09.24,0:00:09.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LUZ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PÚRPURA{\r} Y
+Dialogue: 0,0:00:09.96,0:00:10.04,Default,,0,0,0,,DE LUZ PÚRPURA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
 Dialogue: 0,0:00:10.04,0:00:10.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VERDE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} CRUZA EL
 Dialogue: 0,0:00:10.42,0:00:10.82,Default,,0,0,0,,VERDE QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CRUZA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
 Dialogue: 0,0:00:10.82,0:00:11.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIELO,{\r} MUY DISTINTA A
@@ -41,8 +41,8 @@ Dialogue: 0,0:00:11.96,0:00:12.10,Default,,0,0,0,,CIELO, MUY DISTINTA {\c&H0000F
 Dialogue: 0,0:00:12.10,0:00:12.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AURORAS{\r} BOREALES
 Dialogue: 0,0:00:12.54,0:00:13.02,Default,,0,0,0,,LAS AURORAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BOREALES{\r}
 Dialogue: 0,0:00:13.02,0:00:13.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NORMALES.{\r}
-Dialogue: 0,0:00:13.84,0:00:14.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DURANTE{\r} DÉCADA,
-Dialogue: 0,0:00:14.16,0:00:14.74,Default,,0,0,0,,DURANTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DÉCADA,{\r}
+Dialogue: 0,0:00:13.84,0:00:14.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DURANTE{\r} DÉCADAS,
+Dialogue: 0,0:00:14.16,0:00:14.74,Default,,0,0,0,,DURANTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DÉCADAS,{\r}
 Dialogue: 0,0:00:14.84,0:00:15.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AFICIONADOS{\r} A LA
 Dialogue: 0,0:00:15.34,0:00:15.60,Default,,0,0,0,,AFICIONADOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
 Dialogue: 0,0:00:15.60,0:00:16.12,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FOTOGRAFÍA{\r} NOCTURNA
@@ -55,28 +55,26 @@ Dialogue: 0,0:00:18.28,0:00:18.76,Default,,0,0,0,,FENÓMENO {\c&H0000FFFF&\t(0,9
 Dialogue: 0,0:00:18.76,0:00:19.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXACTAMENTE{\r} QUÉ ERA,
 Dialogue: 0,0:00:19.18,0:00:19.58,Default,,0,0,0,,EXACTAMENTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUÉ{\r} ERA,
 Dialogue: 0,0:00:19.58,0:00:19.98,Default,,0,0,0,,EXACTAMENTE QUÉ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ERA,{\r}
-Dialogue: 0,0:00:20.00,0:00:20.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} EN 2016
-Dialogue: 0,0:00:20.40,0:00:21.06,Default,,0,0,0,,HASTA QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}2016{\r}
-Dialogue: 0,0:00:21.06,0:00:21.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} GRUPO DE CAZADORES
-Dialogue: 0,0:00:21.48,0:00:21.88,Default,,0,0,0,,UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GRUPO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} CAZADORES
-Dialogue: 0,0:00:21.88,0:00:22.24,Default,,0,0,0,,UN GRUPO DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAZADORES{\r}
-Dialogue: 0,0:00:22.24,0:00:22.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AURORAS{\r} CONTACTÓ CON
-Dialogue: 0,0:00:22.78,0:00:23.40,Default,,0,0,0,,DE AURORAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONTACTÓ{\r} CON
-Dialogue: 0,0:00:23.40,0:00:23.60,Default,,0,0,0,,DE AURORAS CONTACTÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r}
-Dialogue: 0,0:00:23.60,0:00:24.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIENTÍFICOS{\r} PARA
-Dialogue: 0,0:00:24.26,0:00:24.46,Default,,0,0,0,,CIENTÍFICOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
-Dialogue: 0,0:00:24.46,0:00:25.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PREGUNTARLES{\r} QUÉ, HABÍAN
-Dialogue: 0,0:00:25.10,0:00:25.60,Default,,0,0,0,,PREGUNTARLES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUÉ,{\r} HABÍAN
-Dialogue: 0,0:00:25.60,0:00:25.86,Default,,0,0,0,,PREGUNTARLES QUÉ, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HABÍAN{\r}
-Dialogue: 0,0:00:25.86,0:00:26.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FOTOGRAFIADO,{\r} RESULTÓ
-Dialogue: 0,0:00:26.88,0:00:27.32,Default,,0,0,0,,FOTOGRAFIADO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RESULTÓ{\r}
-Dialogue: 0,0:00:27.32,0:00:27.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SER{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} FENÓMENO
-Dialogue: 0,0:00:27.66,0:00:28.06,Default,,0,0,0,,SER UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FENÓMENO{\r}
+Dialogue: 0,0:00:20.00,0:00:20.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} EN DOS
+Dialogue: 0,0:00:20.40,0:00:20.70,Default,,0,0,0,,HASTA QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DOS{\r}
+Dialogue: 0,0:00:20.70,0:00:21.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MIL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DIECISÉIS{\r} UN GRUPO
+Dialogue: 0,0:00:21.06,0:00:21.48,Default,,0,0,0,,MIL DIECISÉIS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} GRUPO
+Dialogue: 0,0:00:21.48,0:00:21.66,Default,,0,0,0,,MIL DIECISÉIS UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GRUPO{\r}
+Dialogue: 0,0:00:21.66,0:00:22.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAZADORES{\r} DE AURORAS
+Dialogue: 0,0:00:22.24,0:00:22.78,Default,,0,0,0,,DE CAZADORES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AURORAS{\r}
+Dialogue: 0,0:00:22.78,0:00:23.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONTACTÓ{\r} CON CIENTÍFICOS
+Dialogue: 0,0:00:23.40,0:00:24.26,Default,,0,0,0,,CONTACTÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIENTÍFICOS{\r}
+Dialogue: 0,0:00:24.26,0:00:25.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PREGUNTARLES{\r} QUÉ
+Dialogue: 0,0:00:25.10,0:00:25.54,Default,,0,0,0,,PARA PREGUNTARLES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUÉ{\r}
+Dialogue: 0,0:00:25.60,0:00:26.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HABÍAN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FOTOGRAFIADO.{\r}
+Dialogue: 0,0:00:26.88,0:00:27.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RESULTÓ{\r} SER UN FENÓMENO
+Dialogue: 0,0:00:27.32,0:00:27.66,Default,,0,0,0,,RESULTÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SER{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} FENÓMENO
+Dialogue: 0,0:00:27.66,0:00:28.06,Default,,0,0,0,,RESULTÓ SER UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FENÓMENO{\r}
 Dialogue: 0,0:00:28.06,0:00:28.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMPLETAMENTE{\r} DISTINTO A
 Dialogue: 0,0:00:28.42,0:00:29.18,Default,,0,0,0,,COMPLETAMENTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DISTINTO{\r} A
 Dialogue: 0,0:00:29.18,0:00:29.30,Default,,0,0,0,,COMPLETAMENTE DISTINTO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
-Dialogue: 0,0:00:29.30,0:00:30.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AURORA,{\r} NO ESTÁ
-Dialogue: 0,0:00:30.04,0:00:30.32,Default,,0,0,0,,UNA AURORA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTÁ{\r}
+Dialogue: 0,0:00:29.30,0:00:30.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AURORA:{\r} NO ESTÁ
+Dialogue: 0,0:00:30.04,0:00:30.32,Default,,0,0,0,,UNA AURORA: {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTÁ{\r}
 Dialogue: 0,0:00:30.32,0:00:30.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAUSADO{\r} POR PARTÍCULAS
 Dialogue: 0,0:00:30.76,0:00:31.50,Default,,0,0,0,,CAUSADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARTÍCULAS{\r}
 Dialogue: 0,0:00:31.50,0:00:31.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CARGADAS{\r} ENTRANDO EN LA
@@ -99,19 +97,20 @@ Dialogue: 0,0:00:38.64,0:00:38.84,Default,,0,0,0,,QUE LA CIENCIA {\c&H0000FFFF&\
 Dialogue: 0,0:00:38.84,0:00:39.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HABÍA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DOCUMENTADO{\r}
 Dialogue: 0,0:00:39.66,0:00:40.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FORMALMENTE{\r} HASTA ESE
 Dialogue: 0,0:00:40.32,0:00:40.78,Default,,0,0,0,,FORMALMENTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESE{\r}
-Dialogue: 0,0:00:40.78,0:00:41.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MOMENTO,{\r} UN FENÓMENO QUE
-Dialogue: 0,0:00:41.48,0:00:42.04,Default,,0,0,0,,MOMENTO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FENÓMENO{\r} QUE
-Dialogue: 0,0:00:42.04,0:00:42.22,Default,,0,0,0,,MOMENTO, UN FENÓMENO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
-Dialogue: 0,0:00:42.22,0:00:43.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLEVABA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FOTOGRAFIÁNDOSE{\r}
-Dialogue: 0,0:00:43.38,0:00:43.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SECRETO{\r} DURANTE AÑOS,
-Dialogue: 0,0:00:43.94,0:00:44.78,Default,,0,0,0,,EN SECRETO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DURANTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑOS,{\r}
+Dialogue: 0,0:00:40.78,0:00:41.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MOMENTO.{\r}
+Dialogue: 0,0:00:41.48,0:00:42.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FENÓMENO{\r} QUE LLEVABA
+Dialogue: 0,0:00:42.04,0:00:42.52,Default,,0,0,0,,UN FENÓMENO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLEVABA{\r}
+Dialogue: 0,0:00:42.52,0:00:43.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FOTOGRAFIÁNDOSE{\r} EN
+Dialogue: 0,0:00:43.38,0:00:43.52,Default,,0,0,0,,FOTOGRAFIÁNDOSE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
+Dialogue: 0,0:00:43.52,0:00:43.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SECRETO{\r} DURANTE AÑOS,
+Dialogue: 0,0:00:43.94,0:00:44.78,Default,,0,0,0,,SECRETO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DURANTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑOS,{\r}
 Dialogue: 0,0:00:44.80,0:00:45.14,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} LA CIENCIA
 Dialogue: 0,0:00:45.14,0:00:45.60,Default,,0,0,0,,HASTA QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIENCIA{\r}
 Dialogue: 0,0:00:45.60,0:00:46.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FIN{\r} LE PUSO
 Dialogue: 0,0:00:46.00,0:00:46.40,Default,,0,0,0,,POR FIN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PUSO{\r}
 Dialogue: 0,0:00:46.40,0:00:46.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NOMBRE.{\r}
-Dialogue: 0,0:00:47.00,0:00:47.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAS{\r} SORPRENDIDO
-Dialogue: 0,0:00:47.34,0:00:47.88,Default,,0,0,0,,SI TE HAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
+Dialogue: 0,0:00:47.00,0:00:47.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HA{\r} SORPRENDIDO
+Dialogue: 0,0:00:47.34,0:00:47.88,Default,,0,0,0,,SI TE HA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
 Dialogue: 0,0:00:47.88,0:00:48.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DATO,{\r} SÍGUEME PARA
 Dialogue: 0,0:00:48.72,0:00:49.24,Default,,0,0,0,,ESTE DATO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÍGUEME{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
 Dialogue: 0,0:00:49.24,0:00:50.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CURIOSIDADES{\r} TAN

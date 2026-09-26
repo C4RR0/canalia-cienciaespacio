@@ -17,17 +17,17 @@ Dialogue: 0,0:00:01.06,0:00:01.24,Default,,0,0,0,,¿SABÍAS QUE EXISTE {\c&H0000
 Dialogue: 0,0:00:01.24,0:00:01.60,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MOLUSCO{\r} CAPAZ DE TENER
 Dialogue: 0,0:00:01.60,0:00:02.10,Default,,0,0,0,,MOLUSCO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAPAZ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} TENER
 Dialogue: 0,0:00:02.10,0:00:02.28,Default,,0,0,0,,MOLUSCO CAPAZ DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TENER{\r}
-Dialogue: 0,0:00:02.28,0:00:02.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}200{\r} OJOS
-Dialogue: 0,0:00:02.84,0:00:03.26,Default,,0,0,0,,HASTA 200 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OJOS{\r}
+Dialogue: 0,0:00:02.28,0:00:02.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DOSCIENTOS{\r} OJOS
+Dialogue: 0,0:00:02.84,0:00:03.26,Default,,0,0,0,,HASTA DOSCIENTOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OJOS{\r}
 Dialogue: 0,0:00:03.26,0:00:03.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REPARTIDOS{\r} POR TODO SU
 Dialogue: 0,0:00:03.82,0:00:04.30,Default,,0,0,0,,REPARTIDOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TODO{\r} SU
 Dialogue: 0,0:00:04.30,0:00:04.52,Default,,0,0,0,,REPARTIDOS POR TODO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
 Dialogue: 0,0:00:04.52,0:00:05.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUERPO?{\r}
 Dialogue: 0,0:00:05.06,0:00:05.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRATA{\r} DE LA
 Dialogue: 0,0:00:05.42,0:00:05.66,Default,,0,0,0,,SE TRATA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
-Dialogue: 0,0:00:05.66,0:00:06.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIHIRA,{\r} ESE MARISCO QUE
-Dialogue: 0,0:00:06.22,0:00:06.78,Default,,0,0,0,,VIHIRA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MARISCO{\r} QUE
-Dialogue: 0,0:00:06.78,0:00:06.96,Default,,0,0,0,,VIHIRA, ESE MARISCO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
+Dialogue: 0,0:00:05.66,0:00:06.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIEIRA,{\r} ESE MARISCO QUE
+Dialogue: 0,0:00:06.22,0:00:06.78,Default,,0,0,0,,VIEIRA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MARISCO{\r} QUE
+Dialogue: 0,0:00:06.78,0:00:06.96,Default,,0,0,0,,VIEIRA, ESE MARISCO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
 Dialogue: 0,0:00:06.96,0:00:07.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PROBABLEMENTE{\r} HAYAS
 Dialogue: 0,0:00:07.58,0:00:07.86,Default,,0,0,0,,PROBABLEMENTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAYAS{\r}
 Dialogue: 0,0:00:07.86,0:00:08.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMIDO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGUNA{\r} VEZ SIN
@@ -93,23 +93,22 @@ Dialogue: 0,0:00:33.98,0:00:34.42,Default,,0,0,0,,ACERCA, {\c&H0000FFFF&\t(0,90,
 Dialogue: 0,0:00:34.42,0:00:34.64,Default,,0,0,0,,ACERCA, PARA PODER {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HUIR{\r}
 Dialogue: 0,0:00:34.64,0:00:35.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NADANDO{\r} A PROPULSIÓN,
 Dialogue: 0,0:00:35.00,0:00:35.88,Default,,0,0,0,,NADANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PROPULSIÓN,{\r}
-Dialogue: 0,0:00:35.90,0:00:36.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CERRANDO{\r} SUS BALBAS DE
-Dialogue: 0,0:00:36.24,0:00:36.78,Default,,0,0,0,,CERRANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BALBAS{\r} DE
-Dialogue: 0,0:00:36.78,0:00:36.90,Default,,0,0,0,,CERRANDO SUS BALBAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
-Dialogue: 0,0:00:36.90,0:00:37.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GOLPE,{\r} UN MARISCO CON
-Dialogue: 0,0:00:37.46,0:00:38.00,Default,,0,0,0,,GOLPE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MARISCO{\r} CON
-Dialogue: 0,0:00:38.00,0:00:38.20,Default,,0,0,0,,GOLPE, UN MARISCO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r}
-Dialogue: 0,0:00:38.20,0:00:38.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OJOS{\r} QUE CASI
-Dialogue: 0,0:00:38.62,0:00:39.06,Default,,0,0,0,,MÁS OJOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r}
-Dialogue: 0,0:00:39.06,0:00:39.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUALQUIER{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OTRO{\r} ANIMAL
-Dialogue: 0,0:00:39.62,0:00:39.90,Default,,0,0,0,,CUALQUIER OTRO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ANIMAL{\r}
-Dialogue: 0,0:00:39.90,0:00:40.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLANETA,{\r} Y
-Dialogue: 0,0:00:40.84,0:00:40.94,Default,,0,0,0,,DEL PLANETA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
-Dialogue: 0,0:00:40.94,0:00:41.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PRÁCTICAMENTE{\r} NADIE LO
-Dialogue: 0,0:00:41.64,0:00:42.12,Default,,0,0,0,,PRÁCTICAMENTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NADIE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r}
+Dialogue: 0,0:00:35.90,0:00:36.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CERRANDO{\r} SUS VALVAS DE
+Dialogue: 0,0:00:36.24,0:00:36.78,Default,,0,0,0,,CERRANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VALVAS{\r} DE
+Dialogue: 0,0:00:36.78,0:00:36.90,Default,,0,0,0,,CERRANDO SUS VALVAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:36.90,0:00:37.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GOLPE.{\r}
+Dialogue: 0,0:00:37.46,0:00:38.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MARISCO{\r} CON MÁS
+Dialogue: 0,0:00:38.00,0:00:38.38,Default,,0,0,0,,UN MARISCO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r}
+Dialogue: 0,0:00:38.38,0:00:38.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OJOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} CASI CUALQUIER
+Dialogue: 0,0:00:38.84,0:00:39.34,Default,,0,0,0,,OJOS QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUALQUIER{\r}
+Dialogue: 0,0:00:39.34,0:00:39.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OTRO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ANIMAL{\r} DEL
+Dialogue: 0,0:00:39.90,0:00:40.12,Default,,0,0,0,,OTRO ANIMAL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r}
+Dialogue: 0,0:00:40.12,0:00:40.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLANETA...{\r}
+Dialogue: 0,0:00:40.84,0:00:41.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PRÁCTICAMENTE{\r} NADIE LO
+Dialogue: 0,0:00:41.64,0:00:42.12,Default,,0,0,0,,Y PRÁCTICAMENTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NADIE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r}
 Dialogue: 0,0:00:42.12,0:00:42.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SABE.{\r}
-Dialogue: 0,0:00:42.66,0:00:43.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAS{\r} SORPRENDIDO
-Dialogue: 0,0:00:43.02,0:00:43.56,Default,,0,0,0,,SI TE HAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
+Dialogue: 0,0:00:42.66,0:00:43.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HA{\r} SORPRENDIDO
+Dialogue: 0,0:00:43.02,0:00:43.56,Default,,0,0,0,,SI TE HA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
 Dialogue: 0,0:00:43.56,0:00:44.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DATO,{\r} SÍGUEME PARA
 Dialogue: 0,0:00:44.36,0:00:44.68,Default,,0,0,0,,ESTE DATO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÍGUEME{\r} PARA
 Dialogue: 0,0:00:44.68,0:00:44.90,Default,,0,0,0,,ESTE DATO, SÍGUEME {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}

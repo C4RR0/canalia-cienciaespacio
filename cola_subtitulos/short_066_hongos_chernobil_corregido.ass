@@ -13,13 +13,13 @@ Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:00.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DENTRO{\r} DE LAS RUINAS
 Dialogue: 0,0:00:00.52,0:00:01.10,Default,,0,0,0,,DENTRO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RUINAS{\r}
-Dialogue: 0,0:00:01.10,0:00:01.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CHERNÓVIL{\r} ENCONTRARON
-Dialogue: 0,0:00:01.66,0:00:02.30,Default,,0,0,0,,DE CHERNÓVIL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENCONTRARON{\r}
-Dialogue: 0,0:00:02.30,0:00:03.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIVO,{\r} Y PARECÍA
-Dialogue: 0,0:00:03.00,0:00:03.46,Default,,0,0,0,,ALGO VIVO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARECÍA{\r}
-Dialogue: 0,0:00:03.46,0:00:04.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALIMENTARSE{\r} DE LA
-Dialogue: 0,0:00:04.04,0:00:04.30,Default,,0,0,0,,ALIMENTARSE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
-Dialogue: 0,0:00:04.30,0:00:04.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RADIACIÓN.{\r}
+Dialogue: 0,0:00:01.10,0:00:01.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CHERNÓBIL{\r} ENCONTRARON
+Dialogue: 0,0:00:01.66,0:00:02.30,Default,,0,0,0,,DE CHERNÓBIL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENCONTRARON{\r}
+Dialogue: 0,0:00:02.30,0:00:02.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIVO.{\r}
+Dialogue: 0,0:00:03.00,0:00:03.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARECÍA{\r} ALIMENTARSE DE
+Dialogue: 0,0:00:03.46,0:00:04.04,Default,,0,0,0,,Y PARECÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALIMENTARSE{\r} DE
+Dialogue: 0,0:00:04.04,0:00:04.18,Default,,0,0,0,,Y PARECÍA ALIMENTARSE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:04.18,0:00:04.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RADIACIÓN.{\r}
 Dialogue: 0,0:00:05.06,0:00:05.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESPUÉS{\r} DEL
 Dialogue: 0,0:00:05.64,0:00:05.84,Default,,0,0,0,,AÑOS DESPUÉS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r}
 Dialogue: 0,0:00:05.84,0:00:06.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESASTRE,{\r} UN ROBOT
@@ -52,8 +52,8 @@ Dialogue: 0,0:00:18.96,0:00:19.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:19.72,0:00:19.94,Default,,0,0,0,,ALGUNOS CRECÍAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r}
 Dialogue: 0,0:00:19.94,0:00:20.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RÁPIDO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUANDO{\r} SE LES
 Dialogue: 0,0:00:20.52,0:00:20.90,Default,,0,0,0,,RÁPIDO CUANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LES{\r}
-Dialogue: 0,0:00:20.90,0:00:21.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXPONÍA{\r} LA RADIACIÓN,
-Dialogue: 0,0:00:21.40,0:00:22.26,Default,,0,0,0,,EXPONÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RADIACIÓN,{\r}
+Dialogue: 0,0:00:20.90,0:00:21.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXPONÍA A{\r} LA RADIACIÓN,
+Dialogue: 0,0:00:21.40,0:00:22.26,Default,,0,0,0,,EXPONÍA A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RADIACIÓN,{\r}
 Dialogue: 0,0:00:22.32,0:00:22.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} LA APROVECHARAN
 Dialogue: 0,0:00:22.66,0:00:23.34,Default,,0,0,0,,COMO SI {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}APROVECHARAN{\r}
 Dialogue: 0,0:00:23.34,0:00:23.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}IGUAL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} LAS PLANTAS
@@ -71,10 +71,11 @@ Dialogue: 0,0:00:28.66,0:00:28.90,Default,,0,0,0,,INTERNACIONAL {\c&H0000FFFF&\t
 Dialogue: 0,0:00:28.90,0:00:29.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POSIBLE{\r} ESCUDO PARA
 Dialogue: 0,0:00:29.28,0:00:29.70,Default,,0,0,0,,POSIBLE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESCUDO{\r} PARA
 Dialogue: 0,0:00:29.70,0:00:29.92,Default,,0,0,0,,POSIBLE ESCUDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
-Dialogue: 0,0:00:29.92,0:00:30.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ASTRONAUTAS,{\r} LO QUE PARA
-Dialogue: 0,0:00:30.84,0:00:31.22,Default,,0,0,0,,ASTRONAUTAS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
-Dialogue: 0,0:00:31.22,0:00:31.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NOSOTROS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r} MORTAL, PARA
-Dialogue: 0,0:00:31.84,0:00:32.52,Default,,0,0,0,,NOSOTROS ES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MORTAL,{\r} PARA
-Dialogue: 0,0:00:32.52,0:00:32.68,Default,,0,0,0,,NOSOTROS ES MORTAL, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
-Dialogue: 0,0:00:32.68,0:00:33.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ELLOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PODRÍA{\r} SER COMIDA.
-Dialogue: 0,0:00:33.26,0:00:34.02,Default,,0,0,0,,ELLOS PODRÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SER{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMIDA.{\r}
+Dialogue: 0,0:00:29.92,0:00:30.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ASTRONAUTAS.{\r}
+Dialogue: 0,0:00:30.84,0:00:31.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r} NOSOTROS
+Dialogue: 0,0:00:31.22,0:00:31.52,Default,,0,0,0,,LO QUE PARA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NOSOTROS{\r}
+Dialogue: 0,0:00:31.52,0:00:31.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r} MORTAL, PARA ELLOS
+Dialogue: 0,0:00:31.84,0:00:32.52,Default,,0,0,0,,ES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MORTAL,{\r} PARA ELLOS
+Dialogue: 0,0:00:32.52,0:00:32.88,Default,,0,0,0,,ES MORTAL, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ELLOS{\r}
+Dialogue: 0,0:00:32.88,0:00:33.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PODRÍA{\r} SER COMIDA.
+Dialogue: 0,0:00:33.26,0:00:34.02,Default,,0,0,0,,PODRÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SER{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMIDA.{\r}

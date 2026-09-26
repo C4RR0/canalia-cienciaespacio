@@ -21,9 +21,9 @@ Dialogue: 0,0:00:02.52,0:00:02.98,Default,,0,0,0,,PUEDE VER {\c&H0000FFFF&\t(0,9
 Dialogue: 0,0:00:02.98,0:00:03.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LATIENDO.{\r}
 Dialogue: 0,0:00:03.62,0:00:03.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} RANA DE
 Dialogue: 0,0:00:03.96,0:00:04.30,Default,,0,0,0,,ES LA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RANA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
-Dialogue: 0,0:00:04.30,0:00:04.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CRISTAL{\r} Y VIVE EN
-Dialogue: 0,0:00:04.74,0:00:05.22,Default,,0,0,0,,CRISTAL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIVE{\r} EN
-Dialogue: 0,0:00:05.22,0:00:05.38,Default,,0,0,0,,CRISTAL Y VIVE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
+Dialogue: 0,0:00:04.30,0:00:04.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CRISTAL,{\r} Y VIVE EN
+Dialogue: 0,0:00:04.74,0:00:05.22,Default,,0,0,0,,CRISTAL, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIVE{\r} EN
+Dialogue: 0,0:00:05.22,0:00:05.38,Default,,0,0,0,,CRISTAL, Y VIVE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
 Dialogue: 0,0:00:05.38,0:00:05.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SELVAS{\r} DE
 Dialogue: 0,0:00:05.76,0:00:05.92,Default,,0,0,0,,LAS SELVAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
 Dialogue: 0,0:00:05.92,0:00:06.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CENTROAMÉRICA{\r} Y
@@ -34,8 +34,8 @@ Dialogue: 0,0:00:07.96,0:00:08.50,Default,,0,0,0,,PERO GUARDA {\c&H0000FFFF&\t(0
 Dialogue: 0,0:00:08.50,0:00:09.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIENTÍFICOS{\r}
 Dialogue: 0,0:00:09.36,0:00:09.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESCUBRIERON{\r} HACE MUY
 Dialogue: 0,0:00:09.94,0:00:10.30,Default,,0,0,0,,DESCUBRIERON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HACE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUY{\r}
-Dialogue: 0,0:00:10.30,0:00:10.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCO,{\r} CUANDO DUERME.
-Dialogue: 0,0:00:10.90,0:00:11.68,Default,,0,0,0,,POCO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUANDO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DUERME.{\r}
+Dialogue: 0,0:00:10.30,0:00:10.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCO:{\r} CUANDO DUERME,
+Dialogue: 0,0:00:10.90,0:00:11.68,Default,,0,0,0,,POCO: {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUANDO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DUERME,{\r}
 Dialogue: 0,0:00:11.70,0:00:12.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESCONDE{\r} CASI TODA SU
 Dialogue: 0,0:00:12.08,0:00:12.62,Default,,0,0,0,,ESCONDE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TODA{\r} SU
 Dialogue: 0,0:00:12.62,0:00:12.84,Default,,0,0,0,,ESCONDE CASI TODA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
@@ -58,8 +58,8 @@ Dialogue: 0,0:00:19.32,0:00:19.70,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:19.70,0:00:20.14,Default,,0,0,0,,SE VUELVE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRES{\r}
 Dialogue: 0,0:00:20.14,0:00:20.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VECES{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} TRANSPARENTE.
 Dialogue: 0,0:00:20.68,0:00:21.58,Default,,0,0,0,,VECES MÁS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRANSPARENTE.{\r}
-Dialogue: 0,0:00:21.62,0:00:21.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} INCREÍBLE,
-Dialogue: 0,0:00:21.96,0:00:22.66,Default,,0,0,0,,Y LO MÁS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INCREÍBLE,{\r}
+Dialogue: 0,0:00:21.62,0:00:21.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} INCREÍBLE:
+Dialogue: 0,0:00:21.96,0:00:22.66,Default,,0,0,0,,Y LO MÁS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INCREÍBLE:{\r}
 Dialogue: 0,0:00:22.72,0:00:23.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SANGRE{\r} ACUMULADA NO
 Dialogue: 0,0:00:23.24,0:00:23.82,Default,,0,0,0,,ESA SANGRE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ACUMULADA{\r} NO
 Dialogue: 0,0:00:23.82,0:00:24.02,Default,,0,0,0,,ESA SANGRE ACUMULADA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r}

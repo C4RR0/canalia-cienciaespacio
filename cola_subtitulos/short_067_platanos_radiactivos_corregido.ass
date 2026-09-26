@@ -13,8 +13,8 @@ Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:00.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TU{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESAYUNO{\r} ES
 Dialogue: 0,0:00:00.72,0:00:00.90,Default,,0,0,0,,TU DESAYUNO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r}
-Dialogue: 0,0:00:00.90,0:00:01.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LIGERAMENTE{\r} RADIACTIVO,
-Dialogue: 0,0:00:01.40,0:00:02.18,Default,,0,0,0,,LIGERAMENTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RADIACTIVO,{\r}
+Dialogue: 0,0:00:00.90,0:00:01.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LIGERAMENTE{\r} RADIACTIVO.
+Dialogue: 0,0:00:01.40,0:00:02.18,Default,,0,0,0,,LIGERAMENTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RADIACTIVO.{\r}
 Dialogue: 0,0:00:02.18,0:00:02.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PASA{\r} ABSOLUTAMENTE
 Dialogue: 0,0:00:02.74,0:00:03.18,Default,,0,0,0,,Y NO PASA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ABSOLUTAMENTE{\r}
 Dialogue: 0,0:00:03.18,0:00:03.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NADA.{\r}
@@ -39,27 +39,24 @@ Dialogue: 0,0:00:12.04,0:00:12.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:12.58,0:00:13.24,Default,,0,0,0,,EQUIVALENTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLÁTANO{\r}
 Dialogue: 0,0:00:13.24,0:00:13.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXPLICAR{\r} LA
 Dialogue: 0,0:00:13.88,0:00:14.10,Default,,0,0,0,,PARA EXPLICAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
-Dialogue: 0,0:00:14.10,0:00:14.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RADIACIÓN{\r} DE, POR MÁS
-Dialogue: 0,0:00:14.54,0:00:14.96,Default,,0,0,0,,RADIACIÓN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE,{\r} POR MÁS
-Dialogue: 0,0:00:14.96,0:00:15.20,Default,,0,0,0,,RADIACIÓN DE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r}
-Dialogue: 0,0:00:15.20,0:00:15.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SENCILLA,{\r} INCLUSO SE HA
-Dialogue: 0,0:00:15.92,0:00:16.54,Default,,0,0,0,,SENCILLA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INCLUSO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} HA
-Dialogue: 0,0:00:16.54,0:00:16.62,Default,,0,0,0,,SENCILLA, INCLUSO SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HA{\r}
-Dialogue: 0,0:00:16.62,0:00:17.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DADO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASO{\r} DE
-Dialogue: 0,0:00:17.10,0:00:17.28,Default,,0,0,0,,DADO EL CASO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
-Dialogue: 0,0:00:17.28,0:00:17.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAMIONES{\r} CARGADOS DE
-Dialogue: 0,0:00:17.62,0:00:18.12,Default,,0,0,0,,CAMIONES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CARGADOS{\r} DE
-Dialogue: 0,0:00:18.12,0:00:18.28,Default,,0,0,0,,CAMIONES CARGADOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
-Dialogue: 0,0:00:18.28,0:00:18.70,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLÁTANOS{\r} QUE HACÍAN
-Dialogue: 0,0:00:18.70,0:00:19.24,Default,,0,0,0,,PLÁTANOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HACÍAN{\r}
-Dialogue: 0,0:00:19.24,0:00:19.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SALTAR{\r} LOS DETECTORES DE
-Dialogue: 0,0:00:19.66,0:00:20.28,Default,,0,0,0,,SALTAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DETECTORES{\r} DE
-Dialogue: 0,0:00:20.28,0:00:20.44,Default,,0,0,0,,SALTAR LOS DETECTORES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
-Dialogue: 0,0:00:20.44,0:00:20.86,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RADIACIÓN{\r} EN LOS
-Dialogue: 0,0:00:20.86,0:00:21.10,Default,,0,0,0,,RADIACIÓN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r}
-Dialogue: 0,0:00:21.10,0:00:21.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PUERTOS.{\r}
-Dialogue: 0,0:00:21.76,0:00:22.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRANQUILO,{\r} PARA QUE
-Dialogue: 0,0:00:22.66,0:00:22.96,Default,,0,0,0,,PERO TRANQUILO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
+Dialogue: 0,0:00:14.10,0:00:14.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RADIACIÓN{\r} DE FORMA
+Dialogue: 0,0:00:14.54,0:00:14.96,Default,,0,0,0,,RADIACIÓN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} FORMA
+Dialogue: 0,0:00:14.96,0:00:15.20,Default,,0,0,0,,RADIACIÓN DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FORMA{\r}
+Dialogue: 0,0:00:15.20,0:00:15.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SENCILLA.{\r}
+Dialogue: 0,0:00:15.92,0:00:16.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INCLUSO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} HA DADO
+Dialogue: 0,0:00:16.54,0:00:16.74,Default,,0,0,0,,INCLUSO SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DADO{\r}
+Dialogue: 0,0:00:16.74,0:00:17.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASO{\r} DE CAMIONES
+Dialogue: 0,0:00:17.10,0:00:17.62,Default,,0,0,0,,EL CASO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAMIONES{\r}
+Dialogue: 0,0:00:17.62,0:00:18.12,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CARGADOS{\r} DE PLÁTANOS QUE
+Dialogue: 0,0:00:18.12,0:00:18.70,Default,,0,0,0,,CARGADOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLÁTANOS{\r} QUE
+Dialogue: 0,0:00:18.70,0:00:18.96,Default,,0,0,0,,CARGADOS DE PLÁTANOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
+Dialogue: 0,0:00:18.96,0:00:19.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HACÍAN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SALTAR{\r} LOS
+Dialogue: 0,0:00:19.66,0:00:19.80,Default,,0,0,0,,HACÍAN SALTAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r}
+Dialogue: 0,0:00:19.80,0:00:20.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DETECTORES{\r} DE RADIACIÓN
+Dialogue: 0,0:00:20.28,0:00:20.86,Default,,0,0,0,,DETECTORES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RADIACIÓN{\r}
+Dialogue: 0,0:00:20.86,0:00:21.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PUERTOS.{\r}
+Dialogue: 0,0:00:21.76,0:00:22.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRANQUILO:{\r} PARA QUE
+Dialogue: 0,0:00:22.66,0:00:22.96,Default,,0,0,0,,PERO TRANQUILO: {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
 Dialogue: 0,0:00:22.96,0:00:23.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUERA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PELIGROSO{\r} TENDRÍAS
 Dialogue: 0,0:00:23.76,0:00:24.14,Default,,0,0,0,,FUERA PELIGROSO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TENDRÍAS{\r}
 Dialogue: 0,0:00:24.14,0:00:24.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMERTE{\r} MILLONES DE
@@ -69,12 +66,11 @@ Dialogue: 0,0:00:25.54,0:00:26.24,Default,,0,0,0,,PLÁTANOS {\c&H0000FFFF&\t(0,9
 Dialogue: 0,0:00:26.24,0:00:26.48,Default,,0,0,0,,PLÁTANOS DE GOLPE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGO{\r}
 Dialogue: 0,0:00:26.48,0:00:27.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FÍSICAMENTE{\r} IMPOSIBLE.
 Dialogue: 0,0:00:27.02,0:00:27.70,Default,,0,0,0,,FÍSICAMENTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}IMPOSIBLE.{\r}
-Dialogue: 0,0:00:27.70,0:00:28.12,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} CIERTO, TU
-Dialogue: 0,0:00:28.12,0:00:28.76,Default,,0,0,0,,Y POR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIERTO,{\r} TU
-Dialogue: 0,0:00:28.76,0:00:28.86,Default,,0,0,0,,Y POR CIERTO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TU{\r}
+Dialogue: 0,0:00:27.70,0:00:28.12,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} CIERTO: TU
+Dialogue: 0,0:00:28.12,0:00:28.76,Default,,0,0,0,,Y POR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIERTO:{\r} TU
+Dialogue: 0,0:00:28.76,0:00:28.86,Default,,0,0,0,,Y POR CIERTO: {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TU{\r}
 Dialogue: 0,0:00:28.86,0:00:29.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PROPIO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUERPO{\r} TAMBIÉN ES
 Dialogue: 0,0:00:29.42,0:00:29.96,Default,,0,0,0,,PROPIO CUERPO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TAMBIÉN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r}
-Dialogue: 0,0:00:29.96,0:00:31.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RADIACTIVO,{\r} POR
-Dialogue: 0,0:00:31.06,0:00:31.20,Default,,0,0,0,,UN POCO RADIACTIVO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r}
-Dialogue: 0,0:00:31.20,0:00:31.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MISMO{\r} MOTIVO.
-Dialogue: 0,0:00:31.54,0:00:32.08,Default,,0,0,0,,EL MISMO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MOTIVO.{\r}
+Dialogue: 0,0:00:29.96,0:00:31.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RADIACTIVO.{\r}
+Dialogue: 0,0:00:31.06,0:00:31.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MISMO{\r} MOTIVO.
+Dialogue: 0,0:00:31.54,0:00:32.08,Default,,0,0,0,,POR EL MISMO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MOTIVO.{\r}

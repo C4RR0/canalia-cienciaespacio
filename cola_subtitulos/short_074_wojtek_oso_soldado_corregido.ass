@@ -19,17 +19,16 @@ Dialogue: 0,0:00:01.40,0:00:01.80,Default,,0,0,0,,MUNDIAL {\c&H0000FFFF&\t(0,90,
 Dialogue: 0,0:00:01.80,0:00:02.16,Default,,0,0,0,,MUNDIAL HUBO UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOLDADO{\r}
 Dialogue: 0,0:00:02.16,0:00:02.60,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MEDÍA{\r} CASI DOS
 Dialogue: 0,0:00:02.60,0:00:03.08,Default,,0,0,0,,QUE MEDÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DOS{\r}
-Dialogue: 0,0:00:03.08,0:00:03.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}METROS,{\r} PESABA 200 KILOS
-Dialogue: 0,0:00:03.68,0:00:04.26,Default,,0,0,0,,METROS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PESABA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}200{\r} KILOS
-Dialogue: 0,0:00:04.26,0:00:04.76,Default,,0,0,0,,METROS, PESABA 200 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}KILOS{\r}
-Dialogue: 0,0:00:04.76,0:00:05.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ERA{\r} UN OSO.
-Dialogue: 0,0:00:05.20,0:00:05.74,Default,,0,0,0,,Y ERA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OSO.{\r}
-Dialogue: 0,0:00:05.84,0:00:06.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMABA{\r} BOITE, UNOS
-Dialogue: 0,0:00:06.28,0:00:06.86,Default,,0,0,0,,SE LLAMABA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BOITE,{\r} UNOS
-Dialogue: 0,0:00:06.86,0:00:07.06,Default,,0,0,0,,SE LLAMABA BOITE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r}
-Dialogue: 0,0:00:07.06,0:00:07.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOLDADOS{\r} POLACOS LO
-Dialogue: 0,0:00:07.46,0:00:08.02,Default,,0,0,0,,SOLDADOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POLACOS{\r} LO
-Dialogue: 0,0:00:08.02,0:00:08.14,Default,,0,0,0,,SOLDADOS POLACOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r}
+Dialogue: 0,0:00:03.08,0:00:03.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}METROS,{\r} PESABA
+Dialogue: 0,0:00:03.68,0:00:04.00,Default,,0,0,0,,METROS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PESABA{\r}
+Dialogue: 0,0:00:04.00,0:00:04.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DOSCIENTOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}KILOS{\r} Y ERA
+Dialogue: 0,0:00:04.76,0:00:05.20,Default,,0,0,0,,DOSCIENTOS KILOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ERA{\r}
+Dialogue: 0,0:00:05.20,0:00:05.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OSO.{\r}
+Dialogue: 0,0:00:05.84,0:00:06.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMABA{\r} WOJTEK.
+Dialogue: 0,0:00:06.28,0:00:06.76,Default,,0,0,0,,SE LLAMABA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}WOJTEK.{\r}
+Dialogue: 0,0:00:06.86,0:00:07.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOLDADOS{\r} POLACOS LO
+Dialogue: 0,0:00:07.46,0:00:08.02,Default,,0,0,0,,UNOS SOLDADOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POLACOS{\r} LO
+Dialogue: 0,0:00:08.02,0:00:08.14,Default,,0,0,0,,UNOS SOLDADOS POLACOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r}
 Dialogue: 0,0:00:08.14,0:00:08.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMPRARON{\r} DE CACHORRO EN
 Dialogue: 0,0:00:08.62,0:00:09.10,Default,,0,0,0,,COMPRARON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CACHORRO{\r} EN
 Dialogue: 0,0:00:09.10,0:00:09.36,Default,,0,0,0,,COMPRARON DE CACHORRO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
@@ -58,13 +57,14 @@ Dialogue: 0,0:00:19.06,0:00:19.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:19.62,0:00:20.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SEGÚN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} VETERANOS, EN
 Dialogue: 0,0:00:20.06,0:00:20.86,Default,,0,0,0,,SEGÚN LOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VETERANOS,{\r} EN
 Dialogue: 0,0:00:20.86,0:00:20.94,Default,,0,0,0,,SEGÚN LOS VETERANOS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
-Dialogue: 0,0:00:20.94,0:00:21.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BATALLA{\r} DE MONTE
-Dialogue: 0,0:00:21.32,0:00:21.64,Default,,0,0,0,,LA BATALLA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MONTE{\r}
-Dialogue: 0,0:00:21.64,0:00:22.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASSINO{\r} AYUDÓ A CARGAR
-Dialogue: 0,0:00:22.08,0:00:22.46,Default,,0,0,0,,CASSINO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AYUDÓ{\r} A CARGAR
-Dialogue: 0,0:00:22.46,0:00:22.82,Default,,0,0,0,,CASSINO AYUDÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CARGAR{\r}
-Dialogue: 0,0:00:22.82,0:00:23.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAJAS{\r} DE MUNICIÓN.
-Dialogue: 0,0:00:23.16,0:00:23.90,Default,,0,0,0,,CAJAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUNICIÓN.{\r}
+Dialogue: 0,0:00:20.94,0:00:21.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BATALLA{\r} DE
+Dialogue: 0,0:00:21.32,0:00:21.48,Default,,0,0,0,,LA BATALLA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:21.48,0:00:22.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MONTECASSINO{\r} AYUDÓ A
+Dialogue: 0,0:00:22.08,0:00:22.46,Default,,0,0,0,,MONTECASSINO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AYUDÓ{\r} A
+Dialogue: 0,0:00:22.46,0:00:22.54,Default,,0,0,0,,MONTECASSINO AYUDÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
+Dialogue: 0,0:00:22.54,0:00:23.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CARGAR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAJAS{\r} DE
+Dialogue: 0,0:00:23.16,0:00:23.30,Default,,0,0,0,,CARGAR CAJAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:23.30,0:00:23.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUNICIÓN.{\r}
 Dialogue: 0,0:00:24.06,0:00:24.44,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNIDAD{\r} ACABÓ USANDO
 Dialogue: 0,0:00:24.44,0:00:24.82,Default,,0,0,0,,SU UNIDAD {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ACABÓ{\r} USANDO
 Dialogue: 0,0:00:24.82,0:00:25.10,Default,,0,0,0,,SU UNIDAD ACABÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}USANDO{\r}
@@ -80,5 +80,5 @@ Dialogue: 0,0:00:28.04,0:00:28.36,Default,,0,0,0,,PASÓ {\c&H0000FFFF&\t(0,90,\f
 Dialogue: 0,0:00:28.36,0:00:28.54,Default,,0,0,0,,PASÓ EL RESTO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
 Dialogue: 0,0:00:28.54,0:00:28.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIDA{\r} EN EL
 Dialogue: 0,0:00:28.88,0:00:29.12,Default,,0,0,0,,SU VIDA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
-Dialogue: 0,0:00:29.12,0:00:29.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ZOO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} DIMBURGO.
-Dialogue: 0,0:00:29.48,0:00:30.14,Default,,0,0,0,,ZOO DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DIMBURGO.{\r}
+Dialogue: 0,0:00:29.12,0:00:29.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ZOO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} EDIMBURGO.
+Dialogue: 0,0:00:29.48,0:00:30.14,Default,,0,0,0,,ZOO DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EDIMBURGO.{\r}

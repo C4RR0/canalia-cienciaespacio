@@ -14,9 +14,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:00.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}¿SABÍAS{\r} QUE EXISTE UN
 Dialogue: 0,0:00:00.50,0:00:01.04,Default,,0,0,0,,¿SABÍAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXISTE{\r} UN
 Dialogue: 0,0:00:01.04,0:00:01.24,Default,,0,0,0,,¿SABÍAS QUE EXISTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r}
-Dialogue: 0,0:00:01.24,0:00:01.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÁRBOL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUYA{\r} SABIA ES
-Dialogue: 0,0:00:01.82,0:00:02.14,Default,,0,0,0,,ÁRBOL CUYA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SABIA{\r} ES
-Dialogue: 0,0:00:02.14,0:00:02.30,Default,,0,0,0,,ÁRBOL CUYA SABIA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r}
+Dialogue: 0,0:00:01.24,0:00:01.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÁRBOL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUYA{\r} SAVIA ES
+Dialogue: 0,0:00:01.82,0:00:02.14,Default,,0,0,0,,ÁRBOL CUYA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SAVIA{\r} ES
+Dialogue: 0,0:00:02.14,0:00:02.30,Default,,0,0,0,,ÁRBOL CUYA SAVIA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r}
 Dialogue: 0,0:00:02.30,0:00:02.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LITERALMENTE{\r} DE COLOR
 Dialogue: 0,0:00:02.90,0:00:03.22,Default,,0,0,0,,LITERALMENTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COLOR{\r}
 Dialogue: 0,0:00:03.22,0:00:03.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ROJO{\r} SANGRE?
@@ -93,23 +93,23 @@ Dialogue: 0,0:00:34.18,0:00:34.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:34.58,0:00:35.10,Default,,0,0,0,,ERA SANGRE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DRAGÓN{\r}
 Dialogue: 0,0:00:35.10,0:00:36.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOLIDIFICADA,{\r} DE AHÍ SU
 Dialogue: 0,0:00:36.06,0:00:36.52,Default,,0,0,0,,SOLIDIFICADA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AHÍ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
-Dialogue: 0,0:00:36.52,0:00:37.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NOMBRE,{\r} UN ÁRBOL QUE
-Dialogue: 0,0:00:37.06,0:00:37.46,Default,,0,0,0,,NOMBRE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÁRBOL{\r} QUE
-Dialogue: 0,0:00:37.46,0:00:37.62,Default,,0,0,0,,NOMBRE, UN ÁRBOL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
-Dialogue: 0,0:00:37.62,0:00:38.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARECE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SACADO{\r} DE OTRO
-Dialogue: 0,0:00:38.34,0:00:38.64,Default,,0,0,0,,PARECE SACADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OTRO{\r}
-Dialogue: 0,0:00:38.64,0:00:39.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLANETA,{\r} Y QUE
-Dialogue: 0,0:00:39.38,0:00:39.60,Default,,0,0,0,,PLANETA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
-Dialogue: 0,0:00:39.60,0:00:40.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LITERALMENTE{\r} SANGRA
-Dialogue: 0,0:00:40.28,0:00:40.68,Default,,0,0,0,,LITERALMENTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SANGRA{\r}
-Dialogue: 0,0:00:40.68,0:00:41.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUANDO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} LE LLERE.
-Dialogue: 0,0:00:41.16,0:00:41.70,Default,,0,0,0,,CUANDO SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLERE.{\r}
-Dialogue: 0,0:00:41.76,0:00:42.14,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAS{\r} SORPRENDIDO
-Dialogue: 0,0:00:42.14,0:00:42.66,Default,,0,0,0,,SI TE HAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
+Dialogue: 0,0:00:36.52,0:00:37.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NOMBRE.{\r}
+Dialogue: 0,0:00:37.06,0:00:37.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÁRBOL{\r} QUE PARECE
+Dialogue: 0,0:00:37.46,0:00:37.86,Default,,0,0,0,,UN ÁRBOL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARECE{\r}
+Dialogue: 0,0:00:37.86,0:00:38.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SACADO{\r} DE OTRO
+Dialogue: 0,0:00:38.34,0:00:38.64,Default,,0,0,0,,SACADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OTRO{\r}
+Dialogue: 0,0:00:38.64,0:00:39.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLANETA...{\r}
+Dialogue: 0,0:00:39.38,0:00:40.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LITERALMENTE{\r}
+Dialogue: 0,0:00:40.28,0:00:40.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SANGRA{\r} CUANDO SE LE
+Dialogue: 0,0:00:40.68,0:00:41.16,Default,,0,0,0,,SANGRA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUANDO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} LE
+Dialogue: 0,0:00:41.16,0:00:41.22,Default,,0,0,0,,SANGRA CUANDO SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LE{\r}
+Dialogue: 0,0:00:41.22,0:00:41.70,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HIERE.{\r}
+Dialogue: 0,0:00:41.76,0:00:42.14,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HA{\r} SORPRENDIDO
+Dialogue: 0,0:00:42.14,0:00:42.66,Default,,0,0,0,,SI TE HA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
 Dialogue: 0,0:00:42.66,0:00:43.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DATO,{\r} SÍGUEME PARA
 Dialogue: 0,0:00:43.48,0:00:43.82,Default,,0,0,0,,ESTE DATO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÍGUEME{\r} PARA
 Dialogue: 0,0:00:43.82,0:00:44.02,Default,,0,0,0,,ESTE DATO, SÍGUEME {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
 Dialogue: 0,0:00:44.02,0:00:44.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CURIOSIDADES{\r} TAN
 Dialogue: 0,0:00:44.82,0:00:45.06,Default,,0,0,0,,MÁS CURIOSIDADES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TAN{\r}
-Dialogue: 0,0:00:45.06,0:00:45.60,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXTREMAS{\r} COMO ÉSTA.
-Dialogue: 0,0:00:45.60,0:00:46.26,Default,,0,0,0,,EXTREMAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÉSTA.{\r}
+Dialogue: 0,0:00:45.06,0:00:45.60,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXTREMAS{\r} COMO ESTA.
+Dialogue: 0,0:00:45.60,0:00:46.26,Default,,0,0,0,,EXTREMAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTA.{\r}

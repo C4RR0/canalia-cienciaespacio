@@ -23,8 +23,8 @@ Dialogue: 0,0:00:04.04,0:00:04.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:04.40,0:00:04.70,Default,,0,0,0,,TIENEN UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VISIÓN{\r}
 Dialogue: 0,0:00:04.70,0:00:05.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARECIDA{\r} A LA DE
 Dialogue: 0,0:00:05.16,0:00:05.50,Default,,0,0,0,,PARECIDA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
-Dialogue: 0,0:00:05.50,0:00:06.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERSONA{\r} DALTÓNICA.
-Dialogue: 0,0:00:06.00,0:00:06.78,Default,,0,0,0,,UNA PERSONA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DALTÓNICA.{\r}
+Dialogue: 0,0:00:05.50,0:00:06.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERSONA{\r} DALTÓNICA:
+Dialogue: 0,0:00:06.00,0:00:06.78,Default,,0,0,0,,UNA PERSONA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DALTÓNICA:{\r}
 Dialogue: 0,0:00:06.84,0:00:07.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VEN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BIEN{\r} LOS AZULES
 Dialogue: 0,0:00:07.20,0:00:07.68,Default,,0,0,0,,VEN BIEN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AZULES{\r}
 Dialogue: 0,0:00:07.68,0:00:08.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} AMARILLOS, PERO
@@ -43,9 +43,9 @@ Dialogue: 0,0:00:12.68,0:00:13.02,Default,,0,0,0,,LES PROVOCA {\c&H0000FFFF&\t(0
 Dialogue: 0,0:00:13.02,0:00:13.44,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MOVIMIENTO.{\r}
 Dialogue: 0,0:00:13.78,0:00:14.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXPERIMENTOS,{\r} UN TORO
 Dialogue: 0,0:00:14.88,0:00:15.22,Default,,0,0,0,,EN EXPERIMENTOS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TORO{\r}
-Dialogue: 0,0:00:15.22,0:00:15.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENVISTIÓ{\r} IGUAL A UNA
-Dialogue: 0,0:00:15.66,0:00:16.02,Default,,0,0,0,,ENVISTIÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}IGUAL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} UNA
-Dialogue: 0,0:00:16.02,0:00:16.14,Default,,0,0,0,,ENVISTIÓ IGUAL A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
+Dialogue: 0,0:00:15.22,0:00:15.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EMBISTIÓ{\r} IGUAL A UNA
+Dialogue: 0,0:00:15.66,0:00:16.02,Default,,0,0,0,,EMBISTIÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}IGUAL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} UNA
+Dialogue: 0,0:00:16.02,0:00:16.14,Default,,0,0,0,,EMBISTIÓ IGUAL A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
 Dialogue: 0,0:00:16.14,0:00:17.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TELA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ROJA,{\r} AZUL O
 Dialogue: 0,0:00:17.02,0:00:17.42,Default,,0,0,0,,TELA ROJA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AZUL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}O{\r}
 Dialogue: 0,0:00:17.42,0:00:18.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BLANCA,{\r} SIEMPRE QUE SE
@@ -61,9 +61,9 @@ Dialogue: 0,0:00:22.12,0:00:22.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:22.98,0:00:23.36,Default,,0,0,0,,ENTONCES, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}¿POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUÉ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r}
 Dialogue: 0,0:00:23.36,0:00:23.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ROJA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} MULETA?
 Dialogue: 0,0:00:23.68,0:00:24.22,Default,,0,0,0,,ROJA LA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MULETA?{\r}
-Dialogue: 0,0:00:24.26,0:00:24.86,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRADICIÓN{\r} Y PORQUE
-Dialogue: 0,0:00:24.86,0:00:25.22,Default,,0,0,0,,POR TRADICIÓN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} PORQUE
-Dialogue: 0,0:00:25.22,0:00:25.44,Default,,0,0,0,,POR TRADICIÓN Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PORQUE{\r}
+Dialogue: 0,0:00:24.26,0:00:24.86,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRADICIÓN,{\r} Y PORQUE
+Dialogue: 0,0:00:24.86,0:00:25.22,Default,,0,0,0,,POR TRADICIÓN, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} PORQUE
+Dialogue: 0,0:00:25.22,0:00:25.44,Default,,0,0,0,,POR TRADICIÓN, Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PORQUE{\r}
 Dialogue: 0,0:00:25.44,0:00:25.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DISIMULA{\r} LAS MANCHAS DE
 Dialogue: 0,0:00:25.88,0:00:26.42,Default,,0,0,0,,DISIMULA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MANCHAS{\r} DE
 Dialogue: 0,0:00:26.42,0:00:26.60,Default,,0,0,0,,DISIMULA LAS MANCHAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}

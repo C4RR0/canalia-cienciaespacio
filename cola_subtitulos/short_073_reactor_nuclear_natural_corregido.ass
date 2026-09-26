@@ -11,21 +11,21 @@ Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HACE{\r} UNOS 2 .000
-Dialogue: 0,0:00:00.40,0:00:00.82,Default,,0,0,0,,HACE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}2{\r} .000
-Dialogue: 0,0:00:00.82,0:00:01.00,Default,,0,0,0,,HACE UNOS 2 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}.000{\r}
+Dialogue: 0,0:00:00.00,0:00:00.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HACE{\r} UNOS DOS MIL
+Dialogue: 0,0:00:00.40,0:00:00.82,Default,,0,0,0,,HACE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DOS{\r} MIL
+Dialogue: 0,0:00:00.82,0:00:01.00,Default,,0,0,0,,HACE UNOS DOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MIL{\r}
 Dialogue: 0,0:00:01.00,0:00:01.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MILLONES{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} AÑOS YA
 Dialogue: 0,0:00:01.50,0:00:01.90,Default,,0,0,0,,MILLONES DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}YA{\r}
 Dialogue: 0,0:00:01.90,0:00:02.44,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUNCIONABA{\r} UN REACTOR
 Dialogue: 0,0:00:02.44,0:00:02.88,Default,,0,0,0,,FUNCIONABA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REACTOR{\r}
-Dialogue: 0,0:00:02.88,0:00:03.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NUCLEAR{\r} EN LA TIERRA
-Dialogue: 0,0:00:03.40,0:00:03.92,Default,,0,0,0,,NUCLEAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIERRA{\r}
+Dialogue: 0,0:00:02.88,0:00:03.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NUCLEAR{\r} EN LA TIERRA.
+Dialogue: 0,0:00:03.40,0:00:03.92,Default,,0,0,0,,NUCLEAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIERRA.{\r}
 Dialogue: 0,0:00:03.92,0:00:04.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} NO LO CONSTRUYÓ
 Dialogue: 0,0:00:04.32,0:00:05.06,Default,,0,0,0,,Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONSTRUYÓ{\r}
 Dialogue: 0,0:00:05.06,0:00:05.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NADIE.{\r}
-Dialogue: 0,0:00:05.56,0:00:06.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTÁ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} OKELO, EN
-Dialogue: 0,0:00:06.00,0:00:06.60,Default,,0,0,0,,ESTÁ EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OKELO,{\r} EN
-Dialogue: 0,0:00:06.60,0:00:06.74,Default,,0,0,0,,ESTÁ EN OKELO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
+Dialogue: 0,0:00:05.56,0:00:06.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTÁ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} OKLO, EN
+Dialogue: 0,0:00:06.00,0:00:06.60,Default,,0,0,0,,ESTÁ EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OKLO,{\r} EN
+Dialogue: 0,0:00:06.60,0:00:06.74,Default,,0,0,0,,ESTÁ EN OKLO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
 Dialogue: 0,0:00:06.74,0:00:07.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GABÓN.{\r}
 Dialogue: 0,0:00:07.30,0:00:08.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}1972,{\r}
 Dialogue: 0,0:00:08.94,0:00:09.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TÉCNICOS{\r} FRANCESES
@@ -40,17 +40,15 @@ Dialogue: 0,0:00:12.38,0:00:12.84,Default,,0,0,0,,FALTABA {\c&H0000FFFF&\t(0,90,
 Dialogue: 0,0:00:12.84,0:00:13.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARTE{\r} DEL ISÓTOPO QUE
 Dialogue: 0,0:00:13.18,0:00:13.90,Default,,0,0,0,,PARTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ISÓTOPO{\r} QUE
 Dialogue: 0,0:00:13.90,0:00:14.02,Default,,0,0,0,,PARTE DEL ISÓTOPO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
-Dialogue: 0,0:00:14.02,0:00:14.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}USA,{\r} COMO
-Dialogue: 0,0:00:14.68,0:00:14.84,Default,,0,0,0,,SE USA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r}
-Dialogue: 0,0:00:14.84,0:00:15.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMBUSTIBLE,{\r} COMO SI
-Dialogue: 0,0:00:15.76,0:00:16.10,Default,,0,0,0,,COMBUSTIBLE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r}
-Dialogue: 0,0:00:16.10,0:00:16.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGUIEN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}YA{\r} LO HUBIERA
-Dialogue: 0,0:00:16.58,0:00:16.96,Default,,0,0,0,,ALGUIEN YA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HUBIERA{\r}
-Dialogue: 0,0:00:16.96,0:00:17.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GASTADO.{\r}
-Dialogue: 0,0:00:17.64,0:00:18.44,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ASÍ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ERA,{\r} EL
-Dialogue: 0,0:00:18.44,0:00:18.56,Default,,0,0,0,,Y ASÍ ERA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
-Dialogue: 0,0:00:18.56,0:00:19.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGUA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUBTERRÁNEA{\r} SE
-Dialogue: 0,0:00:19.36,0:00:19.56,Default,,0,0,0,,AGUA SUBTERRÁNEA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r}
+Dialogue: 0,0:00:14.02,0:00:14.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}USA{\r} COMO COMBUSTIBLE.
+Dialogue: 0,0:00:14.68,0:00:15.70,Default,,0,0,0,,SE USA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMBUSTIBLE.{\r}
+Dialogue: 0,0:00:15.76,0:00:16.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} ALGUIEN YA
+Dialogue: 0,0:00:16.10,0:00:16.58,Default,,0,0,0,,COMO SI {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGUIEN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}YA{\r}
+Dialogue: 0,0:00:16.58,0:00:16.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HUBIERA{\r} GASTADO.
+Dialogue: 0,0:00:16.96,0:00:17.64,Default,,0,0,0,,LO HUBIERA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GASTADO.{\r}
+Dialogue: 0,0:00:17.64,0:00:18.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ASÍ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ERA.{\r}
+Dialogue: 0,0:00:18.44,0:00:19.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGUA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUBTERRÁNEA{\r} SE
+Dialogue: 0,0:00:19.36,0:00:19.56,Default,,0,0,0,,EL AGUA SUBTERRÁNEA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r}
 Dialogue: 0,0:00:19.56,0:00:20.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FILTRABA{\r} EN LA ROCA
 Dialogue: 0,0:00:20.00,0:00:20.54,Default,,0,0,0,,FILTRABA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ROCA{\r}
 Dialogue: 0,0:00:20.54,0:00:20.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HACÍA{\r} QUE EL
@@ -63,11 +61,13 @@ Dialogue: 0,0:00:23.90,0:00:24.22,Default,,0,0,0,,AL CALENTARSE, {\c&H0000FFFF&\
 Dialogue: 0,0:00:24.22,0:00:24.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HERVÍA,{\r} LA REACCIÓN SE
 Dialogue: 0,0:00:24.92,0:00:25.38,Default,,0,0,0,,HERVÍA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REACCIÓN{\r} SE
 Dialogue: 0,0:00:25.38,0:00:25.64,Default,,0,0,0,,HERVÍA, LA REACCIÓN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r}
-Dialogue: 0,0:00:25.64,0:00:26.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}APAGABA,{\r} Y AL VOLVER
-Dialogue: 0,0:00:26.28,0:00:26.78,Default,,0,0,0,,APAGABA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VOLVER{\r}
-Dialogue: 0,0:00:26.78,0:00:27.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGUA,{\r} SE ENCENDÍA
-Dialogue: 0,0:00:27.46,0:00:28.08,Default,,0,0,0,,EL AGUA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENCENDÍA{\r}
-Dialogue: 0,0:00:28.08,0:00:28.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OTRA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VEZ.{\r}
+Dialogue: 0,0:00:25.64,0:00:26.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}APAGABA…{\r}
+Dialogue: 0,0:00:26.28,0:00:26.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VOLVER{\r} EL
+Dialogue: 0,0:00:26.78,0:00:26.98,Default,,0,0,0,,Y AL VOLVER {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
+Dialogue: 0,0:00:26.98,0:00:27.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGUA,{\r} SE ENCENDÍA OTRA
+Dialogue: 0,0:00:27.46,0:00:28.08,Default,,0,0,0,,AGUA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENCENDÍA{\r} OTRA
+Dialogue: 0,0:00:28.08,0:00:28.26,Default,,0,0,0,,AGUA, SE ENCENDÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OTRA{\r}
+Dialogue: 0,0:00:28.26,0:00:28.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VEZ.{\r}
 Dialogue: 0,0:00:28.50,0:00:29.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTUVO{\r} ASÍ, A RATOS,
 Dialogue: 0,0:00:29.04,0:00:29.60,Default,,0,0,0,,ESTUVO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ASÍ,{\r} A RATOS,
 Dialogue: 0,0:00:29.60,0:00:30.26,Default,,0,0,0,,ESTUVO ASÍ, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RATOS,{\r}

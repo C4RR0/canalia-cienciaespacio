@@ -24,17 +24,17 @@ Dialogue: 0,0:00:04.12,0:00:04.32,Default,,0,0,0,,DESIERTO, A CIENTOS {\c&H0000F
 Dialogue: 0,0:00:04.32,0:00:04.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}KILÓMETROS{\r} DE CUALQUIER
 Dialogue: 0,0:00:04.78,0:00:05.14,Default,,0,0,0,,KILÓMETROS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUALQUIER{\r}
 Dialogue: 0,0:00:05.14,0:00:05.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COSTA?{\r}
-Dialogue: 0,0:00:05.88,0:00:06.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENCUENTRA{\r} EN MOINAT,
-Dialogue: 0,0:00:06.34,0:00:07.06,Default,,0,0,0,,SE ENCUENTRA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MOINAT,{\r}
+Dialogue: 0,0:00:05.88,0:00:06.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENCUENTRA{\r} EN MOYNAQ,
+Dialogue: 0,0:00:06.34,0:00:07.06,Default,,0,0,0,,SE ENCUENTRA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MOYNAQ,{\r}
 Dialogue: 0,0:00:07.10,0:00:07.60,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ANTIGUA{\r} CIUDAD
 Dialogue: 0,0:00:07.60,0:00:07.80,Default,,0,0,0,,UNA ANTIGUA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIUDAD{\r}
 Dialogue: 0,0:00:07.80,0:00:08.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PORTUARIA{\r} DE UZBEKISTÁN,
 Dialogue: 0,0:00:08.38,0:00:09.36,Default,,0,0,0,,PORTUARIA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UZBEKISTÁN,{\r}
 Dialogue: 0,0:00:09.42,0:00:09.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} AÑOS
 Dialogue: 0,0:00:09.82,0:00:10.06,Default,,0,0,0,,QUE HASTA LOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑOS{\r}
-Dialogue: 0,0:00:10.06,0:00:10.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}60{\r} ESTABA A ORILLAS
-Dialogue: 0,0:00:10.42,0:00:10.84,Default,,0,0,0,,60 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTABA{\r} A ORILLAS
-Dialogue: 0,0:00:10.84,0:00:11.20,Default,,0,0,0,,60 ESTABA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ORILLAS{\r}
+Dialogue: 0,0:00:10.06,0:00:10.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SESENTA{\r} ESTABA A ORILLAS
+Dialogue: 0,0:00:10.42,0:00:10.84,Default,,0,0,0,,SESENTA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTABA{\r} A ORILLAS
+Dialogue: 0,0:00:10.84,0:00:11.20,Default,,0,0,0,,SESENTA ESTABA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ORILLAS{\r}
 Dialogue: 0,0:00:11.20,0:00:11.56,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MAR{\r} DE ARAL,
 Dialogue: 0,0:00:11.56,0:00:12.14,Default,,0,0,0,,DEL MAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ARAL,{\r}
 Dialogue: 0,0:00:12.16,0:00:12.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DÍA{\r} EL
@@ -55,8 +55,8 @@ Dialogue: 0,0:00:18.52,0:00:19.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:19.10,0:00:19.60,Default,,0,0,0,,ALGODÓN, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCAS{\r}
 Dialogue: 0,0:00:19.60,0:00:19.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DÉCADAS{\r} EL AGUA
 Dialogue: 0,0:00:19.96,0:00:20.34,Default,,0,0,0,,DÉCADAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGUA{\r}
-Dialogue: 0,0:00:20.34,0:00:20.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RETROCEDIÓ{\r} CASI 100
-Dialogue: 0,0:00:20.94,0:00:21.42,Default,,0,0,0,,RETROCEDIÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}100{\r}
+Dialogue: 0,0:00:20.34,0:00:20.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RETROCEDIÓ{\r} CASI CIEN
+Dialogue: 0,0:00:20.94,0:00:21.42,Default,,0,0,0,,RETROCEDIÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIEN{\r}
 Dialogue: 0,0:00:21.42,0:00:22.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}KILÓMETROS,{\r} DEJANDO A
 Dialogue: 0,0:00:22.20,0:00:22.58,Default,,0,0,0,,KILÓMETROS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEJANDO{\r} A
 Dialogue: 0,0:00:22.58,0:00:22.68,Default,,0,0,0,,KILÓMETROS, DEJANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
@@ -85,19 +85,18 @@ Dialogue: 0,0:00:32.88,0:00:33.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:33.26,0:00:33.68,Default,,0,0,0,,POR EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SER{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HUMANO{\r}
 Dialogue: 0,0:00:33.68,0:00:34.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GRANDES{\r} DE LA
 Dialogue: 0,0:00:34.28,0:00:34.54,Default,,0,0,0,,MÁS GRANDES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
-Dialogue: 0,0:00:34.54,0:00:35.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HISTORIA,{\r} UN PUERTO
-Dialogue: 0,0:00:35.22,0:00:35.58,Default,,0,0,0,,HISTORIA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PUERTO{\r}
-Dialogue: 0,0:00:35.58,0:00:35.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PESQUERO{\r} CONVERTIDO EN
-Dialogue: 0,0:00:35.98,0:00:36.56,Default,,0,0,0,,PESQUERO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONVERTIDO{\r} EN
-Dialogue: 0,0:00:36.56,0:00:36.64,Default,,0,0,0,,PESQUERO CONVERTIDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
-Dialogue: 0,0:00:36.64,0:00:37.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESIERTO,{\r} CON BARCOS QUE
-Dialogue: 0,0:00:37.34,0:00:37.80,Default,,0,0,0,,DESIERTO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BARCOS{\r} QUE
-Dialogue: 0,0:00:37.80,0:00:37.98,Default,,0,0,0,,DESIERTO, CON BARCOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
-Dialogue: 0,0:00:37.98,0:00:38.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}YA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VOLVERÁN{\r} A
-Dialogue: 0,0:00:38.66,0:00:38.76,Default,,0,0,0,,YA NO VOLVERÁN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
-Dialogue: 0,0:00:38.76,0:00:39.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FLOTAR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}JAMÁS.{\r}
-Dialogue: 0,0:00:39.72,0:00:40.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAS{\r} SORPRENDIDO
-Dialogue: 0,0:00:40.04,0:00:40.56,Default,,0,0,0,,SI TE HAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
+Dialogue: 0,0:00:34.54,0:00:35.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HISTORIA.{\r}
+Dialogue: 0,0:00:35.22,0:00:35.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PUERTO{\r} PESQUERO
+Dialogue: 0,0:00:35.58,0:00:35.98,Default,,0,0,0,,UN PUERTO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PESQUERO{\r}
+Dialogue: 0,0:00:35.98,0:00:36.56,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONVERTIDO{\r} EN DESIERTO,
+Dialogue: 0,0:00:36.56,0:00:37.28,Default,,0,0,0,,CONVERTIDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESIERTO,{\r}
+Dialogue: 0,0:00:37.34,0:00:37.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BARCOS{\r} QUE YA
+Dialogue: 0,0:00:37.80,0:00:38.12,Default,,0,0,0,,CON BARCOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}YA{\r}
+Dialogue: 0,0:00:38.12,0:00:38.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VOLVERÁN{\r} A FLOTAR
+Dialogue: 0,0:00:38.66,0:00:39.04,Default,,0,0,0,,NO VOLVERÁN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FLOTAR{\r}
+Dialogue: 0,0:00:39.04,0:00:39.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}JAMÁS.{\r}
+Dialogue: 0,0:00:39.72,0:00:40.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HA{\r} SORPRENDIDO
+Dialogue: 0,0:00:40.04,0:00:40.56,Default,,0,0,0,,SI TE HA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
 Dialogue: 0,0:00:40.56,0:00:41.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DATO,{\r} SÍGUEME PARA
 Dialogue: 0,0:00:41.42,0:00:41.92,Default,,0,0,0,,ESTE DATO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÍGUEME{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
 Dialogue: 0,0:00:41.92,0:00:42.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CURIOSIDADES{\r} TAN

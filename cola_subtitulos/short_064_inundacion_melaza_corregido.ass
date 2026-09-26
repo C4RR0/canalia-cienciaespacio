@@ -19,18 +19,16 @@ Dialogue: 0,0:00:02.68,0:00:02.84,Default,,0,0,0,,UNA OLA GIGANTE {\c&H0000FFFF&
 Dialogue: 0,0:00:02.84,0:00:03.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MELAZA{\r} ARRASÓ UN BARRIO
 Dialogue: 0,0:00:03.18,0:00:03.58,Default,,0,0,0,,MELAZA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ARRASÓ{\r} UN BARRIO
 Dialogue: 0,0:00:03.58,0:00:03.98,Default,,0,0,0,,MELAZA ARRASÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BARRIO{\r}
-Dialogue: 0,0:00:03.98,0:00:04.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENTERO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} BOSTON, UN
-Dialogue: 0,0:00:04.42,0:00:05.04,Default,,0,0,0,,ENTERO DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BOSTON,{\r} UN
-Dialogue: 0,0:00:05.04,0:00:05.18,Default,,0,0,0,,ENTERO DE BOSTON, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r}
-Dialogue: 0,0:00:05.18,0:00:05.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEPÓSITO{\r} CON MÁS DE
-Dialogue: 0,0:00:05.66,0:00:06.06,Default,,0,0,0,,DEPÓSITO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} DE
-Dialogue: 0,0:00:06.06,0:00:06.22,Default,,0,0,0,,DEPÓSITO CON MÁS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
-Dialogue: 0,0:00:06.22,0:00:06.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}8{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MILLONES{\r} DE LITROS
-Dialogue: 0,0:00:06.66,0:00:07.18,Default,,0,0,0,,8 MILLONES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LITROS{\r}
-Dialogue: 0,0:00:07.18,0:00:07.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MELAZA{\r} REVENTÓ DE
-Dialogue: 0,0:00:07.68,0:00:08.14,Default,,0,0,0,,DE MELAZA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REVENTÓ{\r} DE
-Dialogue: 0,0:00:08.14,0:00:08.24,Default,,0,0,0,,DE MELAZA REVENTÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
-Dialogue: 0,0:00:08.24,0:00:08.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GOLPE.{\r}
+Dialogue: 0,0:00:03.98,0:00:04.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENTERO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} BOSTON.
+Dialogue: 0,0:00:04.42,0:00:04.88,Default,,0,0,0,,ENTERO DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BOSTON.{\r}
+Dialogue: 0,0:00:05.04,0:00:05.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEPÓSITO{\r} CON MÁS
+Dialogue: 0,0:00:05.66,0:00:06.06,Default,,0,0,0,,UN DEPÓSITO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r}
+Dialogue: 0,0:00:06.06,0:00:06.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OCHO{\r} MILLONES DE
+Dialogue: 0,0:00:06.38,0:00:06.92,Default,,0,0,0,,DE OCHO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MILLONES{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:06.92,0:00:07.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LITROS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} MELAZA REVENTÓ
+Dialogue: 0,0:00:07.34,0:00:07.68,Default,,0,0,0,,LITROS DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MELAZA{\r} REVENTÓ
+Dialogue: 0,0:00:07.68,0:00:08.14,Default,,0,0,0,,LITROS DE MELAZA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REVENTÓ{\r}
+Dialogue: 0,0:00:08.14,0:00:08.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GOLPE.{\r}
 Dialogue: 0,0:00:08.76,0:00:09.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OLA{\r} MARRÓN Y
 Dialogue: 0,0:00:09.18,0:00:09.52,Default,,0,0,0,,UNA OLA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MARRÓN{\r} Y
 Dialogue: 0,0:00:09.52,0:00:09.66,Default,,0,0,0,,UNA OLA MARRÓN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
@@ -41,20 +39,22 @@ Dialogue: 0,0:00:10.76,0:00:11.24,Default,,0,0,0,,METROS {\c&H0000FFFF&\t(0,90,\
 Dialogue: 0,0:00:11.24,0:00:11.66,Default,,0,0,0,,METROS DE ALTURA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BAJÓ{\r}
 Dialogue: 0,0:00:11.66,0:00:12.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} CALLES A
 Dialogue: 0,0:00:12.00,0:00:12.42,Default,,0,0,0,,POR LAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CALLES{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
-Dialogue: 0,0:00:12.42,0:00:12.86,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}50{\r} KILÓMETROS POR
-Dialogue: 0,0:00:12.86,0:00:13.46,Default,,0,0,0,,UNOS 50 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}KILÓMETROS{\r} POR
-Dialogue: 0,0:00:13.46,0:00:13.74,Default,,0,0,0,,UNOS 50 KILÓMETROS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r}
-Dialogue: 0,0:00:13.74,0:00:14.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HORA,{\r} DERRIBANDO
-Dialogue: 0,0:00:14.20,0:00:14.66,Default,,0,0,0,,HORA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DERRIBANDO{\r}
-Dialogue: 0,0:00:14.66,0:00:15.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EDIFICIOS{\r} Y ARRASTRANDO
-Dialogue: 0,0:00:15.24,0:00:15.82,Default,,0,0,0,,EDIFICIOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ARRASTRANDO{\r}
-Dialogue: 0,0:00:15.82,0:00:16.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TODO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} SU PASO.
-Dialogue: 0,0:00:16.24,0:00:16.80,Default,,0,0,0,,TODO A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PASO.{\r}
-Dialogue: 0,0:00:16.92,0:00:17.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MURIERON{\r} 21 PERSONAS Y
-Dialogue: 0,0:00:17.26,0:00:18.14,Default,,0,0,0,,MURIERON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}21{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERSONAS{\r} Y
-Dialogue: 0,0:00:18.14,0:00:18.36,Default,,0,0,0,,MURIERON 21 PERSONAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
-Dialogue: 0,0:00:18.36,0:00:19.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}150{\r} RESULTARON
-Dialogue: 0,0:00:19.08,0:00:19.96,Default,,0,0,0,,UNAS 150 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RESULTARON{\r}
+Dialogue: 0,0:00:12.42,0:00:12.86,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CINCUENTA{\r}
+Dialogue: 0,0:00:12.86,0:00:13.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}KILÓMETROS{\r} POR HORA,
+Dialogue: 0,0:00:13.46,0:00:14.14,Default,,0,0,0,,KILÓMETROS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HORA,{\r}
+Dialogue: 0,0:00:14.20,0:00:14.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DERRIBANDO{\r} EDIFICIOS Y
+Dialogue: 0,0:00:14.66,0:00:15.24,Default,,0,0,0,,DERRIBANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EDIFICIOS{\r} Y
+Dialogue: 0,0:00:15.24,0:00:15.36,Default,,0,0,0,,DERRIBANDO EDIFICIOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
+Dialogue: 0,0:00:15.36,0:00:15.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ARRASTRANDO{\r} TODO A SU
+Dialogue: 0,0:00:15.82,0:00:16.24,Default,,0,0,0,,ARRASTRANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TODO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} SU
+Dialogue: 0,0:00:16.24,0:00:16.32,Default,,0,0,0,,ARRASTRANDO TODO A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
+Dialogue: 0,0:00:16.32,0:00:16.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PASO.{\r}
+Dialogue: 0,0:00:16.92,0:00:17.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MURIERON{\r} VEINTIUNA
+Dialogue: 0,0:00:17.26,0:00:17.56,Default,,0,0,0,,MURIERON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VEINTIUNA{\r}
+Dialogue: 0,0:00:17.56,0:00:18.14,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERSONAS{\r} Y UNAS CIENTO
+Dialogue: 0,0:00:18.14,0:00:18.52,Default,,0,0,0,,PERSONAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNAS{\r} CIENTO
+Dialogue: 0,0:00:18.52,0:00:18.80,Default,,0,0,0,,PERSONAS Y UNAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIENTO{\r}
+Dialogue: 0,0:00:18.80,0:00:19.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CINCUENTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RESULTARON{\r}
 Dialogue: 0,0:00:19.96,0:00:20.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HERIDAS.{\r}
 Dialogue: 0,0:00:20.64,0:00:21.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MELAZA{\r} ERA TAN
 Dialogue: 0,0:00:21.10,0:00:21.44,Default,,0,0,0,,LA MELAZA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ERA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TAN{\r}
@@ -74,8 +74,8 @@ Dialogue: 0,0:00:27.36,0:00:27.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:27.74,0:00:28.06,Default,,0,0,0,,SIGUIÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OLIENDO{\r} A DULCE
 Dialogue: 0,0:00:28.06,0:00:28.54,Default,,0,0,0,,SIGUIÓ OLIENDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DULCE{\r}
 Dialogue: 0,0:00:28.54,0:00:29.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DURANTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DÉCADAS.{\r}
-Dialogue: 0,0:00:29.56,0:00:29.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUENA{\r} BROMA, PERO FUE
-Dialogue: 0,0:00:29.90,0:00:30.48,Default,,0,0,0,,SUENA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BROMA,{\r} PERO FUE
-Dialogue: 0,0:00:30.48,0:00:30.86,Default,,0,0,0,,SUENA BROMA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUE{\r}
-Dialogue: 0,0:00:30.86,0:00:31.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRAGEDIA{\r} MUY REAL.
-Dialogue: 0,0:00:31.50,0:00:32.14,Default,,0,0,0,,UNA TRAGEDIA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUY{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REAL.{\r}
+Dialogue: 0,0:00:29.56,0:00:29.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUENA A{\r} BROMA.
+Dialogue: 0,0:00:29.90,0:00:30.46,Default,,0,0,0,,SUENA A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BROMA.{\r}
+Dialogue: 0,0:00:30.48,0:00:30.86,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUE{\r} UNA TRAGEDIA
+Dialogue: 0,0:00:30.86,0:00:31.50,Default,,0,0,0,,PERO FUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRAGEDIA{\r}
+Dialogue: 0,0:00:31.50,0:00:32.14,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUY{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REAL.{\r}

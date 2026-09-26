@@ -33,8 +33,8 @@ Dialogue: 0,0:00:08.32,0:00:08.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:08.76,0:00:09.66,Default,,0,0,0,,DE CAMPOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MAGNÉTICOS,{\r} DE
 Dialogue: 0,0:00:09.66,0:00:09.78,Default,,0,0,0,,DE CAMPOS MAGNÉTICOS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
 Dialogue: 0,0:00:09.78,0:00:10.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIENTOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}IMPOSIBLES,{\r}
-Dialogue: 0,0:00:10.92,0:00:11.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INCLUSO{\r} DE BROMISTAS,
-Dialogue: 0,0:00:11.26,0:00:12.06,Default,,0,0,0,,INCLUSO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BROMISTAS,{\r}
+Dialogue: 0,0:00:10.92,0:00:11.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INCLUSO{\r} DE BROMISTAS.
+Dialogue: 0,0:00:11.26,0:00:12.06,Default,,0,0,0,,INCLUSO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BROMISTAS.{\r}
 Dialogue: 0,0:00:12.20,0:00:12.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} EN 2014
 Dialogue: 0,0:00:12.62,0:00:13.18,Default,,0,0,0,,HASTA QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}2014{\r}
 Dialogue: 0,0:00:13.18,0:00:13.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNOS{\r} CIENTÍFICOS
@@ -62,17 +62,17 @@ Dialogue: 0,0:00:22.56,0:00:23.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:23.46,0:00:23.58,Default,,0,0,0,,POR LA MAÑANA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
 Dialogue: 0,0:00:23.58,0:00:23.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HIELO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} ROMPE EN
 Dialogue: 0,0:00:23.94,0:00:24.36,Default,,0,0,0,,HIELO SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ROMPE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
-Dialogue: 0,0:00:24.36,0:00:24.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLACAS{\r} Y EL VIENTO
-Dialogue: 0,0:00:24.78,0:00:25.20,Default,,0,0,0,,PLACAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} VIENTO
-Dialogue: 0,0:00:25.20,0:00:25.42,Default,,0,0,0,,PLACAS Y EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIENTO{\r}
+Dialogue: 0,0:00:24.36,0:00:24.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLACAS,{\r} Y EL VIENTO
+Dialogue: 0,0:00:24.78,0:00:25.20,Default,,0,0,0,,PLACAS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} VIENTO
+Dialogue: 0,0:00:25.20,0:00:25.42,Default,,0,0,0,,PLACAS, Y EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIENTO{\r}
 Dialogue: 0,0:00:25.42,0:00:26.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EMPUJA{\r} LENTAMENTE
 Dialogue: 0,0:00:26.04,0:00:26.54,Default,,0,0,0,,LAS EMPUJA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LENTAMENTE{\r}
 Dialogue: 0,0:00:26.54,0:00:26.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} PIEDRAS DENTRO.
 Dialogue: 0,0:00:26.94,0:00:27.26,Default,,0,0,0,,CON LAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PIEDRAS{\r} DENTRO.
 Dialogue: 0,0:00:27.26,0:00:27.52,Default,,0,0,0,,CON LAS PIEDRAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DENTRO.{\r}
-Dialogue: 0,0:00:27.52,0:00:27.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} MISTERIO DE 70
-Dialogue: 0,0:00:27.94,0:00:28.38,Default,,0,0,0,,UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MISTERIO{\r} DE 70
-Dialogue: 0,0:00:28.38,0:00:28.78,Default,,0,0,0,,UN MISTERIO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}70{\r}
+Dialogue: 0,0:00:27.52,0:00:27.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} MISTERIO DE SETENTA
+Dialogue: 0,0:00:27.94,0:00:28.38,Default,,0,0,0,,UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MISTERIO{\r} DE SETENTA
+Dialogue: 0,0:00:28.38,0:00:28.78,Default,,0,0,0,,UN MISTERIO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SETENTA{\r}
 Dialogue: 0,0:00:28.78,0:00:29.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑOS,{\r} RESUELTO CON UN
 Dialogue: 0,0:00:29.40,0:00:29.92,Default,,0,0,0,,AÑOS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RESUELTO{\r} CON UN
 Dialogue: 0,0:00:29.92,0:00:30.18,Default,,0,0,0,,AÑOS, RESUELTO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r}

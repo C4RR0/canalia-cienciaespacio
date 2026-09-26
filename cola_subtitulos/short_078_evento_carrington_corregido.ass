@@ -60,9 +60,9 @@ Dialogue: 0,0:00:23.10,0:00:23.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:23.42,0:00:23.84,Default,,0,0,0,,ERA DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DÍA.{\r}
 Dialogue: 0,0:00:23.90,0:00:24.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGUNOS{\r} TELEGRAFISTAS
 Dialogue: 0,0:00:24.32,0:00:24.92,Default,,0,0,0,,ALGUNOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TELEGRAFISTAS{\r}
-Dialogue: 0,0:00:24.92,0:00:25.44,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RECIBIERON{\r} DESCARGAS Y
-Dialogue: 0,0:00:25.44,0:00:25.98,Default,,0,0,0,,RECIBIERON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESCARGAS{\r} Y
-Dialogue: 0,0:00:25.98,0:00:26.34,Default,,0,0,0,,RECIBIERON DESCARGAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
+Dialogue: 0,0:00:24.92,0:00:25.44,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RECIBIERON{\r} DESCARGAS, Y
+Dialogue: 0,0:00:25.44,0:00:25.98,Default,,0,0,0,,RECIBIERON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESCARGAS,{\r} Y
+Dialogue: 0,0:00:25.98,0:00:26.34,Default,,0,0,0,,RECIBIERON DESCARGAS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
 Dialogue: 0,0:00:26.34,0:00:26.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HUBO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LÍNEAS{\r} QUE
 Dialogue: 0,0:00:26.94,0:00:27.08,Default,,0,0,0,,HUBO LÍNEAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
 Dialogue: 0,0:00:27.08,0:00:27.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIGUIERON{\r} ENVIANDO

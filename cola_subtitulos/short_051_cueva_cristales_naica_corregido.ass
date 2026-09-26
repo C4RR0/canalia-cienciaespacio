@@ -25,52 +25,54 @@ Dialogue: 0,0:00:04.26,0:00:05.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:05.18,0:00:05.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} CUEVA
 Dialogue: 0,0:00:05.66,0:00:05.94,Default,,0,0,0,,SE LLAMA LA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUEVA{\r}
 Dialogue: 0,0:00:05.94,0:00:06.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CRISTALES,{\r}
-Dialogue: 0,0:00:06.92,0:00:07.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESCONDIDA{\r} A 300 METROS
-Dialogue: 0,0:00:07.46,0:00:07.80,Default,,0,0,0,,ESCONDIDA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}300{\r} METROS
-Dialogue: 0,0:00:07.80,0:00:08.28,Default,,0,0,0,,ESCONDIDA A 300 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}METROS{\r}
-Dialogue: 0,0:00:08.28,0:00:08.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BAJO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIERRA{\r} EN UNA
-Dialogue: 0,0:00:08.94,0:00:09.30,Default,,0,0,0,,BAJO TIERRA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
-Dialogue: 0,0:00:09.30,0:00:09.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MINA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} NAICA.
-Dialogue: 0,0:00:09.66,0:00:10.14,Default,,0,0,0,,MINA DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NAICA.{\r}
+Dialogue: 0,0:00:06.92,0:00:07.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESCONDIDA{\r} A TRESCIENTOS
+Dialogue: 0,0:00:07.46,0:00:07.80,Default,,0,0,0,,ESCONDIDA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRESCIENTOS{\r}
+Dialogue: 0,0:00:07.80,0:00:08.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}METROS{\r} BAJO TIERRA EN
+Dialogue: 0,0:00:08.28,0:00:08.94,Default,,0,0,0,,METROS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BAJO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIERRA{\r} EN
+Dialogue: 0,0:00:08.94,0:00:09.16,Default,,0,0,0,,METROS BAJO TIERRA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
+Dialogue: 0,0:00:09.16,0:00:09.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MINA{\r} DE NAICA.
+Dialogue: 0,0:00:09.52,0:00:10.14,Default,,0,0,0,,UNA MINA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NAICA.{\r}
 Dialogue: 0,0:00:10.28,0:00:10.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CRISTALES{\r} DE
 Dialogue: 0,0:00:10.88,0:00:11.06,Default,,0,0,0,,SUS CRISTALES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
 Dialogue: 0,0:00:11.06,0:00:11.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SELENITA{\r} MÁS GRANDES
 Dialogue: 0,0:00:11.46,0:00:12.00,Default,,0,0,0,,SELENITA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GRANDES{\r}
-Dialogue: 0,0:00:12.00,0:00:12.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MIDEN{\r} MÁS DE 11
-Dialogue: 0,0:00:12.38,0:00:12.88,Default,,0,0,0,,MIDEN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}11{\r}
+Dialogue: 0,0:00:12.00,0:00:12.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MIDEN{\r} MÁS DE ONCE
+Dialogue: 0,0:00:12.38,0:00:12.88,Default,,0,0,0,,MIDEN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ONCE{\r}
 Dialogue: 0,0:00:12.88,0:00:13.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}METROS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} LARGO Y
 Dialogue: 0,0:00:13.38,0:00:13.84,Default,,0,0,0,,METROS DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LARGO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
-Dialogue: 0,0:00:13.84,0:00:14.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PESAN{\r} HASTA 12 TONELADAS
-Dialogue: 0,0:00:14.20,0:00:14.66,Default,,0,0,0,,PESAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}12{\r} TONELADAS
-Dialogue: 0,0:00:14.66,0:00:15.10,Default,,0,0,0,,PESAN HASTA 12 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TONELADAS{\r}
-Dialogue: 0,0:00:15.10,0:00:15.86,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CADA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNO,{\r} FORMADOS A
-Dialogue: 0,0:00:15.86,0:00:16.18,Default,,0,0,0,,CADA UNO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FORMADOS{\r} A
-Dialogue: 0,0:00:16.18,0:00:16.38,Default,,0,0,0,,CADA UNO, FORMADOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
-Dialogue: 0,0:00:16.38,0:00:16.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LARGO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} 500
-Dialogue: 0,0:00:16.84,0:00:17.02,Default,,0,0,0,,LO LARGO DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}500{\r}
-Dialogue: 0,0:00:17.02,0:00:17.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}.000{\r} AÑOS EN UNA
-Dialogue: 0,0:00:17.46,0:00:17.92,Default,,0,0,0,,.000 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} UNA
-Dialogue: 0,0:00:17.92,0:00:18.08,Default,,0,0,0,,.000 AÑOS EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
-Dialogue: 0,0:00:18.08,0:00:18.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CÁMARA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} AGUA RICA
-Dialogue: 0,0:00:18.62,0:00:19.08,Default,,0,0,0,,CÁMARA CON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGUA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RICA{\r}
-Dialogue: 0,0:00:19.08,0:00:19.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MINERALES,{\r} MANTENIDA
-Dialogue: 0,0:00:19.92,0:00:20.42,Default,,0,0,0,,EN MINERALES, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MANTENIDA{\r}
-Dialogue: 0,0:00:20.42,0:00:21.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TEMPERATURA{\r} CASI
-Dialogue: 0,0:00:21.10,0:00:21.56,Default,,0,0,0,,A UNA TEMPERATURA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r}
-Dialogue: 0,0:00:21.56,0:00:21.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONSTANTE{\r} DE ENTRE 54
-Dialogue: 0,0:00:21.98,0:00:22.30,Default,,0,0,0,,CONSTANTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} ENTRE 54
-Dialogue: 0,0:00:22.30,0:00:22.98,Default,,0,0,0,,CONSTANTE DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENTRE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}54{\r}
-Dialogue: 0,0:00:22.98,0:00:23.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} 58 GRADOS.
-Dialogue: 0,0:00:23.48,0:00:24.16,Default,,0,0,0,,Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}58{\r} GRADOS.
-Dialogue: 0,0:00:24.16,0:00:24.68,Default,,0,0,0,,Y 58 {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GRADOS.{\r}
+Dialogue: 0,0:00:13.84,0:00:14.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PESAN{\r} HASTA DOCE
+Dialogue: 0,0:00:14.20,0:00:14.66,Default,,0,0,0,,PESAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DOCE{\r}
+Dialogue: 0,0:00:14.66,0:00:15.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TONELADAS{\r} CADA UNO,
+Dialogue: 0,0:00:15.10,0:00:15.84,Default,,0,0,0,,TONELADAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CADA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNO,{\r}
+Dialogue: 0,0:00:15.86,0:00:16.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FORMADOS{\r} A LO LARGO
+Dialogue: 0,0:00:16.18,0:00:16.68,Default,,0,0,0,,FORMADOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LARGO{\r}
+Dialogue: 0,0:00:16.68,0:00:17.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUINIENTOS{\r} MIL AÑOS
+Dialogue: 0,0:00:17.02,0:00:17.46,Default,,0,0,0,,DE QUINIENTOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MIL{\r} AÑOS
+Dialogue: 0,0:00:17.46,0:00:17.70,Default,,0,0,0,,DE QUINIENTOS MIL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑOS{\r}
+Dialogue: 0,0:00:17.70,0:00:18.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} CÁMARA CON
+Dialogue: 0,0:00:18.08,0:00:18.62,Default,,0,0,0,,EN UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CÁMARA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r}
+Dialogue: 0,0:00:18.62,0:00:19.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGUA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RICA{\r} EN MINERALES,
+Dialogue: 0,0:00:19.08,0:00:19.92,Default,,0,0,0,,AGUA RICA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MINERALES,{\r}
+Dialogue: 0,0:00:19.92,0:00:20.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MANTENIDA{\r} A UNA
+Dialogue: 0,0:00:20.42,0:00:20.64,Default,,0,0,0,,MANTENIDA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
+Dialogue: 0,0:00:20.64,0:00:21.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TEMPERATURA{\r} CASI
+Dialogue: 0,0:00:21.10,0:00:21.56,Default,,0,0,0,,TEMPERATURA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r}
+Dialogue: 0,0:00:21.56,0:00:21.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONSTANTE{\r} DE ENTRE
+Dialogue: 0,0:00:21.98,0:00:22.30,Default,,0,0,0,,CONSTANTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} ENTRE
+Dialogue: 0,0:00:22.30,0:00:22.48,Default,,0,0,0,,CONSTANTE DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENTRE{\r}
+Dialogue: 0,0:00:22.48,0:00:22.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CINCUENTA{\r} Y CUATRO Y
+Dialogue: 0,0:00:22.98,0:00:23.48,Default,,0,0,0,,CINCUENTA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} CUATRO Y
+Dialogue: 0,0:00:23.48,0:00:23.75,Default,,0,0,0,,CINCUENTA Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUATRO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
+Dialogue: 0,0:00:23.75,0:00:24.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CINCUENTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OCHO{\r} GRADOS.
+Dialogue: 0,0:00:24.16,0:00:24.68,Default,,0,0,0,,CINCUENTA Y OCHO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GRADOS.{\r}
 Dialogue: 0,0:00:24.68,0:00:25.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} CALOR Y LA
 Dialogue: 0,0:00:25.00,0:00:25.38,Default,,0,0,0,,EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CALOR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} LA
 Dialogue: 0,0:00:25.38,0:00:25.46,Default,,0,0,0,,EL CALOR Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
 Dialogue: 0,0:00:25.46,0:00:25.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HUMEDAD{\r} SON TAN EXTREMOS
 Dialogue: 0,0:00:25.82,0:00:26.18,Default,,0,0,0,,HUMEDAD {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TAN{\r} EXTREMOS
 Dialogue: 0,0:00:26.18,0:00:26.72,Default,,0,0,0,,HUMEDAD SON TAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXTREMOS{\r}
-Dialogue: 0,0:00:26.72,0:00:27.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HUMANO{\r} SÓLO
-Dialogue: 0,0:00:27.20,0:00:27.50,Default,,0,0,0,,QUE UN HUMANO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÓLO{\r}
+Dialogue: 0,0:00:26.72,0:00:27.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HUMANO{\r} SOLO
+Dialogue: 0,0:00:27.20,0:00:27.50,Default,,0,0,0,,QUE UN HUMANO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOLO{\r}
 Dialogue: 0,0:00:27.50,0:00:27.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PUEDE{\r} SOBREVIVIR AHÍ
 Dialogue: 0,0:00:27.82,0:00:28.40,Default,,0,0,0,,PUEDE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOBREVIVIR{\r} AHÍ
 Dialogue: 0,0:00:28.40,0:00:28.56,Default,,0,0,0,,PUEDE SOBREVIVIR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AHÍ{\r}
@@ -79,8 +81,8 @@ Dialogue: 0,0:00:29.14,0:00:29.74,Default,,0,0,0,,DENTRO UNOS {\c&H0000FFFF&\t(0
 Dialogue: 0,0:00:29.74,0:00:30.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIN{\r} UN EQUIPO DE
 Dialogue: 0,0:00:30.06,0:00:30.70,Default,,0,0,0,,SIN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EQUIPO{\r} DE
 Dialogue: 0,0:00:30.70,0:00:30.92,Default,,0,0,0,,SIN UN EQUIPO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
-Dialogue: 0,0:00:30.92,0:00:31.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REFRIGERACIÓN{\r} ESPECIAL.
-Dialogue: 0,0:00:31.54,0:00:32.16,Default,,0,0,0,,REFRIGERACIÓN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESPECIAL.{\r}
+Dialogue: 0,0:00:30.92,0:00:31.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REFRIGERACIÓN{\r} ESPECIAL,
+Dialogue: 0,0:00:31.54,0:00:32.16,Default,,0,0,0,,REFRIGERACIÓN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESPECIAL,{\r}
 Dialogue: 0,0:00:32.26,0:00:32.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ASÍ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} LA CUEVA
 Dialogue: 0,0:00:32.66,0:00:33.04,Default,,0,0,0,,ASÍ QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUEVA{\r}
 Dialogue: 0,0:00:33.04,0:00:33.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERMANECIÓ{\r} COMPLETAMENTE
@@ -94,18 +96,20 @@ Dialogue: 0,0:00:36.20,0:00:36.56,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:36.56,0:00:37.32,Default,,0,0,0,,MINEROS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESCUBRIERON{\r}
 Dialogue: 0,0:00:37.32,0:00:38.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ACCIDENTE{\r} EN EL
 Dialogue: 0,0:00:38.28,0:00:38.50,Default,,0,0,0,,POR ACCIDENTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
-Dialogue: 0,0:00:38.50,0:00:39.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}2000.{\r}
+Dialogue: 0,0:00:38.50,0:00:38.83,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DOS{\r} MIL.
+Dialogue: 0,0:00:38.83,0:00:39.22,Default,,0,0,0,,AÑO DOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MIL.{\r}
 Dialogue: 0,0:00:39.32,0:00:39.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} MARAVILLAS
 Dialogue: 0,0:00:39.72,0:00:40.12,Default,,0,0,0,,UNA DE LAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MARAVILLAS{\r}
 Dialogue: 0,0:00:40.12,0:00:40.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GEOLÓGICAS{\r} MÁS
 Dialogue: 0,0:00:40.80,0:00:41.02,Default,,0,0,0,,GEOLÓGICAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r}
 Dialogue: 0,0:00:41.02,0:00:41.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESPECTACULARES{\r} DEL
 Dialogue: 0,0:00:41.84,0:00:42.00,Default,,0,0,0,,ESPECTACULARES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r}
-Dialogue: 0,0:00:42.00,0:00:42.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLANETA,{\r} QUE CASI NADIE
-Dialogue: 0,0:00:42.66,0:00:43.22,Default,,0,0,0,,PLANETA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NADIE{\r}
-Dialogue: 0,0:00:43.22,0:00:43.56,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VISTO{\r} EN PERSONA.
-Dialogue: 0,0:00:43.56,0:00:44.30,Default,,0,0,0,,HA VISTO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERSONA.{\r}
-Dialogue: 0,0:00:44.46,0:00:45.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
+Dialogue: 0,0:00:42.00,0:00:42.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLANETA...{\r}
+Dialogue: 0,0:00:42.66,0:00:43.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NADIE{\r} HA
+Dialogue: 0,0:00:43.22,0:00:43.32,Default,,0,0,0,,QUE CASI NADIE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HA{\r}
+Dialogue: 0,0:00:43.32,0:00:43.70,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VISTO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} PERSONA.
+Dialogue: 0,0:00:43.70,0:00:44.30,Default,,0,0,0,,VISTO EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERSONA.{\r}
+Dialogue: 0,0:00:44.46,0:00:45.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
 Dialogue: 0,0:00:45.26,0:00:46.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DATO,{\r} SÍGUEME PARA
 Dialogue: 0,0:00:46.08,0:00:46.40,Default,,0,0,0,,ESTE DATO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÍGUEME{\r} PARA
 Dialogue: 0,0:00:46.40,0:00:46.62,Default,,0,0,0,,ESTE DATO, SÍGUEME {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}

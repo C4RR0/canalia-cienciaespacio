@@ -31,9 +31,9 @@ Dialogue: 0,0:00:07.88,0:00:08.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:08.46,0:00:09.34,Default,,0,0,0,,LA TEMPORADA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SEQUÍA,{\r}
 Dialogue: 0,0:00:09.36,0:00:09.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENTIERRA{\r} EN EL
 Dialogue: 0,0:00:09.82,0:00:10.12,Default,,0,0,0,,SE ENTIERRA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
-Dialogue: 0,0:00:10.12,0:00:10.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BARRO,{\r} SE GREGA UNA
-Dialogue: 0,0:00:10.66,0:00:11.04,Default,,0,0,0,,BARRO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GREGA{\r} UNA
-Dialogue: 0,0:00:11.04,0:00:11.20,Default,,0,0,0,,BARRO, SE GREGA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
+Dialogue: 0,0:00:10.12,0:00:10.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BARRO,{\r} SEGREGA UNA
+Dialogue: 0,0:00:10.66,0:00:11.04,Default,,0,0,0,,BARRO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SEGREGA{\r} UNA
+Dialogue: 0,0:00:11.04,0:00:11.20,Default,,0,0,0,,BARRO, SEGREGA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
 Dialogue: 0,0:00:11.20,0:00:11.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESPECIE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} CAPULLO DE
 Dialogue: 0,0:00:11.74,0:00:12.08,Default,,0,0,0,,ESPECIE DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAPULLO{\r} DE
 Dialogue: 0,0:00:12.08,0:00:12.20,Default,,0,0,0,,ESPECIE DE CAPULLO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
@@ -43,8 +43,8 @@ Dialogue: 0,0:00:13.34,0:00:14.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:14.02,0:00:14.38,Default,,0,0,0,,SU CUERPO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENTRA{\r}
 Dialogue: 0,0:00:14.38,0:00:14.86,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTADO{\r} LLAMADO
 Dialogue: 0,0:00:14.86,0:00:15.08,Default,,0,0,0,,EN UN ESTADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMADO{\r}
-Dialogue: 0,0:00:15.08,0:00:16.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTIVACIÓN,{\r} SU
-Dialogue: 0,0:00:16.04,0:00:16.16,Default,,0,0,0,,ESTIVACIÓN, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
+Dialogue: 0,0:00:15.08,0:00:16.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTIVACIÓN:{\r} SU
+Dialogue: 0,0:00:16.04,0:00:16.16,Default,,0,0,0,,ESTIVACIÓN: {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
 Dialogue: 0,0:00:16.16,0:00:16.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}METABOLISMO{\r} SE RALENTIZA
 Dialogue: 0,0:00:16.52,0:00:16.92,Default,,0,0,0,,METABOLISMO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} RALENTIZA
 Dialogue: 0,0:00:16.92,0:00:17.46,Default,,0,0,0,,METABOLISMO SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RALENTIZA{\r}
@@ -73,9 +73,9 @@ Dialogue: 0,0:00:28.66,0:00:29.06,Default,,0,0,0,,DIRECTAMENTE, {\c&H0000FFFF&\t
 Dialogue: 0,0:00:29.06,0:00:29.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESPACIO,{\r} ESPERANDO BAJO
 Dialogue: 0,0:00:29.80,0:00:30.20,Default,,0,0,0,,DESPACIO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESPERANDO{\r} BAJO
 Dialogue: 0,0:00:30.20,0:00:30.50,Default,,0,0,0,,DESPACIO, ESPERANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BAJO{\r}
-Dialogue: 0,0:00:30.50,0:00:30.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIERRA{\r} QUE VUELVAN LAS
-Dialogue: 0,0:00:30.92,0:00:31.52,Default,,0,0,0,,TIERRA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VUELVAN{\r} LAS
-Dialogue: 0,0:00:31.52,0:00:31.68,Default,,0,0,0,,TIERRA QUE VUELVAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r}
+Dialogue: 0,0:00:30.50,0:00:30.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIERRA A{\r} QUE VUELVAN LAS
+Dialogue: 0,0:00:30.92,0:00:31.52,Default,,0,0,0,,TIERRA A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VUELVAN{\r} LAS
+Dialogue: 0,0:00:31.52,0:00:31.68,Default,,0,0,0,,TIERRA A QUE VUELVAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r}
 Dialogue: 0,0:00:31.68,0:00:32.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLUVIAS.{\r}
 Dialogue: 0,0:00:32.30,0:00:32.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUANDO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} AGUA
 Dialogue: 0,0:00:32.62,0:00:32.80,Default,,0,0,0,,CUANDO EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGUA{\r}
@@ -85,18 +85,17 @@ Dialogue: 0,0:00:34.14,0:00:34.24,Default,,0,0,0,,FINALMENTE REGRESA, {\c&H0000F
 Dialogue: 0,0:00:34.24,0:00:34.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PEZ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PULMONADO{\r} ROMPE SU
 Dialogue: 0,0:00:34.94,0:00:35.32,Default,,0,0,0,,PEZ PULMONADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ROMPE{\r} SU
 Dialogue: 0,0:00:35.32,0:00:35.46,Default,,0,0,0,,PEZ PULMONADO ROMPE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
-Dialogue: 0,0:00:35.46,0:00:36.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAPULLO,{\r} Y VUELVE A
-Dialogue: 0,0:00:36.18,0:00:36.56,Default,,0,0,0,,CAPULLO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VUELVE{\r} A
-Dialogue: 0,0:00:36.56,0:00:36.64,Default,,0,0,0,,CAPULLO, Y VUELVE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
-Dialogue: 0,0:00:36.64,0:00:37.12,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NADAR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} SI NO
-Dialogue: 0,0:00:37.12,0:00:37.48,Default,,0,0,0,,NADAR COMO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r}
-Dialogue: 0,0:00:37.48,0:00:38.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HUBIERA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PASADO{\r} EL
-Dialogue: 0,0:00:38.06,0:00:38.28,Default,,0,0,0,,HUBIERA PASADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
-Dialogue: 0,0:00:38.28,0:00:38.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIEMPO.{\r}
+Dialogue: 0,0:00:35.46,0:00:36.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAPULLO...{\r}
+Dialogue: 0,0:00:36.18,0:00:36.56,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VUELVE{\r} A NADAR
+Dialogue: 0,0:00:36.56,0:00:36.94,Default,,0,0,0,,Y VUELVE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NADAR{\r}
+Dialogue: 0,0:00:36.94,0:00:37.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} NO HUBIERA
+Dialogue: 0,0:00:37.32,0:00:37.76,Default,,0,0,0,,COMO SI {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HUBIERA{\r}
+Dialogue: 0,0:00:37.76,0:00:38.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PASADO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} TIEMPO.
+Dialogue: 0,0:00:38.28,0:00:38.78,Default,,0,0,0,,PASADO EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIEMPO.{\r}
 Dialogue: 0,0:00:38.92,0:00:39.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SORPRENDIDO{\r}
 Dialogue: 0,0:00:39.80,0:00:40.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DATO,{\r} SÍGUEME PARA
 Dialogue: 0,0:00:40.64,0:00:41.14,Default,,0,0,0,,ESTE DATO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÍGUEME{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
 Dialogue: 0,0:00:41.14,0:00:41.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CURIOSIDADES{\r} TAN
 Dialogue: 0,0:00:41.96,0:00:42.18,Default,,0,0,0,,MÁS CURIOSIDADES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TAN{\r}
-Dialogue: 0,0:00:42.18,0:00:42.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXTREMAS{\r} COMO ÉSTA.
-Dialogue: 0,0:00:42.72,0:00:43.40,Default,,0,0,0,,EXTREMAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÉSTA.{\r}
+Dialogue: 0,0:00:42.18,0:00:42.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXTREMAS{\r} COMO ESTA.
+Dialogue: 0,0:00:42.72,0:00:43.40,Default,,0,0,0,,EXTREMAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTA.{\r}

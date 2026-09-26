@@ -17,13 +17,12 @@ Dialogue: 0,0:00:00.82,0:00:01.30,Default,,0,0,0,,HAY HORMIGAS {\c&H0000FFFF&\t(
 Dialogue: 0,0:00:01.30,0:00:01.44,Default,,0,0,0,,HAY HORMIGAS QUE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUANDO{\r}
 Dialogue: 0,0:00:01.44,0:00:02.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ATACAN,{\r} SE HACEN
 Dialogue: 0,0:00:02.36,0:00:02.68,Default,,0,0,0,,LAS ATACAN, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HACEN{\r}
-Dialogue: 0,0:00:02.68,0:00:03.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXPLOTAR,{\r} VIVEN EN LAS
-Dialogue: 0,0:00:03.48,0:00:03.82,Default,,0,0,0,,EXPLOTAR, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIVEN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} LAS
-Dialogue: 0,0:00:03.82,0:00:03.94,Default,,0,0,0,,EXPLOTAR, VIVEN EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r}
-Dialogue: 0,0:00:03.94,0:00:04.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SELVAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} BORNEO Y
-Dialogue: 0,0:00:04.40,0:00:04.92,Default,,0,0,0,,SELVAS DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BORNEO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
-Dialogue: 0,0:00:04.92,0:00:05.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMAN{\r} COLOBOPSIS
-Dialogue: 0,0:00:05.28,0:00:05.92,Default,,0,0,0,,SE LLAMAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COLOBOPSIS{\r}
+Dialogue: 0,0:00:02.68,0:00:03.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXPLOTAR.{\r}
+Dialogue: 0,0:00:03.48,0:00:03.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIVEN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} LAS SELVAS
+Dialogue: 0,0:00:03.82,0:00:04.24,Default,,0,0,0,,VIVEN EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SELVAS{\r}
+Dialogue: 0,0:00:04.24,0:00:04.70,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BORNEO{\r} Y SE
+Dialogue: 0,0:00:04.70,0:00:05.04,Default,,0,0,0,,DE BORNEO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r}
+Dialogue: 0,0:00:05.04,0:00:05.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMAN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COLOBOPSIS{\r}
 Dialogue: 0,0:00:05.92,0:00:06.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXPLODENS.{\r}
 Dialogue: 0,0:00:06.72,0:00:07.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUANDO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} ENEMIGO INVADE
 Dialogue: 0,0:00:07.10,0:00:07.46,Default,,0,0,0,,CUANDO UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENEMIGO{\r} INVADE
@@ -35,27 +34,24 @@ Dialogue: 0,0:00:09.36,0:00:09.72,Default,,0,0,0,,CONTRAEN {\c&H0000FFFF&\t(0,90
 Dialogue: 0,0:00:09.72,0:00:10.00,Default,,0,0,0,,CONTRAEN EL ABDOMEN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r}
 Dialogue: 0,0:00:10.00,0:00:10.60,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TANTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUERZA{\r} QUE SU
 Dialogue: 0,0:00:10.60,0:00:10.92,Default,,0,0,0,,TANTA FUERZA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
-Dialogue: 0,0:00:10.92,0:00:11.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PROPIO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUERPO{\r} REVIENTA Y
-Dialogue: 0,0:00:11.48,0:00:12.06,Default,,0,0,0,,PROPIO CUERPO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REVIENTA{\r} Y
-Dialogue: 0,0:00:12.06,0:00:12.34,Default,,0,0,0,,PROPIO CUERPO REVIENTA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
-Dialogue: 0,0:00:12.34,0:00:12.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ROCIAN{\r} AL INTRUSO CON
-Dialogue: 0,0:00:12.74,0:00:13.28,Default,,0,0,0,,ROCIAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INTRUSO{\r} CON
-Dialogue: 0,0:00:13.28,0:00:13.42,Default,,0,0,0,,ROCIAN AL INTRUSO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r}
-Dialogue: 0,0:00:13.42,0:00:13.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LÍQUIDO{\r} AMARILLO,
-Dialogue: 0,0:00:13.82,0:00:14.44,Default,,0,0,0,,UN LÍQUIDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AMARILLO,{\r}
+Dialogue: 0,0:00:10.92,0:00:11.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PROPIO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUERPO{\r} REVIENTA,
+Dialogue: 0,0:00:11.48,0:00:12.06,Default,,0,0,0,,PROPIO CUERPO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REVIENTA,{\r}
+Dialogue: 0,0:00:12.06,0:00:12.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ROCÍAN{\r} AL INTRUSO
+Dialogue: 0,0:00:12.74,0:00:13.28,Default,,0,0,0,,Y ROCÍAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INTRUSO{\r}
+Dialogue: 0,0:00:13.28,0:00:13.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LÍQUIDO{\r} AMARILLO,
+Dialogue: 0,0:00:13.82,0:00:14.44,Default,,0,0,0,,CON UN LÍQUIDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AMARILLO,{\r}
 Dialogue: 0,0:00:14.50,0:00:14.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PEGAJOSO{\r} Y TÓXICO.
 Dialogue: 0,0:00:14.96,0:00:15.60,Default,,0,0,0,,PEGAJOSO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TÓXICO.{\r}
 Dialogue: 0,0:00:15.80,0:00:16.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HORMIGA{\r} MUERE EN
 Dialogue: 0,0:00:16.26,0:00:16.68,Default,,0,0,0,,LA HORMIGA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUERE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
-Dialogue: 0,0:00:16.68,0:00:17.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ACTO,{\r} PERO EL
-Dialogue: 0,0:00:17.28,0:00:17.58,Default,,0,0,0,,EL ACTO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
-Dialogue: 0,0:00:17.58,0:00:17.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENEMIGO{\r} QUEDA PEGADO O
-Dialogue: 0,0:00:17.94,0:00:18.62,Default,,0,0,0,,ENEMIGO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUEDA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PEGADO{\r} O
-Dialogue: 0,0:00:18.62,0:00:18.78,Default,,0,0,0,,ENEMIGO QUEDA PEGADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}O{\r}
-Dialogue: 0,0:00:18.78,0:00:19.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENVENENADO{\r} Y LA COLONIA
-Dialogue: 0,0:00:19.32,0:00:19.64,Default,,0,0,0,,ENVENENADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} LA COLONIA
-Dialogue: 0,0:00:19.64,0:00:20.16,Default,,0,0,0,,ENVENENADO Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COLONIA{\r}
-Dialogue: 0,0:00:20.16,0:00:20.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SALVA.{\r}
+Dialogue: 0,0:00:16.68,0:00:17.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ACTO.{\r}
+Dialogue: 0,0:00:17.28,0:00:17.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENEMIGO{\r} QUEDA
+Dialogue: 0,0:00:17.94,0:00:18.16,Default,,0,0,0,,PERO EL ENEMIGO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUEDA{\r}
+Dialogue: 0,0:00:18.16,0:00:18.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PEGADO{\r} O ENVENENADO, Y
+Dialogue: 0,0:00:18.62,0:00:19.32,Default,,0,0,0,,PEGADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}O{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENVENENADO,{\r} Y
+Dialogue: 0,0:00:19.32,0:00:19.64,Default,,0,0,0,,PEGADO O ENVENENADO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
+Dialogue: 0,0:00:19.64,0:00:20.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COLONIA{\r} SE SALVA.
+Dialogue: 0,0:00:20.16,0:00:20.88,Default,,0,0,0,,LA COLONIA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SALVA.{\r}
 Dialogue: 0,0:00:20.88,0:00:21.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNO{\r} DE LOS
 Dialogue: 0,0:00:21.22,0:00:21.46,Default,,0,0,0,,ES UNO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r}
 Dialogue: 0,0:00:21.46,0:00:21.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCOS{\r} CASOS DE ANIMALES
@@ -69,8 +65,8 @@ Dialogue: 0,0:00:24.84,0:00:25.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:25.28,0:00:26.12,Default,,0,0,0,,PROTEGER {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUYOS.{\r}
 Dialogue: 0,0:00:26.16,0:00:26.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIENTÍFICOS{\r} LAS
 Dialogue: 0,0:00:26.94,0:00:27.06,Default,,0,0,0,,LOS CIENTÍFICOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r}
-Dialogue: 0,0:00:27.06,0:00:27.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMAN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HORMIGAS{\r} KAMIKAZE
-Dialogue: 0,0:00:27.82,0:00:28.28,Default,,0,0,0,,LLAMAN HORMIGAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}KAMIKAZE{\r}
+Dialogue: 0,0:00:27.06,0:00:27.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMAN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HORMIGAS{\r}
+Dialogue: 0,0:00:27.82,0:00:28.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}KAMIKAZE.{\r}
 Dialogue: 0,0:00:28.28,0:00:28.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} NO ES NINGUNA
 Dialogue: 0,0:00:28.66,0:00:29.26,Default,,0,0,0,,Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NINGUNA{\r}
 Dialogue: 0,0:00:29.26,0:00:30.14,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXAGERACIÓN.{\r}
