@@ -195,7 +195,8 @@ def generar_subtitulos_para_config(cfg: dict, audio_final: Path) -> Path | None:
     ancho, alto = (1080, 1920) if cfg.get("orientacion", "vertical") == "vertical" else (1920, 1080)
     palabras_json = srt_crudo.with_name(srt_crudo.stem + "_palabras.json")
     ass_corregido = dir_subs / f"{vid}_corregido.ass"
-    generar_subtitulos_ass_palabras.generar(palabras_json, ass_corregido, ancho, alto, correcciones_path)
+    generar_subtitulos_ass_palabras.generar(palabras_json, ass_corregido, ancho, alto, correcciones_path,
+                                           guion=cfg.get("guion"))
     destino_ass = dir_cola_subs / f"{vid}_corregido.ass"
     destino_ass.write_bytes(ass_corregido.read_bytes())
 

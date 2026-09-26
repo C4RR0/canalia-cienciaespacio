@@ -16,8 +16,8 @@ Dialogue: 0,0:00:00.36,0:00:00.74,Default,,0,0,0,,HAY {\c&H0000FFFF&\t(0,90,\fsc
 Dialogue: 0,0:00:00.74,0:00:00.98,Default,,0,0,0,,HAY UN ANIMAL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
 Dialogue: 0,0:00:00.98,0:00:01.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HACE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CACAS{\r} EN FORMA
 Dialogue: 0,0:00:01.40,0:00:01.90,Default,,0,0,0,,HACE CACAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FORMA{\r}
-Dialogue: 0,0:00:01.90,0:00:02.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUBO,{\r} CASI PERFECTOS,
-Dialogue: 0,0:00:02.58,0:00:03.60,Default,,0,0,0,,DE CUBO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERFECTOS,{\r}
+Dialogue: 0,0:00:01.90,0:00:02.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUBO.{\r}
+Dialogue: 0,0:00:02.58,0:00:03.60,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERFECTOS.{\r}
 Dialogue: 0,0:00:03.60,0:00:04.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}WOMBAT,{\r} UN
 Dialogue: 0,0:00:04.52,0:00:04.64,Default,,0,0,0,,ES EL WOMBAT, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r}
 Dialogue: 0,0:00:04.64,0:00:05.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MARSUPIAL{\r} DE AUSTRALIA.
@@ -26,16 +26,17 @@ Dialogue: 0,0:00:05.96,0:00:06.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:06.48,0:00:06.76,Default,,0,0,0,,DURANTE AÑOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NADIE{\r}
 Dialogue: 0,0:00:06.76,0:00:07.30,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENTENDÍA{\r} CÓMO LO
 Dialogue: 0,0:00:07.30,0:00:07.66,Default,,0,0,0,,ENTENDÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CÓMO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r}
-Dialogue: 0,0:00:07.66,0:00:08.44,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONSEGUÍA,{\r} PORQUE SUANO
-Dialogue: 0,0:00:08.44,0:00:08.96,Default,,0,0,0,,CONSEGUÍA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PORQUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUANO{\r}
+Dialogue: 0,0:00:07.66,0:00:08.44,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONSEGUÍA,{\r} PORQUE SU ANO
+Dialogue: 0,0:00:08.44,0:00:08.80,Default,,0,0,0,,CONSEGUÍA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PORQUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r} ANO
+Dialogue: 0,0:00:08.80,0:00:08.96,Default,,0,0,0,,CONSEGUÍA, PORQUE SU {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ANO{\r}
 Dialogue: 0,0:00:08.96,0:00:09.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REDONDO{\r} COMO EL
 Dialogue: 0,0:00:09.46,0:00:09.88,Default,,0,0,0,,ES REDONDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
 Dialogue: 0,0:00:09.88,0:00:10.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUALQUIER{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ANIMAL.{\r}
 Dialogue: 0,0:00:10.92,0:00:11.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}2018,{\r}
 Dialogue: 0,0:00:12.22,0:00:12.56,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EQUIPO{\r} DE CIENTÍFICOS
 Dialogue: 0,0:00:12.56,0:00:13.40,Default,,0,0,0,,UN EQUIPO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIENTÍFICOS{\r}
-Dialogue: 0,0:00:13.40,0:00:14.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESCUBRIÓ,{\r} LA PARTE
-Dialogue: 0,0:00:14.22,0:00:14.58,Default,,0,0,0,,LO DESCUBRIÓ, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARTE{\r}
+Dialogue: 0,0:00:13.40,0:00:14.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESCUBRIÓ:{\r} LA PARTE
+Dialogue: 0,0:00:14.22,0:00:14.58,Default,,0,0,0,,LO DESCUBRIÓ: {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARTE{\r}
 Dialogue: 0,0:00:14.58,0:00:15.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FINAL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} SU INTESTINO
 Dialogue: 0,0:00:15.04,0:00:15.62,Default,,0,0,0,,FINAL DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INTESTINO{\r}
 Dialogue: 0,0:00:15.62,0:00:16.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIENE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ZONAS{\r} MÁS RÍGIDAS
@@ -46,15 +47,13 @@ Dialogue: 0,0:00:18.38,0:00:18.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:18.72,0:00:19.10,Default,,0,0,0,,Y ESO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DANDO{\r}
 Dialogue: 0,0:00:19.10,0:00:19.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FORMA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} LOS EXCREMENTOS
 Dialogue: 0,0:00:19.58,0:00:20.36,Default,,0,0,0,,FORMA A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXCREMENTOS{\r}
-Dialogue: 0,0:00:20.36,0:00:20.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} POCO, Y
-Dialogue: 0,0:00:20.72,0:00:21.26,Default,,0,0,0,,POCO A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCO,{\r} Y
-Dialogue: 0,0:00:21.26,0:00:21.36,Default,,0,0,0,,POCO A POCO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
-Dialogue: 0,0:00:21.36,0:00:21.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIENE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} RAZÓN, LOS
-Dialogue: 0,0:00:21.74,0:00:22.44,Default,,0,0,0,,TIENE UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RAZÓN,{\r} LOS
-Dialogue: 0,0:00:22.44,0:00:22.56,Default,,0,0,0,,TIENE UNA RAZÓN, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r}
-Dialogue: 0,0:00:22.56,0:00:22.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}WOMBATS{\r} MARCAN SU
-Dialogue: 0,0:00:22.98,0:00:23.34,Default,,0,0,0,,WOMBATS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MARCAN{\r} SU
-Dialogue: 0,0:00:23.34,0:00:23.52,Default,,0,0,0,,WOMBATS MARCAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
+Dialogue: 0,0:00:20.36,0:00:20.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} POCO.
+Dialogue: 0,0:00:20.72,0:00:21.14,Default,,0,0,0,,POCO A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCO.{\r}
+Dialogue: 0,0:00:21.26,0:00:21.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIENE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} RAZÓN.
+Dialogue: 0,0:00:21.74,0:00:22.28,Default,,0,0,0,,Y TIENE UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RAZÓN.{\r}
+Dialogue: 0,0:00:22.44,0:00:22.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}WOMBATS{\r} MARCAN SU
+Dialogue: 0,0:00:22.98,0:00:23.34,Default,,0,0,0,,LOS WOMBATS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MARCAN{\r} SU
+Dialogue: 0,0:00:23.34,0:00:23.52,Default,,0,0,0,,LOS WOMBATS MARCAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
 Dialogue: 0,0:00:23.52,0:00:24.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TERRITORIO{\r} DEJÁNDOLAS
 Dialogue: 0,0:00:24.00,0:00:24.52,Default,,0,0,0,,TERRITORIO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEJÁNDOLAS{\r}
 Dialogue: 0,0:00:24.52,0:00:25.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOBRE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ROCAS{\r} Y TRONCOS.
@@ -66,5 +65,5 @@ Dialogue: 0,0:00:27.20,0:00:27.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116
 Dialogue: 0,0:00:27.80,0:00:28.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AQUEL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTUDIO{\r} GANÓ UN
 Dialogue: 0,0:00:28.36,0:00:28.78,Default,,0,0,0,,AQUEL ESTUDIO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GANÓ{\r} UN
 Dialogue: 0,0:00:28.78,0:00:28.88,Default,,0,0,0,,AQUEL ESTUDIO GANÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r}
-Dialogue: 0,0:00:28.88,0:00:29.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PREMIO{\r} AHÍ Y NOVEL.
-Dialogue: 0,0:00:29.20,0:00:29.84,Default,,0,0,0,,PREMIO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AHÍ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NOVEL.{\r}
+Dialogue: 0,0:00:28.88,0:00:29.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PREMIO{\r} IG NOBEL.
+Dialogue: 0,0:00:29.20,0:00:29.84,Default,,0,0,0,,PREMIO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}IG{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NOBEL.{\r}

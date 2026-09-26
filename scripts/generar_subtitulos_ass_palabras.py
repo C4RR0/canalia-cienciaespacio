@@ -12,9 +12,11 @@ Usa el sidecar "<audio>_palabras.json" que genera generar_subtitulos.py
 Uso:
     python generar_subtitulos_ass_palabras.py palabras.json salida.ass ancho alto [correcciones.txt]
 """
+import difflib
 import json
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -53,6 +55,54 @@ def _aplicar_correcciones(palabra: str, correcciones) -> str:
             sufijo = palabra[len(palabra.rstrip(".,;:!?¡¿")):]
             return correcto + sufijo
     return palabra
+
+
+def _normalizar(palabra: str) -> str:
+    sin_tildes = unicodedata.normalize("NFD", palabra.lower())
+    return "".join(c for c in sin_tildes if c.isalnum())
+
+
+def alinear_con_guion(palabras: list[dict], guion: str) -> list[dict]:
+    """Sustituye el texto que oyó whisper por el del guion, conservando solo sus
+    tiempos. Whisper destroza los nombres propios ("Halo" -> "A lo", "Steve Jobs"
+    -> "Esteve Hobbes", "Snake" -> "Schnee") y a veces repite una frase entera
+    sobre el silencio final; como el guion es exactamente lo que dice la voz,
+    alinear las dos secuencias arregla todo eso sin listas de correcciones.
+    - Tramos iguales o sustituidos: el texto del guion se reparte en el tiempo
+      que ocupaban las palabras de whisper.
+    - Palabras que whisper oyó y no están en el guion: se descartan.
+    - Palabras del guion que whisper no oyó: se pegan a la palabra anterior."""
+    tokens = guion.split()
+    oidas = [w for w in palabras if _normalizar(w["word"])]
+    if not tokens or not oidas:
+        return palabras
+    matcher = difflib.SequenceMatcher(
+        None, [_normalizar(w["word"]) for w in oidas], [_normalizar(t) for t in tokens], autojunk=False
+    )
+    salida: list[dict] = []
+    pendientes: list[str] = []  # palabras del guion sin palabra de whisper aún
+    for op, i1, i2, j1, j2 in matcher.get_opcodes():
+        if op == "delete":
+            continue
+        if op == "insert":
+            if salida:
+                salida[-1]["word"] += " " + " ".join(tokens[j1:j2])
+            else:
+                pendientes.extend(tokens[j1:j2])
+            continue
+        inicio, fin = oidas[i1]["start"], oidas[i2 - 1]["end"]
+        trozo = tokens[j1:j2]
+        paso = (fin - inicio) / len(trozo)
+        for k, t in enumerate(trozo):
+            if op == "equal" or len(trozo) == i2 - i1:
+                w = oidas[i1 + k]
+                salida.append({"start": w["start"], "end": w["end"], "word": t})
+            else:
+                salida.append({"start": inicio + k * paso, "end": inicio + (k + 1) * paso, "word": t})
+        if pendientes:
+            salida[-len(trozo)]["word"] = " ".join(pendientes) + " " + salida[-len(trozo)]["word"]
+            pendientes = []
+    return salida
 
 
 def _agrupar_en_bloques(palabras: list[dict]) -> list[list[dict]]:
@@ -102,11 +152,15 @@ def _renderizar_texto_bloque(bloque: list[dict], idx_inicio: int, idx_fin: int) 
     return " ".join(partes)
 
 
-def generar(palabras_json: Path, salida_ass: Path, ancho: int, alto: int, correcciones_path: Path | None = None):
+def generar(palabras_json: Path, salida_ass: Path, ancho: int, alto: int, correcciones_path: Path | None = None,
+            guion: str | None = None):
     palabras = json.loads(palabras_json.read_text(encoding="utf-8"))
-    correcciones = _correcciones_una_palabra(correcciones_path)
-    for w in palabras:
-        w["word"] = _aplicar_correcciones(w["word"], correcciones)
+    if guion:
+        palabras = alinear_con_guion(palabras, guion)
+    else:
+        correcciones = _correcciones_una_palabra(correcciones_path)
+        for w in palabras:
+            w["word"] = _aplicar_correcciones(w["word"], correcciones)
 
     bloques = _agrupar_en_bloques(palabras)
 
