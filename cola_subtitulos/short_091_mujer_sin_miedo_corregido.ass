@@ -1,0 +1,74 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,40,108,422,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAY{\r} UNA MUJER QUE
+Dialogue: 0,0:00:00.34,0:00:00.76,Default,,0,0,0,,HAY {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUJER{\r} QUE
+Dialogue: 0,0:00:00.76,0:00:00.98,Default,,0,0,0,,HAY UNA MUJER {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
+Dialogue: 0,0:00:00.98,0:00:01.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PUEDE{\r} SENTIR MIEDO.
+Dialogue: 0,0:00:01.32,0:00:02.14,Default,,0,0,0,,NO PUEDE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SENTIR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MIEDO.{\r}
+Dialogue: 0,0:00:02.40,0:00:03.12,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LITERALMENTE,{\r} LOS
+Dialogue: 0,0:00:03.12,0:00:03.26,Default,,0,0,0,,LITERALMENTE, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r}
+Dialogue: 0,0:00:03.26,0:00:03.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIENTÍFICOS{\r} LA LLAMAN SM
+Dialogue: 0,0:00:03.90,0:00:04.28,Default,,0,0,0,,CIENTÍFICOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMAN{\r} SM
+Dialogue: 0,0:00:04.28,0:00:04.58,Default,,0,0,0,,CIENTÍFICOS LA LLAMAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SM{\r}
+Dialogue: 0,0:00:04.58,0:00:05.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENFERMEDAD{\r} RARÍSIMA,
+Dialogue: 0,0:00:05.40,0:00:05.98,Default,,0,0,0,,UNA ENFERMEDAD {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RARÍSIMA,{\r}
+Dialogue: 0,0:00:05.98,0:00:06.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESTRUYÓ{\r} LAS DOS
+Dialogue: 0,0:00:06.48,0:00:06.78,Default,,0,0,0,,LE DESTRUYÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DOS{\r}
+Dialogue: 0,0:00:06.78,0:00:07.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AMIGDALAS.{\r}
+Dialogue: 0,0:00:07.50,0:00:07.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARTE{\r} DEL CEREBRO
+Dialogue: 0,0:00:07.88,0:00:08.50,Default,,0,0,0,,LA PARTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CEREBRO{\r}
+Dialogue: 0,0:00:08.50,0:00:09.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DISPARA{\r} EL MIEDO.
+Dialogue: 0,0:00:09.06,0:00:09.58,Default,,0,0,0,,QUE DISPARA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MIEDO.{\r}
+Dialogue: 0,0:00:09.66,0:00:10.12,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLEVARON{\r} A UNA
+Dialogue: 0,0:00:10.12,0:00:10.34,Default,,0,0,0,,LA LLEVARON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
+Dialogue: 0,0:00:10.34,0:00:10.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIENDA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} ANIMALES
+Dialogue: 0,0:00:10.78,0:00:11.04,Default,,0,0,0,,TIENDA DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ANIMALES{\r}
+Dialogue: 0,0:00:11.04,0:00:11.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EXÓTICOS{\r} Y QUISO TOCAR
+Dialogue: 0,0:00:11.72,0:00:12.14,Default,,0,0,0,,EXÓTICOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUISO{\r} TOCAR
+Dialogue: 0,0:00:12.14,0:00:12.48,Default,,0,0,0,,EXÓTICOS Y QUISO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TOCAR{\r}
+Dialogue: 0,0:00:12.48,0:00:13.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SERPIENTES{\r} Y TARÁNTULAS.
+Dialogue: 0,0:00:13.02,0:00:13.86,Default,,0,0,0,,SERPIENTES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TARÁNTULAS.{\r}
+Dialogue: 0,0:00:13.94,0:00:14.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PASÓ{\r} POR UNA CASA
+Dialogue: 0,0:00:14.28,0:00:14.60,Default,,0,0,0,,PASÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} CASA
+Dialogue: 0,0:00:14.60,0:00:14.82,Default,,0,0,0,,PASÓ POR UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASA{\r}
+Dialogue: 0,0:00:14.82,0:00:15.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TERROR{\r} Y SE
+Dialogue: 0,0:00:15.28,0:00:15.58,Default,,0,0,0,,DEL TERROR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r}
+Dialogue: 0,0:00:15.58,0:00:15.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RÍO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} LOS ACTORES.
+Dialogue: 0,0:00:15.92,0:00:16.68,Default,,0,0,0,,RÍO DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ACTORES.{\r}
+Dialogue: 0,0:00:16.82,0:00:17.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PUSIERON{\r} PELÍCULAS DE
+Dialogue: 0,0:00:17.28,0:00:17.84,Default,,0,0,0,,LE PUSIERON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PELÍCULAS{\r} DE
+Dialogue: 0,0:00:17.84,0:00:17.94,Default,,0,0,0,,LE PUSIERON PELÍCULAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:17.94,0:00:18.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MIEDO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} NO SINTIÓ
+Dialogue: 0,0:00:18.34,0:00:18.80,Default,,0,0,0,,MIEDO Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SINTIÓ{\r}
+Dialogue: 0,0:00:18.80,0:00:19.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NADA.{\r}
+Dialogue: 0,0:00:19.28,0:00:19.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VEZ{\r} LA AMENAZARON
+Dialogue: 0,0:00:19.64,0:00:20.28,Default,,0,0,0,,UNA VEZ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AMENAZARON{\r}
+Dialogue: 0,0:00:20.28,0:00:20.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} CUCHILLO, NI
+Dialogue: 0,0:00:20.62,0:00:21.28,Default,,0,0,0,,CON UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUCHILLO,{\r} NI
+Dialogue: 0,0:00:21.28,0:00:21.48,Default,,0,0,0,,CON UN CUCHILLO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NI{\r}
+Dialogue: 0,0:00:21.48,0:00:22.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INMUTÓ,{\r} PERO LE
+Dialogue: 0,0:00:22.22,0:00:22.50,Default,,0,0,0,,SE INMUTÓ, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LE{\r}
+Dialogue: 0,0:00:22.50,0:00:22.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HICIERON{\r} RESPIRAR AIRE
+Dialogue: 0,0:00:22.82,0:00:23.32,Default,,0,0,0,,HICIERON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RESPIRAR{\r} AIRE
+Dialogue: 0,0:00:23.32,0:00:23.52,Default,,0,0,0,,HICIERON RESPIRAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AIRE{\r}
+Dialogue: 0,0:00:23.52,0:00:24.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUCHO{\r} DIÓXIDO DE
+Dialogue: 0,0:00:24.04,0:00:24.48,Default,,0,0,0,,CON MUCHO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DIÓXIDO{\r} DE
+Dialogue: 0,0:00:24.48,0:00:24.62,Default,,0,0,0,,CON MUCHO DIÓXIDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:24.62,0:00:24.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CARBONO{\r} Y SINTIÓ PÁNICO
+Dialogue: 0,0:00:24.98,0:00:25.36,Default,,0,0,0,,CARBONO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} SINTIÓ PÁNICO
+Dialogue: 0,0:00:25.36,0:00:25.72,Default,,0,0,0,,CARBONO Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SINTIÓ{\r} PÁNICO
+Dialogue: 0,0:00:25.72,0:00:26.04,Default,,0,0,0,,CARBONO Y SINTIÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PÁNICO{\r}
+Dialogue: 0,0:00:26.04,0:00:26.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PRIMERA{\r} VEZ EN
+Dialogue: 0,0:00:26.52,0:00:26.94,Default,,0,0,0,,POR PRIMERA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VEZ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r}
+Dialogue: 0,0:00:26.94,0:00:27.44,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DÉCADAS.{\r}

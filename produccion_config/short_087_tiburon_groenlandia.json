@@ -1,0 +1,34 @@
+{
+  "id": "short_087_tiburon_groenlandia",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "guion": "Hay tiburones nadando ahora mismo en el Ártico que podrían ser más viejos que los Estados Unidos.\n\nEs el tiburón de Groenlandia. En 2016, unos científicos calcularon su edad analizando el cristalino de sus ojos, que se forma antes de nacer y no cambia en toda la vida.\n\nEl más grande tenía unos 400 años.\n\nEs el vertebrado más longevo que se conoce. Vive en aguas heladas, crece un centímetro al año y no empieza a reproducirse hasta pasar los 150.\n\nY nada tan despacio que es, probablemente, el tiburón más lento del planeta.",
+  "queries_imagenes": [
+    "Greenland shark",
+    "Somniosus microcephalus",
+    "Greenland shark Arctic",
+    "Arctic ocean ice",
+    "iceberg Greenland",
+    "sea ice Greenland",
+    "Svalbard fjord",
+    "Greenland fjord"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Este tiburón puede vivir 400 años: más que Estados Unidos",
+  "descripcion": "El tiburón de Groenlandia es el vertebrado más longevo conocido: un estudio de 2016 con el cristalino de sus ojos estimó unos 400 años para el ejemplar más grande.\n\n#curiosidades #tiburon #oceano #animales #shorts",
+  "tags": [
+    "curiosidades",
+    "tiburon de groenlandia",
+    "animal mas longevo",
+    "tiburones",
+    "animales del oceano",
+    "datos curiosos",
+    "shorts"
+  ],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "400 AÑOS VIVO",
+  "prompt_miniatura": "a huge grey greenland shark swimming slowly in dark icy arctic water under sea ice, faint light from above, underwater photography"
+}
