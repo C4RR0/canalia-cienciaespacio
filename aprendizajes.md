@@ -1190,3 +1190,13 @@ red del sandbox.
 4. Imágenes por vídeo: 5 queries → 8.
 
 **Experimento a medir (7 días):** vistas a 48 h de `short_057`-`short_068` (formato nuevo) frente a `short_033`-`short_056` (formato antiguo, ritmo nuevo) y frente a los de antes del 24/09 (formato y ritmo antiguos).
+
+## Análisis de formatos — 26/09/2026 (Analytics hasta 23/09 + snapshots de metricas/)
+- **Techo de ~1.000 vistas:** cada Short consigue 800-1.600 vistas en las primeras ~14 h y luego se para en seco (casi no suma nada de las 36 h en adelante). Ninguno ha roto el techo. El 96 % del tráfico viene del feed de Shorts. Conclusión: el formato no es el cuello de botella; el feed hace una prueba inicial y nada se viraliza.
+- **Ritmo rápido (037+, planos de 2,5 s):** una media de ~1.155 vistas a 11-22 h, frente a ~1.060 de 033-036 a 14 h. Algo mejor, pero con n=5 no es concluyente. El mejor ha sido 039 (pulpo con sangre azul, 40 s): 1.594 en 17 h.
+- **Temas:** animales raros o inquietantes son los mejores tanto en vistas (~1.250 de media) como en suscriptores (hongo zombi: 8, escarabajo bombardero: 6). Tierra/mitos desmontados y los de historia rondan ~1.050. Espacio/física es lo más flojo (~930).
+- **Retención:** del 43 % al 130 % (bucles). Correlaciona poco con las vistas: los que pasan del 100 % (cielo azul, densidad, Torre Eiffel) no tienen más vistas.
+- **Listas de 25 y vídeos largos:** muertos (de 0 a 684 vistas). No hacer más por ahora.
+- **Audiencia:** hombres adultos (el 68 % tiene más de 25 años; entre 25 y 65+ el reparto es casi uniforme). Por países: MX > ES > US > AR > CO.
+- **Suscriptores:** unos 0,2 % de las vistas. El ritmo sube: +11-12 al día los días 25 y 26/09.
+- **Pendiente:** evaluar el formato nuevo completo 057-068 (sale entre el 29/09 y el 1/10) hacia el 2/10, comparando vistas a ~14 h y a 36 h.
