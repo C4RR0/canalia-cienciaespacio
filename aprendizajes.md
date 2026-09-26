@@ -1200,3 +1200,27 @@ red del sandbox.
 - **Audiencia:** hombres adultos (el 68 % tiene más de 25 años; entre 25 y 65+ el reparto es casi uniforme). Por países: MX > ES > US > AR > CO.
 - **Suscriptores:** unos 0,2 % de las vistas. El ritmo sube: +11-12 al día los días 25 y 26/09.
 - **Pendiente:** evaluar el formato nuevo completo 057-068 (sale entre el 29/09 y el 1/10) hacia el 2/10, comparando vistas a ~14 h y a 36 h.
+
+### "Visualizado frente a deslizado" (YouTube Studio, 26/09)
+| Short | Se quedan | Vistas |
+|---|---|---|
+| 038 baobab (ritmo rápido) | **70,8 %** | 1.227 |
+| 037 nota de la NASA (ritmo rápido) | 66,1 % | 997 |
+| Hiroshima | 65,2 % | 978 |
+| densidad | 64,5 % | 839 |
+| cascada de sangre | 62,8 % | 1.164 |
+| guerra contra pájaros | 59,9 % | 725 |
+| lugar remoto | 58,4 % | 797 |
+| 040 rayo (ritmo rápido) | 57,9 % | 878 |
+| pulpo mímico | 57,8 % | 1.101 |
+| camarón mantis | 57,1 % | 1.757 |
+| 041 galio (ritmo rápido) | 56,7 % | 1.081 |
+| hongo zombi | 56,5 % | 1.360 |
+| escarabajo | 51,7 % | 1.173 |
+| 039 pulpo sangre azul (ritmo rápido) | 51,6 % | 1.594 |
+| medusa | 51,5 % | 987 |
+| Luna | 50,5 % | 1.231 |
+- Todos están entre el 50 y el 71 %, y **ese porcentaje no predice las vistas** (los de más vistas incluso se quedan algo por debajo). Cada Short recibe una prueba de ~1.000 vistas, y quedarse en un 50-70 % no basta para que YouTube lo siga enseñando.
+- Ritmo rápido: se queda de media un 60,6 %, frente al 57,8 % del ritmo lento. Algo mejor, pero con poco margen.
+- Curva de retención (hongo): arranca en ~115 %, cae a ~60 % en los primeros 3-5 s y luego baja poco a poco hasta ~15 % al final. **El problema está en los primeros segundos**, y todos los guiones antiguos empiezan igual ("¿Sabías que existe un...").
+- Por eso el formato 057+ (sin la plantilla de "¿Sabías que") es la prueba directa. Objetivo: pasar del 75 % de gente que se queda.
