@@ -1224,3 +1224,11 @@ red del sandbox.
 - Ritmo rápido: se queda de media un 60,6 %, frente al 57,8 % del ritmo lento. Algo mejor, pero con poco margen.
 - Curva de retención (hongo): arranca en ~115 %, cae a ~60 % en los primeros 3-5 s y luego baja poco a poco hasta ~15 % al final. **El problema está en los primeros segundos**, y todos los guiones antiguos empiezan igual ("¿Sabías que existe un...").
 - Por eso el formato 057+ (sin la plantilla de "¿Sabías que") es la prueba directa. Objetivo: pasar del 75 % de gente que se queda.
+
+## 27/09/2026 — Cola por prioridad: animales primero
+- **Datos a 27/09:** 74 suscriptores (37 el 24/09) y 33.000 vistas. Cada Short sigue haciendo entre 1.000 y 1.300 vistas el primer día y luego se para. Los mejores siguen siendo los de animales (elefantes 1.338, rana congelada 1.112, pulpo 1.684). El del Sahara verde (044) se quedó en 3 vistas aunque es público y se subió bien: YouTube no lo repartió.
+- **`cola_prioridad.txt`** (lo lee `publicar_siguiente.py`): marca el orden de publicación. Van primero los animales raros, 2 por cada 1 de otro tema, y al final espacio, geología y física. Los que no estén en la lista salen detrás, por número.
+- Los 9 del formato antiguo (048-056, todos empezaban con «¿Sabías que…») se han reescrito con gancho propio y unas 100 palabras. Solo se regeneraron la voz y los subtítulos; las imágenes se mantienen.
+- 8 Shorts nuevos de animales (093-100).
+- **Revisión visual: sigue siendo imprescindible.** De 64 fotos nuevas, unas 20 estaban mal: un laúd chino al buscar «Pipa», un escarabajo del género *Platypus*, la tumba de un tal Alpheus, figuras de artículos científicos, dibujos IA y la misma foto repetida hasta 3 veces. El buscador devolvía siempre la foto más grande, así que ahora descarta las ya usadas en el vídeo (`excluir`); `fix_img.py` compara huellas md5.
+- Pendiente: el 2/10, comparar las vistas a unas 14 h de los animales del formato nuevo frente a la media de unas 1.100.
