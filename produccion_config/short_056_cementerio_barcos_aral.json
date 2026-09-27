@@ -4,7 +4,7 @@
   "orientacion": "vertical",
   "voz": "es-ES-AlvaroNeural",
   "tema_visual": "naturaleza",
-  "guion": "¿Sabías que existe un cementerio de barcos varados en pleno desierto, a cientos de kilómetros de cualquier costa?\n\nSe encuentra en Moynaq, una antigua ciudad portuaria de Uzbekistán, que hasta los años sesenta estaba a orillas del mar de Aral, en su día el cuarto lago más grande del mundo. Un proyecto soviético desvió los dos ríos que alimentaban el mar para regar campos de algodón, y en pocas décadas el agua retrocedió casi cien kilómetros, dejando a toda la flota pesquera varada donde antes había agua.\n\nHoy, decenas de barcos oxidados siguen ahí, clavados en lo que ahora es arena y sal, convertidos en uno de los desastres ecológicos provocados por el ser humano más grandes de la historia.\n\nUn puerto pesquero convertido en desierto, con barcos que ya no volverán a flotar jamás.\n\nSi te ha sorprendido este dato, sígueme para más curiosidades tan extremas como esta.",
+  "guion": "Estos barcos están encallados en pleno desierto. Y hace sesenta años flotaban.\n\nEsto es Moynaq, en Uzbekistán. Era un puerto pesquero a orillas del mar de Aral, uno de los lagos más grandes del mundo.\n\nEn los años sesenta, la Unión Soviética desvió los dos ríos que lo alimentaban para regar algodón.\n\nEl mar empezó a retroceder. Y no paró.\n\nEl agua se alejó casi cien kilómetros y dejó a toda la flota varada en la arena.\n\nLos barcos siguen ahí, oxidándose.\n\nUno de los mayores desastres que hemos causado nosotros mismos.",
   "queries_imagenes": [
     "Aral sea ship graveyard photo",
     "Moynaq ships desert photo",
@@ -15,7 +15,15 @@
   "fuente_imagenes": "wikimedia",
   "titulo": "El cementerio de barcos varado en pleno desierto",
   "descripcion": "En Moynaq, Uzbekistán, decenas de barcos pesqueros siguen varados en lo que antes era el mar de Aral, el cuarto lago más grande del mundo. Un proyecto soviético desvió sus ríos para regar algodón, y el agua retrocedió casi 100 km, dejando la flota atrapada en el desierto.\n\n#curiosidades #datoscuriosos #marAral #naturaleza #historia #shorts",
-  "tags": ["curiosidades", "datos curiosos", "mar de aral", "moynaq", "medio ambiente", "historia", "shorts"],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "mar de aral",
+    "moynaq",
+    "medio ambiente",
+    "historia",
+    "shorts"
+  ],
   "categoria_id": "28",
   "privacidad": "public",
   "hook_miniatura": "BARCOS VARADOS EN EL DESIERTO"

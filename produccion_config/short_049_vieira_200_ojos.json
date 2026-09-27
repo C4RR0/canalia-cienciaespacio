@@ -4,7 +4,7 @@
   "orientacion": "vertical",
   "voz": "es-ES-AlvaroNeural",
   "tema_visual": "naturaleza",
-  "guion": "¿Sabías que existe un molusco capaz de tener hasta doscientos ojos repartidos por todo su cuerpo?\n\nSe trata de la vieira, ese marisco que probablemente hayas comido alguna vez sin saber que, en vida, tenía decenas de diminutos ojos azules alineados en el borde de su concha, mirando en todas direcciones a la vez. Cada uno de esos ojos tiene una estructura interna parecida a un telescopio reflector, algo prácticamente único en todo el reino animal.\n\nAunque no forman una imagen tan nítida como el ojo humano, esos ojos le permiten detectar movimiento y cambios de luz alrededor de todo su cuerpo, avisándola en fracciones de segundo de que un posible depredador se acerca, para poder huir nadando a propulsión, cerrando sus valvas de golpe.\n\nUn marisco con más ojos que casi cualquier otro animal del planeta... y prácticamente nadie lo sabe.\n\nSi te ha sorprendido este dato, sígueme para más curiosidades tan extremas como esta.",
+  "guion": "Este marisco te está mirando. Con doscientos ojos.\n\nEs la vieira. Sí, la que se come. En vida tiene decenas de ojitos azules en el borde de la concha, mirando en todas direcciones a la vez.\n\nY no son ojos normales. Por dentro funcionan como un telescopio: en vez de lente, usan espejos hechos de cristales diminutos.\n\nNo ven imágenes nítidas, pero detectan cualquier sombra que se mueva.\n\nCuando algo se acerca, la vieira cierra la concha de golpe y sale nadando a propulsión.\n\nLa próxima vez que veas una en el plato, piensa en todo lo que llegó a ver.",
   "queries_imagenes": [
     "scallop shell photo",
     "scallop eyes photo",
@@ -15,7 +15,15 @@
   "fuente_imagenes": "wikimedia",
   "titulo": "Este marisco tiene hasta 200 ojos",
   "descripcion": "Las vieiras pueden tener hasta 200 diminutos ojos azules alineados en el borde de su concha, cada uno con una estructura interna parecida a un telescopio reflector, algo casi único en el reino animal. Le permiten detectar depredadores en todas direcciones.\n\n#curiosidades #datoscuriosos #vieira #naturaleza #oceano #shorts",
-  "tags": ["curiosidades", "datos curiosos", "vieira", "moluscos", "naturaleza", "oceano", "shorts"],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "vieira",
+    "moluscos",
+    "naturaleza",
+    "oceano",
+    "shorts"
+  ],
   "categoria_id": "28",
   "privacidad": "public",
   "hook_miniatura": "TIENE 200 OJOS"

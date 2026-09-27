@@ -4,7 +4,7 @@
   "orientacion": "vertical",
   "voz": "es-ES-AlvaroNeural",
   "tema_visual": "naturaleza",
-  "guion": "¿Sabías que existe un animal con los ojos más grandes de todo el reino animal, del tamaño de un balón de baloncesto?\n\nSe trata del calamar colosal, que vive en las profundidades heladas del océano Antártico y puede alcanzar hasta los ojos más grandes jamás documentados en un ser vivo, con más de veintisiete centímetros de diámetro. Son tan grandes que, cuando se descubrió el primer ejemplar completo, los científicos tuvieron que rediseñar sus estimaciones de lo que un ojo animal podía llegar a medir.\n\nUnos ojos tan enormes le permiten captar la más mínima partícula de luz en la más absoluta oscuridad de las profundidades, algo crucial para detectar a tiempo a su único depredador natural: el cachalote, que se sumerge cientos de metros para cazarlo.\n\nUn animal casi mitológico, del que se han encontrado muy pocos ejemplares completos en toda la historia.\n\nSi te ha sorprendido este dato, sígueme para más curiosidades tan extremas como esta.",
+  "guion": "Este animal tiene ojos del tamaño de un balón de baloncesto.\n\nEs el calamar colosal. Vive en las profundidades heladas del océano Antártico y casi nadie lo ha visto vivo.\n\nSus ojos miden más de veintisiete centímetros. Son los más grandes del reino animal.\n\n¿Para qué tan grandes? Allá abajo no hay luz. Y su gran enemigo es el cachalote, que baja a cazarlo.\n\nEsos ojos le permiten ver su silueta desde lejos, gracias a los destellos de los animales luminosos que roza al nadar.\n\nUna carrera a oscuras, a cientos de metros de profundidad, que casi nadie ha presenciado.",
   "queries_imagenes": [
     "colossal squid photo",
     "giant squid eye photo",
@@ -15,7 +15,15 @@
   "fuente_imagenes": "wikimedia",
   "titulo": "El animal con los ojos más grandes del planeta",
   "descripcion": "El calamar colosal, que habita en las profundidades del océano Antártico, tiene los ojos más grandes jamás documentados en un ser vivo: más de 27 centímetros de diámetro, del tamaño de un balón de baloncesto, para detectar luz en la oscuridad absoluta.\n\n#curiosidades #datoscuriosos #calamarcolosal #naturaleza #oceano #shorts",
-  "tags": ["curiosidades", "datos curiosos", "calamar colosal", "naturaleza", "oceano", "antartida", "shorts"],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "calamar colosal",
+    "naturaleza",
+    "oceano",
+    "antartida",
+    "shorts"
+  ],
   "categoria_id": "28",
   "privacidad": "public",
   "hook_miniatura": "LOS OJOS MÁS GRANDES DEL PLANETA"

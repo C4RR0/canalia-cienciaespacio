@@ -1,40 +1,44 @@
 1
-00:00:00,000 --> 00:00:04,459
-¿Sabías que existe un pez capaz de sobrevivir varios años completamente fuera del agua?
+00:00:00,000 --> 00:00:04,040
+Este pez puede pasar años enterrado en barro seco, sin una gota de agua.
 
 2
-00:00:04,719 --> 00:00:09,140
-Se llama pez pulmonado africano, y cuando su charca se seca durante la temporada de sequía,
+00:00:04,280 --> 00:00:05,799
+Es el pez pulmonado africano.
 
 3
-00:00:09,359 --> 00:00:13,779
-se entierra en el barro, se grega una especie de capullo de mucosidad alrededor de su cuerpo,
+00:00:06,019 --> 00:00:10,400
+Cuando su charca se seca, se mete en el barro y se envuelve en un capullo de su propia mucosidad.
 
 4
-00:00:14,019 --> 00:00:18,539
-y entra en un estado llamado estivación, su metabolismo se ralentiza hasta casi detenerse,
+00:00:10,660 --> 00:00:14,460
+Ahí dentro casi se apaga, su corazón valentísimo, no come y no bebe.
 
 5
-00:00:18,739 --> 00:00:22,039
-y puede sobrevivir así, sin comer ni beber, durante años.
+00:00:14,740 --> 00:00:15,480
+¿Y cómo respira?
 
 6
-00:00:22,260 --> 00:00:26,280
-A diferencia de otros peces, tiene pulmones además de branquias, así que en ese
+00:00:15,740 --> 00:00:16,039
+¿Por qué?
 
 7
-00:00:26,280 --> 00:00:31,679
-estado sigue respirando aire directamente, aunque muy despacio, esperando bajo tierra que vuelvan las
+00:00:16,260 --> 00:00:18,079
+Además de branquias, tiene pulmones.
 
 8
-00:00:31,679 --> 00:00:36,939
-lluvias. Cuando el agua finalmente regresa, el pez pulmonado rompe su capullo, y vuelve a nadar
+00:00:18,440 --> 00:00:20,920
+Respira aire por un pequeño tubo hacia la superficie.
 
 9
-00:00:36,939 --> 00:00:41,960
-como si no hubiera pasado el tiempo. Si te ha sorprendido este dato, sígueme para más curiosidades
+00:00:21,140 --> 00:00:22,280
+Así puede aguantar años.
 
 10
-00:00:41,960 --> 00:00:43,200
-tan extremas como ésta.
+00:00:22,579 --> 00:00:26,699
+Hasta que un día llueve, el barro se ablanda y el pez sale nadando como sinada.
+
+11
+00:00:26,940 --> 00:00:28,260
+¿Tú cuánto aguantarías sin agua?
 

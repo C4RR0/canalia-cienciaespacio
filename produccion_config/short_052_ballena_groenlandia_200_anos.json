@@ -4,7 +4,7 @@
   "orientacion": "vertical",
   "voz": "es-ES-AlvaroNeural",
   "tema_visual": "naturaleza",
-  "guion": "¿Sabías que hay ballenas nadando hoy en el Ártico que podrían haber nacido hace más de doscientos años?\n\nSe llaman ballenas de Groenlandia, y son el mamífero con la vida más larga jamás documentada, con estimaciones que superan los doscientos años de edad. La prueba más sorprendente llegó cuando, en varias ballenas cazadas a principios de los años dos mil, se encontraron fragmentos de puntas de arpón de finales del siglo diecinueve todavía incrustados en su grasa, de cazas en las que habían sobrevivido más de un siglo antes.\n\nLos científicos creen que su longevidad extrema está relacionada con un metabolismo muy lento, adaptado al frío extremo del Ártico, que reduce el desgaste celular con el paso de las décadas.\n\nUna ballena que hoy nada bajo el hielo podría haber estado viva antes de que existiera la fotografía.\n\nSi te ha sorprendido este dato, sígueme para más curiosidades tan extremas como esta.",
+  "guion": "Algunas ballenas que nadan hoy ya estaban vivas antes de que existiera la fotografía.\n\nSon las ballenas de Groenlandia. Y lo sabemos por algo increíble.\n\nA principios de los dos mil, en varias de ellas aparecieron puntas de arpón clavadas en la grasa. Arpones fabricados a finales del siglo diecinueve.\n\nHabían sobrevivido a una caza de hace más de cien años. Y siguieron nadando.\n\nLos análisis de sus ojos apuntan a que pueden superar los doscientos años. Es el mamífero más longevo que se conoce.\n\nAhora mismo, bajo el hielo del Ártico, hay ballenas que han visto pasar dos siglos.",
   "queries_imagenes": [
     "bowhead whale photo",
     "Arctic whale photo",
@@ -15,7 +15,15 @@
   "fuente_imagenes": "wikimedia",
   "titulo": "La ballena que puede vivir más de 200 años",
   "descripcion": "La ballena de Groenlandia (bowhead whale) es el mamífero con la vida más larga documentada, superando los 200 años. En varias ballenas cazadas se han encontrado puntas de arpón del siglo XIX todavía incrustadas en su grasa, prueba de su extrema longevidad.\n\n#curiosidades #datoscuriosos #ballenas #naturaleza #artico #shorts",
-  "tags": ["curiosidades", "datos curiosos", "ballena de groenlandia", "naturaleza", "artico", "longevidad", "shorts"],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "ballena de groenlandia",
+    "naturaleza",
+    "artico",
+    "longevidad",
+    "shorts"
+  ],
   "categoria_id": "28",
   "privacidad": "public",
   "hook_miniatura": "PODRÍA TENER MÁS DE 200 AÑOS"

@@ -4,7 +4,7 @@
   "orientacion": "vertical",
   "voz": "es-ES-AlvaroNeural",
   "tema_visual": "naturaleza",
-  "guion": "¿Sabías que existe un pez capaz de sobrevivir varios años completamente fuera del agua?\n\nSe llama pez pulmonado africano, y cuando su charca se seca durante la temporada de sequía, se entierra en el barro, segrega una especie de capullo de mucosidad alrededor de su cuerpo, y entra en un estado llamado estivación: su metabolismo se ralentiza hasta casi detenerse, y puede sobrevivir así, sin comer ni beber, durante años.\n\nA diferencia de otros peces, tiene pulmones además de branquias, así que en ese estado sigue respirando aire directamente, aunque muy despacio, esperando bajo tierra a que vuelvan las lluvias.\n\nCuando el agua finalmente regresa, el pez pulmonado rompe su capullo... y vuelve a nadar como si no hubiera pasado el tiempo.\n\nSi te ha sorprendido este dato, sígueme para más curiosidades tan extremas como esta.",
+  "guion": "Este pez puede pasar años enterrado en barro seco. Sin una gota de agua.\n\nEs el pez pulmonado africano. Cuando su charca se seca, se mete en el barro y se envuelve en un capullo de su propia mucosidad.\n\nAhí dentro casi se apaga. Su corazón va lentísimo, no come y no bebe.\n\n¿Y cómo respira? Porque, además de branquias, tiene pulmones. Respira aire por un pequeño tubo hacia la superficie.\n\nAsí puede aguantar años.\n\nHasta que un día llueve, el barro se ablanda… y el pez sale nadando como si nada.\n\n¿Tú cuánto aguantarías sin agua?",
   "queries_imagenes": [
     "African lungfish photo",
     "lungfish photo",
@@ -15,7 +15,15 @@
   "fuente_imagenes": "wikimedia",
   "titulo": "Este pez sobrevive años enterrado sin agua",
   "descripcion": "El pez pulmonado africano puede sobrevivir años fuera del agua: cuando su charca se seca, se entierra en el barro, forma un capullo de mucosidad y entra en estivación, respirando aire muy despacio gracias a sus pulmones hasta que vuelven las lluvias.\n\n#curiosidades #datoscuriosos #naturaleza #peces #africa #shorts",
-  "tags": ["curiosidades", "datos curiosos", "pez pulmonado", "naturaleza", "africa", "supervivencia", "shorts"],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "pez pulmonado",
+    "naturaleza",
+    "africa",
+    "supervivencia",
+    "shorts"
+  ],
   "categoria_id": "28",
   "privacidad": "public",
   "hook_miniatura": "SOBREVIVE AÑOS SIN AGUA"

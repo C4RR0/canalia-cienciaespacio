@@ -4,7 +4,7 @@
   "orientacion": "vertical",
   "voz": "es-ES-AlvaroNeural",
   "tema_visual": "naturaleza",
-  "guion": "¿Sabías que existe un árbol cuya savia es literalmente de color rojo sangre?\n\nSe llama árbol de sangre de drago, y crece casi en exclusiva en la isla de Socotra, en Yemen, un lugar tan aislado que se le conoce como el archipiélago más extraterrestre de la Tierra. Su copa tiene forma de sombrilla invertida, diseñada por la evolución para dar la máxima sombra posible y atrapar la escasa humedad del ambiente en ese clima árido.\n\nCuando se corta su corteza, brota una resina espesa de color rojo intenso, que durante siglos se ha usado como tinte, medicina tradicional y hasta como barniz para violines. En la antigüedad, algunos comerciantes llegaron a creer que era sangre de dragón solidificada, de ahí su nombre.\n\nUn árbol que parece sacado de otro planeta... y que literalmente sangra cuando se le hiere.\n\nSi te ha sorprendido este dato, sígueme para más curiosidades tan extremas como esta.",
+  "guion": "Si cortas este árbol, sangra.\n\nEs el drago de Socotra, una isla de Yemen tan aislada que parece otro planeta. Tiene forma de paraguas dado la vuelta, para dar sombra y atrapar la poca humedad que hay.\n\nCuando se hiere la corteza, brota una resina de color rojo intenso. Espesa, como sangre.\n\nDurante siglos se vendió como sangre de dragón. Se usó como medicina, como tinte… y hasta para barnizar violines.\n\nLos antiguos comerciantes llegaron a creer que era sangre de verdad.\n\nViéndolo, ¿tú qué habrías pensado?",
   "queries_imagenes": [
     "Socotra dragon tree photo",
     "Dracaena cinnabari photo",
@@ -15,7 +15,15 @@
   "fuente_imagenes": "wikimedia",
   "titulo": "El árbol que sangra de verdad",
   "descripcion": "El árbol de sangre de drago (Dracaena cinnabari) crece en la isla de Socotra, Yemen, y produce una resina roja intensa al cortarse. Su copa en forma de sombrilla invertida evolucionó para dar sombra y atrapar humedad en un clima árido extremo.\n\n#curiosidades #datoscuriosos #naturaleza #socotra #arboles #shorts",
-  "tags": ["curiosidades", "datos curiosos", "sangre de drago", "socotra", "naturaleza", "arboles", "shorts"],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "sangre de drago",
+    "socotra",
+    "naturaleza",
+    "arboles",
+    "shorts"
+  ],
   "categoria_id": "28",
   "privacidad": "public",
   "hook_miniatura": "EL ÁRBOL QUE SANGRA DE VERDAD"

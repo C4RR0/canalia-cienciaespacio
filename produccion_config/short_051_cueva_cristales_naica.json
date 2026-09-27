@@ -4,7 +4,7 @@
   "orientacion": "vertical",
   "voz": "es-ES-AlvaroNeural",
   "tema_visual": "naturaleza",
-  "guion": "¿Sabías que existe una cueva en México con cristales tan grandes como un edificio de cuatro plantas?\n\nSe llama la Cueva de los Cristales, escondida a trescientos metros bajo tierra en una mina de Naica. Sus cristales de selenita más grandes miden más de once metros de largo y pesan hasta doce toneladas cada uno, formados a lo largo de quinientos mil años en una cámara con agua rica en minerales, mantenida a una temperatura casi constante de entre cincuenta y cuatro y cincuenta y ocho grados.\n\nEl calor y la humedad son tan extremos que un humano solo puede sobrevivir ahí dentro unos diez minutos sin un equipo de refrigeración especial, así que la cueva permaneció completamente invisible para el ser humano hasta que unos mineros la descubrieron por accidente en el año dos mil.\n\nUna de las maravillas geológicas más espectaculares del planeta... que casi nadie ha visto en persona.\n\nSi te ha sorprendido este dato, sígueme para más curiosidades tan extremas como esta.",
+  "guion": "Si entras en esta cueva sin protección, en diez minutos empiezas a morir.\n\nEstá en Naica, México, a trescientos metros bajo tierra. Dentro hay cristales de más de once metros de largo. Algunos pesan doce toneladas.\n\nTardaron unos quinientos mil años en crecer, sumergidos en agua caliente llena de minerales.\n\nEl problema es el ambiente: más de cincuenta grados y casi cien por cien de humedad. Tu cuerpo no puede enfriarse.\n\nLa encontraron unos mineros por accidente en el año dos mil.\n\nHoy vuelve a estar inundada. Puede que nadie la vuelva a ver jamás.",
   "queries_imagenes": [
     "Naica cave crystals photo",
     "giant selenite crystals photo",
@@ -15,7 +15,15 @@
   "fuente_imagenes": "wikimedia",
   "titulo": "La cueva con cristales del tamaño de un edificio",
   "descripcion": "La Cueva de los Cristales, en la mina de Naica, México, alberga cristales de selenita de hasta 11 metros y 12 toneladas, formados durante 500.000 años. El calor extremo (hasta 58°C) hizo que permaneciera oculta hasta el año 2000.\n\n#curiosidades #datoscuriosos #geologia #mexico #naturaleza #shorts",
-  "tags": ["curiosidades", "datos curiosos", "cueva de cristales", "naica", "geologia", "mexico", "shorts"],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "cueva de cristales",
+    "naica",
+    "geologia",
+    "mexico",
+    "shorts"
+  ],
   "categoria_id": "28",
   "privacidad": "public",
   "hook_miniatura": "CRISTALES DEL TAMAÑO DE UN EDIFICIO"

@@ -1,32 +1,32 @@
 1
-00:00:00,000 --> 00:00:04,879
-¿Sabías que en algunos glaciares del mundo se puede encontrar nieve de color rosa, con olor a sandía?
+00:00:00,000 --> 00:00:03,419
+Hay nieve rosa que huele a sandía y no es una buena noticia.
 
 2
-00:00:05,120 --> 00:00:13,080
-Se conoce como nieve de sandía o nieve rosa, y aparece durante los meses de verano en zonas de nieve permanente como los alpes, el ártico o la antártida.
+00:00:03,640 --> 00:00:06,740
+Aparece en verano en los Alpes, el Ártico o la Antártida.
 
 3
-00:00:13,359 --> 00:00:18,199
-El color no viene de ningún tinte, lo produce un alga microscópica llamada chlamido monas nibalis,
+00:00:07,000 --> 00:00:10,980
+Parece que alguien haya derramado zumo por la montaña, pero el color lo pone una alga
 
 4
-00:00:18,480 --> 00:00:23,800
-que vive dentro de la propia nieve y produce un pigmento rojo para protegerse de la radiación ultravioleta del sol.
+00:00:10,980 --> 00:00:12,820
+mitroscópica que vive dentro de la nieve.
 
 5
-00:00:23,800 --> 00:00:30,679
-Durante décadas se pensó que era inofensiva, pero investigaciones recientes muestran que esta nieve rosa en realidad acelera el deshielo,
+00:00:13,019 --> 00:00:15,519
+Fabrica un pigmento rojo para protegerse del sol.
 
 6
-00:00:30,800 --> 00:00:36,320
-porque el color oscuro absorbe más luz solar que la nieve blanca normal, calentándose y derritiéndose más rápido.
+00:00:15,779 --> 00:00:18,839
+El problema es que la nieve rosa refleja menos luz que la blanca.
 
 7
-00:00:36,640 --> 00:00:40,460
-Un fenómeno bonito a la vista, que en realidad es una señal de alerta climática.
+00:00:19,079 --> 00:00:23,820
+Se calienta más y se derrite más rápido y cuanto más se derrite, más crece el alga.
 
 8
-00:00:40,759 --> 00:00:45,039
-Si te has sorprendido este dato, sígueme para más curiosidades tan extremas como ésta.
+00:00:23,960 --> 00:00:27,800
+Así que ese paisaje tan bonito es, en realidad, una pequeña alarma.
 

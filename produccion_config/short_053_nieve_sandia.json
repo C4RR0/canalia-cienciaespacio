@@ -4,7 +4,7 @@
   "orientacion": "vertical",
   "voz": "es-ES-AlvaroNeural",
   "tema_visual": "naturaleza",
-  "guion": "¿Sabías que en algunos glaciares del mundo se puede encontrar nieve de color rosa, con olor a sandía?\n\nSe conoce como nieve de sandía o nieve rosa, y aparece durante los meses de verano en zonas de nieve permanente como los Alpes, el Ártico o la Antártida. El color no viene de ningún tinte: lo produce un alga microscópica llamada Chlamydomonas nivalis, que vive dentro de la propia nieve y produce un pigmento rojo para protegerse de la radiación ultravioleta del sol.\n\nDurante décadas se pensó que era inofensiva, pero investigaciones recientes muestran que esta nieve rosa en realidad acelera el deshielo, porque el color oscuro absorbe más luz solar que la nieve blanca normal, calentándose y derritiéndose más rápido.\n\nUn fenómeno bonito a la vista... que en realidad es una señal de alerta climática.\n\nSi te ha sorprendido este dato, sígueme para más curiosidades tan extremas como esta.",
+  "guion": "Hay nieve rosa que huele a sandía. Y no es una buena noticia.\n\nAparece en verano en los Alpes, el Ártico o la Antártida. Parece que alguien haya derramado zumo por la montaña.\n\nPero el color lo pone un alga microscópica que vive dentro de la nieve. Fabrica un pigmento rojo para protegerse del sol.\n\nEl problema es que la nieve rosa refleja menos luz que la blanca. Se calienta más… y se derrite más rápido.\n\nY cuanto más se derrite, más crece el alga.\n\nAsí que ese paisaje tan bonito es, en realidad, una pequeña alarma.",
   "queries_imagenes": [
     "watermelon snow photo",
     "pink snow glacier photo",
@@ -15,7 +15,15 @@
   "fuente_imagenes": "wikimedia",
   "titulo": "Existe nieve rosa que huele a sandía",
   "descripcion": "La nieve de sandía aparece en glaciares de todo el mundo por un alga microscópica, Chlamydomonas nivalis, que produce un pigmento rojo para protegerse del sol. Ese color oscuro absorbe más luz y acelera el deshielo del glaciar.\n\n#curiosidades #datoscuriosos #naturaleza #glaciares #clima #shorts",
-  "tags": ["curiosidades", "datos curiosos", "nieve de sandia", "glaciares", "naturaleza", "clima", "shorts"],
+  "tags": [
+    "curiosidades",
+    "datos curiosos",
+    "nieve de sandia",
+    "glaciares",
+    "naturaleza",
+    "clima",
+    "shorts"
+  ],
   "categoria_id": "28",
   "privacidad": "public",
   "hook_miniatura": "NIEVE ROSA QUE HUELE A SANDÍA"
