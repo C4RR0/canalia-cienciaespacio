@@ -44,6 +44,13 @@ def ids_listos() -> list[str]:
                 and (BASE / "cola_subtitulos" / f"{vid}_corregido.srt").exists()
                 and (BASE / "produccion_config" / f"{vid}.json").exists()):
             listos.append(vid)
+    # cola_prioridad.txt (opcional): ids en el orden en que deben salir; los
+    # que no aparezcan van detrás, por orden de número.
+    prio = BASE / "cola_prioridad.txt"
+    if prio.exists():
+        orden = [l.strip() for l in prio.read_text(encoding="utf-8").splitlines()
+                 if l.strip() and not l.startswith("#")]
+        listos.sort(key=lambda v: orden.index(v) if v in orden else len(orden))
     return listos
 
 
