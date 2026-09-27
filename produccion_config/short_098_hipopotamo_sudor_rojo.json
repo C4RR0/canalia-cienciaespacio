@@ -1,0 +1,34 @@
+{
+  "id": "short_098_hipopotamo_sudor_rojo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "guion": "Los hipopótamos parece que sudan sangre. Y durante siglos, la gente creyó que era eso.\n\nCuando pasan mucho tiempo al sol, su piel se cubre de un líquido espeso de color rojo anaranjado.\n\nPero no es sangre. Y tampoco es sudor: los hipopótamos no tienen glándulas sudoríparas.\n\nEn dos mil cuatro, unos científicos japoneses lo analizaron. Contiene dos pigmentos, uno rojo y otro naranja, que absorben la luz ultravioleta.\n\nO sea, es protector solar. Fabricado por su propio cuerpo.\n\nY además frena el crecimiento de bacterias, así que sus heridas se infectan menos en el agua sucia de los ríos.\n\nYa quisiéramos nosotros algo así en la playa.",
+  "queries_imagenes": [
+    "Hippopotamus amphibius",
+    "Hippopotamus amphibius skin",
+    "Hippopotamus amphibius portrait",
+    "Hippopotamus amphibius water",
+    "hippopotamus river",
+    "hippopotamus close up",
+    "hippo open mouth",
+    "hippopotamus herd"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Los hipopótamos sudan de color rojo (y no es sangre)",
+  "descripcion": "El 'sudor de sangre' del hipopótamo no es sudor ni sangre: es una secreción con ácido hiposudórico (rojo) y norhiposudórico (naranja) que actúa como protector solar y antibacteriano (Saikawa et al., Nature, 2004).\n\n#hipopotamo #sudorrojo #animales #curiosidades #shorts",
+  "tags": [
+    "sudor de hipopotamo",
+    "hipopotamo sudor rojo",
+    "hipopotamo",
+    "protector solar natural",
+    "animales increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "¿SUDA SANGRE?",
+  "prompt_miniatura": "a hippopotamus standing in the sun at a riverbank with glistening reddish-orange fluid on its skin, dramatic warm lighting, wildlife photography"
+}

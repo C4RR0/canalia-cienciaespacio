@@ -48,7 +48,9 @@ def _es_relevante(titulo: str, palabras_clave: set[str], query: str) -> bool:
     return any(palabra in titulo_normalizado for palabra in palabras_clave)
 
 
-def buscar_archivo(query: str, intentos: int = 4) -> str | None:
+def buscar_archivo(query: str, intentos: int = 4, excluir: set | None = None) -> str | None:
+    """excluir: URLs ya usadas en el vídeo. Se saltan y la elegida se añade, para no
+    repetir la misma foto con búsquedas distintas (pasaba mucho: devuelve la más grande)."""
     params = {
         "action": "query",
         "format": "json",
@@ -102,8 +104,12 @@ def buscar_archivo(query: str, intentos: int = 4) -> str | None:
         else:
             candidatos_irrelevantes.append((ancho, url, titulo))
 
+    if excluir is not None:
+        candidatos = [c for c in candidatos if c[1] not in excluir]
     if candidatos:
         candidatos.sort(reverse=True)
+        if excluir is not None:
+            excluir.add(candidatos[0][1])
         return candidatos[0][1]
     if candidatos_irrelevantes:
         # Ningún resultado tiene el título relacionado con la búsqueda: es mejor no

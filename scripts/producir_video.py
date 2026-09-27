@@ -97,6 +97,7 @@ def obtener_imagenes_reales(queries: list[str], carpeta_raw: Path, fuente: str) 
     y por tanto no debe usarse como fotograma de miniatura."""
     carpeta_raw.mkdir(parents=True, exist_ok=True)
     rutas = []
+    usadas = set()  # URLs de Wikimedia ya elegidas, para no repetir foto
     for i, query in enumerate(queries, start=1):
         salida = carpeta_raw / f"img_{i:02d}.jpg"
         if salida.exists():
@@ -114,7 +115,7 @@ def obtener_imagenes_reales(queries: list[str], carpeta_raw: Path, fuente: str) 
                         nasa.descargar(url, salida)
                         obtenida = True
             else:
-                url = wiki.buscar_archivo(query)
+                url = wiki.buscar_archivo(query, excluir=usadas)
                 if url:
                     wiki.descargar(url, salida)
                     obtenida = True
@@ -125,7 +126,7 @@ def obtener_imagenes_reales(queries: list[str], carpeta_raw: Path, fuente: str) 
         if not obtenida:
             try:
                 if fuente == "nasa":
-                    url = wiki.buscar_archivo(query)
+                    url = wiki.buscar_archivo(query, excluir=usadas)
                     if url:
                         wiki.descargar(url, salida)
                         obtenida = True
