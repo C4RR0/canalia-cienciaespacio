@@ -1,0 +1,34 @@
+{
+  "id": "short_108_basilisco_corre_agua",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "guion": "Este lagarto corre sobre el agua.\n\nEs el basilisco común de Centroamérica, al que llaman lagarto Jesucristo.\n\nCuando huye, se levanta sobre las patas traseras y golpea el agua tan rápido que cada pisada crea una bolsa de aire bajo el pie. Antes de que se cierre, ya ha dado el siguiente paso.\n\nSus dedos traseros tienen unos flecos de piel que se abren y le dan más superficie, como si llevara aletas.\n\nLas crías, que pesan menos, son las que más lejos llegan.\n\nY cuando por fin se hunde, no pasa nada: nada muy bien y puede aguantar hasta media hora bajo el agua.",
+  "queries_imagenes": [
+    "Basiliscus basiliscus",
+    "Basiliscus plumifrons",
+    "basilisk lizard",
+    "Basiliscus vittatus",
+    "Basiliscus plumifrons Costa Rica",
+    "Basiliscus basiliscus Costa Rica",
+    "Basiliscus plumifrons male",
+    "Basiliscus vittatus male"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Este lagarto corre sobre el agua (y así lo consigue)",
+  "descripcion": "El basilisco común (Basiliscus basiliscus), el \"lagarto Jesucristo\", corre sobre el agua golpeándola tan rápido que cada pisada forma una bolsa de aire. Tiene flecos de piel en los dedos y puede aguantar hasta media hora sumergido.\n\n#basilisco #lagartojesucristo #animalesraros #curiosidades #shorts",
+  "tags": [
+    "basilisco",
+    "lagarto jesucristo",
+    "lagarto que corre sobre el agua",
+    "reptiles",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "CORRE SOBRE EL AGUA",
+  "prompt_miniatura": "a green basilisk lizard sprinting across the surface of a jungle river on its hind legs, water splashing, high-speed wildlife photography"
+}
