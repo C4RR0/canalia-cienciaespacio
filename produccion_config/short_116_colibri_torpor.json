@@ -1,0 +1,34 @@
+{
+  "id": "short_116_colibri_torpor",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Este pájaro casi se muere todas las noches.\n\nEl colibrí gasta tanta energía que, si no comiera, se quedaría sin reservas en pocas horas. Así que por la noche entra en letargo.\n\nSu corazón pasa de más de mil latidos por minuto a unos cincuenta, y su temperatura cae en picado. En un colibrí de los Andes se midieron tres grados, el récord en un ave.\n\nQueda tan rígido que parece muerto, incluso colgado boca abajo de una rama.\n\nY por la mañana tarda unos veinte minutos en volver a la vida.",
+  "queries_imagenes": [
+    "Trochilidae",
+    "hummingbird",
+    "hummingbird nest",
+    "Oreotrochilus estella",
+    "hummingbird torpor",
+    "Archilochus colubris",
+    "Calypte anna",
+    "hummingbird hovering"
+  ],
+  "titulo": "Este pájaro casi se muere todas las noches",
+  "descripcion": "Los colibríes entran cada noche en torpor: el corazón baja de más de 1.000 latidos por minuto a unos 50 y la temperatura cae. En un colibrí andino (Oreotrochilus estella) se midieron 3,3 ºC, récord en aves (estudio de 2020).\n\n#colibri #aves #animalesraros #curiosidades #shorts",
+  "tags": [
+    "colibrí",
+    "colibrí duerme",
+    "torpor",
+    "animales raros",
+    "aves",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "CASI MUERE CADA NOCHE",
+  "prompt_miniatura": "a tiny hummingbird asleep hanging upside down from a branch at night, cold blue moonlight, macro wildlife photography"
+}

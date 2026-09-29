@@ -1,0 +1,34 @@
+{
+  "id": "short_114_pez_arquero",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Este pez caza insectos fuera del agua… disparándoles.\n\nEs el pez arquero. Pega la boca a la superficie y lanza un chorro de agua que puede alcanzar más de dos metros. El insecto cae y se lo come.\n\nLo difícil es que la luz se dobla al pasar del agua al aire, y el pez corrige ese error al apuntar.\n\nPero lo más raro llegó en dos mil dieciséis: en la Universidad de Oxford le enseñaron a reconocer caras humanas.\n\nEntre decenas de caras, escupía a la correcta más de ocho de cada diez veces.",
+  "queries_imagenes": [
+    "Toxotes jaculatrix",
+    "archerfish",
+    "Toxotes",
+    "Toxotes chatareus",
+    "mangrove Thailand",
+    "Toxotes jaculatrix aquarium",
+    "Toxotes microlepis",
+    "Toxotes blythii"
+  ],
+  "titulo": "Este pez caza insectos fuera del agua disparándoles",
+  "descripcion": "El pez arquero (Toxotes) derriba insectos con chorros de agua, corrigiendo la refracción de la luz. En 2016, un estudio de las universidades de Oxford y Queensland mostró que puede aprender a reconocer caras humanas.\n\n#pezarquero #animalesraros #curiosidades #peces #shorts",
+  "tags": [
+    "pez arquero",
+    "pez escupidor",
+    "animales raros",
+    "peces raros",
+    "datos curiosos",
+    "animales",
+    "shorts"
+  ],
+  "hook_miniatura": "LES DISPARA",
+  "prompt_miniatura": "an archerfish shooting a jet of water at an insect on a leaf above the water, splash, dramatic lighting, nature photography"
+}

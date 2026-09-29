@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:04,660
+A este animal le muerde una cobra, se desmaya, y a las dos horas se levanta y se la come.
+
+2
+00:00:04,879 --> 00:00:06,580
+Es el ratel, o tejón de la miel.
+
+3
+00:00:06,900 --> 00:00:10,640
+Tiene una mutación que hace que el veneno de muchas serpientes apenas le afecte.
+
+4
+00:00:10,859 --> 00:00:14,960
+Su piel es tan gruesa y tan suelta que, si un león lo agarra por la espalda, puede
+
+5
+00:00:14,960 --> 00:00:16,660
+girarse dentro de ella y morderle.
+
+6
+00:00:16,879 --> 00:00:20,679
+Ataca con menas enteras para comérselas larvas y aguanta cientos de picaduras.
+
+7
+00:00:20,960 --> 00:00:25,660
+Y no huye casi nunca, se enfrenta a leones, leopardos y llenas diez veces más grandes.
+

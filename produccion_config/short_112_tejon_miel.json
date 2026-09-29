@@ -1,0 +1,34 @@
+{
+  "id": "short_112_tejon_miel",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "A este animal le muerde una cobra, se desmaya… y a las dos horas se levanta y se la come.\n\nEs el ratel, o tejón de la miel. Tiene una mutación que hace que el veneno de muchas serpientes apenas le afecte.\n\nSu piel es tan gruesa y tan suelta que, si un león lo agarra por la espalda, puede girarse dentro de ella y morderle.\n\nAtaca colmenas enteras para comerse las larvas y aguanta cientos de picaduras.\n\nY no huye casi nunca: se enfrenta a leones, leopardos y hienas diez veces más grandes.",
+  "queries_imagenes": [
+    "Mellivora capensis",
+    "Mellivora capensis Kruger",
+    "honey badger Mellivora capensis",
+    "Mellivora capensis Kalahari",
+    "Naja nivea",
+    "Mellivora capensis skull",
+    "ratel Mellivora",
+    "African honey bee hive"
+  ],
+  "titulo": "A este animal le muerde una cobra y a las dos horas se la come",
+  "descripcion": "El ratel o tejón de la miel (Mellivora capensis) tiene una mutación en el receptor que ataca el veneno de muchas serpientes, piel gruesa y suelta, y se enfrenta a depredadores mucho mayores.\n\n#tejondelamiel #ratel #animalesraros #curiosidades #shorts",
+  "tags": [
+    "tejón de la miel",
+    "ratel",
+    "animal más valiente",
+    "animales raros",
+    "datos curiosos",
+    "animales",
+    "shorts"
+  ],
+  "hook_miniatura": "SE LEVANTA Y SE LA COME",
+  "prompt_miniatura": "a honey badger fighting a cobra in the african savanna, dust, dramatic golden light, wildlife photography"
+}

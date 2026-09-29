@@ -1,0 +1,34 @@
+{
+  "id": "short_117_casuario",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Muchos consideran a esta ave la más peligrosa del planeta.\n\nEl casuario vive en Australia y Nueva Guinea. Puede pesar sesenta kilos, correr a cincuenta kilómetros por hora y saltar metro y medio.\n\nEn cada pata tiene una uña de hasta doce centímetros, afilada como un puñal, y cuando se siente amenazado da patadas hacia delante.\n\nEn dos mil diecinueve, un hombre murió en Florida atacado por el casuario que criaba.\n\nY el casco de su cabeza es tan misterioso que los científicos aún no saben para qué sirve.",
+  "queries_imagenes": [
+    "Casuarius casuarius",
+    "cassowary",
+    "southern cassowary",
+    "Casuarius casuarius Australia",
+    "cassowary Daintree",
+    "Casuarius casuarius Queensland",
+    "cassowary casque",
+    "Casuarius"
+  ],
+  "titulo": "Muchos consideran a esta ave la más peligrosa del planeta",
+  "descripcion": "El casuario común (Casuarius casuarius) pesa hasta 60 kg, corre a 50 km/h y tiene una uña de hasta 12 cm en cada pata. En 2019 mató a su dueño en Florida. La función de su casco sigue sin estar clara.\n\n#casuario #aves #animalespeligrosos #curiosidades #shorts",
+  "tags": [
+    "casuario",
+    "ave más peligrosa",
+    "animales peligrosos",
+    "animales raros",
+    "datos curiosos",
+    "animales",
+    "shorts"
+  ],
+  "hook_miniatura": "GARRAS DE 12 CM",
+  "prompt_miniatura": "a cassowary with blue neck and tall casque staring at the camera in a dark rainforest, menacing, cinematic wildlife photography"
+}

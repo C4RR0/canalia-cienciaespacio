@@ -1,0 +1,34 @@
+{
+  "id": "short_115_nutria_marina",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Las nutrias marinas se dan la mano para dormir.\n\nFlotan boca arriba en el mar y, para que la corriente no las separe, se agarran de las patas o se enrollan en algas.\n\nNo tienen grasa como las focas. Lo que las protege del frío es el pelo más denso del reino animal: hasta ciento cincuenta mil pelos en cada centímetro cuadrado.\n\nBajo cada brazo tienen un bolsillo de piel donde guardan comida y su piedra favorita.\n\nLa usan para romper erizos y almejas sobre la barriga, y a veces la guardan durante años.",
+  "queries_imagenes": [
+    "Enhydra lutris",
+    "sea otter",
+    "Enhydra lutris kenyoni",
+    "sea otters rafting",
+    "sea otter floating",
+    "Enhydra lutris nereis",
+    "sea otter kelp",
+    "sea otter eating"
+  ],
+  "titulo": "Las nutrias marinas hacen esto para dormir",
+  "descripcion": "Las nutrias marinas (Enhydra lutris) se agarran entre ellas o se enrollan en algas para no separarse al dormir. Tienen el pelaje más denso del reino animal y un bolsillo de piel bajo cada brazo donde guardan su piedra-herramienta.\n\n#nutriamarina #nutrias #animales #curiosidades #shorts",
+  "tags": [
+    "nutria marina",
+    "nutrias de la mano",
+    "nutrias durmiendo",
+    "animales tiernos",
+    "datos curiosos",
+    "animales",
+    "shorts"
+  ],
+  "hook_miniatura": "SE DAN LA MANO",
+  "prompt_miniatura": "two sea otters floating on their backs holding paws in calm ocean water, soft sunset light, wildlife photography"
+}

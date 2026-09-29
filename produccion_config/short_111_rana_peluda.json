@@ -1,0 +1,34 @@
+{
+  "id": "short_111_rana_peluda",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Esta rana se rompe sus propios huesos para defenderse.\n\nEs la rana peluda de África central. Cuando la atrapan, se parte los huesos de los dedos de las patas traseras y los saca atravesando su propia piel.\n\nEl hueso roto queda afilado como una garra, y lo usa para arañar al atacante.\n\nY los pelos tampoco son pelos: son hilos de piel llenos de vasos sanguíneos que les salen a los machos para respirar más oxígeno mientras cuidan de los huevos.\n\nPor eso en inglés la llaman la rana Lobezno.",
+  "queries_imagenes": [
+    "Korup National Park rainforest",
+    "Trichobatrachus",
+    "hairy frog Trichobatrachus",
+    "Trichobatrachus robustus male",
+    "Cameroon rainforest",
+    "Mount Cameroon",
+    "Mount Cameroon forest",
+    "Korup National Park"
+  ],
+  "titulo": "Esta rana se rompe sus propios huesos para defenderse",
+  "descripcion": "La rana peluda (Trichobatrachus robustus), de África central, se fractura los huesos de los dedos y los saca atravesando la piel como garras. Sus 'pelos' son filamentos de piel con vasos sanguíneos que ayudan a los machos a respirar.\n\n#ranapeluda #animalesraros #curiosidades #naturaleza #shorts",
+  "tags": [
+    "rana peluda",
+    "rana lobezno",
+    "animales raros",
+    "animales extraños",
+    "datos curiosos",
+    "animales",
+    "shorts"
+  ],
+  "hook_miniatura": "SE ROMPE LOS HUESOS",
+  "prompt_miniatura": "a strange frog with hair-like skin filaments on its body, dark rainforest, dramatic wildlife photography"
+}

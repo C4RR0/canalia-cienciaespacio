@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:08,599
+Este pez caza insectos fuera del agua, disparándoles, es el pez arquero, pega la boca a la superficie y lanza un chorro de agua que puede alcanzar más de 2 metros.
+
+2
+00:00:08,960 --> 00:00:10,359
+El insecto cae y se lo come.
+
+3
+00:00:10,619 --> 00:00:15,500
+Lo difícil es que la luz se dobla al pasar del agua al aire, y el pez corrige ese error al apuntar.
+
+4
+00:00:15,699 --> 00:00:21,199
+Pero lo más raro llegó en 2016, en la Universidad de Oxford le enseñaron a reconocer caras humanas.
+
+5
+00:00:21,379 --> 00:00:25,140
+Entre decenas de caras, escupía la correcta más de 8 de cada 10 veces.
+

@@ -1,0 +1,34 @@
+{
+  "id": "short_113_perezoso",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Este animal tarda hasta un mes en digerir una sola comida.\n\nEl perezoso de tres dedos come casi solo hojas, que dan muy poca energía. Por eso lo hace todo despacio: su estómago tiene varias cámaras y la digestión puede durar semanas.\n\nBaja del árbol más o menos una vez por semana, solo para hacer sus necesidades, y en una vez puede soltar casi un tercio de su peso.\n\nEn su pelo crecen algas que lo vuelven verde, y allí viven polillas que no existen en ningún otro sitio.\n\nY en el agua nada tres veces más rápido que en tierra.",
+  "queries_imagenes": [
+    "Bradypus variegatus",
+    "three-toed sloth",
+    "Bradypus",
+    "Bradypus tridactylus",
+    "Bradypus variegatus Costa Rica",
+    "Bradypus variegatus Panama",
+    "Cryptoses choloepi",
+    "three-toed sloth Panama"
+  ],
+  "titulo": "Este animal tarda hasta un mes en digerir una sola comida",
+  "descripcion": "El perezoso de tres dedos (Bradypus) tiene un metabolismo lentísimo: la digestión dura semanas, baja del árbol una vez por semana para defecar, tiene algas en el pelo y nada mejor de lo que camina.\n\n#perezoso #animalesraros #curiosidades #naturaleza #shorts",
+  "tags": [
+    "perezoso",
+    "perezoso de tres dedos",
+    "curiosidades del perezoso",
+    "animales raros",
+    "datos curiosos",
+    "animales",
+    "shorts"
+  ],
+  "hook_miniatura": "UN MES PARA DIGERIR",
+  "prompt_miniatura": "a three-toed sloth hanging from a branch in the misty rainforest, greenish fur, cinematic wildlife photography"
+}

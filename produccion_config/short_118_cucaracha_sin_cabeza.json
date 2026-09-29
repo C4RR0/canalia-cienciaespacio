@@ -1,0 +1,34 @@
+{
+  "id": "short_118_cucaracha_sin_cabeza",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Una cucaracha puede vivir una semana sin cabeza.\n\nNo respira por la boca: el aire entra por pequeños agujeros repartidos por todo el cuerpo.\n\nTampoco tiene una sangre a presión como la nuestra, así que al cortarle la cabeza la herida se sella sola y no se desangra.\n\nY buena parte de sus nervios no está en el cerebro, sino repartida por el cuerpo, de modo que sigue caminando y reaccionando al tocarla.\n\nAl final no muere por perder la cabeza. Muere de sed, porque ya no tiene boca para beber.",
+  "queries_imagenes": [
+    "Periplaneta americana",
+    "cockroach",
+    "Blattella germanica",
+    "Periplaneta americana dorsal",
+    "cockroach macro",
+    "Blaberus",
+    "Periplaneta americana nymph",
+    "Blatta orientalis"
+  ],
+  "titulo": "Una cucaracha puede vivir una semana sin esto",
+  "descripcion": "Las cucarachas respiran por espiráculos, tienen un sistema circulatorio abierto y ganglios repartidos por el cuerpo, así que pueden sobrevivir días sin cabeza hasta morir de sed.\n\n#cucaracha #insectos #animalesraros #curiosidades #shorts",
+  "tags": [
+    "cucaracha sin cabeza",
+    "cucarachas",
+    "insectos",
+    "animales raros",
+    "datos curiosos",
+    "animales",
+    "shorts"
+  ],
+  "hook_miniatura": "SIN CABEZA",
+  "prompt_miniatura": "a large cockroach on a dark kitchen floor, macro, dramatic side lighting, eerie"
+}
