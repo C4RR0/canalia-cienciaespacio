@@ -41,6 +41,17 @@ short_090_isla_serpientes
 short_074_wojtek_oso_soldado
 short_079_rio_hirviente
 short_088_koala_huellas
+# 29/09: tanda 101-110 (8 animales + historia + cuerpo humano), antes de geología/espacio
+short_101_pez_payaso_cambia_sexo
+short_102_loris_venenoso
+short_109_guerra_del_cerdo
+short_103_pepino_mar_tripas
+short_104_avispa_mar_24_ojos
+short_110_astronautas_crecen
+short_105_carpintero_lengua_craneo
+short_106_estrella_mar_estomago
+short_107_zarigueya_muerta
+short_108_basilisco_corre_agua
 short_054_arbol_sangre_drago
 short_076_puerta_infierno
 short_092_centralia_arde

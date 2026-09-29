@@ -1,0 +1,72 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,40,108,422,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r} COMER, ESTE ANIMAL
+Dialogue: 0,0:00:00.34,0:00:00.92,Default,,0,0,0,,PARA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMER,{\r} ESTE ANIMAL
+Dialogue: 0,0:00:00.92,0:00:01.42,Default,,0,0,0,,PARA COMER, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ANIMAL{\r}
+Dialogue: 0,0:00:01.42,0:00:01.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SACA{\r} EL ESTÓMAGO FUERA
+Dialogue: 0,0:00:01.80,0:00:02.32,Default,,0,0,0,,SACA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTÓMAGO{\r} FUERA
+Dialogue: 0,0:00:02.32,0:00:02.60,Default,,0,0,0,,SACA EL ESTÓMAGO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUERA{\r}
+Dialogue: 0,0:00:02.60,0:00:03.30,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUERPO.{\r}
+Dialogue: 0,0:00:03.44,0:00:03.86,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTRELLA{\r} DE MAR
+Dialogue: 0,0:00:03.86,0:00:04.14,Default,,0,0,0,,LA ESTRELLA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MAR{\r}
+Dialogue: 0,0:00:04.14,0:00:04.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGARRA{\r} UNA ALMEJA CON
+Dialogue: 0,0:00:04.52,0:00:05.10,Default,,0,0,0,,AGARRA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALMEJA{\r} CON
+Dialogue: 0,0:00:05.10,0:00:05.30,Default,,0,0,0,,AGARRA UNA ALMEJA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r}
+Dialogue: 0,0:00:05.30,0:00:05.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BRAZOS{\r} Y TIRA
+Dialogue: 0,0:00:05.84,0:00:06.22,Default,,0,0,0,,SUS BRAZOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIRA{\r}
+Dialogue: 0,0:00:06.22,0:00:06.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ABRIR{\r} UNA RENDIJA
+Dialogue: 0,0:00:06.66,0:00:07.26,Default,,0,0,0,,HASTA ABRIR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RENDIJA{\r}
+Dialogue: 0,0:00:07.26,0:00:07.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}APENAS{\r} UNA DÉCIMA
+Dialogue: 0,0:00:07.64,0:00:07.96,Default,,0,0,0,,DE APENAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} DÉCIMA
+Dialogue: 0,0:00:07.96,0:00:08.32,Default,,0,0,0,,DE APENAS UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DÉCIMA{\r}
+Dialogue: 0,0:00:08.32,0:00:09.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MILÍMETRO.{\r}
+Dialogue: 0,0:00:09.14,0:00:09.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AHÍ{\r} METE SU
+Dialogue: 0,0:00:09.46,0:00:09.86,Default,,0,0,0,,POR AHÍ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}METE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
+Dialogue: 0,0:00:09.86,0:00:10.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTÓMAGO,{\r} DIGIERE A LA
+Dialogue: 0,0:00:10.64,0:00:11.04,Default,,0,0,0,,ESTÓMAGO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DIGIERE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} LA
+Dialogue: 0,0:00:11.04,0:00:11.08,Default,,0,0,0,,ESTÓMAGO, DIGIERE A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
+Dialogue: 0,0:00:11.08,0:00:11.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALMEJA{\r} DENTRO DE SU
+Dialogue: 0,0:00:11.42,0:00:11.84,Default,,0,0,0,,ALMEJA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DENTRO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} SU
+Dialogue: 0,0:00:11.84,0:00:11.98,Default,,0,0,0,,ALMEJA DENTRO DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
+Dialogue: 0,0:00:11.98,0:00:12.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PROPIA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONCHA{\r} Y LUEGO
+Dialogue: 0,0:00:12.66,0:00:12.90,Default,,0,0,0,,PROPIA CONCHA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LUEGO{\r}
+Dialogue: 0,0:00:12.90,0:00:13.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RECOGE.{\r}
+Dialogue: 0,0:00:13.76,0:00:14.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIENE{\r} CEREBRO NI
+Dialogue: 0,0:00:14.16,0:00:14.54,Default,,0,0,0,,NO TIENE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CEREBRO{\r} NI
+Dialogue: 0,0:00:14.54,0:00:14.70,Default,,0,0,0,,NO TIENE CEREBRO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NI{\r}
+Dialogue: 0,0:00:14.70,0:00:15.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SANGRE:{\r} POR SU CUERPO
+Dialogue: 0,0:00:15.26,0:00:15.78,Default,,0,0,0,,SANGRE: {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUERPO{\r}
+Dialogue: 0,0:00:15.78,0:00:16.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIRCULA{\r} AGUA DE MAR.
+Dialogue: 0,0:00:16.28,0:00:16.60,Default,,0,0,0,,CIRCULA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGUA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} MAR.
+Dialogue: 0,0:00:16.60,0:00:16.78,Default,,0,0,0,,CIRCULA AGUA DE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MAR.{\r}
+Dialogue: 0,0:00:16.78,0:00:17.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIENE{\r} UN OJO
+Dialogue: 0,0:00:17.32,0:00:17.66,Default,,0,0,0,,Y TIENE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OJO{\r}
+Dialogue: 0,0:00:17.66,0:00:18.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SENCILLO{\r} EN LA PUNTA
+Dialogue: 0,0:00:18.20,0:00:18.74,Default,,0,0,0,,SENCILLO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PUNTA{\r}
+Dialogue: 0,0:00:18.74,0:00:19.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CADA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BRAZO.{\r}
+Dialogue: 0,0:00:19.78,0:00:20.12,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PIERDE{\r} UN BRAZO,
+Dialogue: 0,0:00:20.12,0:00:20.80,Default,,0,0,0,,SI PIERDE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BRAZO,{\r}
+Dialogue: 0,0:00:20.82,0:00:21.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CRECE{\r} OTRO.
+Dialogue: 0,0:00:21.24,0:00:21.64,Default,,0,0,0,,LE CRECE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OTRO.{\r}
+Dialogue: 0,0:00:21.72,0:00:22.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGUNAS{\r} ESPECIES,
+Dialogue: 0,0:00:22.20,0:00:22.96,Default,,0,0,0,,Y EN ALGUNAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESPECIES,{\r}
+Dialogue: 0,0:00:23.06,0:00:23.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOLO{\r} BRAZO CON
+Dialogue: 0,0:00:23.42,0:00:23.78,Default,,0,0,0,,UN SOLO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BRAZO{\r} CON
+Dialogue: 0,0:00:23.78,0:00:23.94,Default,,0,0,0,,UN SOLO BRAZO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r}
+Dialogue: 0,0:00:23.94,0:00:24.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TROZO{\r} DEL CENTRO
+Dialogue: 0,0:00:24.36,0:00:24.84,Default,,0,0,0,,UN TROZO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CENTRO{\r}
+Dialogue: 0,0:00:24.84,0:00:25.56,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PUEDE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FORMAR{\r} UNA
+Dialogue: 0,0:00:25.56,0:00:25.68,Default,,0,0,0,,PUEDE FORMAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
+Dialogue: 0,0:00:25.68,0:00:26.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTRELLA{\r} ENTERA.
+Dialogue: 0,0:00:26.04,0:00:26.58,Default,,0,0,0,,ESTRELLA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENTERA.{\r}

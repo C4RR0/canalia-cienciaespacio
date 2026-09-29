@@ -1,0 +1,34 @@
+{
+  "id": "short_106_estrella_mar_estomago",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "guion": "Para comer, este animal saca el estómago fuera del cuerpo.\n\nLa estrella de mar agarra una almeja con sus brazos y tira hasta abrir una rendija de apenas una décima de milímetro.\n\nPor ahí mete su estómago, digiere a la almeja dentro de su propia concha y luego lo recoge.\n\nNo tiene cerebro ni sangre: por su cuerpo circula agua de mar.\n\nY tiene un ojo sencillo en la punta de cada brazo.\n\nSi pierde un brazo, le crece otro. Y en algunas especies, un solo brazo con un trozo del centro puede formar una estrella entera.",
+  "queries_imagenes": [
+    "Asterias rubens",
+    "Pisaster ochraceus",
+    "starfish",
+    "Protoreaster nodosus",
+    "Asterias rubens mussel",
+    "Linckia laevigata",
+    "Linckia regeneration",
+    "Asterias amurensis"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Este animal saca el estómago fuera del cuerpo para comer",
+  "descripcion": "La estrella de mar abre las almejas con sus brazos, mete su estómago por una rendija minúscula y las digiere dentro de su propia concha. No tiene cerebro ni sangre, tiene un ojo en la punta de cada brazo y puede regenerar los brazos.\n\n#estrellademar #animalesmarinos #animalesraros #curiosidades #shorts",
+  "tags": [
+    "estrella de mar",
+    "estrella de mar comiendo",
+    "estrella de mar regeneracion",
+    "animales marinos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "COME CON EL ESTÓMAGO FUERA",
+  "prompt_miniatura": "a bright orange starfish wrapped around a mussel on a rocky seabed, macro underwater photography, dramatic lighting"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "short_105_carpintero_lengua_craneo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro guarda la lengua enrollada alrededor del cráneo.\n\nEl pájaro carpintero golpea la madera hasta veinte veces por segundo, miles de veces al día.\n\nY su lengua es tan larga que no le cabe en la boca: sale por detrás, rodea el cráneo por encima y, en algunas especies, llega hasta la base del pico.\n\nCon ella saca larvas del fondo de los agujeros. En muchas especies, la punta tiene pequeños ganchos.\n\n¿Y cómo no se daña el cerebro? Un estudio de dos mil veintidós descubrió que su cabeza no amortigua los golpes. Su cerebro es tan pequeño que aguanta impactos que a nosotros nos dejarían inconscientes.",
+  "queries_imagenes": [
+    "Dryocopus martius",
+    "woodpecker",
+    "Picus viridis",
+    "Melanerpes formicivorus",
+    "woodpecker tongue",
+    "Melanerpes",
+    "Dryocopus pileatus",
+    "Picidae skull"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Este pájaro guarda la lengua enrollada alrededor del cráneo",
+  "descripcion": "La lengua del pájaro carpintero es tan larga que rodea su cráneo gracias al aparato hioides. Pica la madera hasta 20 veces por segundo y, según un estudio de 2022, su cerebro aguanta los golpes por ser muy pequeño, no porque la cabeza los amortigüe.\n\n#pajarocarpintero #aves #animalesraros #curiosidades #shorts",
+  "tags": [
+    "pajaro carpintero",
+    "lengua pajaro carpintero",
+    "pajaro carpintero cerebro",
+    "aves curiosas",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "SU LENGUA RODEA EL CRÁNEO",
+  "prompt_miniatura": "close-up of a woodpecker hammering a tree trunk, wood chips flying, sharp detail, dramatic side light, wildlife photography"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "short_104_avispa_mar_24_ojos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "guion": "Tiene veinticuatro ojos y ningún cerebro.\n\nEs la avispa de mar, una medusa de caja de Australia y uno de los animales más venenosos del planeta.\n\nSus tentáculos pueden medir hasta tres metros y están cubiertos de millones de células urticantes. Una picadura grave puede matar a una persona en pocos minutos.\n\nPero lo más raro son sus ojos: algunos tienen lente y forman imágenes. Y no flota a la deriva como otras medusas: nada, esquiva obstáculos y caza.\n\nTodo eso lo hace sin cerebro, con una simple red de nervios.\n\nPor eso, en muchas playas del norte de Australia, la gente se baña con traje de licra de cuerpo entero.",
+  "queries_imagenes": [
+    "Chironex yamaguchii",
+    "Carybdea marsupialis",
+    "Tripedalia cystophora",
+    "Carybdea",
+    "Chironex",
+    "stinger net beach Queensland",
+    "Tripedalia cystophora",
+    "Carybdea rastonii"
+  ],
+  "fuente_imagenes": "wikimedia",
+  "titulo": "Esta medusa tiene 24 ojos y ningún cerebro",
+  "descripcion": "La avispa de mar (Chironex fleckeri) es una medusa de caja australiana con 24 ojos, algunos con lente, y sin cerebro. Sus tentáculos miden hasta 3 metros y su veneno puede matar a una persona en minutos.\n\n#avispademar #medusa #animalesvenenosos #curiosidades #shorts",
+  "tags": [
+    "avispa de mar",
+    "medusa de caja",
+    "medusa mas venenosa",
+    "chironex fleckeri",
+    "animales venenosos",
+    "animales raros",
+    "shorts"
+  ],
+  "categoria_id": "28",
+  "privacidad": "public",
+  "hook_miniatura": "24 OJOS, 0 CEREBRO",
+  "prompt_miniatura": "a translucent box jellyfish glowing in dark blue water with long trailing tentacles, eerie cinematic underwater photography"
+}
