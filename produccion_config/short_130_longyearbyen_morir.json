@@ -1,0 +1,34 @@
+{
+  "id": "short_130_longyearbyen_morir",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "curiosidades",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Hay un pueblo donde, en la práctica, no te puedes morir.\n\nEs Longyearbyen, en el archipiélago noruego de Svalbard, cerca del Polo Norte. No hay una ley que lo prohíba, pero su pequeño cementerio dejó de aceptar entierros hacia 1950.\n\nEl motivo: el suelo está congelado todo el año y los cuerpos no se descomponen.\n\nAllí había víctimas de la gripe de 1918, y los científicos encontraron rastros del virus en sus restos.\n\nPor eso, a los enfermos graves se los traslada al continente.",
+  "queries_imagenes": [
+    "Longyearbyen",
+    "Longyearbyen cemetery",
+    "Svalbard",
+    "Longyearbyen winter",
+    "Longyearbyen cemetery",
+    "Longyearbyen church",
+    "Spitsbergen",
+    "Longyearbyen houses"
+  ],
+  "titulo": "El pueblo donde no te puedes morir",
+  "descripcion": "En Longyearbyen (Svalbard) el cementerio dejó de aceptar entierros hacia 1950 porque el permafrost impide que los cuerpos se descompongan.\n\n#svalbard #noruega #curiosidades #geografia #shorts",
+  "tags": [
+    "longyearbyen",
+    "svalbard",
+    "pueblo donde no se puede morir",
+    "permafrost",
+    "geografía",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "PROHIBIDO MORIR",
+  "prompt_miniatura": "a remote arctic town with colorful houses in snow, polar night"
+}

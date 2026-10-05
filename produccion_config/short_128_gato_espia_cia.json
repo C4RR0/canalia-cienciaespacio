@@ -1,0 +1,34 @@
+{
+  "id": "short_128_gato_espia_cia",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "historia",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "La CIA convirtió a un gato en un micrófono espía.\n\nFue en los años sesenta. Le implantaron un micrófono en la oreja, un transmisor en el cuerpo y una antena a lo largo de la cola. Lo llamaron Acoustic Kitty.\n\nEl problema: un gato no obedece. Se distraía y se iba cuando tenía hambre.\n\nSegún un exagente, en su primera prueba lo atropelló un taxi. Otros lo niegan.\n\nEn 1967 la CIA canceló el proyecto. Su conclusión: no era práctico.",
+  "queries_imagenes": [
+    "cat",
+    "cat ear close-up",
+    "CIA headquarters",
+    "tabby cat",
+    "black cat walking",
+    "Original Headquarters Building CIA",
+    "cat close up",
+    "1960s microphone"
+  ],
+  "titulo": "La CIA intentó convertir un gato en espía",
+  "descripcion": "Acoustic Kitty fue un proyecto de la CIA en los años 60 para usar gatos con micrófonos implantados como espías. Se canceló en 1967.\n\n#cia #historia #gatos #curiosidades #shorts",
+  "tags": [
+    "acoustic kitty",
+    "cia",
+    "gato espía",
+    "guerra fría",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "GATO ESPÍA",
+  "prompt_miniatura": "a cat with a tiny antenna, cold war spy, cinematic dark lighting"
+}

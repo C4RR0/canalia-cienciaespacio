@@ -1,0 +1,34 @@
+{
+  "id": "short_126_cuervos_caras",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Si molestas a un cuervo, se acordará de tu cara. Y se lo contará a otros.\n\nEn la Universidad de Washington, unos investigadores capturaron cuervos llevando una máscara. Después los soltaron sin hacerles daño.\n\nAños más tarde, cuando alguien paseaba por el campus con esa máscara, los cuervos lo rodeaban gritando.\n\nLo más inquietante: también lo hacían cuervos que nunca habían sido capturados.\n\nHabían aprendido de los demás quién era el enemigo.",
+  "queries_imagenes": [
+    "Corvus brachyrhynchos",
+    "American crow",
+    "Corvus brachyrhynchos flying",
+    "crow cawing",
+    "crows mobbing",
+    "Corvus corax",
+    "American crow",
+    "University of Washington campus"
+  ],
+  "titulo": "Si molestas a un cuervo, nunca te olvidará",
+  "descripcion": "Un estudio de la Universidad de Washington demostró que los cuervos reconocen caras humanas durante años y transmiten esa información a otros cuervos.\n\n#cuervos #aves #animales #curiosidades #shorts",
+  "tags": [
+    "cuervos",
+    "cuervos recuerdan caras",
+    "inteligencia animal",
+    "aves",
+    "animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "TE RECUERDA",
+  "prompt_miniatura": "a black crow staring at the camera, dramatic close up, dark mood"
+}

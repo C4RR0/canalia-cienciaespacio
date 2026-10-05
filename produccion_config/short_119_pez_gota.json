@@ -1,0 +1,34 @@
+{
+  "id": "short_119_pez_gota",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "El pez gota no es así de feo. Lo hemos deformado nosotros.\n\nVive a cientos de metros de profundidad frente a Australia, donde la presión es enorme. Allí abajo tiene un aspecto normal de pez.\n\nSu cuerpo es casi gelatina, con muy poco músculo, y eso le permite flotar sin gastar energía.\n\nPero cuando una red lo sube a la superficie, la presión desaparece de golpe y sus tejidos se desparraman.\n\nEn 2013 lo votaron el animal más feo del mundo. Y lo que vieron fue un pez destrozado por el viaje.",
+  "queries_imagenes": [
+    "Psychrolutes marcidus",
+    "Psychrolutes paradoxus",
+    "Psychrolutes phrictus",
+    "Psychrolutes",
+    "Psychrolutes",
+    "Psychrolutes phrictus",
+    "deep sea",
+    "Psychrolutes marcidus"
+  ],
+  "titulo": "El pez más feo del mundo no es realmente así",
+  "descripcion": "El pez gota (Psychrolutes marcidus) vive a gran profundidad y tiene un aspecto normal bajo la presión del fondo; al subirlo a la superficie su cuerpo gelatinoso se deforma.\n\n#pezgota #oceano #animalesraros #curiosidades #shorts",
+  "tags": [
+    "pez gota",
+    "blobfish",
+    "animal más feo",
+    "oceano profundo",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO ES ASÍ",
+  "prompt_miniatura": "a strange pale fish in the dark deep ocean, dramatic light"
+}

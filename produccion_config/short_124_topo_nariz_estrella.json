@@ -1,0 +1,34 @@
+{
+  "id": "short_124_topo_nariz_estrella",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Este animal tiene una estrella en la cara. Y es la nariz más sensible del planeta.\n\nEs el topo de nariz estrellada, de Norteamérica. Su hocico acaba en veintidós tentáculos rosados con más de veinticinco mil receptores sensoriales.\n\nEs casi ciego, pero los mueve tan deprisa que reconoce una presa y se la come en un cuarto de segundo. Es el mamífero que come más rápido.\n\nY hasta huele bajo el agua: suelta burbujas y vuelve a aspirarlas.",
+  "queries_imagenes": [
+    "Condylura cristata",
+    "Condylura cristata Ontario",
+    "Condylura cristata nose",
+    "star-nosed mole Ontario",
+    "Condylura",
+    "Talpidae",
+    "Condylura",
+    "Condylura cristata specimen"
+  ],
+  "titulo": "Este animal tiene una estrella en la cara",
+  "descripcion": "El topo de nariz estrellada (Condylura cristata) tiene 22 apéndices con más de 25.000 receptores y es el mamífero que come más rápido.\n\n#topo #animalesraros #curiosidades #naturaleza #shorts",
+  "tags": [
+    "topo de nariz estrellada",
+    "star-nosed mole",
+    "topo",
+    "animales raros",
+    "datos curiosos",
+    "animales",
+    "shorts"
+  ],
+  "hook_miniatura": "¿UNA NARIZ?",
+  "prompt_miniatura": "a small dark mole with a pink star shaped nose, macro, dramatic light"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "short_122_pez_hielo_sangre",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "En la Antártida vive un pez con la sangre transparente.\n\nEs el pez de hielo. Es el único vertebrado adulto sin hemoglobina, la proteína que vuelve roja nuestra sangre y transporta el oxígeno.\n\nSobrevive porque el agua helada contiene mucho oxígeno, y este se disuelve directamente en su sangre.\n\nPara compensar tiene un corazón enorme y vasos sanguíneos muy anchos.\n\nY además fabrica proteínas anticongelantes, que impiden que su cuerpo se convierta en hielo en un mar bajo cero.",
+  "queries_imagenes": [
+    "Chaenocephalus aceratus",
+    "icefish",
+    "Chionodraco rastrospinosus",
+    "Champsocephalus gunnari",
+    "Chaenocephalus aceratus",
+    "Champsocephalus gunnari fish",
+    "sea ice Antarctica",
+    "Antarctica sea ice"
+  ],
+  "titulo": "Este pez tiene la sangre transparente",
+  "descripcion": "Los peces de hielo antárticos (Channichthyidae) no tienen hemoglobina: el oxígeno viaja disuelto en su sangre transparente.\n\n#pezdehielo #antartida #animalesraros #curiosidades #shorts",
+  "tags": [
+    "pez de hielo",
+    "sangre transparente",
+    "antartida",
+    "peces",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SIN SANGRE ROJA",
+  "prompt_miniatura": "a pale translucent fish under antarctic ice, cold blue light"
+}

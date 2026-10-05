@@ -1,0 +1,34 @@
+{
+  "id": "short_125_tortuga_punk",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Esta tortuga lleva una cresta punk. Y respira por el trasero.\n\nEs la tortuga del río Mary, en Australia. Pasa tanto tiempo quieta bajo el agua que le crecen algas en la cabeza, como una melena verde.\n\nPuede aguantar días sumergida gracias a unas estructuras en la cloaca que absorben el oxígeno del agua.\n\nEn los años setenta se vendieron miles como mascota sin que nadie supiera de dónde salían.\n\nHoy está en peligro de extinción.",
+  "queries_imagenes": [
+    "Elusor macrurus",
+    "Mary River turtle",
+    "Emydura macquarii",
+    "Mary River Queensland",
+    "Elusor",
+    "Elusor",
+    "freshwater turtle Australia",
+    "Chelidae"
+  ],
+  "titulo": "Esta tortuga respira por donde no te imaginas",
+  "descripcion": "La tortuga del río Mary (Elusor macrurus) tiene algas en la cabeza y puede respirar bajo el agua a través de la cloaca.\n\n#tortuga #australia #animalesraros #curiosidades #shorts",
+  "tags": [
+    "tortuga del río mary",
+    "tortuga punk",
+    "tortugas",
+    "australia",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "CRESTA PUNK",
+  "prompt_miniatura": "a turtle with green algae hair underwater, punk mohawk, river"
+}

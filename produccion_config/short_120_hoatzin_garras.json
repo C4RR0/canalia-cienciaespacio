@@ -1,0 +1,34 @@
+{
+  "id": "short_120_hoatzin_garras",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Las crías de este pájaro nacen con garras en las alas.\n\nEs el hoatzín, de la Amazonía. Sus pollos tienen dos garras en cada ala y las usan para trepar por las ramas como pequeños lagartos.\n\nSi un depredador se acerca, se dejan caer al río, bucean, y después vuelven a subir al nido trepando con las alas.\n\nAl crecer, las garras desaparecen.\n\nY los adultos tienen otra rareza: fermentan las hojas que comen como hace una vaca, y por eso huelen a estiércol.",
+  "queries_imagenes": [
+    "Opisthocomus hoazin",
+    "hoatzin",
+    "hoatzin chick",
+    "Opisthocomus hoazin Peru",
+    "hoatzin nest",
+    "hoatzin Amazon",
+    "hoatzin river",
+    "Opisthocomus"
+  ],
+  "titulo": "Las crías de este pájaro tienen garras en las alas",
+  "descripcion": "Los pollos del hoatzín (Opisthocomus hoazin) tienen garras en las alas para trepar; de adultos las pierden y fermentan las hojas en el buche.\n\n#hoatzin #aves #animalesraros #curiosidades #shorts",
+  "tags": [
+    "hoatzin",
+    "aves raras",
+    "pájaro con garras",
+    "amazonia",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "GARRAS",
+  "prompt_miniatura": "a strange crested bird with blue face in amazon rainforest branches"
+}

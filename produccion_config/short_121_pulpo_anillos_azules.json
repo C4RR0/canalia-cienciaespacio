@@ -1,0 +1,34 @@
+{
+  "id": "short_121_pulpo_anillos_azules",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Este pulpo cabe en la palma de la mano. Y puede matar a una persona sin que lo note.\n\nEs el pulpo de anillos azules, de Australia y el Pacífico. Su saliva lleva tetrodotoxina, el mismo veneno del pez globo.\n\nLa mordedura casi no duele. Pero en minutos paraliza los músculos, también los de la respiración, mientras la víctima sigue consciente.\n\nNo existe antídoto. Solo se salva quien recibe respiración asistida hasta que el veneno desaparece.\n\nY esos anillos azules no son decoración. Se encienden cuando está a punto de atacar.",
+  "queries_imagenes": [
+    "Hapalochlaena lunulata",
+    "Hapalochlaena",
+    "blue-ringed octopus",
+    "Hapalochlaena maculosa",
+    "Hapalochlaena fasciata",
+    "blue-ringed octopus rings",
+    "Hapalochlaena lunulata Lembeh",
+    "blue ringed octopus reef"
+  ],
+  "titulo": "Este pulpo diminuto puede matarte sin que lo notes",
+  "descripcion": "El pulpo de anillos azules (Hapalochlaena) tiene tetrodotoxina en la saliva: paraliza la respiración y no hay antídoto.\n\n#pulpo #veneno #animalesraros #curiosidades #shorts",
+  "tags": [
+    "pulpo de anillos azules",
+    "animales venenosos",
+    "tetrodotoxina",
+    "pulpo",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MORTAL",
+  "prompt_miniatura": "a tiny octopus with glowing blue rings on a reef, macro, dramatic"
+}

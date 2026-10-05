@@ -1,0 +1,34 @@
+{
+  "id": "short_123_delfines_medio_cerebro",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Los delfines duermen con medio cerebro.\n\nNosotros respiramos de forma automática, incluso dormidos. Ellos no. Cada respiración es voluntaria: si se durmieran del todo, se ahogarían.\n\nAsí que apagan una mitad del cerebro mientras la otra sigue despierta. Y el ojo del lado despierto permanece abierto.\n\nAsí pueden seguir nadando, subir a respirar y vigilar a los depredadores.\n\nPasado un rato, cambian de lado. Y nunca llegan a dormirse por completo.",
+  "queries_imagenes": [
+    "Tursiops truncatus",
+    "bottlenose dolphin",
+    "Tursiops truncatus jumping",
+    "dolphin pod underwater",
+    "Tursiops truncatus underwater",
+    "Stenella frontalis",
+    "Delphinus delphis",
+    "dolphin blowhole"
+  ],
+  "titulo": "Los delfines nunca duermen del todo",
+  "descripcion": "Los delfines tienen sueño unihemisférico: duermen con una mitad del cerebro y un ojo abierto porque su respiración es voluntaria.\n\n#delfines #sueño #animales #curiosidades #shorts",
+  "tags": [
+    "delfines",
+    "sueño unihemisférico",
+    "delfines duermen",
+    "oceano",
+    "animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MEDIO CEREBRO",
+  "prompt_miniatura": "a dolphin resting near the surface at night, one eye open, moody"
+}
