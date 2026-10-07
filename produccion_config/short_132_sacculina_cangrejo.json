@@ -1,0 +1,34 @@
+{
+  "id": "short_132_sacculina_cangrejo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Este cangrejo cuida unos huevos que no son suyos. Y no puede hacer nada para evitarlo.\n\nEl culpable es Sacculina, un percebe parásito. Su larva busca un cangrejo, se cuela por una articulación y le inyecta sus células.\n\nDentro crece como unas raíces que invaden todo su cuerpo.\n\nEl cangrejo deja de mudar el caparazón y se vuelve estéril. Y si es macho, su cuerpo cambia hasta parecerse al de una hembra.\n\nAl final, el parásito saca una bolsa justo donde el cangrejo llevaría sus huevos.\n\nY el cangrejo la limpia y la cuida como si fuera suya.",
+  "queries_imagenes": [
+    "Sacculina carcini",
+    "Sacculina",
+    "Carcinus maenas",
+    "Carcinus maenas",
+    "Rhizocephala",
+    "shore crab Carcinus",
+    "Carcinus aestuarii",
+    "crab on beach"
+  ],
+  "titulo": "Este parásito convierte a un cangrejo en la niñera de sus huevos",
+  "descripcion": "Sacculina carcini es un percebe parásito que invade al cangrejo verde, lo esteriliza, feminiza a los machos y los obliga a cuidar sus propios huevos como si fueran de ellos.\n\n#sacculina #cangrejo #parasitos #animalesraros #shorts",
+  "tags": [
+    "sacculina",
+    "cangrejo con parasitos",
+    "cangrejo parasito",
+    "parasitos",
+    "animales marinos",
+    "animales raros",
+    "shorts"
+  ],
+  "hook_miniatura": "NO SON SUYOS",
+  "prompt_miniatura": "a green shore crab on wet rocks, dramatic close up, moody lighting"
+}

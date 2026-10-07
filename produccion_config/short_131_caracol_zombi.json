@@ -1,0 +1,34 @@
+{
+  "id": "short_131_caracol_zombi",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Este caracol tiene los ojos hinchados y latiendo. Pero lo que se mueve dentro no es suyo.\n\nEs un gusano parásito, Leucochloridium. Entra en el caracol cuando este come excrementos de pájaro con sus huevos.\n\nLuego crece hasta sus tentáculos, los hincha y los hace latir con rayas de colores, como si fueran orugas.\n\nAdemás, el caracol infectado se vuelve más atrevido y sale a sitios con luz, a la vista.\n\nUn pájaro lo confunde con comida, le arranca el tentáculo, y el parásito se reproduce dentro del ave.\n\nSus huevos salen con los excrementos. Y todo vuelve a empezar.",
+  "queries_imagenes": [
+    "Leucochloridium paradoxum",
+    "Leucochloridium snail",
+    "Succinea putris on leaf",
+    "Succinea",
+    "amber snail",
+    "Leucochloridium sporocyst",
+    "Turdus merula",
+    "Succinea putris tentacles"
+  ],
+  "titulo": "El parásito que convierte a un caracol en cebo para pájaros",
+  "descripcion": "El gusano parásito Leucochloridium paradoxum invade los tentáculos de los caracoles ámbar y los hace latir como orugas para que un pájaro se los coma y así completar su ciclo de vida.\n\n#caracolzombi #parasitos #animalesraros #curiosidades #shorts",
+  "tags": [
+    "caracol zombie",
+    "caracol zombie parasito",
+    "caracol infectado por parasito",
+    "leucochloridium",
+    "parasitos",
+    "animales raros",
+    "shorts"
+  ],
+  "hook_miniatura": "CARACOL ZOMBI",
+  "prompt_miniatura": "a snail with swollen pulsating striped green eye tentacles, macro photography, dark background"
+}

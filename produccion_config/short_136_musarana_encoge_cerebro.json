@@ -1,0 +1,34 @@
+{
+  "id": "short_136_musarana_encoge_cerebro",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Cada invierno, este animal se encoge el cerebro. Y en primavera, le vuelve a crecer.\n\nEs la musaraña común. Gasta tanta energía que tiene que comer casi sin parar: unas pocas horas sin comida pueden matarla.\n\nPara sobrevivir al frío, cuando escasea el alimento, reduce su cráneo, sus órganos y su cerebro, que puede perder hasta una cuarta parte de su tamaño.\n\nUn cuerpo más pequeño gasta menos.\n\nEn primavera vuelve a crecer en parte. Se llama fenómeno de Dehnel, y casi ningún otro mamífero lo hace.",
+  "queries_imagenes": [
+    "Common shrew Sorex araneus",
+    "common shrew",
+    "shrew skull",
+    "Neomys fodiens",
+    "Crocidura russula",
+    "Sorex",
+    "Sorex minutus pygmy shrew",
+    "snowy forest"
+  ],
+  "titulo": "Este animal se encoge el cerebro cada invierno",
+  "descripcion": "La musaraña común (Sorex araneus) reduce su cráneo, sus órganos y hasta una cuarta parte de su cerebro en invierno para gastar menos energía, y lo recupera en parte en primavera: el fenómeno de Dehnel.\n\n#musaraña #mamiferos #animalesraros #curiosidades #shorts",
+  "tags": [
+    "musaraña",
+    "musaraña comun",
+    "fenomeno de dehnel",
+    "cerebro",
+    "mamiferos",
+    "animales raros",
+    "shorts"
+  ],
+  "hook_miniatura": "SE ENCOGE EL CEREBRO",
+  "prompt_miniatura": "a tiny shrew in the snow, macro close up, cold winter light"
+}

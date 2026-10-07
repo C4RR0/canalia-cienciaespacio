@@ -1,0 +1,34 @@
+{
+  "id": "short_137_murcielago_vampiro_amigos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Si este murciélago pasa dos noches sin comer, puede morir. Pero sus amigos no le dejan.\n\nEs el murciélago vampiro. Se alimenta solo de sangre, y la necesita casi a diario.\n\nCuando uno vuelve a la cueva sin haber comido, otro le regurgita parte de la sangre que ha tomado.\n\nY no se la dan a cualquiera: comparten sobre todo con los que antes compartieron con ellos.\n\nAdemás, detectan el calor de las venas con unos sensores de la nariz. Y su saliva tiene un anticoagulante que se llama, literalmente, draculina.",
+  "queries_imagenes": [
+    "Desmodus rotundus",
+    "common vampire bat",
+    "Desmodus rotundus feeding",
+    "vampire bat roosting",
+    "Diphylla ecaudata",
+    "Desmodus",
+    "Diaemus youngi",
+    "bats hanging cave ceiling"
+  ],
+  "titulo": "Este murciélago muere si pasa dos noches sin comer. Sus amigos lo salvan",
+  "descripcion": "Los murciélagos vampiro (Desmodus rotundus) comparten sangre regurgitada con los compañeros que no han comido, sobre todo con los que antes compartieron con ellos. Su saliva contiene un anticoagulante llamado draculina.\n\n#murcielagovampiro #murcielagos #animalesraros #curiosidades #shorts",
+  "tags": [
+    "murcielago vampiro",
+    "murciélago vampiro",
+    "murcielagos",
+    "draculina",
+    "animales nocturnos",
+    "animales raros",
+    "shorts"
+  ],
+  "hook_miniatura": "LO SALVAN",
+  "prompt_miniatura": "a vampire bat face close up in a dark cave, dramatic lighting"
+}

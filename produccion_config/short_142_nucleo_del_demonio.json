@@ -1,0 +1,34 @@
+{
+  "id": "short_142_nucleo_del_demonio",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "historia",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Esta esfera de plutonio mató a dos científicos en menos de un año. La llamaron el Núcleo del Demonio.\n\nPesaba poco más de seis kilos y estaba destinada a una tercera bomba atómica contra Japón, que nunca se lanzó.\n\nEn 1945, Harry Daghlian dejó caer por accidente un ladrillo sobre el montaje. Murió veinticinco días después.\n\nEn 1946, Louis Slotin hacía una prueba sujetando una pieza sobre el núcleo con un destornillador. Se le resbaló.\n\nHubo un destello azul. Slotin murió nueve días más tarde.",
+  "queries_imagenes": [
+    "Partially reflected plutonium sphere",
+    "Louis Slotin",
+    "Slotin accident reconstruction",
+    "Los Alamos National Laboratory",
+    "plutonium",
+    "Trinity test",
+    "Harry Daghlian",
+    "Los Alamos Ranch School"
+  ],
+  "titulo": "La esfera que mató a dos científicos en menos de un año",
+  "descripcion": "El Núcleo del Demonio era una esfera de 6,2 kg de plutonio de Los Álamos, prevista para una tercera bomba. Causó la muerte de Harry Daghlian (1945) y Louis Slotin (1946) en dos accidentes de criticidad.\n\n#nucleodeldemonio #demoncore #historia #ciencia #shorts",
+  "tags": [
+    "nucleo del demonio",
+    "nucleo del demonio incidente",
+    "demon core",
+    "louis slotin",
+    "los alamos",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "NÚCLEO DEL DEMONIO",
+  "prompt_miniatura": "a metal sphere on a laboratory table with a faint blue glow, 1940s lab, dramatic cinematic"
+}

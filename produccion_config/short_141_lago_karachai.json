@@ -1,0 +1,34 @@
+{
+  "id": "short_141_lago_karachai",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "historia",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Hubo un lago en Rusia en el que bastaba una hora en la orilla para recibir una dosis mortal de radiación.\n\nEs el lago Karachái. Desde 1951, la planta nuclear de Mayak vertió allí sus residuos radiactivos.\n\nEn 1967, una sequía dejó parte del fondo al aire. El viento levantó el polvo contaminado y lo esparció sobre cientos de miles de personas.\n\nDurante décadas lo fueron rellenando con bloques de hormigón y tierra.\n\nEn 2015 terminaron de cubrirlo por completo. Hoy el lago ya no se ve, pero lo que había dentro sigue ahí.",
+  "queries_imagenes": [
+    "Karachay",
+    "Mayak plant Ozyorsk",
+    "Mayak",
+    "Mayak nuclear",
+    "Ozyorsk Chelyabinsk Oblast",
+    "Techa River",
+    "Chelyabinsk Oblast lake",
+    "radiation hazard sign Russia"
+  ],
+  "titulo": "El lago donde pasar una hora en la orilla era mortal",
+  "descripcion": "El lago Karachái (región de Cheliábinsk, Rusia) recibió desde 1951 residuos radiactivos de la planta de Mayak. En 1967 el viento esparció su polvo contaminado. Se terminó de cubrir con hormigón y tierra en 2015.\n\n#lagokarachay #radiacion #rusia #historia #shorts",
+  "tags": [
+    "lago karachay",
+    "lago karachay rusia",
+    "lago mas radiactivo",
+    "mayak",
+    "radiacion",
+    "desastre nuclear",
+    "shorts"
+  ],
+  "hook_miniatura": "UNA HORA Y MUERES",
+  "prompt_miniatura": "a dead grey lake surrounded by concrete blocks under an overcast sky, radiation warning sign, desolate"
+}

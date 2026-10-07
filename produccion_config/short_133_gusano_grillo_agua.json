@@ -1,0 +1,34 @@
+{
+  "id": "short_133_gusano_grillo_agua",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Este grillo se tira al agua aunque no sabe nadar. Algo le obliga a hacerlo.\n\nDentro de él vive un gusano crin de caballo. Puede medir varias veces lo que mide el grillo, enrollado en su interior.\n\nCuando el gusano está listo para reproducirse, necesita agua. Así que altera el comportamiento del grillo, que empieza a buscar sitios con brillo, como un estanque.\n\nEl grillo salta. Y en cuanto toca el agua, el gusano sale de su cuerpo y se aleja nadando.\n\nEl grillo, muchas veces, se ahoga.",
+  "queries_imagenes": [
+    "horsehair worm water",
+    "Gordius aquaticus",
+    "house cricket Acheta domesticus",
+    "Spinochordodes tellinii",
+    "Nemobius sylvestris",
+    "Gryllus campestris",
+    "Paragordius",
+    "pond water surface"
+  ],
+  "titulo": "Este gusano obliga a un grillo a tirarse al agua",
+  "descripcion": "Los gusanos crin de caballo (nematomorfos) crecen dentro de grillos y saltamontes y alteran su comportamiento para que se lancen al agua, donde el gusano sale para reproducirse.\n\n#nematomorfo #grillo #parasitos #animalesraros #shorts",
+  "tags": [
+    "gusano crin de caballo",
+    "gusano parasito grillo",
+    "nematomorfo",
+    "parasitos",
+    "insectos",
+    "animales raros",
+    "shorts"
+  ],
+  "hook_miniatura": "LO OBLIGA A SALTAR",
+  "prompt_miniatura": "a cricket at the edge of a dark pond at night, macro photography, eerie mood"
+}

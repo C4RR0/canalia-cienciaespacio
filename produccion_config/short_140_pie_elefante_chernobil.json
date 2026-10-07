@@ -1,0 +1,34 @@
+{
+  "id": "short_140_pie_elefante_chernobil",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "historia",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Debajo del reactor de Chernóbil hay una masa negra a la que llamaron el Pie de Elefante.\n\nEs combustible nuclear fundido, mezclado con arena, hormigón y metal del reactor. Bajó por los conductos como lava y se solidificó en el sótano.\n\nLa encontraron en diciembre de 1986. Su radiación era tan alta que pasar unos pocos minutos a su lado bastaba para recibir una dosis mortal.\n\nPara fotografiarla, al principio usaron una cámara montada sobre ruedas.\n\nHoy es mucho menos radiactiva. Pero sigue siendo uno de los objetos más peligrosos del planeta.",
+  "queries_imagenes": [
+    "Chernobyl elephant's foot",
+    "Chernobyl corium",
+    "Chernobyl Nuclear Power Plant",
+    "Chernobyl reactor 4",
+    "Chernobyl New Safe Confinement",
+    "Pripyat",
+    "Chernobyl reactor hall",
+    "Chernobyl control room"
+  ],
+  "titulo": "El objeto más peligroso de Chernóbil está escondido en un sótano",
+  "descripcion": "El Pie de Elefante es una masa de corio (combustible nuclear fundido con arena, hormigón y metal) que se solidificó bajo el reactor 4 de Chernóbil. Encontrada en diciembre de 1986, su radiación era letal en minutos.\n\n#chernobil #piedeelefante #chernobyl #historia #shorts",
+  "tags": [
+    "pie de elefante chernobyl",
+    "chernobyl",
+    "chernobil",
+    "corio",
+    "radiacion",
+    "desastre nuclear",
+    "shorts"
+  ],
+  "hook_miniatura": "PIE DE ELEFANTE",
+  "prompt_miniatura": "dark molten lava-like mass in a ruined concrete basement, radioactive glow, cinematic"
+}

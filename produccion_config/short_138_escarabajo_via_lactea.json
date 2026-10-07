@@ -1,0 +1,34 @@
+{
+  "id": "short_138_escarabajo_via_lactea",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "Este escarabajo se guía de noche por la Vía Láctea. Es el primer animal en el que se ha demostrado.\n\nEs un escarabajo pelotero. Hace una bola de excremento y la empuja en línea recta, para alejarse cuanto antes de los que intentan robársela.\n\nEn 2013, unos científicos lo llevaron a un planetario en Sudáfrica. Con solo la franja de la Vía Láctea proyectada en la cúpula, seguía yendo recto.\n\nY cuando le pusieron una gorrita que le tapaba los ojos, empezó a dar vueltas sin rumbo.",
+  "queries_imagenes": [
+    "Scarabaeus satyrus",
+    "dung beetle rolling ball",
+    "Scarabaeus sacer",
+    "dung beetle",
+    "Milky Way",
+    "Kheper nigroaeneus",
+    "Kheper",
+    "Milky Way night sky"
+  ],
+  "titulo": "Este insecto se orienta mirando la galaxia",
+  "descripcion": "Un estudio de 2013 (Dacke et al., Current Biology) demostró en un planetario de Johannesburgo que el escarabajo pelotero Scarabaeus satyrus usa la franja de la Vía Láctea para avanzar en línea recta de noche.\n\n#escarabajopelotero #insectos #vialactea #animalesraros #shorts",
+  "tags": [
+    "escarabajo pelotero",
+    "escarabajo",
+    "via lactea",
+    "insectos",
+    "orientacion animal",
+    "animales raros",
+    "shorts"
+  ],
+  "hook_miniatura": "SE GUÍA POR LA GALAXIA",
+  "prompt_miniatura": "a dung beetle rolling a ball under the milky way at night, cinematic"
+}

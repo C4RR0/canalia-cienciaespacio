@@ -1,0 +1,70 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,40,108,422,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CADA{\r} INVIERNO, ESTE
+Dialogue: 0,0:00:00.34,0:00:01.04,Default,,0,0,0,,CADA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INVIERNO,{\r} ESTE
+Dialogue: 0,0:00:01.04,0:00:01.26,Default,,0,0,0,,CADA INVIERNO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTE{\r}
+Dialogue: 0,0:00:01.26,0:00:01.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ANIMAL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} ENCOGE EL
+Dialogue: 0,0:00:01.76,0:00:02.14,Default,,0,0,0,,ANIMAL SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENCOGE{\r} EL
+Dialogue: 0,0:00:02.14,0:00:02.28,Default,,0,0,0,,ANIMAL SE ENCOGE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
+Dialogue: 0,0:00:02.28,0:00:02.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CEREBRO.{\r}
+Dialogue: 0,0:00:02.78,0:00:03.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} PRIMAVERA, LE
+Dialogue: 0,0:00:03.16,0:00:03.84,Default,,0,0,0,,Y EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PRIMAVERA,{\r} LE
+Dialogue: 0,0:00:03.84,0:00:03.98,Default,,0,0,0,,Y EN PRIMAVERA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LE{\r}
+Dialogue: 0,0:00:03.98,0:00:04.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VUELVE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} CRECER.
+Dialogue: 0,0:00:04.32,0:00:04.84,Default,,0,0,0,,VUELVE A {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CRECER.{\r}
+Dialogue: 0,0:00:04.86,0:00:05.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUSARAÑA{\r} COMÚN.
+Dialogue: 0,0:00:05.58,0:00:06.08,Default,,0,0,0,,ES LA MUSARAÑA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMÚN.{\r}
+Dialogue: 0,0:00:06.20,0:00:06.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TANTA{\r} ENERGÍA QUE
+Dialogue: 0,0:00:06.72,0:00:07.16,Default,,0,0,0,,GASTA TANTA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENERGÍA{\r} QUE
+Dialogue: 0,0:00:07.16,0:00:07.40,Default,,0,0,0,,GASTA TANTA ENERGÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
+Dialogue: 0,0:00:07.40,0:00:07.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TIENE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} COMER CASI
+Dialogue: 0,0:00:07.78,0:00:08.30,Default,,0,0,0,,TIENE QUE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMER{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r}
+Dialogue: 0,0:00:08.30,0:00:09.14,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARAR:{\r} UNAS POCAS
+Dialogue: 0,0:00:09.14,0:00:09.64,Default,,0,0,0,,SIN PARAR: {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POCAS{\r}
+Dialogue: 0,0:00:09.64,0:00:10.12,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HORAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIN{\r} COMIDA PUEDEN
+Dialogue: 0,0:00:10.12,0:00:10.72,Default,,0,0,0,,HORAS SIN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMIDA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PUEDEN{\r}
+Dialogue: 0,0:00:10.72,0:00:11.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MATARLA.{\r}
+Dialogue: 0,0:00:11.50,0:00:12.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOBREVIVIR{\r} AL FRÍO,
+Dialogue: 0,0:00:12.10,0:00:12.72,Default,,0,0,0,,PARA SOBREVIVIR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FRÍO,{\r}
+Dialogue: 0,0:00:12.84,0:00:13.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUANDO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESCASEA{\r} EL
+Dialogue: 0,0:00:13.42,0:00:13.50,Default,,0,0,0,,CUANDO ESCASEA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
+Dialogue: 0,0:00:13.50,0:00:14.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALIMENTO,{\r} REDUCE SU
+Dialogue: 0,0:00:14.20,0:00:14.52,Default,,0,0,0,,ALIMENTO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REDUCE{\r} SU
+Dialogue: 0,0:00:14.52,0:00:14.80,Default,,0,0,0,,ALIMENTO, REDUCE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r}
+Dialogue: 0,0:00:14.80,0:00:15.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CRÁNEO,{\r} SUS ÓRGANOS Y
+Dialogue: 0,0:00:15.42,0:00:15.98,Default,,0,0,0,,CRÁNEO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÓRGANOS{\r} Y
+Dialogue: 0,0:00:15.98,0:00:16.08,Default,,0,0,0,,CRÁNEO, SUS ÓRGANOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
+Dialogue: 0,0:00:16.08,0:00:16.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CEREBRO,{\r} QUE PUEDE
+Dialogue: 0,0:00:16.82,0:00:17.14,Default,,0,0,0,,SU CEREBRO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PUEDE{\r}
+Dialogue: 0,0:00:17.14,0:00:17.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERDER{\r} HASTA UNA CUARTA
+Dialogue: 0,0:00:17.48,0:00:17.92,Default,,0,0,0,,PERDER {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} CUARTA
+Dialogue: 0,0:00:17.92,0:00:18.24,Default,,0,0,0,,PERDER HASTA UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUARTA{\r}
+Dialogue: 0,0:00:18.24,0:00:18.56,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARTE{\r} DE SU TAMAÑO.
+Dialogue: 0,0:00:18.56,0:00:18.88,Default,,0,0,0,,PARTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r} TAMAÑO.
+Dialogue: 0,0:00:18.88,0:00:19.50,Default,,0,0,0,,PARTE DE SU {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TAMAÑO.{\r}
+Dialogue: 0,0:00:19.52,0:00:19.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUERPO{\r} MÁS PEQUEÑO
+Dialogue: 0,0:00:19.88,0:00:20.48,Default,,0,0,0,,UN CUERPO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PEQUEÑO{\r}
+Dialogue: 0,0:00:20.48,0:00:20.86,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GASTA{\r} MENOS.
+Dialogue: 0,0:00:20.86,0:00:21.30,Default,,0,0,0,,GASTA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MENOS.{\r}
+Dialogue: 0,0:00:21.52,0:00:22.12,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PRIMAVERA{\r} VUELVE A
+Dialogue: 0,0:00:22.12,0:00:22.48,Default,,0,0,0,,EN PRIMAVERA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VUELVE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
+Dialogue: 0,0:00:22.48,0:00:22.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CRECER{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} PARTE.
+Dialogue: 0,0:00:22.90,0:00:23.36,Default,,0,0,0,,CRECER EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARTE.{\r}
+Dialogue: 0,0:00:23.50,0:00:23.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLAMA{\r} FENÓMENO DE
+Dialogue: 0,0:00:23.82,0:00:24.28,Default,,0,0,0,,SE LLAMA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FENÓMENO{\r} DE
+Dialogue: 0,0:00:24.28,0:00:24.44,Default,,0,0,0,,SE LLAMA FENÓMENO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:24.44,0:00:25.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEHNEL,{\r} Y CASI NINGÚN
+Dialogue: 0,0:00:25.00,0:00:25.64,Default,,0,0,0,,DEHNEL, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CASI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NINGÚN{\r}
+Dialogue: 0,0:00:25.64,0:00:26.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OTRO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MAMÍFERO{\r} LO HACE.
+Dialogue: 0,0:00:26.36,0:00:26.90,Default,,0,0,0,,OTRO MAMÍFERO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HACE.{\r}

@@ -1,0 +1,34 @@
+{
+  "id": "short_139_isla_munecas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "historia",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "En México hay una isla con cientos de muñecas colgadas de los árboles. Muchas, sin ojos o sin brazos.\n\nEstá en los canales de Xochimilco. Durante décadas vivió allí solo un hombre, Julián Santana.\n\nSegún contaba, encontró a una niña ahogada en el canal. Y poco después, una muñeca flotando en el agua.\n\nLa colgó de un árbol para calmar su espíritu. Y siguió colgando más y más, durante unos cincuenta años.\n\nEn 2001, Julián apareció ahogado. Dicen que en el mismo lugar donde había encontrado a la niña.",
+  "queries_imagenes": [
+    "Isla de las Muñecas",
+    "Isla de las Munecas dolls",
+    "Isla de las Muñecas Xochimilco",
+    "Xochimilco",
+    "doll hanging tree Xochimilco",
+    "trajinera Xochimilco",
+    "Isla de las Muñecas Xochimilco",
+    "Xochimilco trajineras canal"
+  ],
+  "titulo": "La isla de México con cientos de muñecas colgadas de los árboles",
+  "descripcion": "La Isla de las Muñecas, en los canales de Xochimilco (Ciudad de México): Julián Santana colgó muñecas durante unos 50 años para calmar el espíritu de una niña ahogada, según su relato. Murió ahogado en 2001.\n\n#isladelasmuñecas #xochimilco #mexico #misterios #shorts",
+  "tags": [
+    "isla de las muñecas",
+    "isla de las muñecas xochimilco",
+    "xochimilco",
+    "lugares abandonados",
+    "misterios",
+    "mexico",
+    "shorts"
+  ],
+  "hook_miniatura": "LA ISLA DE LAS MUÑECAS",
+  "prompt_miniatura": "old broken dolls hanging from trees on a small island in a canal, eerie fog, cinematic"
+}

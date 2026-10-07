@@ -1,0 +1,34 @@
+{
+  "id": "short_135_hormiga_bala",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "La picadura de esta hormiga duele como un disparo. Y hay un pueblo que mete las manos en guantes llenos de ellas.\n\nEs la hormiga bala. El dolor de su picadura puede durar hasta un día entero.\n\nEn el índice de Schmidt, creado por un entomólogo que se dejó picar por cientos de insectos, tiene la nota máxima.\n\nLos sateré-mawé, en la Amazonía, la usan en un rito para hacerse hombres. Los jóvenes llevan unos guantes con cientos de hormigas durante unos diez minutos.\n\nY no lo hacen una vez. Lo repiten unas veinte.",
+  "queries_imagenes": [
+    "Paraponera clavata",
+    "bullet ant",
+    "Paraponera clavata head",
+    "Paraponera",
+    "Amazon rainforest canopy",
+    "Paraponera clavata ant",
+    "Amazon rainforest Brazil",
+    "bullet ant Paraponera"
+  ],
+  "titulo": "Los jóvenes de esta tribu meten las manos en guantes llenos de hormigas",
+  "descripcion": "La hormiga bala (Paraponera clavata) tiene una de las picaduras más dolorosas del mundo según el índice de Schmidt. Los sateré-mawé de la Amazonía la usan en un rito de iniciación.\n\n#hormigabala #hormigas #amazonia #animalesraros #shorts",
+  "tags": [
+    "hormiga bala",
+    "hormiga bala picadura",
+    "picadura mas dolorosa",
+    "indice de schmidt",
+    "insectos",
+    "animales raros",
+    "shorts"
+  ],
+  "hook_miniatura": "24 HORAS DE DOLOR",
+  "prompt_miniatura": "a huge black bullet ant on a leaf in the amazon rainforest, macro, dramatic light"
+}

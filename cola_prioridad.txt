@@ -75,6 +75,19 @@ short_130_longyearbyen_morir
 short_125_tortuga_punk
 short_126_cuervos_caras
 short_129_lluvia_roja_kerala
+# 07/10: tanda 131-142 (parásitos y animales + Chernóbil/radiación, misterio en México), 2:1
+short_131_caracol_zombi
+short_132_sacculina_cangrejo
+short_140_pie_elefante_chernobil
+short_135_hormiga_bala
+short_134_rape_abisal_macho
+short_139_isla_munecas
+short_133_gusano_grillo_agua
+short_137_murcielago_vampiro_amigos
+short_142_nucleo_del_demonio
+short_136_musarana_encoge_cerebro
+short_138_escarabajo_via_lactea
+short_141_lago_karachai
 short_053_nieve_sandia
 short_067_platanos_radiactivos
 short_080_piedras_que_se_mueven

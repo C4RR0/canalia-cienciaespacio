@@ -1,0 +1,34 @@
+{
+  "id": "short_134_rape_abisal_macho",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "tema_visual": "naturaleza",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "guion": "En estos peces, el macho muerde a la hembra y ya no la suelta nunca.\n\nEs el rape abisal. En la oscuridad del fondo del mar, encontrar pareja es casi imposible. Así que cuando un macho, muchísimo más pequeño, encuentra una hembra, le clava los dientes.\n\nPoco a poco, sus cuerpos se fusionan y comparten la sangre. El macho pierde los ojos y casi todos sus órganos, menos los que producen esperma.\n\nUna hembra puede llevar varios machos pegados.\n\nY para no rechazarlos, su sistema inmunitario ha perdido parte de sus defensas.",
+  "queries_imagenes": [
+    "Oneirodes",
+    "anglerfish museum specimen",
+    "Melanocetus johnsonii",
+    "Himantolophus",
+    "Photocorynus spiniceps",
+    "Cryptopsaras couesii",
+    "Haplophryne mollis",
+    "Melanocetus"
+  ],
+  "titulo": "El macho de este pez muerde a la hembra y desaparece dentro de ella",
+  "descripcion": "En varias especies de rape abisal (Ceratioidei), el diminuto macho se fusiona con la hembra, comparte su sangre y pierde casi todos sus órganos. La hembra tolera a varios machos gracias a un sistema inmunitario modificado (Science, 2020).\n\n#rapeabisal #peces #fondodelmar #animalesraros #shorts",
+  "tags": [
+    "rape abisal",
+    "pez rape",
+    "pez abisal",
+    "fondo del mar",
+    "animales marinos",
+    "animales raros",
+    "shorts"
+  ],
+  "hook_miniatura": "SE FUNDEN EN UNO",
+  "prompt_miniatura": "a deep sea anglerfish with glowing lure in pitch black water, dramatic, cinematic"
+}
