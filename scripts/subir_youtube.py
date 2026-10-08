@@ -12,6 +12,7 @@ problemas de codificación de tildes/eñes al pasar por PowerShell.
 privacidad: private | unlisted | public
 categoria_id: 27 = Educación, 28 = Ciencia y tecnología, 24 = Entretenimiento (usa 27 o 28 salvo que quieras otra)
 """
+import os
 import sys
 from pathlib import Path
 from google.auth.transport.requests import Request
@@ -51,7 +52,12 @@ def subir(video_path: str, titulo: str, descripcion: str, tags: list[str],
         },
     }
 
-    media = MediaFileUpload(video_path, chunksize=-1, resumable=True, mimetype="video/mp4")
+    # Los Shorts (pocos MB) van de una vez. Los largos (recopilaciones, >400 MB)
+    # por trozos: de una vez, la sesión de subida dio 410 "Gone" al final
+    # (8/10/2026), aunque el vídeo sí llegó.
+    grande = os.path.getsize(video_path) > 100 * 1024 * 1024
+    media = MediaFileUpload(video_path, chunksize=16 * 1024 * 1024 if grande else -1,
+                            resumable=True, mimetype="video/mp4")
     request = youtube.videos().insert(part="snippet,status", body=body, media_body=media)
 
     response = None

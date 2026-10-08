@@ -186,8 +186,12 @@ def producir(cfg: dict, subir: bool):
     def imgs(vid, n):
         return sorted((dir_out / vid / "img").glob("img_*.jpg"))[:n]
 
-    intro, pista = pieza_narrada(cfg["intro"], [p for v in cfg["intro_ids"] for p in imgs(v, 3)],
-                                 voz, dir_out / "_intro")
+    def elegidas(lista):
+        # Fotos elegidas a mano ([id, n]): la primera es lo primero que se ve
+        # del vídeo, y en cola hay esquemas científicos que no sirven de apertura.
+        return [imgs(v, n)[n - 1] for v, n in lista]
+
+    intro, pista = pieza_narrada(cfg["intro"], elegidas(cfg["intro_imagenes"]), voz, dir_out / "_intro")
     piezas.append(intro)
     pistas.add(pista)
     capitulos.append("Intro")
@@ -204,6 +208,10 @@ def producir(cfg: dict, subir: bool):
         piezas.append(pieza_tarjeta)
         capitulos.append(f"#{numero} {it['nombre']}")
 
+        if (trabajo / "pieza.mp4").exists():
+            piezas.append(trabajo / "pieza.mp4")
+            pistas.add(musica.elegir_pista(vid)[1])
+            continue
         ass = trabajo / "horizontal.ass"
         ass_a_horizontal(trabajo / "vertical.ass", ass)
         pieza, pista = render_pieza(trabajo / "img", trabajo / "audio.mp3", ass, vid, trabajo)
@@ -211,8 +219,7 @@ def producir(cfg: dict, subir: bool):
         pistas.add(pista)
         print(f"#{numero} {vid} OK")
 
-    cierre, pista = pieza_narrada(cfg["outro"], [p for it in items[-3:] for p in imgs(it["id"], 3)[1:3]],
-                                  voz, dir_out / "_cierre")
+    cierre, pista = pieza_narrada(cfg["outro"], elegidas(cfg["outro_imagenes"]), voz, dir_out / "_cierre")
     piezas.append(cierre)
     pistas.add(pista)
 
