@@ -62,18 +62,21 @@ short_115_nutria_marina
 short_116_colibri_torpor
 short_092_centralia_arde
 short_117_casuario
+short_145_hipopotamo_protector_solar
 short_118_cucaracha_sin_cabeza
 short_119_pez_gota
 short_120_hoatzin_garras
 short_127_onoda_29_anos
 short_121_pulpo_anillos_azules
 short_122_pez_hielo_sangre
+short_144_cazador_bajo_arena
 short_128_gato_espia_cia
 short_123_delfines_medio_cerebro
 short_124_topo_nariz_estrella
 short_130_longyearbyen_morir
 short_125_tortuga_punk
 short_126_cuervos_caras
+short_143_guardabosques_rayos
 short_129_lluvia_roja_kerala
 # 07/10: tanda 131-142 (parásitos y animales + Chernóbil/radiación, misterio en México), 2:1
 short_131_caracol_zombi
@@ -81,6 +84,7 @@ short_132_sacculina_cangrejo
 short_140_pie_elefante_chernobil
 short_135_hormiga_bala
 short_134_rape_abisal_macho
+short_146_pepino_mar_defensa
 short_139_isla_munecas
 short_133_gusano_grillo_agua
 short_137_murcielago_vampiro_amigos
