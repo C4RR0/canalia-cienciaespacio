@@ -65,3 +65,6 @@ _tmp_v2/
 __pycache__/
 *.pyc
 .venv/
+
+# Clips reales de Commons que sustituyen a una foto (poner_clip.py)
+!cola_imagenes/**/*.mp4
