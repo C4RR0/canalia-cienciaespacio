@@ -10,7 +10,7 @@ Uso:
     python poner_clip.py buscar "<consulta>"            lista vídeos de Commons
     python poner_clip.py poner <id> <n> "File:X.webm" [inicio_s]
 
-El clip se recorta a 12 s desde inicio_s, se pasa a H.264 sin audio (≤1080p)
+El clip se recorta a 12 s desde inicio_s, se pasa a H.264 sin audio (≤720p: en el Short va encajado a 1080 de ancho, no hace falta más)
 y se añade el crédito (autor + licencia) a "creditos" del config, que
 producir_video.py pega en la descripción (la mayoría de Commons es CC BY/BY-SA
 y exige atribución). Revisar SIEMPRE el clip a ojo antes de commitear.
@@ -93,7 +93,7 @@ def poner(vid: str, n: int, titulo: str, inicio: float):
     ffmpeg, _ = resolver_bin()
     salida = carpeta / f"img_{n:02d}.mp4"
     subprocess.run([ffmpeg, "-y", "-ss", str(inicio), "-i", str(tmp), "-t", str(DUR_CLIP), "-an",
-                    "-vf", "scale=-2:'min(1080,ih)'", "-c:v", "libx264", "-crf", "20",
+                    "-vf", "scale=-2:'min(720,ih)'", "-c:v", "libx264", "-crf", "23",
                     "-pix_fmt", "yuv420p", str(salida)], check=True, capture_output=True)
     tmp.unlink()
     foto = carpeta / f"img_{n:02d}.jpg"
