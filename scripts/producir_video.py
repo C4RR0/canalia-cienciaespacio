@@ -160,7 +160,8 @@ def preparar_carpeta_final(rutas_origen: list[tuple[Path, bool]], carpeta_final:
     carpeta_final.mkdir(parents=True, exist_ok=True)
     reales = []
     for i, (origen, es_real) in enumerate(rutas_origen, start=1):
-        destino = carpeta_final / f"img_{i:02d}.jpg"
+        # Un hueco puede ser un clip de vídeo real (img_NN.mp4) en vez de una foto.
+        destino = carpeta_final / f"img_{i:02d}{origen.suffix if origen.suffix == '.mp4' else '.jpg'}"
         if not destino.exists():
             destino.write_bytes(origen.read_bytes())
         reales.append(es_real)
@@ -341,7 +342,7 @@ def producir(cfg: dict) -> dict:
             carpeta_raw.mkdir(parents=True, exist_ok=True)
             reales_flags = json.loads(meta_cola.read_text(encoding="utf-8"))
             rutas = []
-            for archivo, es_real in zip(sorted(p for p in cola_img.glob("img_*.jpg")), reales_flags):
+            for archivo, es_real in zip(sorted(p for p in cola_img.glob("img_*") if p.suffix in (".jpg", ".mp4")), reales_flags):
                 destino = carpeta_raw / archivo.name
                 destino.write_bytes(archivo.read_bytes())
                 rutas.append((destino, es_real))
@@ -443,6 +444,9 @@ def producir(cfg: dict) -> dict:
     # Atribucion obligatoria (licencia CC BY 4.0) de la musica de fondo elegida
     # arriba, en el paso de ensamblado -- ver scripts/musica.py.
     descripcion_final = cfg["descripcion"].rstrip() + "\n\n" + musica.atribucion(titulo_musica)
+    # Créditos de clips de vídeo de Commons (ver poner_clip.py): CC BY/BY-SA exige atribución.
+    if cfg.get("creditos"):
+        descripcion_final += "\n" + "\n".join(cfg["creditos"])
     titulo_path.write_text(cfg["titulo"], encoding="utf-8")
     descripcion_path.write_text(descripcion_final, encoding="utf-8")
 

@@ -14,6 +14,7 @@ from pathlib import Path
 FFMPEG_FALLBACK = r"C:\Users\Sergio\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.1-full_build\bin\ffmpeg.exe"
 FFPROBE_FALLBACK = r"C:\Users\Sergio\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.1-full_build\bin\ffprobe.exe"
 
+EXTENSIONES = {".jpg", ".png", ".mp4"}
 TRANSICION_DUR = 0.7
 TRANSICION_RAPIDA = 0.25
 FPS = 30
@@ -58,7 +59,10 @@ def ensamblar(carpeta_imagenes: Path, audio_path: str, salida: str, ancho: int, 
     if secuencia_path and secuencia_path.exists():
         imagenes, duraciones = cargar_secuencia(secuencia_path, dur_total, t)
     else:
-        imagenes = sorted(carpeta_imagenes.glob("*.jpg")) + sorted(carpeta_imagenes.glob("*.png"))
+        # Un hueco img_NN puede ser una foto o un clip de vídeo real (img_NN.mp4):
+        # se ordenan juntos por nombre para respetar el orden del guion.
+        imagenes = sorted((p for p in carpeta_imagenes.iterdir() if p.suffix.lower() in EXTENSIONES),
+                          key=lambda p: p.name)
         imagenes = [p for p in imagenes if not p.name.startswith("tarjeta_")]
         n0 = len(imagenes)
         dur_clip = (dur_total + (n0 - 1) * t) / n0
@@ -81,6 +85,10 @@ def ensamblar(carpeta_imagenes: Path, audio_path: str, salida: str, ancho: int, 
         t = TRANSICION_RAPIDA
         k = 0
         for img, dur_clip in zip(imagenes, duraciones):
+            if img.suffix.lower() == ".mp4":
+                # El vídeo real ya tiene movimiento: un solo plano, sin trocear.
+                planos.append((img, dur_clip, 0.5, 0.5, None))
+                continue
             util = dur_clip - t
             partes = max(1, round(util / plano_max))
             for _ in range(partes):
@@ -99,6 +107,22 @@ def ensamblar(carpeta_imagenes: Path, audio_path: str, salida: str, ancho: int, 
     filtro_partes = []
     for i, (img, dur_clip, ax, ay, direccion) in enumerate(planos):
         n_frames = int(dur_clip * FPS)
+        gradeado = (f"eq=contrast=1.12:saturation=1.22:brightness=0.01:gamma=1.03,"
+                    f"unsharp=5:5:0.5,vignette=PI/5.5,format=yuva420p,setsar=1")
+        if img.suffix.lower() == ".mp4":
+            # Clip real: se repite si es más corto que el hueco y se queda sin su
+            # audio. Entero y centrado sobre una copia suya desenfocada (estilo
+            # Short): recortar un clip 16:9 a vertical lo ampliaría ~3x y se
+            # vería pixelado (los de Commons suelen ser de 480-720p).
+            inputs += ["-stream_loop", "-1", "-t", f"{dur_clip:.3f}", "-i", str(img)]
+            filtro_partes.append(
+                f"[{i}:v]fps={FPS},trim=duration={dur_clip:.3f},setpts=PTS-STARTPTS,split[f{i}][b{i}];"
+                f"[b{i}]scale={ancho}:{alto}:force_original_aspect_ratio=increase,crop={ancho}:{alto},"
+                f"boxblur=20:2,eq=brightness=-0.12[fondo{i}];"
+                f"[f{i}]scale={ancho}:{alto}:force_original_aspect_ratio=decrease[frente{i}];"
+                f"[fondo{i}][frente{i}]overlay=(W-w)/2:(H-h)/2,{gradeado}[c{i}]"
+            )
+            continue
         inputs += ["-loop", "1", "-t", f"{dur_clip:.3f}", "-i", str(img)]
         if plano_max:
             # Planos cortos: zoom más marcado para que se note el movimiento.
@@ -116,9 +140,7 @@ def ensamblar(carpeta_imagenes: Path, audio_path: str, salida: str, ancho: int, 
         # + vineta sutil para dirigir la mirada al centro, estilo documental.
         filtro_partes.append(
             f"[{i}:v]scale={escala}:-1,zoompan=z='{zoom_expr}'{pos}:d={n_frames}:s={ancho}x{alto}:fps={FPS},"
-            f"eq=contrast=1.12:saturation=1.22:brightness=0.01:gamma=1.03,"
-            f"unsharp=5:5:0.5,vignette=PI/5.5,"
-            f"format=yuva420p,setsar=1[c{i}]"
+            f"{gradeado}[c{i}]"
         )
 
     # Encadena las transiciones xfade
