@@ -1,0 +1,34 @@
+{
+  "id": "short_148_cuco_nido_ajeno",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro nunca ha visto a su madre. Y lo primero que hace al nacer es matar a sus hermanos adoptivos.\n\nEs el cuco. Su madre pone el huevo en el nido de otra especie, como el carricero, y se va.\n\nEl polluelo nace antes que los demás y, todavía ciego, empuja uno a uno los otros huevos fuera del nido con la espalda.\n\nLos padres adoptivos lo alimentan igual, aunque llegue a ser mucho más grande que ellos.\n\nPara que traigan más comida, imita con su llamada a una nidada entera pidiendo de comer.",
+  "queries_imagenes": [
+    "Cuculus canorus",
+    "cuckoo chick reed warbler",
+    "Acrocephalus scirpaceus",
+    "cuckoo egg nest",
+    "common cuckoo juvenile",
+    "reed warbler feeding cuckoo",
+    "cuckoo chick",
+    "Cuculus canorus flight"
+  ],
+  "titulo": "Lo primero que hace este pájaro al nacer es terrible",
+  "descripcion": "El cuco común pone sus huevos en nidos de otras aves, como el carricero. El polluelo, aún ciego, empuja fuera los demás huevos y sus padres adoptivos lo crían aunque sea mucho más grande; su llamada imita a una nidada entera.\n\n#cuco #aves #animales #naturaleza #shorts",
+  "tags": [
+    "cuco",
+    "cuco pajaro",
+    "cuco nido",
+    "parasitismo de cria",
+    "aves",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NACE Y ELIMINA A SUS HERMANOS",
+  "prompt_miniatura": "a huge cuckoo chick being fed by a tiny reed warbler in a nest, nature photography"
+}

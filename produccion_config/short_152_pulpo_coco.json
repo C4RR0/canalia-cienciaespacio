@@ -1,0 +1,34 @@
+{
+  "id": "short_152_pulpo_coco",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pulpo va por el fondo del mar cargando con su propia casa.\n\nEs el pulpo de coco, de las aguas de Indonesia. Recoge mitades de cáscara de coco que llegan al mar, las limpia y las lleva debajo del cuerpo.\n\nCamina con los brazos estirados, como si fuera sobre zancos, y cuando aparece un peligro, junta las dos mitades y se encierra dentro.\n\nEn dos mil nueve, unos científicos lo describieron como el primer invertebrado que usa herramientas.\n\nCarga con algo que no le sirve de nada ahora, solo porque sabe que lo va a necesitar.",
+  "queries_imagenes": [
+    "Amphioctopus marginatus",
+    "coconut octopus",
+    "veined octopus",
+    "Amphioctopus marginatus shell",
+    "octopus coconut shell",
+    "Lembeh Strait",
+    "octopus Indonesia",
+    "Amphioctopus"
+  ],
+  "titulo": "Este pulpo va por el fondo del mar cargando con su propia casa",
+  "descripcion": "El pulpo de coco (Amphioctopus marginatus) recoge cáscaras de coco, las transporta caminando sobre los brazos y se esconde dentro cuando hay peligro. En 2009 fue descrito como el primer invertebrado que usa herramientas.\n\n#pulpo #pulpodecoco #animales #naturaleza #shorts",
+  "tags": [
+    "pulpo coco",
+    "pulpo cocotero",
+    "pulpos",
+    "animales marinos",
+    "animales inteligentes",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LLEVA SU CASA A CUESTAS",
+  "prompt_miniatura": "an octopus hiding inside a coconut shell on sandy sea floor, underwater photography"
+}

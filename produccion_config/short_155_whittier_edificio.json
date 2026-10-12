@@ -1,0 +1,34 @@
+{
+  "id": "short_155_whittier_edificio",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En este pueblo de Alaska casi todos sus vecinos viven en el mismo edificio.\n\nEs Whittier, con unos doscientos setenta habitantes. La mayoría vive en Begich Towers, un antiguo cuartel militar de catorce plantas.\n\nAhí dentro está casi todo: la comisaría, la oficina de correos, una tienda, la clínica y hasta la iglesia. Y la escuela está conectada por un túnel, así que los niños no tienen que salir a la nieve.\n\nPara entrar o salir por carretera solo hay un túnel de un único carril, que se comparte con el tren.\n\nY por la noche, lo cierran.",
+  "queries_imagenes": [
+    "Whittier Alaska",
+    "Begich Towers",
+    "Anton Anderson Memorial Tunnel",
+    "Whittier Alaska harbor",
+    "Prince William Sound",
+    "Passage Canal",
+    "Whittier tunnel",
+    "Buckner Building Whittier"
+  ],
+  "titulo": "El pueblo donde casi todos viven en el mismo edificio",
+  "descripcion": "En Whittier (Alaska), con unos 270 habitantes, la mayoría vive en Begich Towers, un antiguo cuartel de 14 plantas con comisaría, correos, tienda y clínica. La escuela se comunica por un túnel y el único acceso por carretera es un túnel de un carril compartido con el tren, que cierra por la noche.\n\n#whittier #alaska #lugaresincreibles #curiosidades #shorts",
+  "tags": [
+    "whittier alaska",
+    "whittier alaska edificio por dentro",
+    "begich towers",
+    "alaska",
+    "lugares increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UN PUEBLO EN UN EDIFICIO",
+  "prompt_miniatura": "a single tall concrete apartment building in a tiny snowy Alaskan town surrounded by mountains"
+}

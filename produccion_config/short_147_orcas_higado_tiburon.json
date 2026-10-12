@@ -1,0 +1,34 @@
+{
+  "id": "short_147_orcas_higado_tiburon",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "En Sudáfrica empezaron a aparecer tiburones blancos muertos en la playa. A todos les faltaba lo mismo: el hígado.\n\nLos culpables eran dos orcas, a las que llaman Port y Starboard.\n\nLe abren al tiburón una herida junto a las aletas y le sacan el hígado, el órgano más rico en grasa, como quien saca la parte buena de un bocado. El resto lo dejan.\n\nUna de ellas llegó a matar a un tiburón blanco sola, en menos de dos minutos.\n\nDesde entonces, los tiburones blancos huyen de esa costa en cuanto ellas aparecen.",
+  "queries_imagenes": [
+    "orca Orcinus orca",
+    "great white shark",
+    "Gansbaai",
+    "Carcharodon carcharias",
+    "orca pod",
+    "Mossel Bay",
+    "orca hunting",
+    "shark cage diving Gansbaai"
+  ],
+  "titulo": "Las dos orcas que aterrorizan a los tiburones blancos",
+  "descripcion": "Desde 2017, las orcas Port y Starboard matan tiburones blancos en Sudáfrica y les extraen el hígado, rico en grasa. Una llegó a matar a uno sola en menos de dos minutos, y los tiburones blancos abandonan la zona cuando ellas aparecen.\n\n#orcas #tiburonblanco #animales #naturaleza #shorts",
+  "tags": [
+    "orcas",
+    "orcas vs tiburon blanco",
+    "tiburon blanco",
+    "port y starboard",
+    "animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LOS CAZADORES DEL CAZADOR",
+  "prompt_miniatura": "two orcas swimming next to a great white shark, underwater, dramatic light, wildlife photography"
+}

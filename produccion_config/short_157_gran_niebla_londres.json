@@ -1,0 +1,34 @@
+{
+  "id": "short_157_gran_niebla_londres",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En diciembre de mil novecientos cincuenta y dos, una niebla cubrió Londres durante cinco días. Cuando se fue, miles de personas habían muerto.\n\nHacía frío, la gente quemaba carbón para calentarse y el aire, sin viento, no se movía.\n\nEl humo se mezcló con la niebla y formó una nube amarilla y tóxica. En algunas calles no se veían ni los propios pies.\n\nLos autobuses circulaban guiados por personas a pie con antorchas. Hasta el ganado de una feria murió asfixiado.\n\nSe calcula que murieron unas doce mil personas.\n\nY aquello obligó a aprobar una de las primeras leyes del aire limpio.",
+  "queries_imagenes": [
+    "Great Smog of London 1952",
+    "London smog",
+    "Nelson's Column smog",
+    "London fog 1952",
+    "coal smoke London",
+    "Battersea Power Station",
+    "London smog bus",
+    "Clean Air Act 1956"
+  ],
+  "titulo": "La niebla que mató a miles de personas en cinco días",
+  "descripcion": "La Gran Niebla de Londres (5-9 de diciembre de 1952) mezcló niebla y humo de carbón en una nube tóxica. Se calcula que causó unas 12.000 muertes y llevó a la Ley del Aire Limpio de 1956.\n\n#lagranniebla #londres #historia #curiosidades #shorts",
+  "tags": [
+    "la gran niebla de londres 1952",
+    "gran niebla",
+    "smog londres",
+    "londres",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "5 DÍAS SIN VER EL CIELO",
+  "prompt_miniatura": "a dark London street in 1952 covered in thick yellow toxic fog, people with torches, historical photo style"
+}

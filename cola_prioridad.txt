@@ -84,7 +84,6 @@ short_132_sacculina_cangrejo
 short_140_pie_elefante_chernobil
 short_135_hormiga_bala
 short_134_rape_abisal_macho
-short_146_pepino_mar_defensa
 short_139_isla_munecas
 short_133_gusano_grillo_agua
 short_137_murcielago_vampiro_amigos
@@ -92,6 +91,19 @@ short_142_nucleo_del_demonio
 short_136_musarana_encoge_cerebro
 short_138_escarabajo_via_lactea
 short_141_lago_karachai
+# 12/10: tanda 147-158 (animales con comportamiento llamativo + lugares/historias insólitas), 2:1
+short_147_orcas_higado_tiburon
+short_148_cuco_nido_ajeno
+short_155_whittier_edificio
+short_150_barnacla_acantilado
+short_151_mantis_come_macho
+short_157_gran_niebla_londres
+short_152_pulpo_coco
+short_149_alcaudon_espinas
+short_156_monowi_una_habitante
+short_153_picozapato
+short_154_pez_loro_moco
+short_158_pozo_kola
 short_053_nieve_sandia
 short_067_platanos_radiactivos
 short_080_piedras_que_se_mueven
@@ -101,3 +113,5 @@ short_078_evento_carrington
 short_056_cementerio_barcos_aral
 short_051_cueva_cristales_naica
 short_048_crater_hiawatha
+# 12/10: el pepino al final. Reencolar con otro título no funcionó (hipopótamo 31->26, Bobbit 312->60): el tema, no el título
+short_146_pepino_mar_defensa

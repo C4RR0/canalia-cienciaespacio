@@ -135,3 +135,15 @@ la Isla de las Munecas de Xochimilco, Julian Santana (~50 anos colgando munecas,
 el Pie de Elefante de Chernobil: corio bajo el reactor 4, hallado en dic. 1986, letal en minutos; camara sobre ruedas - short_140_pie_elefante_chernobil
 el lago Karachai (Mayak): 1 h en la orilla = dosis letal (1990); polvo de 1967; cubierto del todo en 2015 - short_141_lago_karachai
 el Nucleo del Demonio: esfera de 6,2 kg de plutonio; Daghlian 1945 y Slotin 1946 (destornillador, destello azul) - short_142_nucleo_del_demonio
+orcas Port y Starboard matan tiburones blancos y les sacan el higado (Gansbaai, desde 2017); una mato a uno sola en <2 min; los blancos abandonan la zona - short_147_orcas_higado_tiburon
+el cuco: parasitismo de cria; el polluelo ciego empuja los huevos fuera con la espalda; padres adoptivos (carricero) lo alimentan; llamada que imita una nidada entera - short_148_cuco_nido_ajeno
+el alcaudon (pajaro carnicero) empala presas en espinas/alambre (despensa); el americano espera 1-2 dias a que el saltamontes toxico pierda el veneno (Yosef y Whitman 1992) - short_149_alcaudon_espinas
+crias de barnacla cariblanca saltan de acantilados de >100 m en Groenlandia a los 1-2 dias de nacer, sin volar; padres llaman desde abajo - short_150_barnacla_acantilado
+canibalismo sexual de la mantis religiosa; el macho decapitado sigue (ganglio abdominal); machos se acercan despacio; mas huevos en hembras canibales (Pseudomantis, Barry 2008) - short_151_mantis_come_macho
+pulpo de coco (Amphioctopus marginatus) transporta cascaras de coco y se esconde; primer invertebrado con herramientas (Finn 2009) - short_152_pulpo_coco
+picozapato (Balaeniceps rex): inmovil horas, caza peces pulmonados, castaneteo del pico, siblicidio (de 2 crias sobrevive 1) - short_153_picozapato
+pez loro: capullo de moco nocturno contra parasitos (Grutter 2011); tritura coral y expulsa arena, cientos de kg al ano; playas tropicales - short_154_pez_loro_moco
+Whittier (Alaska): ~270 habitantes, casi todos en Begich Towers (14 plantas); escuela por tunel; acceso por tunel de un carril compartido con el tren, cierra de noche - short_155_whittier_edificio
+Monowi (Nebraska): Elsie Eiler unica habitante desde 2004 (murio su marido Rudy); alcaldesa, licencia del bar, impuestos; biblioteca de Rudy - short_156_monowi_una_habitante
+Gran Niebla de Londres (5-9 dic. 1952): carbon + anticiclon; ~12.000 muertos estimados; autobuses guiados con antorchas; ganado de Smithfield; Clean Air Act 1956 - short_157_gran_niebla_londres
+pozo superprofundo de Kola: 12.262 m (1989), 23 cm de diametro, ~180 C, roca plastica; leyenda falsa de los gritos del infierno; sellado - short_158_pozo_kola

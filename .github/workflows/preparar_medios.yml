@@ -1,0 +1,57 @@
+# Genera voz, imágenes, subtítulos y miniatura de los ids listados en
+# pendientes_medios.txt (uno por línea) y los sube al repo para la revisión visual
+# en local. Cada id que sale bien se quita de la lista.
+# Existe porque desde el 10/10/2026 edge-tts da 403 desde España pero funciona
+# desde EE. UU. (rany2/edge-tts#490), y los runners de GitHub están allí.
+name: Preparar medios
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "pendientes_medios.txt"
+  workflow_dispatch:
+
+concurrency:
+  group: preparar-medios
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  preparar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar ffmpeg y dependencias
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu fonts-liberation
+          pip install -q -r requirements.txt
+
+      - name: Generar medios
+        run: |
+          for id in $(grep -v '^#' pendientes_medios.txt); do
+            echo "::group::$id"
+            if python scripts/generar_audio_pipeline.py "produccion_config/$id.json"; then
+              sed -i "/^$id\$/d" pendientes_medios.txt
+            else
+              echo "FALLO $id"
+            fi
+            echo "::endgroup::"
+            sleep 60  # Commons da 429 si se encadenan descargas
+          done
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898183+github-actions[bot]@users.noreply.github.com"
+          git add cola_audio cola_imagenes cola_subtitulos cola_miniaturas pendientes_medios.txt
+          git commit -m "Medios generados en GitHub Actions" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done

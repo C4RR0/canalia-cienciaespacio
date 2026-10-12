@@ -1,0 +1,34 @@
+{
+  "id": "short_149_alcaudon_espinas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pajarito tan pequeño deja a sus presas clavadas en espinas. Por eso lo llaman el pájaro carnicero.\n\nEs el alcaudón. Caza insectos, lagartijas e incluso ratones, pero no tiene garras fuertes para sujetarlos.\n\nAsí que los ensarta en una espina o en un alambre de espino y los desgarra con el pico.\n\nAdemás, le sirve de despensa para los días de mala caza.\n\nY una especie americana hace algo más astuto: deja colgado un saltamontes venenoso un par de días, hasta que el veneno se degrada. Luego se lo come.",
+  "queries_imagenes": [
+    "Lanius meridionalis",
+    "shrike impaled prey",
+    "Lanius collurio",
+    "loggerhead shrike",
+    "shrike larder",
+    "Lanius excubitor",
+    "red-backed shrike",
+    "lubber grasshopper"
+  ],
+  "titulo": "El pájaro carnicero que deja a sus presas clavadas en espinas",
+  "descripcion": "Los alcaudones no tienen garras fuertes, así que ensartan a sus presas en espinas o alambre de espino para desgarrarlas y guardarlas. El alcaudón americano deja colgados saltamontes tóxicos uno o dos días hasta que su veneno se degrada.\n\n#alcaudon #aves #animales #naturaleza #shorts",
+  "tags": [
+    "alcaudon",
+    "alcaudon real",
+    "pajaro carnicero",
+    "aves",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "EL PÁJARO CARNICERO",
+  "prompt_miniatura": "a small grey shrike bird perched on a thorny branch, nature photography"
+}

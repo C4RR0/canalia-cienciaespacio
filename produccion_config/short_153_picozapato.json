@@ -1,0 +1,34 @@
+{
+  "id": "short_153_picozapato",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro puede quedarse completamente quieto durante horas. Está esperando el momento de atacar.\n\nEs el picozapato, un ave de los pantanos de África que mide casi metro y medio, con un pico enorme en forma de zueco.\n\nCaza peces pulmonados que suben a respirar, y cuando se lanza, se deja caer encima con todo el cuerpo.\n\nPara saludarse, hace castañetear el pico como una ametralladora.\n\nY sus crías no lo tienen fácil: suelen nacer dos, pero casi siempre sobrevive solo una, porque la mayor ataca a la pequeña y los padres no lo impiden.",
+  "queries_imagenes": [
+    "Balaeniceps rex",
+    "shoebill",
+    "shoebill stork head",
+    "shoebill flying",
+    "Protopterus",
+    "shoebill Uganda",
+    "Mabamba swamp",
+    "Balaeniceps rex standing"
+  ],
+  "titulo": "Este pájaro se queda quieto durante horas antes de atacar",
+  "descripcion": "El picozapato (Balaeniceps rex) vive en pantanos de África, mide casi 1,5 m y caza peces pulmonados lanzándose sobre ellos. Castañetea el pico para saludarse y, de sus dos crías, casi siempre sobrevive solo una.\n\n#picozapato #aves #animales #naturaleza #shorts",
+  "tags": [
+    "picozapato",
+    "picozapato sonido",
+    "picozapato cazando",
+    "aves",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "EL PÁJARO QUE NO PARPADEA",
+  "prompt_miniatura": "a shoebill stork staring directly at the camera in a swamp, wildlife photography"
+}

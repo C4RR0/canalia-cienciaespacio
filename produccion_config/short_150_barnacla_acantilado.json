@@ -1,0 +1,34 @@
+{
+  "id": "short_150_barnacla_acantilado",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Con solo dos días de vida, estos polluelos tienen que saltar al vacío desde un acantilado de más de cien metros. Y todavía no saben volar.\n\nSon crías de barnacla cariblanca. Sus padres anidan en lo alto de los acantilados de Groenlandia para que los zorros no lleguen a los huevos.\n\nPero ahí arriba no hay comida, así que los polluelos tienen que bajar.\n\nSe lanzan, rebotan contra las rocas y, como pesan tan poco y están cubiertos de plumón, muchos sobreviven a la caída.\n\nAbajo, sus padres los esperan llamándolos.",
+  "queries_imagenes": [
+    "Branta leucopsis",
+    "barnacle goose gosling",
+    "barnacle goose cliff",
+    "Greenland cliffs",
+    "barnacle goose family",
+    "Arctic fox",
+    "Branta leucopsis flock",
+    "barnacle geese nesting cliff"
+  ],
+  "titulo": "Con dos días de vida, saltan desde un acantilado de 100 metros",
+  "descripcion": "Las barnaclas cariblancas anidan en acantilados de Groenlandia para proteger los huevos de los zorros. A los pocos días de nacer, los polluelos, que aún no vuelan, saltan al vacío para llegar a la comida; su poco peso y el plumón ayudan a muchos a sobrevivir.\n\n#barnaclacariblanca #aves #animales #naturaleza #shorts",
+  "tags": [
+    "barnacla cariblanca",
+    "barnacla cariblanca salto",
+    "barnaclas bebes",
+    "aves",
+    "animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SALTAN SIN SABER VOLAR",
+  "prompt_miniatura": "fluffy barnacle goose chick on the edge of a very high rocky cliff, dramatic arctic landscape"
+}

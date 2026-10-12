@@ -1,0 +1,34 @@
+{
+  "id": "short_154_pez_loro_moco",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Cada noche, este pez se mete a dormir en una bolsa de moco que fabrica él mismo.\n\nEs el pez loro. Al atardecer, segrega una burbuja transparente alrededor de todo su cuerpo, y se cree que así se protege de los parásitos mientras duerme.\n\nPero hay algo todavía más sorprendente.\n\nDurante el día muerde el coral con su pico y lo tritura con unos dientes que tiene en la garganta. Lo que no digiere lo expulsa como arena fina y blanca.\n\nUn solo pez puede producir cientos de kilos al año. Parte de la arena de algunas playas tropicales es caca de pez loro.",
+  "queries_imagenes": [
+    "parrotfish",
+    "parrotfish mucus cocoon",
+    "Scarus",
+    "Chlorurus",
+    "parrotfish coral",
+    "Bolbometopon muricatum",
+    "Maldives beach",
+    "parrotfish teeth"
+  ],
+  "titulo": "Este pez duerme cada noche dentro de una bolsa de moco",
+  "descripcion": "Muchos peces loro se envuelven cada noche en un capullo de moco que los protege de los parásitos. De día trituran coral y expulsan arena: un solo pez puede producir cientos de kilos al año, y parte de la arena blanca de algunas playas tropicales viene de ellos.\n\n#pezloro #animalesmarinos #animales #naturaleza #shorts",
+  "tags": [
+    "pez loro",
+    "pez loro comiendo coral",
+    "arena de playa",
+    "animales marinos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "DUERME EN SU PROPIO MOCO",
+  "prompt_miniatura": "a colorful parrotfish sleeping inside a transparent mucus bubble on a coral reef at night, underwater photography"
+}
