@@ -33,6 +33,7 @@ BASE = Path(__file__).resolve().parent.parent
 COMMONS = "https://commons.wikimedia.org/w/api.php"
 H = {"User-Agent": "SabiasQueCanal/1.0 (educational YouTube shorts)"}
 N_IMAGENES = 8
+MIN_APTAS = 5  # con menos, el vídeo repetiría demasiado las mismas fotos: a mano
 PAUSA = 4  # segundos entre llamadas: el plan gratis limita peticiones por minuto
 # Las fotos se juzgan en lotes (una llamada por lote): una a una, 5 vídeos
 # tardaban más de 90 min por los límites por minuto del plan gratis (13/10).
@@ -213,8 +214,9 @@ def revisar(vid: str):
 
     # Si quedan huecos, se rellenan copiando las buenas (el montaje necesita 8 seguidas)
     numeros = sorted(buenas)
-    if not numeros:
-        raise RuntimeError(f"{vid}: ninguna imagen apta, revisar a mano")
+    if len(numeros) < MIN_APTAS:
+        # 13/10: short_160 quedó con 1/8 y se dio por bueno rellenando con copias
+        raise RuntimeError(f"{vid}: solo {len(numeros)}/{N_IMAGENES} aptas, revisar a mano")
     for i, n in enumerate(n for n in range(1, N_IMAGENES + 1) if n not in buenas):
         origen = numeros[i % len(numeros)]
         (carpeta / f"img_{n:02d}.jpg").write_bytes((carpeta / f"img_{origen:02d}.jpg").read_bytes())

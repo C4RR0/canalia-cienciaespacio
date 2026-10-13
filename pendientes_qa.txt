@@ -2,3 +2,5 @@ short_166_raton_saltamontes
 short_167_oimiakon_frio
 short_169_derinkuyu_ciudad
 short_170_kowloon_amurallada
+short_160_pez_globo_circulos
+short_162_arana_buceadora
