@@ -1,0 +1,58 @@
+# Lanza a mano la QA visual automática (scripts/qa_imagenes.py, Gemini gratis)
+# sobre los ids indicados y sube las imágenes y miniaturas corregidas.
+# Preparar medios ya la ejecuta sola tras generar; esto es para repetirla o
+# para revisar vídeos generados en local.
+name: QA de imágenes
+
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: "Ids separados por espacios (vacío = los de pendientes_qa.txt)"
+        type: string
+        default: ""
+      sin_commit:
+        description: "Ensayo: solo mostrar el veredicto, sin subir cambios"
+        type: boolean
+        default: false
+
+concurrency:
+  group: preparar-medios
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: QA
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          IDS: ${{ inputs.ids }}
+        run: |
+          sudo apt-get install -y -qq fonts-dejavu fonts-liberation > /dev/null
+          pip install -q requests pillow
+          touch pendientes_qa.txt
+          for id in ${IDS:-$(cat pendientes_qa.txt)}; do
+            if python scripts/qa_imagenes.py "$id"; then
+              sed -i "/^$id\$/d" pendientes_qa.txt
+            fi
+          done
+
+      - name: Commit
+        if: ${{ !inputs.sin_commit }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898183+github-actions[bot]@users.noreply.github.com"
+          git add cola_imagenes cola_miniaturas pendientes_qa.txt
+          git commit -m "QA automática de imágenes" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done

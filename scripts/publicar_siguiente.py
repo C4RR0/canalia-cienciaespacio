@@ -36,13 +36,18 @@ PRODUCTORES = ["scripts/producir_video.py", "scripts/producir_mito.py"]
 
 
 def ids_listos() -> list[str]:
+    # pendientes_qa.txt: vídeos generados en Actions cuyas imágenes aún no ha
+    # aprobado qa_imagenes.py (o que suspendieron): no se publican.
+    sin_qa = BASE / "pendientes_qa.txt"
+    bloqueados = set(sin_qa.read_text(encoding="utf-8").split()) if sin_qa.exists() else set()
     listos = []
     for audio in sorted((BASE / "cola_audio").glob("*_final.mp3")):
         vid = audio.name[: -len("_final.mp3")]
         imgs = BASE / "cola_imagenes" / vid
         if (imgs.is_dir() and any(imgs.iterdir())
                 and (BASE / "cola_subtitulos" / f"{vid}_corregido.srt").exists()
-                and (BASE / "produccion_config" / f"{vid}.json").exists()):
+                and (BASE / "produccion_config" / f"{vid}.json").exists()
+                and vid not in bloqueados):
             listos.append(vid)
     # cola_prioridad.txt (opcional): ids en el orden en que deben salir; los
     # que no aparezcan van detrás, por orden de número.

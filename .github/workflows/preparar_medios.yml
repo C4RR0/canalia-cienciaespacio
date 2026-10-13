@@ -41,6 +41,7 @@ jobs:
             echo "::group::$id"
             if python scripts/generar_audio_pipeline.py "produccion_config/$id.json"; then
               sed -i "/^$id\$/d" pendientes_medios.txt
+              echo "$id" >> pendientes_qa.txt
             else
               echo "FALLO $id"
             fi
@@ -48,10 +49,25 @@ jobs:
             sleep 60  # Commons da 429 si se encadenan descargas
           done
 
+      # QA visual automática con Gemini gratis (qa_imagenes.py). Los que la
+      # aprueban salen de pendientes_qa.txt; los demás no se publican hasta
+      # revisarlos a mano.
+      - name: QA de imágenes
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          [ -s pendientes_qa.txt ] || exit 0
+          for id in $(cat pendientes_qa.txt); do
+            if python scripts/qa_imagenes.py "$id"; then
+              sed -i "/^$id\$/d" pendientes_qa.txt
+            fi
+          done
+
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898183+github-actions[bot]@users.noreply.github.com"
-          git add cola_audio cola_imagenes cola_subtitulos cola_miniaturas pendientes_medios.txt
+          touch pendientes_qa.txt
+          git add cola_audio cola_imagenes cola_subtitulos cola_miniaturas pendientes_medios.txt pendientes_qa.txt
           git commit -m "Medios generados en GitHub Actions" || exit 0
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done

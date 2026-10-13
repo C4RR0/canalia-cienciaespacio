@@ -18,6 +18,9 @@ ANCHO, ALTO = 1280, 720
 FUENTES_BOLD = [
     r"C:\Windows\Fonts\segoeuib.ttf",
     r"C:\Windows\Fonts\arialbd.ttf",
+    # GitHub Actions (Ubuntu, paquetes fonts-liberation y fonts-dejavu)
+    "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
 ]
 
 

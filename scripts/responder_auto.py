@@ -1,14 +1,11 @@
 """
 Responde SOLO (sin sesión de Claude Code) a los comentarios nuevos del canal.
 Pensado para GitHub Actions: lee los comentarios sin respuesta con
-comentarios.py, pide a Claude una respuesta por comentario usando como
+comentarios.py, pide a la IA una respuesta por comentario usando como
 contexto el título y la descripción del vídeo, y la publica.
 
-La IA es Gemini con el plan GRATUITO de Google AI Studio (decisión del
-usuario del 13/10/2026: nada de pago). GitHub Models, la primera opción, se
-retiró el 30/07/2026. El modelo se elige solo entre los "flash" que ofrezca la
-clave (los nombres cambian a menudo), saltando al siguiente si uno está
-saturado; GEMINI_MODEL lo fuerza si hace falta.
+La IA es Gemini con el plan GRATUITO de Google AI Studio (ver gemini.py).
+GitHub Models, la primera opción, se retiró el 30/07/2026.
 
 Reglas que sigue la IA (aprendidas respondiendo a mano):
 - Solo datos del propio vídeo o muy conocidos; si no está seguro, no aporta
@@ -22,21 +19,18 @@ Uso:
 
 Requiere token.json (YouTube) y GEMINI_API_KEY (gratis en aistudio.google.com).
 """
-import json
 import os
 import sys
-import time
 from pathlib import Path
 
 import requests
 from googleapiclient.discovery import build
 
+import gemini
 from comentarios import _canal_propio, cargar_credenciales, listar_sin_responder, responder
 
 CANAL = "Sabías Qué"
 MAX_POR_EJECUCION = 20
-API_GEMINI = "https://generativelanguage.googleapis.com/v1beta"
-_modelos = None
 # comentarios que la IA decidió no responder, para no gastar cuota en ellos
 IGNORADOS = Path(__file__).parent.parent / "comentarios_ignorados.txt"
 
@@ -68,66 +62,6 @@ ESQUEMA = {
 }
 
 
-def modelos() -> list[str]:
-    """Gemini "flash" de texto que admiten generateContent, del más nuevo al más
-    viejo (los "lite" al final, como último recurso)."""
-    global _modelos
-    if _modelos:
-        return _modelos
-    if os.environ.get("GEMINI_MODEL"):
-        _modelos = [os.environ["GEMINI_MODEL"]]
-        return _modelos
-    resp = requests.get(f"{API_GEMINI}/models", params={"key": os.environ["GEMINI_API_KEY"],
-                                                        "pageSize": 1000}, timeout=30)
-    resp.raise_for_status()
-    excluir = ("image", "tts", "audio", "live", "embedding", "thinking", "exp", "preview")
-    candidatos = [m["name"].removeprefix("models/") for m in resp.json().get("models", [])
-                  if "generateContent" in m.get("supportedGenerationMethods", [])
-                  and "flash" in m["name"] and not any(x in m["name"] for x in excluir)]
-    if not candidatos:
-        raise RuntimeError("La clave no ofrece ningún modelo Gemini flash")
-
-    def version(nombre):
-        try:
-            return float(nombre.split("-")[1])
-        except (IndexError, ValueError):
-            return 0.0
-
-    _modelos = sorted(candidatos, key=lambda n: ("lite" in n, -version(n), len(n)))
-    print(f"Modelos: {', '.join(_modelos)}")
-    return _modelos
-
-
-def generar(cuerpo: dict) -> dict:
-    """Prueba los modelos en orden; ante saturación (429/503/500) reintenta una vez
-    y pasa al siguiente."""
-    ultimo = None
-    for modelo in list(modelos()):
-        for intento in range(2):
-            try:
-                resp = requests.post(f"{API_GEMINI}/models/{modelo}:generateContent",
-                                     params={"key": os.environ["GEMINI_API_KEY"]},
-                                     json=cuerpo, timeout=60)
-            except (requests.Timeout, requests.ConnectionError) as e:
-                ultimo = e
-                print(f"  [aviso] {modelo}: {type(e).__name__}, se prueba otro")
-                break
-            if resp.ok:
-                # El que funcionó pasa a ser el primero para los demás comentarios.
-                _modelos.remove(modelo)
-                _modelos.insert(0, modelo)
-                return resp.json()
-            ultimo = resp
-            if resp.status_code not in (429, 500, 503):
-                break
-            time.sleep(10)
-        else:
-            print(f"  [aviso] {modelo} devolvió {ultimo.status_code}, se prueba otro")
-    if isinstance(ultimo, Exception):
-        raise ultimo
-    ultimo.raise_for_status()
-
-
 def info_videos(youtube, ids: list[str]) -> dict:
     info = {}
     for i in range(0, len(ids), 50):
@@ -146,16 +80,7 @@ def redactar(video: dict, comentario: dict) -> dict | None:
         f"Descripción del vídeo:\n{video.get('descripcion', '')}\n\n"
         f"Comentario de {comentario['autor']}:\n{comentario['texto']}"
     )
-    candidato = generar({
-        "systemInstruction": {"parts": [{"text": SISTEMA}]},
-        "contents": [{"role": "user", "parts": [{"text": contenido}]}],
-        "generationConfig": {"responseMimeType": "application/json",
-                             "responseSchema": ESQUEMA},
-    })["candidates"][0]
-    if candidato.get("finishReason") != "STOP":
-        print(f"  [aviso] finishReason={candidato.get('finishReason')}, se omite")
-        return None
-    return json.loads("".join(p.get("text", "") for p in candidato["content"]["parts"]))
+    return gemini.json_estructurado(SISTEMA, [{"text": contenido}], ESQUEMA)
 
 
 def main():
