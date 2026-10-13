@@ -49,20 +49,6 @@ jobs:
             sleep 60  # Commons da 429 si se encadenan descargas
           done
 
-      # QA visual automática con Gemini gratis (qa_imagenes.py). Los que la
-      # aprueban salen de pendientes_qa.txt; los demás no se publican hasta
-      # revisarlos a mano.
-      - name: QA de imágenes
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          [ -s pendientes_qa.txt ] || exit 0
-          for id in $(cat pendientes_qa.txt); do
-            if python scripts/qa_imagenes.py "$id"; then
-              sed -i "/^$id\$/d" pendientes_qa.txt
-            fi
-          done
-
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
@@ -72,11 +58,14 @@ jobs:
           git commit -m "Medios generados en GitHub Actions" || exit 0
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
 
-      # Que el run salga en ROJO (y GitHub mande correo) si algo no se generó o
-      # no pasó la QA. Antes salía en verde aunque fallaran todos (12/10/2026).
+      # La QA de imágenes NO va aquí: la lanza "QA de imágenes" al acabar este
+      # workflow (workflow_run). Junta, podía pasar del límite de tiempo y
+      # perderse también los medios generados (13/10/2026).
+
+      # Que el run salga en ROJO (y GitHub mande correo) si algo no se generó.
+      # Antes salía en verde aunque fallaran todos (12/10/2026).
       - name: Comprobar que no queda nada pendiente
         run: |
           pend=$(grep -v '^#' pendientes_medios.txt | grep -c . || true)
-          qa=$(grep -c . pendientes_qa.txt || true)
-          echo "Sin generar: $pend | Sin aprobar en QA: $qa"
-          [ "$pend" = 0 ] && [ "$qa" = 0 ]
+          echo "Sin generar: $pend"
+          [ "$pend" = 0 ]

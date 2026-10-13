@@ -1,10 +1,13 @@
 # QA visual automática (scripts/qa_imagenes.py, Gemini gratis) sobre los ids
 # indicados o los de pendientes_qa.txt, y sube las imágenes y miniaturas corregidas.
-# Preparar medios ya la ejecuta sola tras generar; esta la repite cada 6 h con lo
-# que quedó pendiente (si Gemini estaba saturado) y sirve para lanzarla a mano.
+# Se lanza sola al acabar Preparar medios, cada 6 h con lo que quedó pendiente
+# (si Gemini estaba saturado) y a mano.
 name: QA de imágenes
 
 on:
+  workflow_run:
+    workflows: ["Preparar medios"]
+    types: [completed]
   schedule:
     - cron: "40 */6 * * *"
   workflow_dispatch:
@@ -36,36 +39,43 @@ jobs:
         with:
           python-version: "3.12"
 
+      # Guarda (commit + push) tras cada vídeo y no empieza otro pasados 70 min:
+      # con Gemini saturado un vídeo puede tardar 30 min y, si GitHub corta el
+      # job a los 90, se perdía todo lo hecho (13/10). Lo que falte, en 6 h.
       - name: QA
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           IDS: ${{ inputs.ids }}
+          SIN_COMMIT: ${{ inputs.sin_commit }}
         run: |
           sudo apt-get install -y -qq fonts-dejavu fonts-liberation > /dev/null
           pip install -q requests pillow
+          git config user.name "github-actions[bot]"
+          git config user.email "41898183+github-actions[bot]@users.noreply.github.com"
           touch pendientes_qa.txt
           [ -z "$IDS" ] && [ ! -s pendientes_qa.txt ] && { echo "Nada pendiente"; exit 0; }
           for id in ${IDS:-$(cat pendientes_qa.txt)}; do
+            if [ $SECONDS -gt 4200 ]; then
+              echo "Sin tiempo para $id: queda para la siguiente"
+              echo "$id" >> /tmp/fallos_qa.txt
+              continue
+            fi
             if python scripts/qa_imagenes.py "$id"; then
               sed -i "/^$id\$/d" pendientes_qa.txt
             else
               echo "$id" >> /tmp/fallos_qa.txt
             fi
+            [ "$SIN_COMMIT" = true ] && continue
+            git add cola_imagenes cola_miniaturas pendientes_qa.txt
+            git commit -q -m "QA automática de imágenes: $id" || continue
+            for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
           done
 
-      - name: Commit
-        if: ${{ !inputs.sin_commit }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898183+github-actions[bot]@users.noreply.github.com"
-          git add cola_imagenes cola_miniaturas pendientes_qa.txt
-          git commit -m "QA automática de imágenes" || exit 0
-          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
-
-      # En las automáticas no se avisa: un fallo suele ser Gemini saturado y se
-      # reintenta en 6 h (si la cola de listos baja, ya avisa Métricas).
+      # Solo avisa en rojo si se lanzó a mano: en las automáticas un fallo suele
+      # ser Gemini saturado y se reintenta en 6 h (si la cola de listos baja, ya
+      # avisa Métricas).
       - name: Comprobar que todo pasó la QA
-        if: ${{ github.event_name != 'schedule' }}
+        if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
           fallos=$(cat /tmp/fallos_qa.txt 2>/dev/null | grep -c . || true)
           echo "Sin aprobar en QA en esta ejecución: $fallos"
