@@ -102,7 +102,7 @@ def generar(cuerpo: dict) -> dict:
     """Prueba los modelos en orden; ante saturación (429/503/500) reintenta una vez
     y pasa al siguiente."""
     ultimo = None
-    for modelo in modelos():
+    for modelo in list(modelos()):
         for intento in range(2):
             try:
                 resp = requests.post(f"{API_GEMINI}/models/{modelo}:generateContent",
@@ -113,6 +113,9 @@ def generar(cuerpo: dict) -> dict:
                 print(f"  [aviso] {modelo}: {type(e).__name__}, se prueba otro")
                 break
             if resp.ok:
+                # El que funcionó pasa a ser el primero para los demás comentarios.
+                _modelos.remove(modelo)
+                _modelos.insert(0, modelo)
                 return resp.json()
             ultimo = resp
             if resp.status_code not in (429, 500, 503):
