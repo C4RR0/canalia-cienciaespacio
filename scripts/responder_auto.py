@@ -7,7 +7,8 @@ contexto el título y la descripción del vídeo, y la publica.
 La IA es Gemini con el plan GRATUITO de Google AI Studio (decisión del
 usuario del 13/10/2026: nada de pago). GitHub Models, la primera opción, se
 retiró el 30/07/2026. El modelo se elige solo entre los "flash" que ofrezca la
-clave (los nombres cambian a menudo); GEMINI_MODEL lo fuerza si hace falta.
+clave (los nombres cambian a menudo), saltando al siguiente si uno está
+saturado; GEMINI_MODEL lo fuerza si hace falta.
 
 Reglas que sigue la IA (aprendidas respondiendo a mano):
 - Solo datos del propio vídeo o muy conocidos; si no está seguro, no aporta
@@ -24,6 +25,7 @@ Requiere token.json (YouTube) y GEMINI_API_KEY (gratis en aistudio.google.com).
 import json
 import os
 import sys
+import time
 from pathlib import Path
 
 import requests
@@ -34,7 +36,7 @@ from comentarios import _canal_propio, cargar_credenciales, listar_sin_responder
 CANAL = "Sabías Qué"
 MAX_POR_EJECUCION = 20
 API_GEMINI = "https://generativelanguage.googleapis.com/v1beta"
-_modelo = None
+_modelos = None
 # comentarios que la IA decidió no responder, para no gastar cuota en ellos
 IGNORADOS = Path(__file__).parent.parent / "comentarios_ignorados.txt"
 
@@ -66,18 +68,19 @@ ESQUEMA = {
 }
 
 
-def elegir_modelo() -> str:
-    """Primer Gemini "flash" de texto que admita generateContent, el más nuevo."""
-    global _modelo
-    if _modelo:
-        return _modelo
+def modelos() -> list[str]:
+    """Gemini "flash" de texto que admiten generateContent, del más nuevo al más
+    viejo (los "lite" al final, como último recurso)."""
+    global _modelos
+    if _modelos:
+        return _modelos
     if os.environ.get("GEMINI_MODEL"):
-        _modelo = os.environ["GEMINI_MODEL"]
-        return _modelo
+        _modelos = [os.environ["GEMINI_MODEL"]]
+        return _modelos
     resp = requests.get(f"{API_GEMINI}/models", params={"key": os.environ["GEMINI_API_KEY"],
                                                         "pageSize": 1000}, timeout=30)
     resp.raise_for_status()
-    excluir = ("image", "tts", "audio", "live", "embedding", "thinking", "exp", "preview", "lite")
+    excluir = ("image", "tts", "audio", "live", "embedding", "thinking", "exp", "preview")
     candidatos = [m["name"].removeprefix("models/") for m in resp.json().get("models", [])
                   if "generateContent" in m.get("supportedGenerationMethods", [])
                   and "flash" in m["name"] and not any(x in m["name"] for x in excluir)]
@@ -90,9 +93,28 @@ def elegir_modelo() -> str:
         except (IndexError, ValueError):
             return 0.0
 
-    _modelo = max(candidatos, key=lambda n: (version(n), -len(n)))
-    print(f"Modelo: {_modelo}")
-    return _modelo
+    _modelos = sorted(candidatos, key=lambda n: ("lite" in n, -version(n), len(n)))
+    print(f"Modelos: {', '.join(_modelos)}")
+    return _modelos
+
+
+def generar(cuerpo: dict) -> dict:
+    """Prueba los modelos en orden; ante saturación (429/503/500) reintenta una vez
+    y pasa al siguiente."""
+    ultimo = None
+    for modelo in modelos():
+        for intento in range(2):
+            resp = requests.post(f"{API_GEMINI}/models/{modelo}:generateContent",
+                                 params={"key": os.environ["GEMINI_API_KEY"]},
+                                 json=cuerpo, timeout=60)
+            if resp.ok:
+                return resp.json()
+            ultimo = resp
+            if resp.status_code not in (429, 500, 503):
+                break
+            time.sleep(10)
+        print(f"  [aviso] {modelo} devolvió {ultimo.status_code}, se prueba otro")
+    ultimo.raise_for_status()
 
 
 def info_videos(youtube, ids: list[str]) -> dict:
@@ -113,19 +135,12 @@ def redactar(video: dict, comentario: dict) -> dict | None:
         f"Descripción del vídeo:\n{video.get('descripcion', '')}\n\n"
         f"Comentario de {comentario['autor']}:\n{comentario['texto']}"
     )
-    resp = requests.post(
-        f"{API_GEMINI}/models/{elegir_modelo()}:generateContent",
-        params={"key": os.environ["GEMINI_API_KEY"]},
-        json={
-            "systemInstruction": {"parts": [{"text": SISTEMA}]},
-            "contents": [{"role": "user", "parts": [{"text": contenido}]}],
-            "generationConfig": {"responseMimeType": "application/json",
-                                 "responseSchema": ESQUEMA},
-        },
-        timeout=60,
-    )
-    resp.raise_for_status()
-    candidato = resp.json()["candidates"][0]
+    candidato = generar({
+        "systemInstruction": {"parts": [{"text": SISTEMA}]},
+        "contents": [{"role": "user", "parts": [{"text": contenido}]}],
+        "generationConfig": {"responseMimeType": "application/json",
+                             "responseSchema": ESQUEMA},
+    })["candidates"][0]
     if candidato.get("finishReason") != "STOP":
         print(f"  [aviso] finishReason={candidato.get('finishReason')}, se omite")
         return None
