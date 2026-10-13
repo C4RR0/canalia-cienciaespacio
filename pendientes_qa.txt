@@ -1,4 +1,3 @@
-short_161_gobio_escala_cascadas
 short_162_arana_buceadora
 short_163_elefante_marino_duerme
 short_164_mantis_orquidea
