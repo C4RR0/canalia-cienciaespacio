@@ -50,31 +50,31 @@ def modelos() -> list[str]:
     return _modelos
 
 
-def generar(cuerpo: dict) -> dict:
-    """Prueba los modelos en orden; ante saturación (429/503/500) reintenta una vez
-    y pasa al siguiente."""
+def generar(cuerpo: dict, rondas: int = 4) -> dict:
+    """Prueba los modelos en orden; si uno está saturado (429/500/503) o tarda,
+    pasa al siguiente (cada modelo tiene su propio cupo gratis). Si fallan todos,
+    espera a que se renueve el cupo por minuto y da otra ronda."""
     ultimo = None
-    for modelo in list(modelos()):
-        for intento in range(2):
+    for ronda in range(rondas):
+        if ronda:
+            print(f"  [aviso] todos los modelos saturados, espera {60 * ronda} s")
+            time.sleep(60 * ronda)
+        for modelo in list(modelos()):
             try:
                 resp = requests.post(f"{API_GEMINI}/models/{modelo}:generateContent",
                                      params={"key": os.environ["GEMINI_API_KEY"]},
-                                     json=cuerpo, timeout=60)
+                                     json=cuerpo, timeout=120)
             except (requests.Timeout, requests.ConnectionError) as e:
                 ultimo = e
                 print(f"  [aviso] {modelo}: {type(e).__name__}, se prueba otro")
-                break
+                continue
             if resp.ok:
                 # El que funcionó pasa a ser el primero para las siguientes llamadas.
                 _modelos.remove(modelo)
                 _modelos.insert(0, modelo)
                 return resp.json()
             ultimo = resp
-            if resp.status_code not in (429, 500, 503):
-                break
-            time.sleep(10)
-        else:
-            print(f"  [aviso] {modelo} devolvió {ultimo.status_code}, se prueba otro")
+            print(f"  [aviso] {modelo} devolvió {resp.status_code}, se prueba otro")
     if isinstance(ultimo, Exception):
         raise ultimo
     ultimo.raise_for_status()

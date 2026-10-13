@@ -34,6 +34,8 @@ COMMONS = "https://commons.wikimedia.org/w/api.php"
 H = {"User-Agent": "SabiasQueCanal/1.0 (educational YouTube shorts)"}
 N_IMAGENES = 8
 PAUSA = 4  # segundos entre llamadas: el plan gratis limita peticiones por minuto
+# Las fotos se juzgan en lotes (una llamada por lote): una a una, 5 vídeos
+# tardaban más de 90 min por los límites por minuto del plan gratis (13/10).
 
 SISTEMA = """Revisas fotos para un vídeo corto de divulgación (YouTube Shorts) sobre un tema \
 concreto. Cada foto se verá unos segundos a pantalla completa mientras la voz habla del tema.
@@ -53,20 +55,24 @@ Además puntúa de 0 a 10 lo buena que sería como MINIATURA: impactante, sujeto
 reconocible, sin texto."""
 
 ESQUEMA = {
-    "type": "OBJECT",
-    "properties": {
-        "apta": {"type": "BOOLEAN"},
-        "motivo": {"type": "STRING"},
-        "miniatura": {"type": "INTEGER"},
+    "type": "ARRAY",
+    "items": {
+        "type": "OBJECT",
+        "properties": {
+            "n": {"type": "INTEGER"},
+            "apta": {"type": "BOOLEAN"},
+            "motivo": {"type": "STRING"},
+            "miniatura": {"type": "INTEGER"},
+        },
+        "required": ["n", "apta", "motivo", "miniatura"],
     },
-    "required": ["apta", "motivo", "miniatura"],
 }
 
 
 def huella(img: Image.Image) -> int:
     """Hash medio de 8x8: detecta la misma foto a otra resolución o recorte leve."""
     g = img.convert("L").resize((8, 8))
-    px = list(g.getdata())
+    px = list(g.tobytes())
     media = sum(px) / 64
     return sum(1 << i for i, p in enumerate(px) if p > media)
 
@@ -75,12 +81,20 @@ def parecidas(a: int, b: int) -> bool:
     return bin(a ^ b).count("1") <= 6
 
 
-def juzgar(img: Image.Image, cfg: dict) -> dict:
+def juzgar(imgs: list, cfg: dict) -> list[dict]:
+    """Un veredicto por imagen, en el mismo orden, con una sola llamada."""
+    if not imgs:
+        return []
     tema = (f"Título: {cfg['titulo']}\nDescripción: {cfg.get('descripcion', '').split(chr(10))[0]}\n"
             f"Guion: {cfg.get('guion', '')}")
+    partes = [{"text": tema}]
+    for i, img in enumerate(imgs, 1):
+        partes += [{"text": f"Foto {i}:"}, gemini.parte_imagen(img, 640)]
     time.sleep(PAUSA)
-    r = gemini.json_estructurado(SISTEMA, [{"text": tema}, gemini.parte_imagen(img)], ESQUEMA)
-    return r or {"apta": False, "motivo": "sin respuesta", "miniatura": 0}
+    r = gemini.json_estructurado(SISTEMA, partes, ESQUEMA) or []
+    por_n = {v.get("n"): v for v in r if isinstance(v, dict)}
+    return [por_n.get(i, {"apta": False, "motivo": "sin respuesta", "miniatura": 0})
+            for i in range(1, len(imgs) + 1)]
 
 
 def candidatas_commons(query: str, vistas: set) -> list[str]:
@@ -129,52 +143,62 @@ def revisar(vid: str):
 
     buenas = {}  # n -> (huella, nota miniatura)
     malas = []
+    a_juzgar = []  # (n, imagen, huella)
     for n in range(1, N_IMAGENES + 1):
         f = carpeta / f"img_{n:02d}.jpg"
         if not f.exists():
             malas.append(n)
             print(f"  img_{n:02d}: falta")
             continue
-        img = Image.open(f)
+        img = Image.open(f).convert("RGB")
         h = huella(img)
-        if any(parecidas(h, b[0]) for b in buenas.values()):
+        if any(parecidas(h, x[2]) for x in a_juzgar):
             malas.append(n)
             print(f"  img_{n:02d}: duplicada")
             continue
-        j = juzgar(img, cfg)
+        a_juzgar.append((n, img, h))
+    for (n, _, h), j in zip(a_juzgar, juzgar([x[1] for x in a_juzgar], cfg)):
         print(f"  img_{n:02d}: {'OK ' if j['apta'] else 'MAL'} ({j['miniatura']}) {j['motivo'][:90]}")
         if j["apta"]:
             buenas[n] = (h, j["miniatura"])
         else:
             malas.append(n)
+    malas.sort()
 
-    # Búsquedas para sustituir: las del config y variantes con el título de Commons
+    # Sustitutas de Commons con las búsquedas del config, juzgadas por lotes
     vistas = set()
-    queries = list(dict.fromkeys(cfg.get("queries_imagenes", [])))
-    pendientes_q = []
-    for q in queries:
-        pendientes_q.extend(candidatas_commons(q, vistas))
-        vistas.update(pendientes_q)
-        if len(pendientes_q) >= 4 * max(len(malas), 1) + 8:
+    titulos = []
+    for q in dict.fromkeys(cfg.get("queries_imagenes", [])):
+        nuevos = candidatas_commons(q, vistas)
+        vistas.update(nuevos)
+        titulos.extend(nuevos)
+        if len(titulos) >= 3 * len(malas) + 6:
             break
-    for n in malas:
-        puesta = False
-        while pendientes_q and not puesta:
-            titulo = pendientes_q.pop(0)
+    for _ in range(3):
+        if not malas or not titulos:
+            break
+        lote = []  # (titulo, imagen, huella)
+        while titulos and len(lote) < min(10, len(malas) + 4):
+            titulo = titulos.pop(0)
             img = descargar_commons(titulo)
             if img is None:
                 continue
             h = huella(img)
-            if any(parecidas(h, b[0]) for b in buenas.values()):
+            if any(parecidas(h, b[0]) for b in buenas.values()) or any(parecidas(h, x[2]) for x in lote):
                 continue
-            j = juzgar(img, cfg)
-            if j["apta"]:
-                img.save(carpeta / f"img_{n:02d}.jpg", quality=92)
-                buenas[n] = (h, j["miniatura"])
-                puesta = True
-                print(f"  img_{n:02d} <- {titulo} ({j['miniatura']})")
-        if not puesta:
-            print(f"  img_{n:02d}: sin sustituta apta")
+            lote.append((titulo, img, h))
+        veredictos = juzgar([x[1] for x in lote], cfg)
+        aptas = sorted((v["miniatura"], i) for i, v in enumerate(veredictos) if v["apta"])[::-1]
+        for nota, i in aptas:
+            if not malas:
+                break
+            titulo, img, h = lote[i]
+            n = malas.pop(0)
+            img.save(carpeta / f"img_{n:02d}.jpg", quality=92)
+            buenas[n] = (h, nota)
+            print(f"  img_{n:02d} <- {titulo} ({nota})")
+    for n in malas:
+        print(f"  img_{n:02d}: sin sustituta apta")
 
     # Si quedan huecos, se rellenan copiando las buenas (el montaje necesita 8 seguidas)
     numeros = sorted(buenas)
