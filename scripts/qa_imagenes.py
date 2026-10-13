@@ -46,7 +46,8 @@ Una foto es APTA solo si:
 directamente relacionado que se menciona en el guion.
 - Se entiende sin leer: NO mapas, gráficas, diagramas, esquemas, tablas, documentos, sellos, \
 carteles con mucho texto, ni láminas científicas con letras o escalas.
-- No parece generada por IA (rasgos deformes, anatomía imposible, aspecto de dibujo o 3D).
+- No parece generada por IA (rasgos deformes, anatomía imposible, aspecto de dibujo o 3D, \
+animales o crías demasiado perfectos y esponjosos, como de peluche). Si dudas, NO es apta.
 - No es otra cosa con el mismo nombre (otra especie, otro pueblo, una persona homónima, un \
 producto comercial, un logotipo).
 - No está muy borrosa, minúscula o casi toda vacía.
@@ -81,10 +82,7 @@ def parecidas(a: int, b: int) -> bool:
     return bin(a ^ b).count("1") <= 6
 
 
-def juzgar(imgs: list, cfg: dict) -> list[dict]:
-    """Un veredicto por imagen, en el mismo orden, con una sola llamada."""
-    if not imgs:
-        return []
+def _un_juicio(imgs: list, cfg: dict) -> list[dict]:
     tema = (f"Título: {cfg['titulo']}\nDescripción: {cfg.get('descripcion', '').split(chr(10))[0]}\n"
             f"Guion: {cfg.get('guion', '')}")
     partes = [{"text": tema}]
@@ -95,6 +93,19 @@ def juzgar(imgs: list, cfg: dict) -> list[dict]:
     por_n = {v.get("n"): v for v in r if isinstance(v, dict)}
     return [por_n.get(i, {"apta": False, "motivo": "sin respuesta", "miniatura": 0})
             for i in range(1, len(imgs) + 1)]
+
+
+def juzgar(imgs: list, cfg: dict) -> list[dict]:
+    """Un veredicto por imagen, en el mismo orden. Se juzga dos veces (la
+    segunda en orden inverso) y solo es apta si lo es en las dos: un solo
+    juicio dio por buena una cría hecha con IA que en otra pasada rechazó (13/10)."""
+    if not imgs:
+        return []
+    a = _un_juicio(imgs, cfg)
+    b = _un_juicio(imgs[::-1], cfg)[::-1]
+    return [x if not x["apta"] else y if not y["apta"]
+            else {**x, "miniatura": min(x["miniatura"], y["miniatura"])}
+            for x, y in zip(a, b)]
 
 
 def candidatas_commons(query: str, vistas: set) -> list[str]:
