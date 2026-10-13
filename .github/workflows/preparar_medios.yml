@@ -1,8 +1,8 @@
 # Genera voz, imágenes, subtítulos y miniatura de los ids listados en
 # pendientes_medios.txt (uno por línea) y los sube al repo para la revisión visual
 # en local. Cada id que sale bien se quita de la lista.
-# Existe porque desde el 10/10/2026 edge-tts da 403 desde España pero funciona
-# desde EE. UU. (rany2/edge-tts#490), y los runners de GitHub están allí.
+# Creado el 12/10/2026 cuando edge-tts daba 403 en local (luego resultó ser un cambio
+# de endpoint, ver generar_audio.py); se mantiene para generar sin el PC.
 name: Preparar medios
 
 on:
