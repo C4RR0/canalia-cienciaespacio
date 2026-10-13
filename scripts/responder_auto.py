@@ -4,6 +4,10 @@ Pensado para GitHub Actions: lee los comentarios sin respuesta con
 comentarios.py, pide a Claude una respuesta por comentario usando como
 contexto el título y la descripción del vídeo, y la publica.
 
+La IA es GitHub Models (gratis, con el GITHUB_TOKEN del propio workflow; sin
+claves ni pagos, decisión del usuario del 13/10/2026). Límite gratuito de
+gpt-4.1: ~50 peticiones/día, de sobra para el ritmo de comentarios del canal.
+
 Reglas que sigue la IA (aprendidas respondiendo a mano):
 - Solo datos del propio vídeo o muy conocidos; si no está seguro, no aporta
   datos nuevos (lección del 28/09: dos datos erróneos sobre Vesna).
@@ -12,21 +16,25 @@ Reglas que sigue la IA (aprendidas respondiendo a mano):
 Uso:
     python responder_auto.py            # responde de verdad
     python responder_auto.py --prueba   # solo imprime lo que respondería
+    python responder_auto.py --probar-modelo  # responde a un comentario inventado
 
-Requiere token.json (YouTube) y ANTHROPIC_API_KEY en el entorno.
+Requiere token.json (YouTube) y GITHUB_TOKEN (con permiso models: read).
 """
 import json
+import os
 import sys
 from pathlib import Path
 
-import anthropic
+import requests
 from googleapiclient.discovery import build
 
 from comentarios import _canal_propio, cargar_credenciales, listar_sin_responder, responder
 
 CANAL = "Sabías Qué"
 MAX_POR_EJECUCION = 20
-# comentarios que la IA decidió no responder, para no volver a pagar por ellos
+MODELO = "openai/gpt-4.1"
+ENDPOINT = "https://models.github.ai/inference/chat/completions"
+# comentarios que la IA decidió no responder, para no gastar cuota en ellos
 IGNORADOS = Path(__file__).parent.parent / "comentarios_ignorados.txt"
 
 SISTEMA = f"""Eres quien lleva el canal de YouTube "{CANAL}" (Shorts de curiosidades de ciencia, \
@@ -70,29 +78,39 @@ def info_videos(youtube, ids: list[str]) -> dict:
     return info
 
 
-def redactar(cliente, video: dict, comentario: dict) -> dict | None:
+def redactar(video: dict, comentario: dict) -> dict | None:
     contenido = (
         f"Vídeo: {video.get('titulo', '(desconocido)')}\n"
         f"Descripción del vídeo:\n{video.get('descripcion', '')}\n\n"
         f"Comentario de {comentario['autor']}:\n{comentario['texto']}"
     )
-    resp = cliente.beta.messages.create(
-        model="claude-opus-5-5",
-        max_tokens=4000,
-        betas=["server-side-fallback-2026-07-01"],
-        fallbacks="default",
-        output_config={"effort": "low", "format": {"type": "json_schema", "schema": ESQUEMA}},
-        system=SISTEMA,
-        messages=[{"role": "user", "content": contenido}],
+    resp = requests.post(
+        ENDPOINT,
+        headers={"Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}",
+                 "Content-Type": "application/json"},
+        json={
+            "model": MODELO,
+            "messages": [{"role": "system", "content": SISTEMA},
+                         {"role": "user", "content": contenido}],
+            "response_format": {"type": "json_schema", "json_schema": {
+                "name": "respuesta", "strict": True, "schema": ESQUEMA}},
+        },
+        timeout=60,
     )
-    if resp.stop_reason != "end_turn":
-        print(f"  [aviso] stop_reason={resp.stop_reason}, se omite")
+    resp.raise_for_status()
+    eleccion = resp.json()["choices"][0]
+    if eleccion.get("finish_reason") != "stop":
+        print(f"  [aviso] finish_reason={eleccion.get('finish_reason')}, se omite")
         return None
-    texto = next(b.text for b in resp.content if b.type == "text")
-    return json.loads(texto)
+    return json.loads(eleccion["message"]["content"])
 
 
 def main():
+    if "--probar-modelo" in sys.argv:
+        video = {"titulo": "Las orcas cazan tiburones blancos para comerse solo el hígado",
+                 "descripcion": "Las orcas de Sudáfrica abren al tiburón y se comen solo el hígado."}
+        print(redactar(video, {"autor": "@prueba", "texto": "¿Y por qué solo el hígado? 😮"}))
+        return
     prueba = "--prueba" in sys.argv
     youtube = build("youtube", "v3", credentials=cargar_credenciales())
     mi_id = _canal_propio(youtube)
@@ -104,13 +122,12 @@ def main():
         return
 
     videos = info_videos(youtube, sorted({c["video_id"] for c in pendientes}))
-    cliente = anthropic.Anthropic()
     errores = 0
     for c in pendientes:
         print(f"\n[{c['autor']}] {c['texto']}")
         try:
-            r = redactar(cliente, videos.get(c["video_id"], {}), c)
-        except anthropic.APIError as e:
+            r = redactar(videos.get(c["video_id"], {}), c)
+        except requests.RequestException as e:
             print(f"  [error API] {e}")
             errores += 1
             continue

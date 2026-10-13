@@ -1,5 +1,5 @@
-# Responde solo a los comentarios nuevos del canal con la API de Anthropic (sin Claude Code).
-# Requiere los secrets YOUTUBE_TOKEN_JSON y ANTHROPIC_API_KEY.
+# Responde solo a los comentarios nuevos del canal con GitHub Models (gratis, sin Claude Code).
+# Requiere el secret YOUTUBE_TOKEN_JSON; la IA usa el GITHUB_TOKEN del propio workflow.
 name: Responder comentarios
 
 # El cron de GitHub no se disparaba en este repo (24-25/09/2026): si sigue sin
@@ -14,6 +14,10 @@ on:
         description: "Ensayo: muestra las respuestas SIN publicarlas"
         type: boolean
         default: false
+      probar_modelo:
+        description: "Solo comprobar que la IA responde (comentario inventado)"
+        type: boolean
+        default: false
 
 concurrency:
   group: comentarios
@@ -21,6 +25,7 @@ concurrency:
 
 permissions:
   contents: write
+  models: read
 
 jobs:
   responder:
@@ -36,11 +41,11 @@ jobs:
       - name: Responder
         env:
           YOUTUBE_TOKEN_JSON: ${{ secrets.YOUTUBE_TOKEN_JSON }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          pip install -q google-api-python-client google-auth anthropic
+          pip install -q google-api-python-client google-auth requests
           printf '%s' "$YOUTUBE_TOKEN_JSON" > token.json
-          python scripts/responder_auto.py ${{ inputs.prueba && '--prueba' || '' }}
+          python scripts/responder_auto.py ${{ inputs.prueba && '--prueba' || '' }} ${{ inputs.probar_modelo && '--probar-modelo' || '' }}
           rm -f token.json
 
       - name: Guardar comentarios ignorados
