@@ -7,6 +7,5 @@ short_164_mantis_orquidea
 short_165_gusano_terciopelo
 short_166_raton_saltamontes
 short_167_oimiakon_frio
-short_168_yamaguchi_dos_bombas
 short_169_derinkuyu_ciudad
 short_170_kowloon_amurallada
