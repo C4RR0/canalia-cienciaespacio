@@ -125,8 +125,15 @@ def descargar_commons(titulo: str) -> Image.Image | None:
     try:
         r = requests.get(COMMONS, headers=H, timeout=30, params={
             "action": "query", "format": "json", "titles": titulo,
-            "prop": "imageinfo", "iiprop": "url", "iiurlwidth": 1280}).json()
+            "prop": "imageinfo", "iiprop": "url|size", "iiurlwidth": 1280}).json()
         info = next(iter(r["query"]["pages"].values()))["imageinfo"][0]
+        if info.get("width", 0) <= 1280:
+            # Más pequeña que 1280: Commons da 429 ("thumbnail_unscaled") si se pide
+            # a su tamaño; se pide 1 px menos para que genere una miniatura de verdad.
+            r = requests.get(COMMONS, headers=H, timeout=30, params={
+                "action": "query", "format": "json", "titles": titulo, "prop": "imageinfo",
+                "iiprop": "url", "iiurlwidth": max(info["width"] - 1, 300)}).json()
+            info = next(iter(r["query"]["pages"].values()))["imageinfo"][0]
     except (requests.RequestException, ValueError, KeyError, StopIteration):
         return None
     for intento in range(4):
