@@ -74,6 +74,25 @@ def main():
     _append(DIR / "videos.csv", ["fecha", "video_id", "publicado", "duracion_s", "vistas", "likes",
                                  "comentarios", "titulo"], filas)
     print(f"{fecha}: {st.get('subscriberCount')} subs, {st.get('viewCount')} vistas, {len(filas)} vídeos")
+    _analytics(creds, fecha)
+
+
+def _analytics(creds, fecha: str):
+    """Suscriptores ganados y % visto por vídeo (YouTube Analytics), para medir
+    experimentos como el cierre con invitación a suscribirse (13/10/2026).
+    Necesita el scope yt-analytics.readonly; si el token no lo tiene, avisa y sigue."""
+    try:
+        a = build("youtubeAnalytics", "v2", credentials=creds)
+        r = a.reports().query(ids="channel==MINE", startDate="2026-09-01", endDate=fecha,
+                              metrics="views,subscribersGained,averageViewPercentage",
+                              dimensions="video", sort="-views", maxResults=200).execute()
+    except Exception as e:
+        print(f"AVISO: sin datos de Analytics ({str(e)[:120]})")
+        return
+    _append(DIR / "videos_analytics.csv",
+            ["fecha", "video_id", "vistas", "subs_ganados", "porcentaje_visto"],
+            [[fecha, *fila] for fila in r.get("rows", [])])
+    print(f"Analytics: {len(r.get('rows', []))} vídeos")
 
 
 if __name__ == "__main__":
