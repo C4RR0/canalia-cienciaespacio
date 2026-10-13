@@ -104,16 +104,24 @@ def generar(cuerpo: dict) -> dict:
     ultimo = None
     for modelo in modelos():
         for intento in range(2):
-            resp = requests.post(f"{API_GEMINI}/models/{modelo}:generateContent",
-                                 params={"key": os.environ["GEMINI_API_KEY"]},
-                                 json=cuerpo, timeout=60)
+            try:
+                resp = requests.post(f"{API_GEMINI}/models/{modelo}:generateContent",
+                                     params={"key": os.environ["GEMINI_API_KEY"]},
+                                     json=cuerpo, timeout=60)
+            except (requests.Timeout, requests.ConnectionError) as e:
+                ultimo = e
+                print(f"  [aviso] {modelo}: {type(e).__name__}, se prueba otro")
+                break
             if resp.ok:
                 return resp.json()
             ultimo = resp
             if resp.status_code not in (429, 500, 503):
                 break
             time.sleep(10)
-        print(f"  [aviso] {modelo} devolvió {ultimo.status_code}, se prueba otro")
+        else:
+            print(f"  [aviso] {modelo} devolvió {ultimo.status_code}, se prueba otro")
+    if isinstance(ultimo, Exception):
+        raise ultimo
     ultimo.raise_for_status()
 
 
