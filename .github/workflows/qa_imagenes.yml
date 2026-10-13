@@ -17,7 +17,7 @@ on:
         default: false
 
 concurrency:
-  group: preparar-medios
+  group: qa-imagenes
   cancel-in-progress: false
 
 permissions:
