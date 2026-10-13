@@ -71,3 +71,12 @@ jobs:
           git add cola_audio cola_imagenes cola_subtitulos cola_miniaturas pendientes_medios.txt pendientes_qa.txt
           git commit -m "Medios generados en GitHub Actions" || exit 0
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+
+      # Que el run salga en ROJO (y GitHub mande correo) si algo no se generó o
+      # no pasó la QA. Antes salía en verde aunque fallaran todos (12/10/2026).
+      - name: Comprobar que no queda nada pendiente
+        run: |
+          pend=$(grep -v '^#' pendientes_medios.txt | grep -c . || true)
+          qa=$(grep -c . pendientes_qa.txt || true)
+          echo "Sin generar: $pend | Sin aprobar en QA: $qa"
+          [ "$pend" = 0 ] && [ "$qa" = 0 ]

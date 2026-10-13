@@ -40,3 +40,10 @@ jobs:
           git add metricas
           git commit -m "Metricas diarias $(date -u +%F)" || exit 0
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+
+      # Aviso (run en rojo = correo de GitHub) si quedan menos de 2 días de vídeos.
+      - name: Comprobar que la cola no se vacía
+        run: |
+          n=$(python -c "import sys; sys.path.insert(0, 'scripts'); import publicar_siguiente as p; print(len(p.ids_listos()))")
+          echo "Vídeos listos en cola: $n"
+          [ "$n" -ge 10 ]

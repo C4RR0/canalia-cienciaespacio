@@ -45,6 +45,8 @@ jobs:
           for id in ${IDS:-$(cat pendientes_qa.txt)}; do
             if python scripts/qa_imagenes.py "$id"; then
               sed -i "/^$id\$/d" pendientes_qa.txt
+            else
+              echo "$id" >> /tmp/fallos_qa.txt
             fi
           done
 
@@ -56,3 +58,9 @@ jobs:
           git add cola_imagenes cola_miniaturas pendientes_qa.txt
           git commit -m "QA automática de imágenes" || exit 0
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+
+      - name: Comprobar que todo pasó la QA
+        run: |
+          fallos=$(cat /tmp/fallos_qa.txt 2>/dev/null | grep -c . || true)
+          echo "Sin aprobar en QA en esta ejecución: $fallos"
+          [ "$fallos" = 0 ]
