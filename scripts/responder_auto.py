@@ -4,9 +4,10 @@ Pensado para GitHub Actions: lee los comentarios sin respuesta con
 comentarios.py, pide a Claude una respuesta por comentario usando como
 contexto el título y la descripción del vídeo, y la publica.
 
-La IA es GitHub Models (gratis, con el GITHUB_TOKEN del propio workflow; sin
-claves ni pagos, decisión del usuario del 13/10/2026). Límite gratuito de
-gpt-4.1: ~50 peticiones/día, de sobra para el ritmo de comentarios del canal.
+La IA es Gemini con el plan GRATUITO de Google AI Studio (decisión del
+usuario del 13/10/2026: nada de pago). GitHub Models, la primera opción, se
+retiró el 30/07/2026. El modelo se elige solo entre los "flash" que ofrezca la
+clave (los nombres cambian a menudo); GEMINI_MODEL lo fuerza si hace falta.
 
 Reglas que sigue la IA (aprendidas respondiendo a mano):
 - Solo datos del propio vídeo o muy conocidos; si no está seguro, no aporta
@@ -18,7 +19,7 @@ Uso:
     python responder_auto.py --prueba   # solo imprime lo que respondería
     python responder_auto.py --probar-modelo  # responde a un comentario inventado
 
-Requiere token.json (YouTube) y GITHUB_TOKEN (con permiso models: read).
+Requiere token.json (YouTube) y GEMINI_API_KEY (gratis en aistudio.google.com).
 """
 import json
 import os
@@ -32,8 +33,8 @@ from comentarios import _canal_propio, cargar_credenciales, listar_sin_responder
 
 CANAL = "Sabías Qué"
 MAX_POR_EJECUCION = 20
-MODELO = "openai/gpt-4.1"
-ENDPOINT = "https://models.github.ai/inference/chat/completions"
+API_GEMINI = "https://generativelanguage.googleapis.com/v1beta"
+_modelo = None
 # comentarios que la IA decidió no responder, para no gastar cuota en ellos
 IGNORADOS = Path(__file__).parent.parent / "comentarios_ignorados.txt"
 
@@ -56,14 +57,42 @@ No respondas (responder=false) a: spam, insultos u odio, enlaces o autopromoció
 sin sentido, o temas que no tengan nada que ver y puedan generar polémica (política, religión)."""
 
 ESQUEMA = {
-    "type": "object",
+    "type": "OBJECT",
     "properties": {
-        "responder": {"type": "boolean"},
-        "respuesta": {"type": "string"},
+        "responder": {"type": "BOOLEAN"},
+        "respuesta": {"type": "STRING"},
     },
     "required": ["responder", "respuesta"],
-    "additionalProperties": False,
 }
+
+
+def elegir_modelo() -> str:
+    """Primer Gemini "flash" de texto que admita generateContent, el más nuevo."""
+    global _modelo
+    if _modelo:
+        return _modelo
+    if os.environ.get("GEMINI_MODEL"):
+        _modelo = os.environ["GEMINI_MODEL"]
+        return _modelo
+    resp = requests.get(f"{API_GEMINI}/models", params={"key": os.environ["GEMINI_API_KEY"],
+                                                        "pageSize": 1000}, timeout=30)
+    resp.raise_for_status()
+    excluir = ("image", "tts", "audio", "live", "embedding", "thinking", "exp", "preview", "lite")
+    candidatos = [m["name"].removeprefix("models/") for m in resp.json().get("models", [])
+                  if "generateContent" in m.get("supportedGenerationMethods", [])
+                  and "flash" in m["name"] and not any(x in m["name"] for x in excluir)]
+    if not candidatos:
+        raise RuntimeError("La clave no ofrece ningún modelo Gemini flash")
+
+    def version(nombre):
+        try:
+            return float(nombre.split("-")[1])
+        except (IndexError, ValueError):
+            return 0.0
+
+    _modelo = max(candidatos, key=lambda n: (version(n), -len(n)))
+    print(f"Modelo: {_modelo}")
+    return _modelo
 
 
 def info_videos(youtube, ids: list[str]) -> dict:
@@ -85,24 +114,22 @@ def redactar(video: dict, comentario: dict) -> dict | None:
         f"Comentario de {comentario['autor']}:\n{comentario['texto']}"
     )
     resp = requests.post(
-        ENDPOINT,
-        headers={"Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}",
-                 "Content-Type": "application/json"},
+        f"{API_GEMINI}/models/{elegir_modelo()}:generateContent",
+        params={"key": os.environ["GEMINI_API_KEY"]},
         json={
-            "model": MODELO,
-            "messages": [{"role": "system", "content": SISTEMA},
-                         {"role": "user", "content": contenido}],
-            "response_format": {"type": "json_schema", "json_schema": {
-                "name": "respuesta", "strict": True, "schema": ESQUEMA}},
+            "systemInstruction": {"parts": [{"text": SISTEMA}]},
+            "contents": [{"role": "user", "parts": [{"text": contenido}]}],
+            "generationConfig": {"responseMimeType": "application/json",
+                                 "responseSchema": ESQUEMA},
         },
         timeout=60,
     )
     resp.raise_for_status()
-    eleccion = resp.json()["choices"][0]
-    if eleccion.get("finish_reason") != "stop":
-        print(f"  [aviso] finish_reason={eleccion.get('finish_reason')}, se omite")
+    candidato = resp.json()["candidates"][0]
+    if candidato.get("finishReason") != "STOP":
+        print(f"  [aviso] finishReason={candidato.get('finishReason')}, se omite")
         return None
-    return json.loads(eleccion["message"]["content"])
+    return json.loads("".join(p.get("text", "") for p in candidato["content"]["parts"]))
 
 
 def main():
@@ -119,6 +146,9 @@ def main():
                   if c["comment_id"] not in ignorados][:MAX_POR_EJECUCION]
     print(f"{len(pendientes)} comentarios sin responder")
     if not pendientes:
+        return
+    if not os.environ.get("GEMINI_API_KEY"):
+        print("Falta el secret GEMINI_API_KEY: no se responde nada.")
         return
 
     videos = info_videos(youtube, sorted({c["video_id"] for c in pendientes}))
