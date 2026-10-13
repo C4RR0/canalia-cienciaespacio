@@ -1,4 +1,3 @@
-short_159_pajaro_jardinero
 short_160_pez_globo_circulos
 short_161_gobio_escala_cascadas
 short_162_arana_buceadora
