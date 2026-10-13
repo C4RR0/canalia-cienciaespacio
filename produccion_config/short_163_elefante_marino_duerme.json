@@ -1,0 +1,33 @@
+{
+  "id": "short_163_elefante_marino_duerme",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este animal se duerme mientras se hunde en el mar.\n\nEs el elefante marino. Pasa meses en el océano, y allí duerme solo unas dos horas al día.\n\nPara hacerlo, se sumerge a cientos de metros, lejos de las orcas y los tiburones que cazan cerca de la superficie.\n\nEn plena inmersión se queda dormido y va cayendo en espiral, como una hoja, hacia el fondo.\n\nLos científicos lo descubrieron poniéndoles sensores de actividad cerebral.\n\nEn tierra, en cambio, puede dormir más de diez horas al día.",
+  "queries_imagenes": [
+    "Mirounga angustirostris",
+    "northern elephant seal",
+    "elephant seal underwater",
+    "elephant seal sleeping beach",
+    "Año Nuevo elephant seals",
+    "elephant seal male",
+    "Mirounga",
+    "elephant seal swimming"
+  ],
+  "titulo": "Este animal se duerme mientras se hunde en el mar",
+  "descripcion": "El elefante marino del norte duerme unas 2 horas al día en el mar, durante inmersiones profundas en las que cae en espiral. En tierra duerme más de 10 horas.\n\n#elefantemarino #elefantemarinodurmiendo #animalesmarinos #shorts",
+  "tags": [
+    "elefante marino",
+    "elefante marino durmiendo",
+    "animales marinos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "DUERME CAYENDO",
+  "prompt_miniatura": "an elephant seal sinking asleep into the dark deep ocean, underwater photography"
+}

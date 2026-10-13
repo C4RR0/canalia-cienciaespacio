@@ -104,6 +104,19 @@ short_156_monowi_una_habitante
 short_153_picozapato
 short_154_pez_loro_moco
 short_158_pozo_kola
+# 13/10: tanda 159-170 (títulos con el sujeto oculto; 8 animales con acción + 4 lugares/historia), 2:1
+short_159_pajaro_jardinero
+short_166_raton_saltamontes
+short_169_derinkuyu_ciudad
+short_163_elefante_marino_duerme
+short_164_mantis_orquidea
+short_168_yamaguchi_dos_bombas
+short_160_pez_globo_circulos
+short_165_gusano_terciopelo
+short_167_oimiakon_frio
+short_162_arana_buceadora
+short_161_gobio_escala_cascadas
+short_170_kowloon_amurallada
 short_053_nieve_sandia
 short_067_platanos_radiactivos
 short_080_piedras_que_se_mueven

@@ -1,0 +1,33 @@
+{
+  "id": "short_161_gobio_escala_cascadas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pez sube cascadas de decenas de metros. Y lo hace con la boca.\n\nVive en los ríos de Hawái. Nace en el río, pero las larvas acaban en el mar, y para volver tienen que remontar las cascadas.\n\nTiene una ventosa en el vientre, formada por las aletas, y otra en la boca. Se pega a la roca mojada y avanza alternando las dos, centímetro a centímetro.\n\nAsí escala paredes casi verticales mientras le cae el agua encima.\n\nAlgunos llegan a lo alto de cascadas de más de cien metros.",
+  "queries_imagenes": [
+    "Sicyopterus stimpsoni",
+    "Hawaii waterfall stream",
+    "Lentipes concolor",
+    "Akaka Falls",
+    "goby suction disc",
+    "Hawaii stream rocks",
+    "Gobiidae",
+    "Waipio valley waterfall"
+  ],
+  "titulo": "Este pez escala cascadas usando la boca como ventosa",
+  "descripcion": "Los gobios de Hawái (como Sicyopterus stimpsoni) remontan cascadas pegándose a la roca con una ventosa ventral y otra en la boca.\n\n#pezqueescalacascadas #gobiohawai #pecesraros #shorts",
+  "tags": [
+    "pez que escala cascadas",
+    "gobio hawai",
+    "peces raros",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SUBE CASCADAS",
+  "prompt_miniatura": "a small fish clinging to a wet vertical rock under a waterfall in Hawaii"
+}

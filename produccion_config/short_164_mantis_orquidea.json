@@ -1,0 +1,33 @@
+{
+  "id": "short_164_mantis_orquidea",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este insecto parece una flor. Y eso lo convierte en un cazador perfecto.\n\nEs la mantis orquídea, del sudeste asiático. Es blanca y rosada, y sus patas tienen forma de pétalos.\n\nSe queda quieta sobre las plantas, y los insectos que buscan néctar vuelan directos hacia ella.\n\nCuando se acercan, los atrapa con sus patas delanteras.\n\nLo más curioso es que no imita a ninguna flor en concreto. Los experimentos mostraron que a los polinizadores les atrae incluso más que muchas flores de verdad.",
+  "queries_imagenes": [
+    "Hymenopus coronatus",
+    "orchid mantis",
+    "orchid mantis flower",
+    "Hymenopus coronatus nymph",
+    "orchid mantis pink",
+    "Hymenopus",
+    "orchid mantis hunting",
+    "Malaysia rainforest flowers"
+  ],
+  "titulo": "Este insecto se disfraza de flor para cazar",
+  "descripcion": "La mantis orquídea (Hymenopus coronatus) del sudeste asiático parece una flor y atrae a los insectos polinizadores, que caza al acercarse.\n\n#mantisorquidea #hymenopuscoronatus #insectosraros #shorts",
+  "tags": [
+    "mantis orquidea",
+    "hymenopus coronatus",
+    "insectos raros",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO ES UNA FLOR",
+  "prompt_miniatura": "a pink and white orchid mantis perfectly camouflaged on an orchid flower"
+}

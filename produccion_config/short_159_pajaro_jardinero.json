@@ -1,0 +1,33 @@
+{
+  "id": "short_159_pajaro_jardinero",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro roba tapones, pinzas y bolígrafos. Pero solo si son azules.\n\nEs el pájaro jardinero satinado, de Australia. El macho construye en el suelo una especie de pasillo de ramitas, y delante lo decora con todos los objetos azules que encuentra: flores, plumas, conchas... y basura humana.\n\nLos coloca con cuidado, y si alguien le mueve uno, lo vuelve a poner en su sitio.\n\nTodo es para impresionar a la hembra. Ella visita varias construcciones y elige al macho con la mejor.\n\nY algunos machos roban objetos de las construcciones de sus vecinos.",
+  "queries_imagenes": [
+    "Ptilonorhynchus violaceus",
+    "satin bowerbird bower",
+    "satin bowerbird blue objects",
+    "satin bowerbird male",
+    "satin bowerbird female",
+    "bowerbird bower blue",
+    "Ptilonorhynchus violaceus male",
+    "bowerbird Australia"
+  ],
+  "titulo": "Este pájaro roba objetos azules para conquistar a la hembra",
+  "descripcion": "El pájaro jardinero satinado (Ptilonorhynchus violaceus) de Australia construye un pasillo de ramitas y lo decora con objetos azules, incluida basura humana, para atraer a la hembra.\n\n#pajarojardinero #pajarojardinerosatinado #avesdeaustralia #shorts",
+  "tags": [
+    "pajaro jardinero",
+    "pajaro jardinero satinado",
+    "aves de australia",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SOLO LE GUSTA EL AZUL",
+  "prompt_miniatura": "a satin bowerbird surrounded by blue plastic objects and feathers on the forest floor"
+}

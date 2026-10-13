@@ -1,0 +1,34 @@
+{
+  "id": "short_169_derinkuyu_ciudad",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En 1963, un hombre tiró una pared de su casa y encontró una ciudad entera bajo tierra.\n\nEstá en Derinkuyu, en Turquía. Tiene varios pisos excavados en la roca, a decenas de metros de profundidad.\n\nTenía establos, bodegas, cocinas, pozos y hasta capillas, unidos por túneles.\n\nCabían miles de personas con sus animales, y se cerraba desde dentro con enormes puertas de piedra redondas.\n\nSe usó durante siglos para esconderse de las invasiones.\n\nY un túnel de varios kilómetros la une con otra ciudad subterránea.",
+  "queries_imagenes": [
+    "Derinkuyu underground city",
+    "Derinkuyu",
+    "Derinkuyu rolling stone door",
+    "Derinkuyu tunnel",
+    "Cappadocia",
+    "Kaymakli underground city",
+    "Derinkuyu ventilation shaft",
+    "Cappadocia houses"
+  ],
+  "titulo": "Tiró una pared de su casa y encontró una ciudad bajo tierra",
+  "descripcion": "Derinkuyu (Capadocia, Turquía) es una ciudad subterránea de varios pisos redescubierta en 1963 al derribar la pared de una casa. Podía albergar a miles de personas con sus animales.\n\n#derinkuyu #ciudadsubterranea #capadocia #shorts",
+  "tags": [
+    "derinkuyu",
+    "ciudad subterranea",
+    "capadocia",
+    "lugares increibles",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UNA CIUDAD BAJO SU CASA",
+  "prompt_miniatura": "an ancient underground city carved in rock with narrow tunnels and a round stone door, lit by torches"
+}

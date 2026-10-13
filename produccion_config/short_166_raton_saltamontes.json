@@ -1,0 +1,33 @@
+{
+  "id": "short_166_raton_saltamontes",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este ratón aúlla como un lobo y se come escorpiones.\n\nEs el ratón saltamontes, del desierto de Norteamérica. Mide menos que una mano, pero es un carnívoro feroz.\n\nPor la noche se pone de pie sobre las patas traseras y lanza un aullido agudo para marcar su territorio.\n\nY caza escorpiones de corteza, cuya picadura es dolorosísima.\n\nPero a él no le duele: su cuerpo usa el propio veneno para bloquear la señal del dolor.\n\nAsí que el escorpión le pica, y el ratón sigue comiendo.",
+  "queries_imagenes": [
+    "Onychomys",
+    "grasshopper mouse",
+    "Onychomys torridus",
+    "Onychomys leucogaster",
+    "Centruroides sculpturatus",
+    "bark scorpion",
+    "Sonoran desert night",
+    "grasshopper mouse eating"
+  ],
+  "titulo": "Este ratón aúlla como un lobo y se come escorpiones",
+  "descripcion": "El ratón saltamontes (Onychomys) aúlla para marcar territorio y caza escorpiones de corteza: el veneno, en vez de dolerle, le bloquea la señal del dolor.\n\n#ratonsaltamontes #onychomys #ratonqueaulla #shorts",
+  "tags": [
+    "raton saltamontes",
+    "onychomys",
+    "raton que aulla",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "INMUNE AL ESCORPIÓN",
+  "prompt_miniatura": "a small mouse standing on its hind legs howling at the moon in the desert at night"
+}

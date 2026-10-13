@@ -1,0 +1,34 @@
+{
+  "id": "short_167_oimiakon_frio",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En este pueblo, las pestañas se congelan nada más salir de casa.\n\nEs Oimiakón, en Siberia, considerado el lugar habitado más frío del planeta. En 1933 marcó sesenta y siete grados bajo cero.\n\nEn invierno, cincuenta bajo cero es normal.\n\nLos coches se dejan encendidos o en garajes con calefacción, porque si se apagan, quizá no vuelvan a arrancar.\n\nY enterrar a alguien cuesta días: hay que calentar el suelo helado con fuego para poder cavar.\n\nAun así, allí viven unas quinientas personas.",
+  "queries_imagenes": [
+    "Oymyakon",
+    "Oymyakon village",
+    "Oymyakon monument",
+    "Yakutia winter",
+    "Oymyakon road",
+    "Sakha Republic winter village",
+    "frozen eyelashes",
+    "Kolyma highway winter"
+  ],
+  "titulo": "En este pueblo las pestañas se congelan al salir de casa",
+  "descripcion": "Oimiakón (Yakutia, Siberia) es considerado el lugar habitado más frío del mundo: en 1933 registró -67,7 °C.\n\n#oimiakon #oymyakon #pueblomasfriodelmundo #shorts",
+  "tags": [
+    "oimiakon",
+    "oymyakon",
+    "pueblo mas frio del mundo",
+    "siberia",
+    "lugares increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "-67 °C",
+  "prompt_miniatura": "a tiny Siberian village covered in ice fog at minus sixty degrees, smoke from chimneys"
+}

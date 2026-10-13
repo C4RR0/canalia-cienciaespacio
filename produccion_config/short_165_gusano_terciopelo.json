@@ -1,0 +1,33 @@
+{
+  "id": "short_165_gusano_terciopelo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este animal caza disparando chorros de pegamento.\n\nEs el gusano de terciopelo, que vive en los bosques húmedos del trópico y del hemisferio sur.\n\nCuando encuentra un insecto o una araña, le lanza dos chorros de una baba pegajosa desde unas papilas junto a la boca.\n\nLa baba se endurece en segundos y deja a la presa atrapada como en una red.\n\nDespués le inyecta saliva que la digiere por dentro.\n\nY en realidad no es un gusano: es pariente de los artrópodos, y su linaje tiene más de quinientos millones de años.",
+  "queries_imagenes": [
+    "Onychophora",
+    "velvet worm",
+    "Euperipatoides",
+    "velvet worm slime",
+    "Peripatus",
+    "Epiperipatus",
+    "Onychophora Costa Rica",
+    "velvet worm feeding"
+  ],
+  "titulo": "Este animal caza disparando chorros de pegamento",
+  "descripcion": "Los onicóforos o gusanos de terciopelo atrapan a sus presas lanzando chorros de una baba que se endurece en segundos. Su linaje tiene más de 500 millones de años.\n\n#gusanodeterciopelo #onicoforo #velvetworm #shorts",
+  "tags": [
+    "gusano de terciopelo",
+    "onicoforo",
+    "velvet worm",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "DISPARA PEGAMENTO",
+  "prompt_miniatura": "a velvet worm shooting sticky slime threads at a cricket on a mossy log"
+}
