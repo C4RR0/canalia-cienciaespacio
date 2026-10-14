@@ -28,7 +28,7 @@ permissions:
 
 jobs:
   responder:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # fijado: ubuntu-latest pasa a 26 el 19/10/2026
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
