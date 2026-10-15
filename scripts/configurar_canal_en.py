@@ -30,15 +30,18 @@ print(r["brandingSettings"]["channel"]["description"])
 # Banner y marca de agua de suscripción (branding/, generados con scripts/branding_en.py).
 from googleapiclient.http import MediaFileUpload  # noqa: E402
 
-subida = yt.channelBanners().insert(
-    media_body=MediaFileUpload(str(BASE / "branding" / "en_banner.png"), mimetype="image/png")).execute()
-b = yt.channels().list(part="brandingSettings", mine=True).execute()["items"][0]["brandingSettings"]
-b.setdefault("image", {})["bannerExternalUrl"] = subida["url"]
-yt.channels().update(part="brandingSettings", body={"id": ch["id"], "brandingSettings": b}).execute()
-print("Banner puesto")
+import sys  # noqa: E402
+if "--solo-marca" not in sys.argv:
+    subida = yt.channelBanners().insert(
+        media_body=MediaFileUpload(str(BASE / "branding" / "en_banner.png"), mimetype="image/png")).execute()
+    b = yt.channels().list(part="brandingSettings", mine=True).execute()["items"][0]["brandingSettings"]
+    b.setdefault("image", {})["bannerExternalUrl"] = subida["url"]
+    yt.channels().update(part="brandingSettings", body={"id": ch["id"], "brandingSettings": b}).execute()
+    print("Banner puesto")
 yt.watermarks().set(
     channelId=ch["id"],
     body={"timing": {"type": "offsetFromEnd", "offsetMs": 15000}, "position": {
         "type": "corner", "cornerPosition": "topRight"}},
-    media_body=MediaFileUpload(str(BASE / "branding" / "en_marca_agua.png"), mimetype="image/png")).execute()
+    media_body=MediaFileUpload(str(BASE / "branding" / "en_marca_agua.png"), mimetype="image/png",
+                               resumable=True)).execute()
 print("Marca de agua de suscripción puesta")

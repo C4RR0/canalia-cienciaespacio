@@ -1,6 +1,10 @@
 name: Configurar canal inglés
 on:
   workflow_dispatch:
+    inputs:
+      args:
+        type: string
+        default: ""
 permissions:
   contents: read
 jobs:
@@ -16,5 +20,5 @@ jobs:
         run: |
           pip install -q google-api-python-client google-auth
           printf '%s' "$YOUTUBE_TOKEN_EN_JSON" > token_en.json
-          python scripts/configurar_canal_en.py
+          python scripts/configurar_canal_en.py ${{ inputs.args }}
           rm -f token_en.json
