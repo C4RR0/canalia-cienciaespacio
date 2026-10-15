@@ -56,6 +56,11 @@ def generar_imagen(prompt: str, ancho: int, alto: int, salida: Path, semilla: in
             return
         except requests.exceptions.RequestException as e:
             ultimo_error = e
+            # 15/10/2026: Pollinations pasó a cobrar (402 Payment Required en todos los
+            # tamaños). No es un fallo pasajero: reintentar solo gastaba ~50 s por imagen.
+            if getattr(e.response, "status_code", None) == 402:
+                print("  Pollinations pide pago (402): se omite la imagen IA")
+                break
             espera = intento * 5
             print(f"  intento {intento}/{intentos} fallido ({e}), reintentando en {espera}s...")
             time.sleep(espera)

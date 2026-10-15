@@ -13,6 +13,7 @@ miniatura, subida) sin volver a tocar TTS ni buscadores de imagenes.
 Uso:
     python generar_audio_pipeline.py produccion_config/<id>.json
 """
+import os
 import sys
 import json
 import asyncio
@@ -251,7 +252,33 @@ if __name__ == "__main__":
 
     config_path = Path(sys.argv[1])
     cfg = json.loads(config_path.read_text(encoding="utf-8"))
-    audio_final = generar_audio_para_config(cfg)
-    generar_imagenes_para_config(cfg)
-    generar_subtitulos_para_config(cfg, audio_final)
-    generar_miniatura_para_config(cfg)
+    vid = cfg["id"]
+
+    # REUTILIZAR_MEDIOS=1 (lo pone el workflow "Preparar medios"): si un run anterior ya
+    # dejó parte de los medios de este id en las colas, no se vuelven a pedir. Así un fallo
+    # puntual (p. ej. el 429 de edge-tts del 15/10, con audio, imágenes y subtítulos ya
+    # generados por el run anterior) no obliga a repetirlo todo. En local no se activa, para
+    # que regenerar tras cambiar un guion siga funcionando.
+    reutilizar = os.environ.get("REUTILIZAR_MEDIOS") == "1"
+    audio_cola = BASE / "cola_audio" / f"{vid}_final.mp3"
+    dir_img = BASE / "cola_imagenes" / vid
+    subs = BASE / "cola_subtitulos" / f"{vid}_corregido.ass"
+    mini = BASE / "cola_miniaturas" / f"{vid}.jpg"
+
+    if reutilizar and audio_cola.exists():
+        log("Audio ya en cola (run anterior): se reutiliza")
+        audio_final = audio_cola
+    else:
+        audio_final = generar_audio_para_config(cfg)
+    if reutilizar and dir_img.is_dir() and any(dir_img.glob("img_*")):
+        log("Imágenes ya en cola (run anterior): se reutilizan")
+    else:
+        generar_imagenes_para_config(cfg)
+    if reutilizar and subs.exists() and audio_final == audio_cola:
+        log("Subtítulos ya en cola (run anterior): se reutilizan")
+    else:
+        generar_subtitulos_para_config(cfg, audio_final)
+    if reutilizar and mini.exists():
+        log("Miniatura ya en cola (run anterior): se reutiliza")
+    else:
+        generar_miniatura_para_config(cfg)

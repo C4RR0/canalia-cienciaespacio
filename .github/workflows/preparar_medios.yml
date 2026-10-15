@@ -39,7 +39,7 @@ jobs:
         run: |
           for id in $(grep -v '^#' pendientes_medios.txt); do
             echo "::group::$id"
-            if python scripts/generar_audio_pipeline.py "produccion_config/$id.json"; then
+            if REUTILIZAR_MEDIOS=1 python scripts/generar_audio_pipeline.py "produccion_config/$id.json"; then
               sed -i "/^$id\$/d" pendientes_medios.txt
               echo "$id" >> pendientes_qa.txt
             else

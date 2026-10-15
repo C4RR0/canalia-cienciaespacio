@@ -90,16 +90,19 @@ async def _generar_edge_tts(texto: str, salida_path: str, voz: str):
     from edge_tts.exceptions import NoAudioReceived
 
     # El endpoint nuevo da 429 con ráfagas, y a veces corta sin mandar audio
-    # (NoAudioReceived, 15/10): reintentar con espera.
-    for intento in range(4):
+    # (NoAudioReceived, 15/10): reintentar con espera. 15/10 13:59 UTC: 4 intentos
+    # en 30 s no bastaron en Actions → espera creciente de hasta ~6 min en total.
+    esperas = [20, 40, 60, 90, 150]
+    for intento in range(len(esperas) + 1):
         try:
             comunicador = edge_tts.Communicate(texto, voz, rate="+0%", pitch="+0Hz")
             await comunicador.save(salida_path)
             return
         except (ClientResponseError, NoAudioReceived) as e:
-            if (isinstance(e, ClientResponseError) and e.status != 429) or intento == 3:
+            if (isinstance(e, ClientResponseError) and e.status != 429) or intento == len(esperas):
                 raise
-            await asyncio.sleep(5 * (intento + 1))
+            print(f"  edge-tts: {type(e).__name__} {getattr(e, 'status', '')}, reintento en {esperas[intento]} s")
+            await asyncio.sleep(esperas[intento])
 
 
 async def generar(texto_path: str, salida_path: str, voz: str):
@@ -110,6 +113,10 @@ async def generar(texto_path: str, salida_path: str, voz: str):
         raise ValueError("El guion está vacío.")
 
     try:
+        if not CREDENCIALES_PATH.exists():
+            # En GitHub Actions no hay clave de Azure (repo público, no se sube):
+            # ir directo a edge-tts sin ensuciar el log con una traza.
+            raise FileNotFoundError("sin azure_speech_key.json")
         _generar_azure(texto, salida_path, voz)
         print(f"Audio generado (Azure Speech): {salida_path} (voz: {voz})")
     except Exception as e:
