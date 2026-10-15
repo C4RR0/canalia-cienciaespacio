@@ -1,0 +1,34 @@
+{
+  "id": "short_171_arana_boleadora",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta araña no teje telarañas. Caza lanzando una bola pegajosa.\n\nEs la araña boleadora. De noche cuelga de un solo hilo con una gota de pegamento en la punta.\n\nPero el truco de verdad es otro: suelta un olor que imita al de las polillas hembra.\n\nLos machos llegan convencidos de que van a una cita.\n\nCuando uno se acerca, ella hace girar la bola y lo atrapa en el aire.\n\nSinceramente, es la trampa más retorcida que conozco.\n\nY si te gustan las cazadoras raras, aquí hay muchas más.",
+  "queries_imagenes": [
+    "Mastophora",
+    "bolas spider",
+    "Mastophora hutchinsoni",
+    "bolas spider hunting",
+    "Mastophora cornigera",
+    "moth night",
+    "Mastophora dizzydeani",
+    "bolas spider web line"
+  ],
+  "titulo": "Esta araña caza con una bola y un perfume falso",
+  "descripcion": "La araña boleadora (género Mastophora) caza polillas macho imitando el olor de las hembras y lanzándoles una bola de pegamento colgada de un hilo.\n\n#arañas #animalesraros #naturaleza #shorts",
+  "tags": [
+    "araña boleadora",
+    "Mastophora",
+    "arañas",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LA CITA ERA UNA TRAMPA",
+  "prompt_miniatura": "a spider hanging from a single silk line swinging a glowing sticky droplet at a moth at night",
+  "experimento": "cierre_suscripcion"
+}

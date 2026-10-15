@@ -1,0 +1,34 @@
+{
+  "id": "short_180_epecuen_pueblo_lago",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En mil novecientos ochenta y cinco, el agua de un lago rompió un muro y se tragó un pueblo entero.\n\nEra Villa Epecuén, en Argentina, un balneario famoso por sus aguas saladísimas.\n\nSus vecinos tuvieron que irse. El agua llegó a cubrir las casas casi hasta los tejados.\n\nUnos veinticinco años después, el lago empezó a retirarse y el pueblo reapareció, blanco de sal, como un esqueleto.\n\nY un hombre volvió a vivir allí, solo, entre las ruinas: Pablo Novak.\n\nA mí me parece una de las imágenes más tristes del mundo.",
+  "queries_imagenes": [
+    "Villa Epecuén",
+    "Epecuén ruins",
+    "Lago Epecuén",
+    "Epecuén",
+    "Villa Epecuén ruinas",
+    "Carhué",
+    "Epecuén flooded town",
+    "Pablo Novak Epecuén"
+  ],
+  "titulo": "El pueblo que pasó 25 años bajo el agua",
+  "descripcion": "Villa Epecuén (Buenos Aires, Argentina) quedó bajo el agua del lago Epecuén en 1985 y sus ruinas reaparecieron años después; Pablo Novak volvió a vivir allí.\n\n#lugaresabandonados #argentina #historia #shorts",
+  "tags": [
+    "Villa Epecuén",
+    "Argentina",
+    "pueblos abandonados",
+    "lugares insólitos",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "SE LO TRAGÓ EL LAGO",
+  "prompt_miniatura": "ruins of a town covered in white salt emerging from a lake, dead trees, overcast sky",
+  "experimento": "control"
+}

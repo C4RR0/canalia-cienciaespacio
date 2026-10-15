@@ -1,0 +1,34 @@
+{
+  "id": "short_172_chinche_mochila_hormigas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este insecto se pasea con los cadáveres de sus víctimas a la espalda.\n\nEs una chinche asesina de África oriental. Caza hormigas, les inyecta una saliva que las deshace por dentro y se bebe el contenido.\n\nDespués, pega los restos vacíos a su espalda. Algunas llevan casi una veintena.\n\nDurante años nadie supo para qué.\n\nHasta que unos científicos lo probaron: las arañas saltadoras, sus grandes depredadoras, las atacan mucho menos cuando llevan la mochila.\n\nNo ven una presa. Ven un montón de hormigas muertas.",
+  "queries_imagenes": [
+    "Acanthaspis petax",
+    "assassin bug ant corpses",
+    "Acanthaspis",
+    "Reduviidae nymph camouflage",
+    "assassin bug",
+    "jumping spider Salticidae",
+    "Reduviidae",
+    "ant carrying bug"
+  ],
+  "titulo": "Este insecto lleva a la espalda a sus víctimas",
+  "descripcion": "La chinche asesina Acanthaspis petax, de África oriental, se coloca a la espalda los cadáveres de las hormigas que caza; así las arañas saltadoras la atacan mucho menos.\n\n#insectos #animalesraros #naturaleza #shorts",
+  "tags": [
+    "chinche asesina",
+    "Acanthaspis petax",
+    "insectos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SU DISFRAZ DA MIEDO",
+  "prompt_miniatura": "a small insect covered in a pile of dead ants on its back, macro photography",
+  "experimento": "control"
+}

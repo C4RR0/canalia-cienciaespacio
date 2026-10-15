@@ -1,0 +1,34 @@
+{
+  "id": "short_181_explosion_halifax",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En mil novecientos diecisiete, un barco cargado de explosivos chocó en el puerto de Halifax, en Canadá.\n\nSe incendió, y mucha gente se acercó a las ventanas a mirar.\n\nUnos veinte minutos después estalló. Fue una de las mayores explosiones causadas por el ser humano antes de la bomba atómica.\n\nMurieron unas dos mil personas, y miles quedaron heridas por los cristales.\n\nParte del ancla del barco, de media tonelada, cayó a más de tres kilómetros.\n\nY hoy sigue allí, donde aterrizó.\n\nSi te ha impresionado, sígueme: aquí hay más historias así.",
+  "queries_imagenes": [
+    "Halifax Explosion",
+    "Halifax Explosion 1917",
+    "SS Mont-Blanc",
+    "Halifax Explosion aftermath",
+    "Halifax Harbour",
+    "Halifax Explosion Anchor Memorial",
+    "Richmond Halifax 1917",
+    "Halifax Explosion devastation"
+  ],
+  "titulo": "La explosión que lanzó un ancla a tres kilómetros",
+  "descripcion": "La explosión de Halifax (Canadá, 6 de diciembre de 1917), causada por el choque del carguero de explosivos Mont-Blanc, mató a unas 2.000 personas; parte de su ancla cayó a más de 3 km.\n\n#historia #halifax #canada #shorts",
+  "tags": [
+    "explosión de Halifax",
+    "Halifax 1917",
+    "Mont-Blanc",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "EL ANCLA VOLÓ 3 KM",
+  "prompt_miniatura": "a huge explosion cloud over a harbour city in 1917, vintage photo style",
+  "experimento": "cierre_suscripcion"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "short_177_pez_cabeza_transparente",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pez tiene la cabeza transparente. Y mira a través de ella.\n\nEsos dos puntos que parecen sus ojos no lo son: son los órganos del olfato. Los ojos de verdad son las dos esferas verdes de dentro.\n\nDurante décadas solo se conocían ejemplares destrozados al subirlos en redes. Hasta dos mil nueve, cuando un robot lo grabó vivo.\n\nY se vio que puede girar los ojos dentro de la cúpula para vigilar hacia arriba.\n\nPara mí es el diseño más alucinante del océano. Sígueme si quieres ver más bichos así.",
+  "queries_imagenes": [
+    "Macropinna microstoma",
+    "barreleye fish",
+    "barreleye",
+    "Opisthoproctidae",
+    "deep sea fish transparent head",
+    "Macropinna",
+    "barreleye fish eyes",
+    "deep sea fish"
+  ],
+  "titulo": "Este pez mira a través de su propia cabeza",
+  "descripcion": "El pez de cabeza transparente (Macropinna microstoma) tiene los ojos dentro de una cúpula transparente y puede girarlos para mirar hacia arriba; se grabó vivo por primera vez en 2009.\n\n#peces #oceano #naturaleza #shorts",
+  "tags": [
+    "pez de cabeza transparente",
+    "Macropinna microstoma",
+    "peces",
+    "océano profundo",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MIRA A TRAVÉS DE SÍ",
+  "prompt_miniatura": "a deep sea fish with a transparent dome shaped head and glowing green eyes inside, dark ocean",
+  "experimento": "cierre_suscripcion"
+}

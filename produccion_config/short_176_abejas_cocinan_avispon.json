@@ -1,0 +1,34 @@
+{
+  "id": "short_176_abejas_cocinan_avispon",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Estas abejas no pueden atravesar la armadura de su enemigo. Así que lo cocinan vivo.\n\nSon abejas melíferas de Japón, y su enemigo es el avispón gigante, capaz de arrasar una colmena entera.\n\nCuando un avispón entra, cientos de abejas se le echan encima y forman una bola apretada.\n\nHacen vibrar los músculos de vuelo y suben la temperatura hasta unos cuarenta y seis grados.\n\nEl avispón no lo aguanta. Las abejas sí, por muy poco margen.\n\nMe parece una de las defensas más brutales que existen.",
+  "queries_imagenes": [
+    "Apis cerana japonica",
+    "Japanese honey bee hornet",
+    "Vespa mandarinia",
+    "hot defensive bee ball",
+    "Asian giant hornet",
+    "Apis cerana",
+    "honey bee swarm ball",
+    "Japanese honeybee hive"
+  ],
+  "titulo": "Estas abejas matan a su enemigo cocinándolo vivo",
+  "descripcion": "La abeja melífera japonesa (Apis cerana japonica) mata al avispón gigante envolviéndolo en una bola de abejas que sube la temperatura hasta unos 46 grados.\n\n#abejas #insectos #naturaleza #shorts",
+  "tags": [
+    "abeja japonesa",
+    "avispón gigante",
+    "abejas",
+    "insectos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LO COCINAN VIVO",
+  "prompt_miniatura": "a tight ball of honeybees covering a giant hornet, heat haze, macro photography",
+  "experimento": "control"
+}

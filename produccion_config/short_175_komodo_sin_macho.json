@@ -1,0 +1,34 @@
+{
+  "id": "short_175_komodo_sin_macho",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "En un zoológico de Inglaterra, una hembra que jamás había estado con un macho puso huevos. Y de ellos nacieron crías.\n\nEra Flora, una dragona de Komodo.\n\nLas pruebas de ADN lo confirmaron: las crías solo tenían genes de su madre. Se llama partenogénesis.\n\nY hay un detalle aún más raro: las crías nacidas así son todas machos.\n\nAsí, una sola hembra perdida en una isla podría fundar una población entera.\n\nPara mí es de lo más inquietante del reino animal.\n\nSi te ha sorprendido, aquí hay cosas aún más raras.",
+  "queries_imagenes": [
+    "Varanus komodoensis",
+    "Komodo dragon",
+    "Komodo dragon hatchling",
+    "Komodo dragon eggs",
+    "Komodo dragon female",
+    "Komodo dragon zoo",
+    "Varanus komodoensis juvenile",
+    "Komodo island"
+  ],
+  "titulo": "Esta hembra tuvo crías sin ningún macho",
+  "descripcion": "En 2006 se confirmó que Flora, una dragona de Komodo del zoo de Chester, tuvo crías por partenogénesis, sin macho; las crías nacidas así son machos.\n\n#dragondekomodo #reptiles #naturaleza #shorts",
+  "tags": [
+    "dragón de Komodo",
+    "partenogénesis",
+    "reptiles",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SIN PADRE",
+  "prompt_miniatura": "a komodo dragon mother next to a hatching egg with a baby komodo dragon emerging",
+  "experimento": "cierre_suscripcion"
+}

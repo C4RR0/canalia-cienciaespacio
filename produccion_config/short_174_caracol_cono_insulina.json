@@ -1,0 +1,34 @@
+{
+  "id": "short_174_caracol_cono_insulina",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este caracol es lentísimo, pero caza peces. Y lo hace drogándolos.\n\nEs el caracol cono geográfico, de los arrecifes del Indo-Pacífico. Cuando hay peces cerca, suelta al agua una nube con insulina.\n\nA los peces les baja el azúcar y se quedan atontados, sin fuerzas para escapar.\n\nEntonces abre la boca como una red y los engulle. Si alguno se resiste, lo remata con un arpón venenoso.\n\nEse veneno ha llegado a matar a personas.\n\nY de un pariente suyo ha salido un medicamento contra el dolor.",
+  "queries_imagenes": [
+    "Conus geographus",
+    "geography cone snail",
+    "cone snail hunting fish",
+    "Conus",
+    "cone snail harpoon",
+    "Conus geographus shell",
+    "coral reef Indo-Pacific",
+    "cone snail"
+  ],
+  "titulo": "Este caracol caza peces drogándolos con insulina",
+  "descripcion": "El caracol cono geográfico (Conus geographus) suelta insulina al agua para dejar atontados a los peces antes de tragárselos; su veneno es peligroso para las personas.\n\n#caracoles #animalespeligrosos #naturaleza #shorts",
+  "tags": [
+    "caracol cono",
+    "Conus geographus",
+    "animales venenosos",
+    "animales peligrosos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LOS DROGA PARA CAZAR",
+  "prompt_miniatura": "a colorful cone snail on a coral reef opening a wide funnel shaped mouth near small fish",
+  "experimento": "control"
+}

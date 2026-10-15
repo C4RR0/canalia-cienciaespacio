@@ -127,3 +127,16 @@ short_051_cueva_cristales_naica
 short_048_crater_hiawatha
 # 12/10: el pepino al final. Reencolar con otro título no funcionó (hipopótamo 31->26, Bobbit 312->60): el tema, no el título
 short_146_pepino_mar_defensa
+# 15/10: tanda 171-182 escrita por Claude en sesión (reglas nuevas + experimento de suscripción), 2:1
+short_171_arana_boleadora
+short_172_chinche_mochila_hormigas
+short_179_varosha_ciudad_congelada
+short_173_pulpo_madre_huevos
+short_174_caracol_cono_insulina
+short_180_epecuen_pueblo_lago
+short_175_komodo_sin_macho
+short_176_abejas_cocinan_avispon
+short_181_explosion_halifax
+short_177_pez_cabeza_transparente
+short_178_pinzon_vampiro
+short_182_faro_flannan

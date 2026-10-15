@@ -1,0 +1,34 @@
+{
+  "id": "short_173_pulpo_madre_huevos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta madre pasó cuatro años y medio sin comer. Y lo hizo por sus crías.\n\nEn dos mil siete, un robot submarino encontró a una hembra de pulpo pegada a una roca, a unos mil cuatrocientos metros de profundidad, cubriendo sus huevos.\n\nLos científicos volvieron una y otra vez. Siempre estaba allí, cada vez más pálida y delgada. Nunca la vieron comer.\n\nLa última vez solo quedaban las cáscaras vacías: las crías habían nacido.\n\nElla ya no estaba.\n\nSi esta historia te ha tocado, quédate: aquí hay muchas más.",
+  "queries_imagenes": [
+    "Graneledone boreopacifica",
+    "deep sea octopus eggs",
+    "octopus brooding eggs",
+    "Graneledone",
+    "deep sea octopus",
+    "octopus eggs",
+    "Monterey Canyon",
+    "remotely operated vehicle deep sea"
+  ],
+  "titulo": "Esta madre pasó cuatro años y medio sin comer",
+  "descripcion": "Una hembra de pulpo de profundidad (Graneledone boreopacifica) cuidó sus huevos durante 53 meses en el cañón de Monterrey, la incubación más larga conocida en un animal.\n\n#pulpos #oceano #naturaleza #shorts",
+  "tags": [
+    "pulpo de profundidad",
+    "Graneledone boreopacifica",
+    "pulpos",
+    "océano",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "4 AÑOS SIN COMER",
+  "prompt_miniatura": "a pale deep sea octopus clinging to a dark rock wall protecting a cluster of eggs, lit by a submarine light",
+  "experimento": "cierre_suscripcion"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "short_179_varosha_ciudad_congelada",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En agosto de mil novecientos setenta y cuatro, los vecinos de esta ciudad huyeron pensando que volverían en unos días.\n\nNunca volvieron.\n\nEs Varosha, en Chipre. Era un famoso destino de playa.\n\nTras la invasión turca, el ejército la rodeó con una valla y prohibió la entrada.\n\nDurante casi medio siglo, los coches se oxidaron en los concesionarios y los árboles crecieron dentro de las casas.\n\nEn dos mil veinte reabrieron algunas calles a los turistas. Pero sus antiguos dueños siguen sin poder volver.\n\nSi te gustan los lugares así, aquí tienes muchos más.",
+  "queries_imagenes": [
+    "Varosha",
+    "Varosha Famagusta",
+    "Varosha abandoned hotels",
+    "Famagusta beach",
+    "Varosha ghost town",
+    "Varosha fence",
+    "Famagusta",
+    "Varosha 2020"
+  ],
+  "titulo": "La ciudad que se quedó congelada en 1974",
+  "descripcion": "Varosha, en Famagusta (Chipre), quedó vallada y abandonada tras la invasión turca de 1974; en 2020 se reabrieron algunas calles a los visitantes.\n\n#lugaresabandonados #chipre #historia #shorts",
+  "tags": [
+    "Varosha",
+    "Famagusta",
+    "lugares abandonados",
+    "Chipre",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "CONGELADA DESDE 1974",
+  "prompt_miniatura": "an abandoned beach resort city with crumbling hotels behind a fence, plants growing through the streets",
+  "experimento": "cierre_suscripcion"
+}

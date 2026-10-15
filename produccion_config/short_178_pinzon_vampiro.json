@@ -1,0 +1,34 @@
+{
+  "id": "short_178_pinzon_vampiro",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pajarito vive en islas casi sin agua. Y para sobrevivir bebe sangre.\n\nEs el pinzón vampiro de las Galápagos. En la época seca, cuando casi no hay nada que comer, se sube encima de los piqueros, unas aves marinas mucho más grandes.\n\nLes picotea la base de las plumas hasta hacerles una herida y se bebe la sangre.\n\nLo más extraño es que los piqueros apenas reaccionan.\n\nTambién les roba los huevos: los empuja contra las rocas hasta romperlos.\n\nSinceramente, no conozco un pájaro más inquietante.",
+  "queries_imagenes": [
+    "Geospiza septentrionalis",
+    "vampire ground finch",
+    "Nazca booby",
+    "Sula granti",
+    "Wolf Island Galapagos",
+    "Darwin finches",
+    "Geospiza",
+    "Galapagos booby colony"
+  ],
+  "titulo": "Este pájaro sobrevive bebiendo sangre de otras aves",
+  "descripcion": "El pinzón vampiro (Geospiza septentrionalis) de las Galápagos bebe la sangre de los piqueros en la estación seca y rompe sus huevos para comérselos.\n\n#galapagos #aves #naturaleza #shorts",
+  "tags": [
+    "pinzón vampiro",
+    "Galápagos",
+    "aves",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "BEBE SANGRE",
+  "prompt_miniatura": "a small dark finch perched on the back of a large white seabird, Galapagos rocks",
+  "experimento": "control"
+}

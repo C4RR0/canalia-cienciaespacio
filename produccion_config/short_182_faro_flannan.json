@@ -1,0 +1,34 @@
+{
+  "id": "short_182_faro_flannan",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En diciembre de mil novecientos, un barco llegó a un faro aislado de Escocia. Los tres fareros habían desaparecido.\n\nEra el faro de las islas Flannan, y llevaba días apagado.\n\nDentro no había nadie. Y había un detalle extraño: faltaban dos impermeables, pero el tercero seguía colgado. Uno de ellos salió sin abrigo, en pleno temporal.\n\nEl investigador oficial encontró destrozos recientes en el embarcadero, causados por el mar.\n\nSu conclusión: una ola enorme se los llevó.\n\nNunca se encontraron los cuerpos. Y a mí esa tercera chaqueta me pone los pelos de punta.",
+  "queries_imagenes": [
+    "Flannan Isles Lighthouse",
+    "Eilean Mor",
+    "Flannan Isles",
+    "Eilean Mor lighthouse",
+    "Flannan Isles Scotland",
+    "lighthouse Outer Hebrides",
+    "Eilean Mor landing",
+    "Flannan lighthouse"
+  ],
+  "titulo": "Los tres fareros que desaparecieron sin dejar rastro",
+  "descripcion": "En diciembre de 1900 desaparecieron los tres fareros del faro de las islas Flannan (Escocia); la investigación concluyó que probablemente los arrastró una ola durante un temporal.\n\n#misterios #escocia #historia #shorts",
+  "tags": [
+    "faro de Flannan",
+    "islas Flannan",
+    "misterios",
+    "Escocia",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "NADIE VOLVIÓ",
+  "prompt_miniatura": "a lonely lighthouse on a rocky island in a stormy sea at dusk",
+  "experimento": "control"
+}
