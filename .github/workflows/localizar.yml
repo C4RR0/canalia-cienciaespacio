@@ -1,0 +1,36 @@
+# Traduce títulos y descripciones al inglés y portugués (scripts/localizar.py).
+# 07:30 UTC: justo después del reinicio de la cuota de YouTube (07:00 UTC en
+# verano, 08:00 UTC desde el 1/11: entonces conviene moverlo a las 08:30).
+name: Localizar títulos
+
+on:
+  schedule:
+    - cron: "30 7 * * *"
+  workflow_dispatch:
+    inputs:
+      maximo:
+        description: "Máximo de vídeos"
+        type: string
+        default: "40"
+
+permissions:
+  contents: read
+
+jobs:
+  localizar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Localizar
+        env:
+          YOUTUBE_TOKEN_JSON: ${{ secrets.YOUTUBE_TOKEN_JSON }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          pip install -q google-api-python-client google-auth requests pillow
+          printf '%s' "$YOUTUBE_TOKEN_JSON" > token.json
+          python scripts/localizar.py "${{ inputs.maximo || '40' }}"
+          rm -f token.json
