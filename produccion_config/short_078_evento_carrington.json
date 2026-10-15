@@ -4,7 +4,7 @@
   "orientacion": "vertical",
   "voz": "es-ES-AlvaroNeural",
   "tema_visual": "espacio",
-  "guion": "En 1859, una tormenta del Sol hizo que los telégrafos soltaran chispas y funcionaran desconectados.\n\nEs el evento Carrington, la tormenta solar más potente que se ha registrado. Una enorme eyección del Sol chocó contra el campo magnético de la Tierra.\n\nHubo auroras boreales visibles casi hasta el ecuador. Eran tan brillantes que, en las Montañas Rocosas, unos mineros se levantaron a preparar el desayuno creyendo que ya era de día.\n\nAlgunos telegrafistas recibieron descargas, y hubo líneas que siguieron enviando mensajes con las baterías quitadas.\n\nEn 1859 casi no había electricidad. Hoy dependemos de ella para todo.",
+  "guion": "En 1859, una tormenta del Sol hizo que los telégrafos soltaran chispas y funcionaran desconectados.\n\nEs el evento Carrington, la tormenta solar más potente que se ha registrado. Hubo auroras boreales visibles casi hasta el ecuador. Eran tan brillantes que, en las Montañas Rocosas, unos mineros se levantaron a preparar el desayuno creyendo que ya era de día.\n\nAlgunos telegrafistas recibieron descargas, y hubo líneas que siguieron enviando mensajes con las baterías quitadas.\n\nEn 1859 casi no había electricidad. Hoy dependemos de ella para todo.",
   "queries_imagenes": [
     "Carrington event",
     "solar flare",
