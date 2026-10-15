@@ -407,6 +407,9 @@ def producir(cfg: dict) -> dict:
     # Subtítulos palabra-por-palabra (más profesionales) si están disponibles,
     # si no, se cae al .srt de frase completa clásico.
     subs_para_quemar = ass_corregido if ass_corregido.exists() else srt_corregido
+    if ass_corregido.exists() and cfg.get("formato") == "curiosidad" and not cfg.get("sin_marca"):
+        import generar_subtitulos_ass_palabras
+        generar_subtitulos_ass_palabras.anadir_gancho_y_marca(ass_corregido, cfg.get("hook_miniatura"))
 
     video_final = dir_salidas / f"{vid}_FINAL.mp4"
     quemar_subtitulos.quemar(str(video_mudo_con_audio), str(subs_para_quemar), str(video_final), "abajo", ancho, alto)

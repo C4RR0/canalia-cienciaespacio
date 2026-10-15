@@ -212,6 +212,48 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     print(f"Generados {len(bloques)} bloques / {len(lineas_dialogo)} diálogos en: {salida_ass}")
 
 
+GANCHO_S = 2.6  # cuánto dura el texto del gancho al empezar el vídeo
+MARCA = "¿SABÍAS QUÉ?"
+
+
+def _partir_en_dos(texto: str, max_chars: int = 13) -> str:
+    """Parte el gancho en dos líneas por el espacio más centrado si es largo."""
+    if len(texto) <= max_chars or " " not in texto:
+        return texto
+    mitad = len(texto) / 2
+    corte = min((i for i, c in enumerate(texto) if c == " "), key=lambda i: abs(i - mitad))
+    return texto[:corte] + r"\N" + texto[corte + 1:]
+
+
+def anadir_gancho_y_marca(ass_path: Path, gancho: str | None):
+    """15/10/2026, de lo aprendido sobre Shorts sin rostro: (1) gancho también en
+    TEXTO en los primeros segundos (audio + imagen + texto a la vez), y (2) una
+    seña visual fija del canal, reconocible con el sonido quitado. Se añade al
+    .ass ya hecho, así vale también para los vídeos que ya estaban en cola."""
+    contenido = ass_path.read_text(encoding="utf-8")
+    if "Style: Gancho" in contenido:
+        return
+    ancho = int(re.search(r"PlayResX: (\d+)", contenido).group(1))
+    alto = int(re.search(r"PlayResY: (\d+)", contenido).group(1))
+    if alto <= ancho:
+        return  # solo Shorts verticales
+    # Texto negro sobre caja amarilla (BorderStyle 3: OutlineColour = color de la caja).
+    estilos = (
+        f"Style: Gancho,Arial Black,{ancho // 11},&H00000000,&H00000000,&H0000FFFF,&H0000FFFF,"
+        f"-1,0,0,0,100,100,0,0,3,14,0,8,60,60,{int(alto * 0.15)},1\n"
+        f"Style: Marca,Arial Black,{ancho // 19},&H1000FFFF,&H1000FFFF,&H60000000,&H00000000,"
+        f"-1,0,0,0,100,100,2,0,1,3,0,8,40,40,{int(alto * 0.105)},1\n"
+    )
+    contenido = contenido.replace("\n[Events]", estilos + "\n[Events]", 1)
+    lineas = [f"Dialogue: 1,{_tiempo_ass(GANCHO_S)},9:59:59.00,Marca,,0,0,0,,{MARCA}"]
+    if gancho:
+        texto = _partir_en_dos(gancho.strip().upper())
+        lineas.append(f"Dialogue: 2,{_tiempo_ass(0)},{_tiempo_ass(GANCHO_S)},Gancho,,0,0,0,,"
+                      f"{{\\fscx80\\fscy80\\t(0,150,\\fscx108\\fscy108)\\t(150,260,\\fscx100\\fscy100)"
+                      f"\\fad(0,200)}}{texto}")
+    ass_path.write_text(contenido.rstrip("\n") + "\n" + "\n".join(lineas) + "\n", encoding="utf-8")
+
+
 if __name__ == "__main__":
     if len(sys.argv) < 5:
         print("Uso: python generar_subtitulos_ass_palabras.py <palabras.json> <salida.ass> <ancho> <alto> [correcciones.txt]")
