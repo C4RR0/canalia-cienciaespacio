@@ -1,4 +1,3 @@
-short_172_chinche_mochila_hormigas
 short_174_caracol_cono_insulina
 short_180_epecuen_pueblo_lago
 short_175_komodo_sin_macho
