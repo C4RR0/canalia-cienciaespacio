@@ -25,11 +25,14 @@ import requests
 API_GEMINI = "https://generativelanguage.googleapis.com/v1beta"
 VOZ_POR_DEFECTO = "Charon"
 
-# El estilo se pide en lenguaje natural delante del texto.
-ESTILO = ("Lee esto en español de España, como un narrador cercano que le cuenta "
-          "a un amigo algo increíble que acaba de descubrir: ritmo ágil, con "
-          "energía y asombro sincero, sin sonar a locutor de anuncio, y con una "
-          "pequeña pausa antes de la última frase. Texto:\n\n")
+# Estilo en el formato corto de la documentación de Gemini TTS ("Say ...: <texto>").
+# Los modelos tts no aceptan systemInstruction (400) y una instrucción larga en
+# español la LEÍAN en voz alta (prueba del 15/10); si aun así se cuela, lo frena
+# el control de duración de sintetizar().
+ESTILO = ("Say in Castilian Spanish from Spain, as a warm, energetic storyteller "
+          "full of genuine amazement, at a brisk pace: ")
+PALABRAS_POR_SEGUNDO = 2.6  # ritmo medio de AlvaroNeural en el canal
+MARGEN_DURACION = 1.3
 
 
 def modelos_tts() -> list[str]:
@@ -52,8 +55,7 @@ def sintetizar(texto: str, salida_mp3: str, voz: str = VOZ_POR_DEFECTO,
                estilo: str = ESTILO, rondas: int = 3) -> str:
     """Genera salida_mp3 y devuelve el modelo usado. Lanza excepción si no puede."""
     cuerpo = {
-        "systemInstruction": {"parts": [{"text": estilo}]},
-        "contents": [{"role": "user", "parts": [{"text": texto}]}],
+        "contents": [{"parts": [{"text": estilo + texto}]}],
         "generationConfig": {
             "responseModalities": ["AUDIO"],
             "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voz}}},
