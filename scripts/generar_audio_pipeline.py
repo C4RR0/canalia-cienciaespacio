@@ -228,7 +228,18 @@ def generar_miniatura_para_config(cfg: dict) -> Path | None:
     sujeto_visual = cfg.get("prompt_miniatura") or cfg["queries_imagenes"][0]
     orientacion = cfg.get("orientacion", "vertical" if cfg["formato"] != "largo" else "horizontal")
     semilla = abs(hash(vid)) % 100000
-    generar_miniatura.generar_desde_ia(sujeto_visual, hook, str(destino), orientacion, semilla=semilla)
+    try:
+        generar_miniatura.generar_desde_ia(sujeto_visual, hook, str(destino), orientacion, semilla=semilla)
+    except Exception as e:
+        # 15/10: Pollinations da 402 "Payment Required" y tumbaba el vídeo entero. La miniatura
+        # se monta entonces con la primera foto REAL del vídeo y el gancho (como fix_mini.py).
+        from PIL import Image
+        fotos = sorted((BASE / "cola_imagenes" / vid).glob("img_*.jpg"))
+        if not fotos:
+            print(f"AVISO: sin miniatura para {vid} ({e}); se usará un fotograma al publicar")
+            return None
+        print(f"AVISO: miniatura IA no disponible ({str(e)[:80]}); se monta con {fotos[0].name}")
+        generar_miniatura.componer(Image.open(fotos[0]), hook, orientacion).save(destino, quality=92)
     print(f"Miniatura lista para la nube: {destino}")
     return destino
 

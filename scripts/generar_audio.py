@@ -87,15 +87,17 @@ def _generar_azure(texto: str, salida_path: str, voz: str):
 async def _generar_edge_tts(texto: str, salida_path: str, voz: str):
     import asyncio
     from aiohttp import ClientResponseError
+    from edge_tts.exceptions import NoAudioReceived
 
-    # El endpoint nuevo da 429 con ráfagas: reintentar con espera.
+    # El endpoint nuevo da 429 con ráfagas, y a veces corta sin mandar audio
+    # (NoAudioReceived, 15/10): reintentar con espera.
     for intento in range(4):
         try:
             comunicador = edge_tts.Communicate(texto, voz, rate="+0%", pitch="+0Hz")
             await comunicador.save(salida_path)
             return
-        except ClientResponseError as e:
-            if e.status != 429 or intento == 3:
+        except (ClientResponseError, NoAudioReceived) as e:
+            if (isinstance(e, ClientResponseError) and e.status != 429) or intento == 3:
                 raise
             await asyncio.sleep(5 * (intento + 1))
 
