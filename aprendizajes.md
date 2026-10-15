@@ -1320,3 +1320,11 @@ Pendiente de probar: voz distinta gratuita (TTS de Gemini), seña visual fija, t
   Ensayo: publicar.yml con prueba_ingles=true. Bug visto y arreglado: el gancho volvía en español.
   Para autorizar: `python scripts/autenticar_youtube.py token_en.json` y elegir el canal inglés.
   token_en.json está en .gitignore (repo PÚBLICO).
+- **Wild Facts Daily, imagen y operación (15/10)**: logo/banner/marca de agua amarillo-negro
+  (branding/, scripts/branding_en.py; banner y marca de agua por API con configurar_canal_en.py —
+  watermarks.set con la librería falla, se hace por HTTP multipart). La FOTO DE PERFIL no va por API:
+  se puso en Studio desde Chrome entrando como la cuenta de marca con
+  youtube.com/signin?action_handle_signin=true&authuser=0&pageid=110295817009850194182&next=<url de Studio>
+  (el selector de canales no cargaba). Métricas en metricas_en/ (metricas.yml) y respuestas a
+  comentarios en inglés (comentarios.yml), ambos con YOUTUBE_TOKEN_FILE=token_en.json.
+  Pendiente: listas de reproducción del canal inglés cuando tenga ~20 vídeos.
