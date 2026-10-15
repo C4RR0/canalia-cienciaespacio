@@ -1354,3 +1354,11 @@ Fuentes: "I Studied 5,400 Shorts to CRACK the Algorithm" (ryZt5pc2O5s, estudio d
   metricas/videos_enganche.csv. Ratio vistas_comprometidas/vistas = proxy del gancho (top del
   canal ~0,5). Usarlo el 19/10 para comparar Shorts con gancho en texto (desde el 15/10 12:20) frente
   a los anteriores.
+- **Tanda 171-182 escrita por Claude en sesión (15/10)**: 8 animales (boleadora, chinche con
+  mochila de hormigas, pulpo 53 meses incubando, caracol cono con insulina, Komodo sin macho, abejas
+  que cocinan al avispón, pez de cabeza transparente, pinzón vampiro) + 4 historias (Varosha,
+  Epecuén, Halifax 1917, faro de Flannan). 85-94 palabras, narrador con opinión, giro al final.
+  Datos revisados: ojo Komodo (solo Flora no había tenido macho; Sungai sí), cono (el analgésico
+  ziconotida viene de Conus magus, no del geográfico: por eso "un pariente suyo"). ARRANCA el
+  experimento de suscripción (171,173,175,177,179,181 cierre; 172,174,176,178,180,182 control).
+  Se publican hacia el 19-21/10, después de la medición del gancho.
