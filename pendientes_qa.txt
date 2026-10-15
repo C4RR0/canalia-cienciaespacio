@@ -1,5 +1,4 @@
 short_174_caracol_cono_insulina
-short_175_komodo_sin_macho
 short_177_pez_cabeza_transparente
 short_178_pinzon_vampiro
 short_182_faro_flannan
