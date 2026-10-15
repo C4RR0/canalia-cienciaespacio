@@ -14,9 +14,14 @@ name: Publicar siguiente video
 # 14/10 añade 2 subidas extra (7 al día) a las 05:20 y 21:20 UTC (7:20 y 23:20 en
 # España; desde el 1/11, 6:20 y 22:20), que no coinciden con las de cron-job.org.
 # CiberJuegos está en pausa, así que sobra cuota.
+# 15/10: el schedule de 05:20 no saltó y el de 21:20 llegó 2,5 h tarde, así que
+# cada franja extra tiene 3 disparos (xx:20, xx:50, +1h05) y una guarda que
+# solo deja publicar al primero que llegue (mira si ya hay commit de limpieza
+# en la franja: 05-07 UTC o 21-24 UTC).
 on:
   schedule:
-    - cron: "20 5,21 * * *"
+    - cron: "20,50 5,21 * * *"
+    - cron: "25 6,22 * * *"
   workflow_dispatch:
     inputs:
       prueba:
@@ -37,6 +42,18 @@ jobs:
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+
+      - name: Guarda de franja (solo en schedule)
+        id: franja
+        run: |
+          H=$(date -u +%H)
+          if [ "${{ github.event_name }}" != "schedule" ]; then echo "ok=1" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if [ "$H" -ge 21 ]; then DESDE="$(date -u +%F)T21:00:00Z"; elif [ "$H" -lt 5 ]; then DESDE="$(date -u -d yesterday +%F)T21:00:00Z"; else DESDE="$(date -u +%F)T05:00:00Z"; fi
+          N=$(git log --since="$DESDE" --oneline --grep="Limpieza cola tras completar" | wc -l)
+          echo "Publicados desde $DESDE: $N"
+          if [ "$N" -gt 0 ]; then echo "ok=0" >> "$GITHUB_OUTPUT"; echo "Franja ya cubierta, no publico."; else echo "ok=1" >> "$GITHUB_OUTPUT"; fi
 
       - uses: actions/setup-python@v5
         with:
@@ -44,6 +61,7 @@ jobs:
 
       - name: Comprobar cola (rapido, sin instalar nada)
         id: cola
+        if: steps.franja.outputs.ok == '1'
         run: |
           python scripts/publicar_siguiente.py --listar | tee cola.txt
           if grep -q "Nada pendiente" cola.txt; then echo "hay=0" >> "$GITHUB_OUTPUT"; else echo "hay=1" >> "$GITHUB_OUTPUT"; fi
