@@ -1288,3 +1288,13 @@ Pendiente de probar: voz distinta gratuita (TTS de Gemini), seña visual fija, t
   "Probar voces" + scripts/voz_gemini.py (con control de duración). Si se retoma: acelerar con
   atempo y que el usuario elija de oído.
 - Franjas horarias: mediana a 2 días casi igual en todas (1.230-1.430): no mover horarios.
+- **Listas de reproducción** (el canal no tenía ninguna): "Animales brutales y extraños"
+  (PLXKAJv_n6OHQ), "Lugares y sucesos insólitos" (PLYBFp7KTx_ec), "Espacio y ciencia que nadie
+  te contó" (PLPMk02lY6eQA), con los 130 Shorts públicos de más a menos vistos. scripts/listas.py
+  (en metricas.yml, diario) añade los nuevos por el tema_visual de su config. Puestas también como
+  secciones de la página del canal.
+- **Descripción y palabras clave del canal** actualizadas: decían "ciencia, NASA, vídeos cada
+  semana"; ahora "animales brutales, lugares prohibidos e historias reales, Shorts cada día".
+- **Cuota de la API (Google Cloud, 15/10)**: las subidas tienen su PROPIO cupo ("Video Uploads per
+  day" = 100) y "Queries per day" = 10.000 iba al 1 %. La cuota ya no limita subir 7 al día ni las
+  listas; el antiguo cálculo de 1.600 unidades por subida ya no aplica.
