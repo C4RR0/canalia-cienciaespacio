@@ -12,6 +12,7 @@ Uso:
     python scripts/snapshot_metricas.py
 """
 import csv
+import os
 import re
 import sys
 from datetime import datetime, timezone
@@ -22,7 +23,7 @@ from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 
 BASE = Path(__file__).resolve().parent.parent
-DIR = BASE / "metricas"
+DIR = BASE / os.environ.get("METRICAS_DIR", "metricas")  # metricas_en = canal inglés
 
 
 def _segundos(iso: str) -> int:
@@ -40,7 +41,7 @@ def _append(ruta: Path, cabecera: list[str], filas: list[list]):
 
 
 def main():
-    creds = Credentials.from_authorized_user_file(str(BASE / "token.json"))
+    creds = Credentials.from_authorized_user_file(str(BASE / os.environ.get("YOUTUBE_TOKEN_FILE", "token.json")))
     if not creds.valid:
         creds.refresh(Request())
     yt = build("youtube", "v3", credentials=creds)

@@ -29,13 +29,13 @@ from googleapiclient.discovery import build
 import gemini
 from comentarios import _canal_propio, cargar_credenciales, listar_sin_responder, responder
 
-CANAL = "Sabías Qué"
+CANAL = os.environ.get("CANAL_NOMBRE", "Sabías Qué")  # "Wild Facts Daily" en el canal inglés
 MAX_POR_EJECUCION = 20
 # comentarios que la IA decidió no responder, para no gastar cuota en ellos
-IGNORADOS = Path(__file__).parent.parent / "comentarios_ignorados.txt"
+IGNORADOS = Path(__file__).parent.parent / os.environ.get("COMENTARIOS_IGNORADOS", "comentarios_ignorados.txt")
 
-SISTEMA = f"""Eres quien lleva el canal de YouTube "{CANAL}" (Shorts de curiosidades de ciencia, \
-naturaleza y espacio, en español de España). Respondes a comentarios de tus vídeos.
+SISTEMA = f"""Eres quien lleva el canal de YouTube "{CANAL}" (Shorts de curiosidades: animales, \
+lugares e historias insólitas; {"en inglés" if CANAL == "Wild Facts Daily" else "en español de España"}). Respondes a comentarios de tus vídeos.
 
 Cómo responder:
 - Cercano, natural y breve: 1-3 frases. Tutea. Como mucho un emoji.

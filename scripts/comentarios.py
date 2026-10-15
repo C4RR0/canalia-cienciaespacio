@@ -13,6 +13,7 @@ Uso:
     python comentarios.py responder <comment_id> "<texto de la respuesta>"
         Publica una respuesta a ese comentario.
 """
+import os
 import sys
 import json
 from pathlib import Path
@@ -24,7 +25,7 @@ from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 
 BASE = Path(__file__).parent.parent
-TOKEN_PATH = BASE / "token.json"
+TOKEN_PATH = BASE / os.environ.get("YOUTUBE_TOKEN_FILE", "token.json")  # token_en.json = canal inglés
 SCOPES = [
     "https://www.googleapis.com/auth/youtube.force-ssl",
     "https://www.googleapis.com/auth/yt-analytics.readonly",

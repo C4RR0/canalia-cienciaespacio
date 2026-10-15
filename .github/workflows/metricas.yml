@@ -27,19 +27,25 @@ jobs:
       - name: Snapshot
         env:
           YOUTUBE_TOKEN_JSON: ${{ secrets.YOUTUBE_TOKEN_JSON }}
+          YOUTUBE_TOKEN_EN_JSON: ${{ secrets.YOUTUBE_TOKEN_EN_JSON }}
         run: |
           pip install -q google-api-python-client google-auth
           printf '%s' "$YOUTUBE_TOKEN_JSON" > token.json
           python scripts/snapshot_metricas.py
           # Listas temáticas: 30 vídeos al día como mucho (50 unidades de cuota cada uno).
           python scripts/listas.py 30 || echo "::warning::listas.py falló"
-          rm -f token.json
+          # Canal en inglés (Wild Facts Daily): mismas métricas en metricas_en/.
+          if [ -n "$YOUTUBE_TOKEN_EN_JSON" ]; then
+            printf '%s' "$YOUTUBE_TOKEN_EN_JSON" > token_en.json
+            METRICAS_DIR=metricas_en YOUTUBE_TOKEN_FILE=token_en.json python scripts/snapshot_metricas.py || echo "::warning::métricas EN fallaron"
+          fi
+          rm -f token.json token_en.json
 
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898183+github-actions[bot]@users.noreply.github.com"
-          git add metricas listas.json
+          git add metricas listas.json $( [ -d metricas_en ] && echo metricas_en )
           git commit -m "Metricas diarias $(date -u +%F)" || exit 0
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
 
