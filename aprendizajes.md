@@ -1304,3 +1304,7 @@ Pendiente de probar: voz distinta gratuita (TTS de Gemini), seña visual fija, t
   todo entre 25 y 33 s salvo short_078 (35,7 s).
 - A partir del 15/10 se para de cambiar cosas unos días: gancho+marca, guiones nuevos y listas
   coinciden en el tiempo; medir antes de tocar más (si no, no se sabe qué funcionó).
+- **Revisión de datos de la cola (15/10, 32 guiones)**: todo correcto salvo Tunguska ("si hubiera
+  caído unas horas más tarde habría arrasado una ciudad" = mito de San Petersburgo, cambiado por
+  "si hubiera caído sobre una ciudad, la habría borrado del mapa"). Carrington recortado de 35,7 a
+  ~31 s. Audio y subtítulos regenerados en local; render de prueba OK (31,3 s).
