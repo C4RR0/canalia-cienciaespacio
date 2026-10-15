@@ -49,6 +49,10 @@ jobs:
           git commit -m "Metricas diarias $(date -u +%F)" || exit 0
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
 
+      # Aviso (run en rojo = correo de GitHub) si algún canal publicó de menos ayer.
+      - name: Vigilar publicaciones de las últimas 24 h
+        run: python scripts/vigilar.py
+
       # Aviso (run en rojo = correo de GitHub) si quedan menos de 2 días de vídeos.
       - name: Comprobar que la cola no se vacía
         run: |
