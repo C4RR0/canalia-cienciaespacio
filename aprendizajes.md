@@ -1349,3 +1349,8 @@ Fuentes: "I Studied 5,400 Shorts to CRACK the Algorithm" (ryZt5pc2O5s, estudio d
    doblaje automático. El doblaje en Sabías Qué competiría con Wild Facts Daily: NO activarlo de
    momento. Hype y mejoras: pedir OK al usuario (son ajustes de cuenta).
 5. Suscriptores por 10.000 vistas: largos ~22, Shorts ~17 (estudio); nosotros ~16 → normal.
+- **Medir el gancho automáticamente (15/10)**: la API de Analytics NO da "viewedVsSwipedAway" (400),
+  pero SÍ engagedViews y averageViewDuration. Desde el 16/10 se guardan en
+  metricas/videos_enganche.csv. Ratio vistas_comprometidas/vistas = proxy del gancho (top del
+  canal ~0,5). Usarlo el 19/10 para comparar Shorts con gancho en texto (desde el 15/10 12:20) frente
+  a los anteriores.
