@@ -1328,3 +1328,24 @@ Pendiente de probar: voz distinta gratuita (TTS de Gemini), seña visual fija, t
   (el selector de canales no cargaba). Métricas en metricas_en/ (metricas.yml) y respuestas a
   comentarios en inglés (comentarios.yml), ambos con YOUTUBE_TOKEN_FILE=token_en.json.
   Pendiente: listas de reproducción del canal inglés cuando tenga ~20 vídeos.
+
+## 2026-10-15 (noche) — Segunda ronda de aprendizaje en YouTube (SIN aplicar aún: pausa de medición)
+Fuentes: "I Studied 5,400 Shorts to CRACK the Algorithm" (ryZt5pc2O5s, estudio de Paddy Galloway);
+"YouTube algorithm update October 2026" (shfr5fBVfPI, Rob/vidIQ); prensa sobre el cambio del 1/10/2026.
+1. **Vistos frente a deslizados (VVSA)** es la métrica de gancho de los Shorts: <40 % = no despega;
+   los que se hacen virales están en 70-90 %. Está en Studio > vídeo > Alcance ("Han elegido verlo").
+   Tarea: ver si la API de Analytics lo da; si no, mirarlo a mano en Studio para el gancho nuevo.
+2. **Tiempo visto en SEGUNDOS** pesa más que el %: en ese estudio los Shorts de 50-60 s bien vistos
+   sacaban ~4 M de vistas de media frente a los de 30 s. CHOCA con nuestros datos (<=32 s rinden más)
+   porque los nuestros de 36-40 s se veían mal. Hipótesis a probar más adelante: 4-6 Shorts de
+   45-55 s con historia fuerte (no relleno) y comparar vistas, no solo %.
+3. **1/10/2026: YouTube prioriza el contenido original en Shorts** (TeamYouTube en el Centro de
+   ayuda). Castiga resubir clips ajenos sin aportar; solo afecta a recomendaciones, la monetización
+   sigue con la política de contenido reutilizado. Nos afecta poco (guiones propios), pero refuerza
+   el narrador con opinión. OJO con Wild Facts Daily: son los mismos vídeos traducidos; vigilar si
+   YouTube lo trata como duplicado (si el canal inglés no despega en ~2 semanas, sospechar de esto).
+4. **Ajustes de canal recomendados** (Studio > Configuración > Canal > Avanzado): activar "Hype"
+   (los fans empujan vídeos de canales <500k subs), mejoras automáticas de imagen y audio, y
+   doblaje automático. El doblaje en Sabías Qué competiría con Wild Facts Daily: NO activarlo de
+   momento. Hype y mejoras: pedir OK al usuario (son ajustes de cuenta).
+5. Suscriptores por 10.000 vistas: largos ~22, Shorts ~17 (estudio); nosotros ~16 → normal.
