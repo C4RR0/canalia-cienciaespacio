@@ -1,0 +1,55 @@
+# Temporal (15/10/2026): prueba de extremo a extremo de la app Apuntes a Word con Gemini,
+# usando la clave gratis GEMINI_API_KEY de este repo. PDF inventado, sin datos reales.
+name: Probar Apuntes con Gemini
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  probar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: C4RR0/apuntes-a-word
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Dependencias
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq python3-tk
+          pip install -q anthropic python-docx pillow pypdf pypdfium2 certifi fpdf2
+          pip install -q tkinterdnd2 || true
+      - name: PDF de prueba
+        run: |
+          python - <<'PY'
+          from fpdf import FPDF
+          d = [("PLACENTA", ["Órgano temporal que une madre y feto.", "Peso al término: unos 500 g.", "Funciones: intercambio de gases, nutrición, endocrina."]),
+               ("Placenta previa", ["Inserción baja de la placenta en el segmento uterino inferior.", "Signo típico: hemorragia indolora en el tercer trimestre.", "Tipos: total, parcial, marginal y de inserción baja."]),
+               ("Desprendimiento de placenta", ["Separación prematura de la placenta normoinserta.", "Signos: dolor intenso, útero hipertónico, sangrado oscuro.", "Factor de riesgo principal: hipertensión arterial."]),
+               ("LÍQUIDO AMNIÓTICO", ["Volumen máximo hacia la semana 34: unos 800 ml.", "Oligohidramnios: menos de 500 ml.", "Polihidramnios: más de 2000 ml."]),
+               ("Cuidados de enfermería", ["Control de constantes vitales cada 15 minutos si hay sangrado.", "Valorar la frecuencia cardiaca fetal (normal 110-160 lpm).", "Evitar tactos vaginales en la placenta previa."])]
+          pdf = FPDF(orientation="L")
+          pdf.add_font("D", "", "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf")
+          pdf.add_font("D", "B", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf")
+          for t, ls in d:
+              pdf.add_page(); pdf.set_font("D", "B", 26); pdf.cell(0, 22, t, new_x="LMARGIN", new_y="NEXT"); pdf.set_font("D", "", 18)
+              for l in ls: pdf.multi_cell(0, 12, "• " + l, new_x="LMARGIN", new_y="NEXT")
+          pdf.output("prueba.pdf")
+          PY
+      - name: Apuntes a Word con Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          APUNTES_IA: gemini
+        run: |
+          mkdir -p salida
+          xvfb-run -a python apuntes_a_word.py --consola prueba.pdf salida 2>&1 | tee log.txt || python apuntes_a_word.py --consola prueba.pdf salida 2>&1 | tee log.txt
+          ls -la salida
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: resultado-apuntes
+          path: |
+            salida/
+            log.txt
