@@ -95,6 +95,20 @@ def _analytics(creds, fecha: str):
             [[fecha, *fila] for fila in r.get("rows", [])])
     print(f"Analytics: {len(r.get('rows', []))} vídeos")
 
+    # Enganche del gancho (15/10/2026): la API no da "vistos frente a deslizados", pero sí
+    # engagedViews (vistas que pasan de los primeros segundos). engagedViews/vistas mide lo
+    # mismo: si el gancho retiene. Y la duración media en SEGUNDOS, que pesa más que el %.
+    try:
+        r = a.reports().query(ids="channel==MINE", startDate="2026-09-01", endDate=fecha,
+                              metrics="views,engagedViews,averageViewDuration",
+                              dimensions="video", sort="-views", maxResults=200).execute()
+    except Exception as e:
+        print(f"AVISO: sin engagedViews ({str(e)[:120]})")
+        return
+    _append(DIR / "videos_enganche.csv",
+            ["fecha", "video_id", "vistas", "vistas_comprometidas", "segundos_vistos_media"],
+            [[fecha, *fila] for fila in r.get("rows", [])])
+
 
 if __name__ == "__main__":
     sys.exit(main())
