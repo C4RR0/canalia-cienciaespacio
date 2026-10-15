@@ -1,0 +1,40 @@
+# Prueba de voces (a mano): genera un guion con varias voces de Gemini TTS
+# (gratis) y con la actual, las puntúa y deja los mp3 como artefacto.
+name: Probar voces
+
+on:
+  workflow_dispatch:
+    inputs:
+      config:
+        description: "Config cuyo guion se lee"
+        type: string
+        default: "produccion_config/short_169_derinkuyu_ciudad.json"
+      voces:
+        description: "Voces de Gemini separadas por espacios"
+        type: string
+        default: "Charon Fenrir Algenib Orus Sadachbia Iapetus"
+
+permissions:
+  contents: read
+
+jobs:
+  probar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Dependencias
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q -r requirements.txt
+      - name: Probar
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/probar_voces.py "${{ inputs.config }}" ${{ inputs.voces }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pruebas-voz
+          path: pruebas_voz/
