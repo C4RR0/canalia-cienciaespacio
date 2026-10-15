@@ -1,0 +1,20 @@
+name: Configurar canal inglés
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  configurar:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - env:
+          YOUTUBE_TOKEN_EN_JSON: ${{ secrets.YOUTUBE_TOKEN_EN_JSON }}
+        run: |
+          pip install -q google-api-python-client google-auth
+          printf '%s' "$YOUTUBE_TOKEN_EN_JSON" > token_en.json
+          python scripts/configurar_canal_en.py
+          rm -f token_en.json
