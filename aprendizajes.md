@@ -1273,3 +1273,18 @@ E'Calm "My $75K YouTube Shorts System" (srDpvEnGQg4) + búsquedas web sobre RPM 
 Aplicado hoy: la rutina de guiones exige una frase de opinión del narrador, estructura de mini
 historia, recompensa al final y cortar ahí, y ángulo poco conocido.
 Pendiente de probar: voz distinta gratuita (TTS de Gemini), seña visual fija, tráiler del canal.
+
+### 2026-10-15 (tarde) — aplicado y probado
+- **Gancho en texto + marca fija** (commit d6f4c3b): los 2,6 s primeros muestran `hook_miniatura`
+  en caja amarilla arriba; después queda "¿SABÍAS QUÉ?" fijo arriba. Se añade al .ass al
+  renderizar (producir_video.py), así que vale también para los vídeos ya en cola. Probado con
+  un ensayo completo en Actions (short_147): se ve bien. MEDIR: % visto en videos_analytics
+  (mediana actual 73 %) y vistas a 2 días (mediana ~1.300) de los publicados desde el 15/10 12:20.
+- **Voz Gemini TTS (gratis, gemini-3.8-flash-tts)**: funciona, pero NO se adopta de momento:
+  (1) con una instrucción larga delante la LEE en voz alta; los tts no admiten systemInstruction
+  (400); con "Say ...: " corto lee bien (whisper 98 %) salvo Fenrir; (2) es ~20 % más lenta
+  (43 s vs 35,5 s el mismo guion), mala para retención; (3) las notas de Gemini como juez varían
+  mucho entre pruebas (Iapetus 9 y luego 5 de naturalidad). Herramienta lista: workflow
+  "Probar voces" + scripts/voz_gemini.py (con control de duración). Si se retoma: acelerar con
+  atempo y que el usuario elija de oído.
+- Franjas horarias: mediana a 2 días casi igual en todas (1.230-1.430): no mover horarios.
