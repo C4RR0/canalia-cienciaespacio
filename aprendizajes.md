@@ -1308,3 +1308,15 @@ Pendiente de probar: voz distinta gratuita (TTS de Gemini), seña visual fija, t
   caído unas horas más tarde habría arrasado una ciudad" = mito de San Petersburgo, cambiado por
   "si hubiera caído sobre una ciudad, la habría borrado del mapa"). Carrington recortado de 35,7 a
   ~31 s. Audio y subtítulos regenerados en local; render de prueba OK (31,3 s).
+
+## 2026-10-15 — Más alcance: otros idiomas
+- **Localizaciones (opción A)**: scripts/localizar.py + workflow "Localizar títulos" (07:30 UTC,
+  40 vídeos/día; desde el 1/11 moverlo a 08:30): título y descripción en inglés y portugués con
+  Gemini. Probado con 0buh6R4HmMI: OK.
+- **Canal en inglés (opción B)**: tras publicar cada Short en español, publicar_siguiente.py llama a
+  scripts/publicar_ingles.py (límite 20 min, nunca bloquea el español): traduce con Gemini, voz
+  en-US-AndrewNeural, subtítulos whisper en inglés alineados al guion, marca "DID YOU KNOW?", mismas
+  imágenes, y sube con token_en.json (secret YOUTUBE_TOKEN_EN_JSON). Sin el secret no hace nada.
+  Ensayo: publicar.yml con prueba_ingles=true. Bug visto y arreglado: el gancho volvía en español.
+  Para autorizar: `python scripts/autenticar_youtube.py token_en.json` y elegir el canal inglés.
+  token_en.json está en .gitignore (repo PÚBLICO).
