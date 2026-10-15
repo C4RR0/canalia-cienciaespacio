@@ -468,6 +468,7 @@ def producir(cfg: dict) -> dict:
             video_id = subir_youtube.subir(
                 str(video_final), cfg["titulo"], descripcion_final, cfg.get("tags", []),
                 cfg.get("categoria_id", "27"), cfg.get("privacidad", "public"), str(miniatura_path),
+                idioma=cfg.get("idioma", "es"),
             )
         except Exception as e:
             error_subida = str(e)

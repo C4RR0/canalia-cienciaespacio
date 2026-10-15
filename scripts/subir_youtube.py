@@ -36,7 +36,8 @@ def cargar_credenciales() -> Credentials:
 
 
 def subir(video_path: str, titulo: str, descripcion: str, tags: list[str],
-          categoria_id: str, privacidad: str, miniatura: str | None = None) -> str:
+          categoria_id: str, privacidad: str, miniatura: str | None = None,
+          idioma: str = "es") -> str:
     creds = cargar_credenciales()
     youtube = build("youtube", "v3", credentials=creds)
 
@@ -46,6 +47,9 @@ def subir(video_path: str, titulo: str, descripcion: str, tags: list[str],
             "description": descripcion,
             "tags": tags,
             "categoryId": categoria_id,
+            # Idioma del título y del audio: YouTube lo usa para decidir a qué público enseñarlo.
+            "defaultLanguage": idioma,
+            "defaultAudioLanguage": idioma,
         },
         "status": {
             "privacyStatus": privacidad,
