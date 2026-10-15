@@ -2,5 +2,4 @@ short_174_caracol_cono_insulina
 short_177_pez_cabeza_transparente
 short_178_pinzon_vampiro
 short_182_faro_flannan
-short_173_pulpo_madre_huevos
 short_181_explosion_halifax
