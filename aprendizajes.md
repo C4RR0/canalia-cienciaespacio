@@ -1298,3 +1298,9 @@ Pendiente de probar: voz distinta gratuita (TTS de Gemini), seña visual fija, t
 - **Cuota de la API (Google Cloud, 15/10)**: las subidas tienen su PROPIO cupo ("Video Uploads per
   day" = 100) y "Queries per day" = 10.000 iba al 1 %. La cuota ya no limita subir 7 al día ni las
   listas; el antiguo cálculo de 1.600 unidades por subida ya no aplica.
+- **Duración (83 Shorts desde el 26/09)**: <=32 s -> 76-80 % visto y ~1.450-1.500 vistas de
+  mediana; 36-40 s -> 59 % visto y ~990. Los 4 más vistos duran 27-30 s. Las 80-95 palabras de la
+  rutina dan 25-31 s de audio (~3,3 palabras/s): NO subir de 95 palabras. Cola del 15/10 revisada:
+  todo entre 25 y 33 s salvo short_078 (35,7 s).
+- A partir del 15/10 se para de cambiar cosas unos días: gancho+marca, guiones nuevos y listas
+  coinciden en el tiempo; medir antes de tocar más (si no, no se sabe qué funcionó).
