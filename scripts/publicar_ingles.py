@@ -39,7 +39,8 @@ SISTEMA = (
     "animal, place or person if the original does not; 40-60 characters, no quotes or "
     "parentheses. The hook is 2-5 words in CAPITALS that do not reveal the subject. The "
     "description: 1-2 sentences naming the real subject and the fact, a blank line, then 3 "
-    "English hashtags and #shorts. Tags: 5-7 English tags, the first one the subject's name."
+    "English hashtags and #shorts. Tags: 5-7 English tags, the first one the subject's name. "
+    "EVERY output field must be in English, including the hook."
 )
 ESQUEMA = {"type": "OBJECT", "properties": {
     "titulo": {"type": "STRING"}, "guion": {"type": "STRING"}, "descripcion": {"type": "STRING"},
@@ -57,6 +58,10 @@ def traducir(cfg: dict) -> dict:
     largo_es, largo_en = len(cfg["guion"].split()), len(t["guion"].split())
     if largo_en > largo_es * 1.25:
         raise RuntimeError(f"Guion en inglés demasiado largo ({largo_en} palabras vs {largo_es})")
+    # El gancho a veces vuelve sin traducir (15/10): entonces, primeras palabras del título.
+    gancho = t["hook"].strip().upper()
+    if not gancho or gancho == cfg.get("hook_miniatura", "").strip().upper() or any(c in gancho for c in "ÁÉÍÓÚÑ¿¡"):
+        t["hook"] = " ".join(t["titulo"].split()[:4]).upper()
     return t
 
 
