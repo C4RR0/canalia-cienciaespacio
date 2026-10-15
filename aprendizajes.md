@@ -1243,3 +1243,33 @@ red del sandbox.
 
 ## 2026-10-13 — Títulos: ocultar el sujeto
 Con 119 Shorts de 2 días o más: los títulos que NO dicen qué animal, lugar o persona es ("Este pájaro…", "A este animal…", "Algo vivo…", "El pueblo que…") tienen una media de 1.950 vistas y 1 muerto (<150 vistas) de 45, contando desde el 27/09. Los que lo nombran ("Los hipopótamos…", "Las nutrias…") se quedan en 1.191 de media, con 5 muertos de 30. Los de más de 60 caracteres también rinden algo peor (8 de los 15 muertos). Regla para las tandas nuevas: sujeto oculto + acción impactante, 40-55 caracteres, sin paréntesis explicativos. Aplicado a 067, 080, 147 y 158 de la cola.
+
+## 2026-10-15 — Lo aprendido de YouTube sobre canales sin rostro con IA
+
+Fuentes leídas enteras (transcripción): vidIQ "The New Rules For Faceless Channels in 2026"
+(ye2T2FwubI4), vidIQ "How to Build a Faceless Channel YouTube Won't Demonetize" (d_csri5M9xw),
+E'Calm "My $75K YouTube Shorts System" (srDpvEnGQg4) + búsquedas web sobre RPM y política.
+
+1. **El riesgo nº 1 para monetizar es la política de "contenido inauténtico"** (jul-2025):
+   YouTube no veta la IA, veta lo producido en masa e intercambiable. En ene-2026 borró 16
+   canales grandes de IA (~35 M subs). Señales de granja: voz TTS por defecto, guion neutro tipo
+   Wikipedia, cada vídeo idéntico al anterior. Nosotros tenemos las tres (AlvaroNeural, plantilla,
+   7/día). La revisión de YPP es manual: hay que llegar con un canal que no parezca granja.
+2. Lo que hacen los que sobreviven: narrador con opinión que el espectador puede predecir;
+   la información contada como historia (alguien quiere algo, algo lo impide, giro); una seña
+   visual fija y reconocible sin sonido; un elemento recurrente (frase, forma de empezar);
+   ángulo poco conocido, no el resumen de Wikipedia; voz propia (clonada o grabada), no la de
+   serie; tráiler del canal con la persona real detrás (puede ser vídeo oculto).
+3. Retención en Shorts: gancho triple en los 3 primeros s (audio + imagen + texto en pantalla),
+   cuerpo rápido sin tiempos muertos, la recompensa al final y cortar justo después.
+4. Dinero, sin engañarse: Shorts pagan ~0,02-0,10 $/1.000 vistas (menos en audiencia
+   hispana). YPP con Shorts = 1.000 subs + 10 M vistas de Shorts en 90 días. Con ~10k vistas/día
+   vamos a ~0,9 M/90 días: hay que multiplicar por ~11. El nivel bajo de YPP (500 subs + 3 M
+   vistas de Shorts en 90 días) da funciones de fans, no anuncios.
+5. Consejo anecdótico (E'Calm): no más de 3 Shorts/día "para no parecer spam". No está
+   confirmado; nuestros datos dicen que 7/día no canibaliza. Se mantiene 7, pero ojo antes de
+   pedir YPP.
+
+Aplicado hoy: la rutina de guiones exige una frase de opinión del narrador, estructura de mini
+historia, recompensa al final y cortar ahí, y ángulo poco conocido.
+Pendiente de probar: voz distinta gratuita (TTS de Gemini), seña visual fija, tráiler del canal.
