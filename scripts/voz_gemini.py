@@ -52,7 +52,8 @@ def sintetizar(texto: str, salida_mp3: str, voz: str = VOZ_POR_DEFECTO,
                estilo: str = ESTILO, rondas: int = 3) -> str:
     """Genera salida_mp3 y devuelve el modelo usado. Lanza excepción si no puede."""
     cuerpo = {
-        "contents": [{"parts": [{"text": estilo + texto}]}],
+        "systemInstruction": {"parts": [{"text": estilo}]},
+        "contents": [{"role": "user", "parts": [{"text": texto}]}],
         "generationConfig": {
             "responseModalities": ["AUDIO"],
             "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voz}}},
@@ -81,6 +82,14 @@ def sintetizar(texto: str, salida_mp3: str, voz: str = VOZ_POR_DEFECTO,
             subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "s16le", "-ar", "24000",
                             "-ac", "1", "-i", pcm, "-b:a", "192k", salida_mp3], check=True)
             os.unlink(pcm)
+            dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                                        "-of", "csv=p=0", salida_mp3],
+                                       capture_output=True, text=True).stdout)
+            maximo = len(texto.split()) / PALABRAS_POR_SEGUNDO * MARGEN_DURACION + 2
+            if dur > maximo:
+                ultimo = f"{modelo}: {dur:.1f} s, demasiado para el texto (máx {maximo:.1f} s)"
+                print(f"  [aviso] {ultimo}")
+                continue
             return modelo
     raise RuntimeError(f"Gemini TTS no disponible ({ultimo})")
 
