@@ -15,7 +15,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 
 BASE = Path(__file__).parent.parent
 CLIENT_SECRET = BASE / "client_secret.json"
-TOKEN_PATH = BASE / "token.json"
+TOKEN_PATH = BASE / (sys.argv[1] if len(sys.argv) > 1 else "token.json")  # token_en.json = canal en inglés
 
 SCOPES = [
     "https://www.googleapis.com/auth/youtube.force-ssl",

@@ -388,7 +388,7 @@ def producir(cfg: dict) -> dict:
     else:
         log("5/8 Subtítulos (transcripción + corrección + quemado)")
         srt_crudo = dir_subs / f"{vid}.srt"
-        generar_subtitulos.generar_srt(str(audio_final), str(srt_crudo), "small")
+        generar_subtitulos.generar_srt(str(audio_final), str(srt_crudo), "small", cfg.get("idioma", "es"))
 
         correcciones = cfg.get("correcciones_subtitulos")
         correcciones_path = None
@@ -402,14 +402,18 @@ def producir(cfg: dict) -> dict:
         palabras_json = srt_crudo.with_name(srt_crudo.stem + "_palabras.json")
         if palabras_json.exists():
             import generar_subtitulos_ass_palabras
-            generar_subtitulos_ass_palabras.generar(palabras_json, ass_corregido, ancho, alto, correcciones_path)
+            # Versiones en otro idioma (canal en inglés): el texto exacto sale del guion.
+            guion_alinear = cfg.get("guion") if cfg.get("idioma", "es") != "es" else None
+            generar_subtitulos_ass_palabras.generar(palabras_json, ass_corregido, ancho, alto, correcciones_path,
+                                                   guion=guion_alinear)
 
     # Subtítulos palabra-por-palabra (más profesionales) si están disponibles,
     # si no, se cae al .srt de frase completa clásico.
     subs_para_quemar = ass_corregido if ass_corregido.exists() else srt_corregido
     if ass_corregido.exists() and cfg.get("formato") == "curiosidad" and not cfg.get("sin_marca"):
         import generar_subtitulos_ass_palabras
-        generar_subtitulos_ass_palabras.anadir_gancho_y_marca(ass_corregido, cfg.get("hook_miniatura"))
+        generar_subtitulos_ass_palabras.anadir_gancho_y_marca(ass_corregido, cfg.get("hook_miniatura"),
+                                                           cfg.get("marca", generar_subtitulos_ass_palabras.MARCA))
 
     video_final = dir_salidas / f"{vid}_FINAL.mp4"
     quemar_subtitulos.quemar(str(video_mudo_con_audio), str(subs_para_quemar), str(video_final), "abajo", ancho, alto)

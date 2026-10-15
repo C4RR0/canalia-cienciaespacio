@@ -21,7 +21,8 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 
 BASE = Path(__file__).parent.parent
-TOKEN_PATH = BASE / "token.json"
+# YOUTUBE_TOKEN_FILE elige otro canal (p. ej. token_en.json para el canal en inglés).
+TOKEN_PATH = BASE / os.environ.get("YOUTUBE_TOKEN_FILE", "token.json")
 
 SCOPES = ["https://www.googleapis.com/auth/youtube.force-ssl"]
 

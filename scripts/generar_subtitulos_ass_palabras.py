@@ -225,7 +225,7 @@ def _partir_en_dos(texto: str, max_chars: int = 13) -> str:
     return texto[:corte] + r"\N" + texto[corte + 1:]
 
 
-def anadir_gancho_y_marca(ass_path: Path, gancho: str | None):
+def anadir_gancho_y_marca(ass_path: Path, gancho: str | None, marca: str = MARCA):
     """15/10/2026, de lo aprendido sobre Shorts sin rostro: (1) gancho también en
     TEXTO en los primeros segundos (audio + imagen + texto a la vez), y (2) una
     seña visual fija del canal, reconocible con el sonido quitado. Se añade al
@@ -245,7 +245,7 @@ def anadir_gancho_y_marca(ass_path: Path, gancho: str | None):
         f"-1,0,0,0,100,100,2,0,1,3,0,8,40,40,{int(alto * 0.105)},1\n"
     )
     contenido = contenido.replace("\n[Events]", estilos + "\n[Events]", 1)
-    lineas = [f"Dialogue: 1,{_tiempo_ass(GANCHO_S)},9:59:59.00,Marca,,0,0,0,,{MARCA}"]
+    lineas = [f"Dialogue: 1,{_tiempo_ass(GANCHO_S)},9:59:59.00,Marca,,0,0,0,,{marca}"]
     if gancho:
         texto = _partir_en_dos(gancho.strip().upper())
         lineas.append(f"Dialogue: 2,{_tiempo_ass(0)},{_tiempo_ass(GANCHO_S)},Gancho,,0,0,0,,"

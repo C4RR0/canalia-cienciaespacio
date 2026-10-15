@@ -26,9 +26,9 @@ def formatear_tiempo(segundos: float) -> str:
     return f"{horas:02d}:{minutos:02d}:{int(segs):02d},{milisegundos:03d}"
 
 
-def generar_srt(audio_path: str, salida_path: str, modelo: str = "small"):
+def generar_srt(audio_path: str, salida_path: str, modelo: str = "small", idioma: str = "es"):
     model = WhisperModel(modelo, device="cpu", compute_type="int8")
-    segmentos, info = model.transcribe(audio_path, language="es", vad_filter=True, word_timestamps=True)
+    segmentos, info = model.transcribe(audio_path, language=idioma, vad_filter=True, word_timestamps=True)
 
     palabras = []
     with open(salida_path, "w", encoding="utf-8") as f:

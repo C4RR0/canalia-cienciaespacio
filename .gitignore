@@ -68,3 +68,4 @@ __pycache__/
 
 # Clips reales de Commons que sustituyen a una foto (poner_clip.py)
 !cola_imagenes/**/*.mp4
+token_en.json

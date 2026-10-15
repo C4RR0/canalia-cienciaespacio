@@ -103,6 +103,20 @@ def main():
         print(f"ERROR: {vid} no se publicó: {resultado.get('error_subida') or 'sin resultado'}")
         return 1
 
+    # Versión en inglés con las mismas imágenes, antes de limpiar la cola. Nunca
+    # bloquea la publicación en español (se ignora si falla).
+    if (BASE / "token_en.json").exists():
+        # Con límite de tiempo: si se colgara y el job llegara a su timeout, la cola no
+        # se limpiaría y el vídeo en español se volvería a subir en la siguiente ejecución.
+        try:
+            r = subprocess.run([sys.executable, str(BASE / "scripts" / "publicar_ingles.py"), vid],
+                               cwd=BASE, timeout=20 * 60)
+            if r.returncode:
+                print(f"AVISO: la versión en inglés de {vid} falló (código {r.returncode}); "
+                      "el vídeo en español está publicado.")
+        except subprocess.TimeoutExpired:
+            print(f"AVISO: la versión en inglés de {vid} superó 20 min y se abandonó.")
+
     limpiar_cola(vid)
     print(f"Publicado: {resultado['video_url']}  (quedan {len(listos) - 1} en cola)")
     print(f"PUBLICADO={vid}")
