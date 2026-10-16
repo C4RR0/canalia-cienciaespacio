@@ -1362,3 +1362,7 @@ Fuentes: "I Studied 5,400 Shorts to CRACK the Algorithm" (ryZt5pc2O5s, estudio d
   ziconotida viene de Conus magus, no del geográfico: por eso "un pariente suyo"). ARRANCA el
   experimento de suscripción (171,173,175,177,179,181 cierre; 172,174,176,178,180,182 control).
   Se publican hacia el 19-21/10, después de la medición del gancho.
+
+## 2026-10-16 — Wikimedia 429 y QA manual
+- `buscar_imagenes_wikimedia.py` pedía miniaturas de 1600 px (no es un tamaño estándar de Commons) y, en fotos de 800-1600 px, Commons devolvía el original "thumbnail_unscaled", que es lo que más 429 da. Ahora pide 1280 (estándar) y, si la foto mide ≤ 1280, pide ancho-1 para obtener una miniatura de verdad (mismo truco que ya usaba qa_imagenes.py).
+- Especies con poco material en Commons (caracol cono geográfico, pez cabeza transparente, pinzón vampiro): la QA automática no encuentra sustitutas y el vídeo se queda en pendientes_qa. Arreglo manual: candidatas de Commons + Pexels (fotos de lo relacionado que nombra el guion: peces de arrecife, piqueros, Galápagos, fondo marino), hoja de contactos, elegir a ojo, componer la miniatura con generar_miniatura.componer y quitar el id de pendientes_qa.txt. Al escribir guiones, preferir especies con al menos 5 fotos reales en Commons.
