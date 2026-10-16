@@ -1,11 +1,9 @@
 # Traduce títulos y descripciones al inglés y portugués (scripts/localizar.py).
-# 07:30 UTC: justo después del reinicio de la cuota de YouTube (07:00 UTC en
-# verano, 08:00 UTC desde el 1/11: entonces conviene moverlo a las 08:30).
+# Lo dispara cron-job.org (job "Localizar títulos Sabías Qué", 9:40 de Madrid, después del
+# reinicio de la cuota de YouTube): el cron de GitHub no saltó el 16/10/2026.
 name: Localizar títulos
 
 on:
-  schedule:
-    - cron: "30 7 * * *"
   workflow_dispatch:
     inputs:
       maximo:
