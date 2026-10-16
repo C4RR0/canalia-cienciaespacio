@@ -60,7 +60,8 @@ def buscar_archivo(query: str, intentos: int = 4, excluir: set | None = None) ->
         "gsrlimit": 5,
         "prop": "imageinfo",
         "iiprop": "url|size|mime",
-        "iiurlwidth": 1600,
+        # 1280 es un tamaño estándar de Commons (1600 no lo es y daba 429 a menudo, 16/10/2026)
+        "iiurlwidth": 1280,
     }
     data = None
     for intento in range(1, intentos + 1):
@@ -100,7 +101,7 @@ def buscar_archivo(query: str, intentos: int = 4, excluir: set | None = None) ->
         # -y caer al respaldo IA- que mostrar con confianza una foto real pero
         # equivocada. Ver aprendizajes.md.
         if _es_relevante(titulo, palabras_clave, query):
-            candidatos.append((ancho, url))
+            candidatos.append((ancho, url, titulo))
         else:
             candidatos_irrelevantes.append((ancho, url, titulo))
 
@@ -108,9 +109,10 @@ def buscar_archivo(query: str, intentos: int = 4, excluir: set | None = None) ->
         candidatos = [c for c in candidatos if c[1] not in excluir]
     if candidatos:
         candidatos.sort(reverse=True)
+        ancho, url, titulo = candidatos[0]
         if excluir is not None:
-            excluir.add(candidatos[0][1])
-        return candidatos[0][1]
+            excluir.add(url)
+        return _miniatura_real(titulo, ancho) or url
     if candidatos_irrelevantes:
         # Ningún resultado tiene el título relacionado con la búsqueda: es mejor no
         # usar una foto real pero equivocada (ver aprendizajes.md, short_012: una
@@ -119,6 +121,21 @@ def buscar_archivo(query: str, intentos: int = 4, excluir: set | None = None) ->
         print(f"  descartados {len(candidatos_irrelevantes)} resultado(s) sin relación con '{query}' "
               f"(ej. título: '{candidatos_irrelevantes[0][2]}')")
     return None
+
+
+def _miniatura_real(titulo: str, ancho: int) -> str | None:
+    """Si la foto mide <= 1280 px, Commons devuelve el original "thumbnail_unscaled",
+    que da 429 a menudo: se pide 1 px menos para que genere una miniatura de verdad
+    (mismo truco que qa_imagenes.descargar_commons)."""
+    if ancho > 1280:
+        return None
+    try:
+        r = requests.get(API_URL, headers=HEADERS, timeout=30, params={
+            "action": "query", "format": "json", "titles": titulo, "prop": "imageinfo",
+            "iiprop": "url", "iiurlwidth": ancho - 1}).json()
+        return next(iter(r["query"]["pages"].values()))["imageinfo"][0].get("thumburl")
+    except (requests.RequestException, ValueError, KeyError, StopIteration):
+        return None
 
 
 def descargar(url: str, salida: Path, intentos: int = 3):
