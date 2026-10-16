@@ -1,0 +1,2 @@
+Vídeos sacados de la cola sin publicar (medios conservados en cola_imagenes/cola_subtitulos; para volver a encolarlos, devolver el mp3 a cola_audio/).
+- short_177_pez_cabeza_transparente (16/10/2026): sin fotos reales que muestren la cabeza transparente (solo ejemplares conservados, dibujos y cortes de laboratorio).
