@@ -1,0 +1,34 @@
+{
+  "id": "short_183_mariquita_guardaespaldas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Una avispa convierte a esta mariquita en la guardaespaldas de su propio asesino.\n\nPrimero le mete un huevo dentro del cuerpo.\n\nLa larva crece dentro de ella durante unas tres semanas, comiéndosela por dentro.\n\nDespués sale por su abdomen y teje un capullo justo entre sus patas.\n\nY la mariquita, paralizada pero viva, se queda encima, espantando a los depredadores con sacudidas.\n\nSinceramente, pocas cosas me parecen más crueles.\n\nLo increíble es que algunas mariquitas se recuperan después y siguen con su vida.",
+  "queries_imagenes": [
+    "Dinocampus coccinellae",
+    "Dinocampus coccinellae cocoon ladybird",
+    "Coleomegilla maculata",
+    "Coccinella septempunctata",
+    "ladybird parasitoid wasp cocoon",
+    "Braconidae wasp macro",
+    "Harmonia axyridis",
+    "ladybird on leaf macro"
+  ],
+  "titulo": "Esta avispa obliga a una mariquita a protegerla",
+  "descripcion": "La avispa Dinocampus coccinellae pone un huevo dentro de una mariquita; la larva se la come por dentro, sale y teje su capullo entre sus patas, y la mariquita, paralizada, lo protege de los depredadores. Algunas se recuperan después.\n\n#mariquita #insectos #naturaleza #shorts",
+  "tags": [
+    "Dinocampus coccinellae",
+    "mariquita",
+    "avispa parásita",
+    "insectos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "ESCUDO VIVIENTE",
+  "prompt_miniatura": "a ladybird standing over a small silky wasp cocoon between its legs, macro photography",
+  "experimento": "control"
+}

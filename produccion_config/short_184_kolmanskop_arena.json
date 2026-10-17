@@ -1,0 +1,35 @@
+{
+  "id": "short_184_kolmanskop_arena",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En mitad del desierto hay casas llenas de arena hasta media pared. Y fue uno de los pueblos más ricos de África.\n\nEs Kolmanskop, en Namibia.\n\nEn mil novecientos ocho, un trabajador del ferrocarril encontró allí un diamante.\n\nEn pocos años hubo hospital, salón de baile y hasta una bolera.\n\nPero los diamantes se agotaron, y en mil novecientos cincuenta y seis ya no quedaba nadie.\n\nMe fascina lo rápido que el desierto lo ha recuperado todo.\n\nSi te gustan los lugares así, sígueme: tengo muchos más.",
+  "queries_imagenes": [
+    "Kolmanskop",
+    "Kolmanskop house sand",
+    "Kolmanskop interior",
+    "Kolmanskop ghost town",
+    "Kolmanskop Namibia",
+    "Kolmanskop bathtub sand",
+    "Namib desert dunes",
+    "Kolmanskop abandoned building"
+  ],
+  "titulo": "El pueblo de diamantes que se está tragando la arena",
+  "descripcion": "Kolmanskop (Namibia) nació tras el hallazgo de un diamante en 1908, tuvo hospital, salón de baile y bolera en pleno desierto del Namib, y quedó abandonado en 1956. Hoy la arena llena sus casas.\n\n#namibia #pueblofantasma #historia #shorts",
+  "tags": [
+    "Kolmanskop",
+    "Namibia",
+    "pueblo fantasma",
+    "desierto del Namib",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "TRAGADO POR LA ARENA",
+  "prompt_miniatura": "an abandoned colonial house interior half filled with orange desert sand dunes, light through doorways",
+  "experimento": "cierre_suscripcion"
+}

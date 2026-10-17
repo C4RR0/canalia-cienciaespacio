@@ -1,0 +1,35 @@
+{
+  "id": "short_187_herculano_playa",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Durante siglos se pensó que casi todos los vecinos de Herculano habían escapado del Vesubio. Hasta que excavaron la antigua playa.\n\nAllí, en los almacenes de barcas, aparecieron unos trescientos esqueletos, apretados unos contra otros.\n\nProbablemente esperaban que los rescataran por mar.\n\nPero la nube ardiente del volcán llegó antes.\n\nMe cuesta imaginar esos últimos minutos.\n\nY en otro edificio de la ciudad apareció algo aún más extraño: un joven cuyo cerebro se había convertido en cristal por el calor.",
+  "queries_imagenes": [
+    "Herculaneum skeletons",
+    "Herculaneum boat sheds skeletons",
+    "Herculaneum fornici",
+    "Herculaneum ancient beach",
+    "Vesuvius from Herculaneum",
+    "Herculaneum ruins",
+    "Collegium Augustalium Herculaneum",
+    "Herculaneum excavation"
+  ],
+  "titulo": "Corrieron a la playa y el volcán llegó antes",
+  "descripcion": "En la antigua playa de Herculano aparecieron, en las excavaciones de los años ochenta, unos 300 esqueletos de personas refugiadas en los almacenes de barcas durante la erupción del Vesubio del año 79. En el Colegio de los Augustales se halló a un joven con restos de cerebro vitrificados.\n\n#historia #herculano #vesubio #shorts",
+  "tags": [
+    "Herculano",
+    "Vesubio",
+    "erupción del año 79",
+    "historia",
+    "arqueología",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "CEREBRO DE CRISTAL",
+  "prompt_miniatura": "ancient Roman stone boat sheds by the sea with skeletons, Vesuvius smoking in the distance, dramatic light",
+  "experimento": "control"
+}

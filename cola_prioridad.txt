@@ -1,3 +1,40 @@
+# 17/10: REORDENADA según el análisis de aprendizajes.md (2026-10-17). Va arriba porque manda la primera aparición.
+# Primero la tanda de prueba 183-188 (parásitos / lugares imposibles; sale en cuanto tenga medios), luego los
+# temas fuertes ya listos (2 animales : 1 historia) y al final los antiguos largos de espacio y geología.
+short_183_mariquita_guardaespaldas
+short_185_toxoplasma_ratas
+short_184_kolmanskop_arena
+short_186_hormiga_lanceta
+short_188_oruga_guardaespaldas
+short_187_herculano_playa
+short_176_abejas_cocinan_avispon
+short_172_chinche_mochila_hormigas
+short_179_varosha_ciudad_congelada
+short_174_caracol_cono_insulina
+short_165_gusano_terciopelo
+short_180_epecuen_pueblo_lago
+short_171_arana_boleadora
+short_178_pinzon_vampiro
+short_181_explosion_halifax
+short_164_mantis_orquidea
+short_175_komodo_sin_macho
+short_182_faro_flannan
+short_173_pulpo_madre_huevos
+short_162_arana_buceadora
+short_167_oimiakon_frio
+short_161_gobio_escala_cascadas
+short_146_pepino_mar_defensa
+short_170_kowloon_amurallada
+short_160_pez_globo_circulos
+short_056_cementerio_barcos_aral
+short_051_cueva_cristales_naica
+short_053_nieve_sandia
+short_067_platanos_radiactivos
+short_080_piedras_que_se_mueven
+short_073_reactor_nuclear_natural
+short_072_tunguska
+short_078_evento_carrington
+short_048_crater_hiawatha
 # Orden de publicación (27/09): primero animales raros (lo que más vistas y suscriptores da),
 # 2 de animales por cada 1 de otro tema. Todos con gancho propio (048-056 reescritos el 27/09).
 # Al final, espacio, geología y física, que son los más flojos.

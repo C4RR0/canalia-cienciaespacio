@@ -1,0 +1,34 @@
+{
+  "id": "short_186_hormiga_lanceta",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Un gusano obliga a esta hormiga a subir cada noche a la hierba para que se la coma una vaca.\n\nVive en su cabeza y necesita llegar al hígado del ganado para completar su vida.\n\nAl caer la tarde, la hormiga trepa a la punta de una brizna, la muerde y se queda quieta.\n\nSinceramente, me pone los pelos de punta.\n\nSi al amanecer nadie se la ha comido, la hormiga vuelve a su vida normal. Hasta la noche siguiente.\n\nSígueme si quieres más parásitos así de retorcidos.",
+  "queries_imagenes": [
+    "Dicrocoelium dendriticum",
+    "Dicrocoelium dendriticum ant",
+    "Formica fusca",
+    "ant clinging grass blade",
+    "Formica ant on grass",
+    "sheep grazing meadow",
+    "Dicrocoelium dendriticum adult",
+    "Cochlicella barbara snail"
+  ],
+  "titulo": "Un gusano obliga a esta hormiga a dejarse comer",
+  "descripcion": "La duela lanceolada (Dicrocoelium dendriticum) controla a las hormigas infectadas: al caer la tarde las hace subir a la punta de la hierba y quedarse agarradas con las mandíbulas para que las coma el ganado, donde el parásito completa su ciclo.\n\n#parasitos #hormigas #naturaleza #shorts",
+  "tags": [
+    "Dicrocoelium dendriticum",
+    "duela lanceolada",
+    "hormigas",
+    "parásitos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "CADA NOCHE",
+  "prompt_miniatura": "a single ant clamped with its jaws to the tip of a grass blade at dusk, cows blurred in the background, macro",
+  "experimento": "cierre_suscripcion"
+}

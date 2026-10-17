@@ -1,0 +1,34 @@
+{
+  "id": "short_185_toxoplasma_ratas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este parásito hace que una rata deje de tenerle miedo al gato.\n\nSe llama Toxoplasma, y solo puede reproducirse dentro de un gato.\n\nCuando infecta a una rata, le cambia el comportamiento.\n\nEl olor de la orina de gato, que debería hacerla huir, deja de asustarla. En algunos experimentos incluso parece atraerla.\n\nLa rata se acerca, el gato se la come, y el parásito llega justo adonde quería.\n\nA mí me parece de película de terror.\n\nLo inquietante: se calcula que lo lleva un tercio de la humanidad.",
+  "queries_imagenes": [
+    "Toxoplasma gondii",
+    "Toxoplasma gondii micrograph",
+    "Rattus norvegicus",
+    "brown rat portrait",
+    "cat hunting rat",
+    "domestic cat stalking",
+    "cat with rat",
+    "Toxoplasma gondii tachyzoites"
+  ],
+  "titulo": "Este parásito quita a las ratas el miedo al gato",
+  "descripcion": "Toxoplasma gondii solo se reproduce sexualmente en los gatos; las ratas infectadas pierden el miedo al olor de la orina de gato, lo que facilita que se las coman. Se calcula que lo porta alrededor de un tercio de la humanidad.\n\n#parasitos #ratas #ciencia #shorts",
+  "tags": [
+    "Toxoplasma gondii",
+    "parásito",
+    "ratas",
+    "gatos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SIN MIEDO AL GATO",
+  "prompt_miniatura": "a brown rat calmly facing a crouching cat in a dark alley, cinematic lighting",
+  "experimento": "control"
+}

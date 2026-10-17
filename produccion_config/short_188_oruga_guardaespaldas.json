@@ -1,0 +1,34 @@
+{
+  "id": "short_188_oruga_guardaespaldas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta oruga defiende con su vida a las larvas que se la acaban de comer por dentro.\n\nUna avispa le pone decenas de huevos dentro del cuerpo.\n\nLas larvas crecen dentro y un día salen a la vez a través de su piel.\n\nSe queda encima de sus capullos, deja de comer y golpea a cualquier depredador con latigazos de cabeza.\n\nMe parece la traición más cruel de la naturaleza.\n\nUn par de larvas se quedan dentro. Podrían ser las que la controlan.\n\nSígueme: aún hay cosas peores.",
+  "queries_imagenes": [
+    "Glyptapanteles",
+    "Glyptapanteles cocoons caterpillar",
+    "Thyrinteina leucocerae",
+    "parasitoid wasp cocoons on caterpillar",
+    "Braconidae cocoons",
+    "Geometridae caterpillar",
+    "caterpillar with wasp cocoons",
+    "Cotesia congregata cocoons"
+  ],
+  "titulo": "Esta oruga protege a las larvas que se la comieron",
+  "descripcion": "Las larvas de la avispa Glyptapanteles crecen dentro de una oruga, salen y forman sus capullos; la oruga deja de comer y los defiende de los depredadores a golpes de cabeza. Un par de larvas se quedan dentro y podrían ser las que controlan su conducta.\n\n#parasitos #insectos #naturaleza #shorts",
+  "tags": [
+    "Glyptapanteles",
+    "oruga",
+    "avispa parásita",
+    "insectos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "GUARDAESPALDAS ZOMBI",
+  "prompt_miniatura": "a green caterpillar arched protectively over a cluster of white silk wasp cocoons on a leaf, macro",
+  "experimento": "cierre_suscripcion"
+}
