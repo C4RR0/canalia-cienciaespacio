@@ -1366,3 +1366,21 @@ Fuentes: "I Studied 5,400 Shorts to CRACK the Algorithm" (ryZt5pc2O5s, estudio d
 ## 2026-10-16 — Wikimedia 429 y QA manual
 - `buscar_imagenes_wikimedia.py` pedía miniaturas de 1600 px (no es un tamaño estándar de Commons) y, en fotos de 800-1600 px, Commons devolvía el original "thumbnail_unscaled", que es lo que más 429 da. Ahora pide 1280 (estándar) y, si la foto mide ≤ 1280, pide ancho-1 para obtener una miniatura de verdad (mismo truco que ya usaba qa_imagenes.py).
 - Especies con poco material en Commons (caracol cono geográfico, pez cabeza transparente, pinzón vampiro): la QA automática no encuentra sustitutas y el vídeo se queda en pendientes_qa. Arreglo manual: candidatas de Commons + Pexels (fotos de lo relacionado que nombra el guion: peces de arrecife, piqueros, Galápagos, fondo marino), hoja de contactos, elegir a ojo, componer la miniatura con generar_miniatura.componer y quitar el id de pendientes_qa.txt. Al escribir guiones, preferir especies con al menos 5 fotos reales en Commons.
+
+## 2026-10-17 — Qué Shorts se escapan de la prueba inicial (análisis de 135 Shorts, vistas a 3 días)
+Datos: metricas/videos.csv (vistas a los 3 días de publicar, para comparar en igualdad), videos_analytics.csv (% visto).
+- **El problema no es el volumen sino que casi ninguno se escapa.** Mediana 1.244 vistas a 3 días; la mitad entre
+  992 y 1.516. YouTube da a cada Short una prueba de ~1.200 y solo ~1 de cada 4 pasa de 1.800. Para la 1.ª
+  monetización (3 M de vistas en 90 días) harían falta ~33k/día; vamos a ~9k/día. Lo que cuenta son los que se escapan.
+- **Temas (desde el 27/09, sin resubidas; % que supera 1.800 vistas):** parásitos / control mental 4 de 5 (avispa
+  que convierte cucarachas en zombis 6.098, gusano que obliga al grillo a tirarse al agua, parásito del caracol,
+  parásito del cangrejo); lugares imposibles que siguen así 4 de 10 (pueblo que arde bajo tierra desde 1962 4.613,
+  río que cuece animales, isla prohibida); habilidad increíble concreta (pájaro que imita motosierras 8.373); animal
+  que vence a algo mortal (se come a la cobra que le muerde 6.152); suceso histórico absurdo (casi guerra por un
+  cerdo 2.956). Peores: espacio 0 de 4; rarezas anatómicas 2 de 13; títulos que empiezan por "Los..." (mediana 666)
+  o "En..." (113).
+- **Duración:** <=32 s mediana ~1.450; 33-36 s 1.232; 37+ s 1.039. Mantener los guiones en 75-88 palabras.
+- **Retención:** con >=75 % visto, 1 de cada 3 se escapa; por debajo, 1 de cada 7 (y la mitad de los Shorts está
+  por debajo). La primera frase debe mostrar YA la acción extrema (qué hace, a quién, con qué consecuencia), no contexto.
+- **Resubir un tema ya publicado lo hunde** (hipopótamos, rayos, gusano de 3 m: 18-76 vistas). Nunca repetir sujeto.
+- Hora: las franjas de 10, 13 y 16 UTC algo mejores que 07 y 19; la de 23 UTC es nueva (sin datos suficientes).
