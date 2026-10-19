@@ -1,0 +1,41 @@
+# Buzón de órdenes de la oficina virtual (scripts/ordenes.py): los agentes de la nube suben
+# ordenes/pendientes/<id>.json y este workflow, que tiene el token del canal, las ejecuta.
+# Solo acciones de una lista cerrada; lo que se ve en el canal exige ok_de_sergio: true.
+name: Órdenes de la oficina
+
+on:
+  push:
+    branches: [main]
+    paths: ["ordenes/pendientes/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ordenes
+
+jobs:
+  ejecutar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Ejecutar órdenes
+        env:
+          YOUTUBE_TOKEN_JSON: ${{ secrets.YOUTUBE_TOKEN_JSON }}
+        run: |
+          pip install -q google-api-python-client google-auth
+          printf '%s' "$YOUTUBE_TOKEN_JSON" > token.json
+          set +e
+          python scripts/ordenes.py
+          estado=$?
+          rm -f token.json
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A ordenes
+          git diff --cached --quiet || (git commit -m "Órdenes de la oficina ejecutadas" && git pull --rebase -q && git push)
+          exit $estado
