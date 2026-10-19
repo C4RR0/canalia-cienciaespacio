@@ -1,4 +1,3 @@
-short_189_hongo_cigarras
 short_190_hongo_moscas
 short_191_mosca_mosquito
 short_192_secretario_patadas
