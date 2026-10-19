@@ -1,0 +1,35 @@
+{
+  "id": "short_194_ardilla_cola_caliente",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Una ardilla calienta su propia cola para plantarle cara a una serpiente de cascabel.\n\nPasa en California. Estas serpientes cazan a sus crías y pueden ver el calor de los cuerpos.\n\nAsí que la ardilla se planta delante y agita la cola caliente: así avisa de que está alerta y lista para pelear.\n\nCon serpientes que no ven el calor, ni se molesta.\n\nMe parece listísimo para un bicho tan pequeño.\n\nY además se restriega pieles viejas de serpiente, para oler como su enemiga.",
+  "queries_imagenes": [
+    "Otospermophilus beecheyi",
+    "California ground squirrel",
+    "California ground squirrel tail",
+    "Spermophilus beecheyi",
+    "Crotalus oreganus",
+    "Northern Pacific rattlesnake",
+    "California ground squirrel alert",
+    "rattlesnake California"
+  ],
+  "titulo": "Calienta la cola para plantarle cara a una serpiente",
+  "descripcion": "La ardilla de tierra de California (Otospermophilus beecheyi) calienta y agita la cola ante las serpientes de cascabel, que detectan el calor, y se frota con pieles de serpiente para camuflar su olor.\n\n#ardilla #serpientes #animalesincreibles #shorts",
+  "tags": [
+    "ardilla de california",
+    "ardilla",
+    "serpiente de cascabel",
+    "animales increibles",
+    "naturaleza",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SU COLA ARDE",
+  "prompt_miniatura": "a small ground squirrel facing a coiled rattlesnake with its bushy tail raised and glowing orange like a thermal image"
+}

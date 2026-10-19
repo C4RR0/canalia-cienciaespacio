@@ -1,0 +1,35 @@
+{
+  "id": "short_195_garza_cebo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Un pájaro echa un trozo de pan al agua, espera a que se acerque un pez y lo atrapa.\n\nEs la garcita verde, de América. Esperar quieta a que pase un pez puede llevar horas, así que ha encontrado un truco mejor: pescar con cebo.\n\nMuy pocos animales usan herramientas así. Para mí es de los pájaros más listos que existen.\n\nUsa insectos, plumas, ramitas... y el pan que la gente echa a los patos.\n\nSi te gustan estos trucos, sígueme.",
+  "queries_imagenes": [
+    "Butorides virescens",
+    "green heron",
+    "green heron fishing",
+    "Butorides virescens fishing",
+    "green heron catching fish",
+    "Butorides striata",
+    "striated heron fishing",
+    "green heron Florida"
+  ],
+  "titulo": "Echa pan al agua para pescar como un humano",
+  "descripcion": "La garcita verde (Butorides virescens) es una de las pocas aves que pescan con cebo: lanza al agua insectos, plumas o pan para atraer a los peces.\n\n#garcitaverde #aves #animalesinteligentes #shorts",
+  "tags": [
+    "garcita verde",
+    "garza",
+    "aves",
+    "animales inteligentes",
+    "pesca",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "PESCA CON CEBO",
+  "prompt_miniatura": "a small green heron on a branch dropping a piece of bread onto the water as a fish rises below"
+}

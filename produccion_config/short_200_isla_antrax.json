@@ -1,0 +1,35 @@
+{
+  "id": "short_200_isla_antrax",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "control",
+  "guion": "Un gobierno envenenó una de sus propias islas, y la cerró cuarenta y ocho años.\n\nEn mil novecientos cuarenta y dos, el ejército británico probó bombas de ántrax con ovejas en Gruinard, en Escocia. Murieron en pocos días.\n\nPero las esporas se quedaron en la tierra.\n\nEn los ochenta la limpiaron con formol y agua de mar.\n\nHacerle esto a tu propia tierra me parece una locura.\n\nY luego se la devolvieron a los herederos del dueño por las mismas quinientas libras que había pagado.",
+  "queries_imagenes": [
+    "Gruinard Island",
+    "Gruinard Bay",
+    "Gruinard Island from mainland",
+    "Gruinard Bay Wester Ross",
+    "Gruinard",
+    "Wester Ross coast",
+    "Bacillus anthracis",
+    "sheep Scottish Highlands"
+  ],
+  "titulo": "Probaron ántrax en una isla y la cerraron 48 años",
+  "descripcion": "La isla de Gruinard (Escocia) quedó en cuarentena 48 años tras las pruebas británicas con ántrax de 1942. Se descontaminó con formol y agua de mar y se devolvió a los herederos del dueño por 500 libras.\n\n#gruinard #antrax #historia #shorts",
+  "tags": [
+    "isla de gruinard",
+    "antrax",
+    "escocia",
+    "segunda guerra mundial",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "ISLA ENVENENADA",
+  "prompt_miniatura": "a bleak green island in a grey Scottish bay with a warning sign on the shore and sheep in the foreground"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_190_hongo_moscas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Un hongo obliga a una mosca a subir a lo más alto, quedarse pegada y morir con las alas abiertas.\n\nSe llama Entomophthora muscae. Entra en la mosca y crece por dentro durante días.\n\nLuego la mosca trepa y muere, casi siempre al atardecer.\n\nDesde ahí arriba, el hongo dispara sus esporas sobre las de abajo.\n\nY lo que viene ahora me parece diabólico.\n\nA los machos les atrae más el cadáver infectado de una hembra que el de una sana. Intentan aparearse con él, y se contagian.",
+  "queries_imagenes": [
+    "Entomophthora muscae",
+    "Entomophthora muscae fly",
+    "fly killed by fungus",
+    "Entomophthora",
+    "Musca domestica",
+    "house fly on window",
+    "dead fly fungus spores",
+    "Entomophthorales"
+  ],
+  "titulo": "La obliga a trepar y morir con las alas abiertas",
+  "descripcion": "El hongo Entomophthora muscae hace que las moscas trepen a lo alto antes de morir para lanzar sus esporas, y los cadáveres de las hembras infectadas atraen a los machos.\n\n#hongos #moscas #parasitos #shorts",
+  "tags": [
+    "entomophthora muscae",
+    "hongo de las moscas",
+    "mosca",
+    "parasitos",
+    "hongos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MUERE CON LAS ALAS ABIERTAS",
+  "prompt_miniatura": "a dead house fly stuck to a window with wings raised and white fungal bands on its abdomen, macro photo"
+}

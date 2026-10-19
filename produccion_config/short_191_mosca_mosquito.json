@@ -1,0 +1,35 @@
+{
+  "id": "short_191_mosca_mosquito",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Una mosca atrapa a un mosquito en pleno vuelo, le pega sus huevos a la barriga y lo suelta.\n\nEs la Dermatobia, de México a Argentina.\n\nLuego el mosquito pica a una vaca o a una persona. Con el calor de la piel, los huevos se abren y las larvas se meten dentro.\n\nAllí viven semanas, respirando por un agujerito.\n\nPara mí es el plan más rebuscado del mundo animal.\n\nY una revista médica publicó cómo sacarlas: tapar el agujero con beicon.\n\nSígueme, que hay peores.",
+  "queries_imagenes": [
+    "Dermatobia hominis",
+    "Dermatobia hominis larva",
+    "human botfly",
+    "botfly larva",
+    "myiasis Dermatobia",
+    "mosquito biting",
+    "Culicidae",
+    "Dermatobia hominis adult"
+  ],
+  "titulo": "Usa mosquitos para meter a sus crías bajo tu piel",
+  "descripcion": "La mosca Dermatobia hominis, de México a Sudamérica, pega sus huevos a mosquitos que los llevan hasta la piel de animales y personas, donde se desarrollan las larvas.\n\n#parasitos #moscas #mosquitos #shorts",
+  "tags": [
+    "dermatobia hominis",
+    "mosca humana",
+    "mosquito",
+    "parasitos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE METEN BAJO LA PIEL",
+  "prompt_miniatura": "a large hairy botfly holding a mosquito in flight with tiny eggs glued to the mosquito's abdomen, macro photo"
+}

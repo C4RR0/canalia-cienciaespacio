@@ -1,0 +1,35 @@
+{
+  "id": "short_193_anguila_salta",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Un pez salta fuera del agua y aprieta la barbilla contra su enemigo para electrocutarlo.\n\nEs la anguila eléctrica del Amazonas.\n\nEn mil ochocientos, Humboldt contó que la vio atacar así a unos caballos en Venezuela. Durante dos siglos, casi nadie le creyó.\n\nY a mí me encanta esta historia, porque tenía razón.\n\nEn dos mil dieciséis, un científico lo grabó.\n\nY para medir la descarga, dejó que una pequeña le atacara su propio brazo.\n\nSi te gustan los animales así de peligrosos, sígueme.",
+  "queries_imagenes": [
+    "Electrophorus electricus",
+    "electric eel",
+    "Electrophorus",
+    "electric eel aquarium",
+    "Electrophorus voltai",
+    "Alexander von Humboldt",
+    "Amazon river",
+    "electric eel head"
+  ],
+  "titulo": "Salta fuera del agua para electrocutar a su enemigo",
+  "descripcion": "La anguila eléctrica (Electrophorus) salta fuera del agua para descargar directamente sobre sus enemigos, como contó Humboldt en 1800 y confirmó un científico en 2016.\n\n#anguilaelectrica #amazonas #animalespeligrosos #shorts",
+  "tags": [
+    "anguila electrica",
+    "electrophorus",
+    "amazonas",
+    "humboldt",
+    "animales peligrosos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SALTA PARA ELECTROCUTARTE",
+  "prompt_miniatura": "an electric eel leaping out of dark river water with its chin pressed against a threat, sparks of electricity"
+}

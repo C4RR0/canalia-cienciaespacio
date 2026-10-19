@@ -1,0 +1,35 @@
+{
+  "id": "short_198_pueblos_verdun",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "control",
+  "guion": "En mil novecientos dieciséis, los obuses borraron seis pueblos de Francia, y nadie ha vuelto a vivir en ellos.\n\nEstán junto a Verdún. Uno, Fleury, cambió de manos dieciséis veces en un solo verano.\n\nDespués de la guerra, el suelo estaba tan lleno de bombas sin explotar que no se pudieron reconstruir.\n\nFrancia los declaró muertos por Francia, pero no los borró.\n\nA mí me parece el homenaje más triste que existe.\n\nPorque cada uno de esos pueblos vacíos sigue teniendo alcalde, nombrado por el gobierno.",
+  "queries_imagenes": [
+    "Fleury-devant-Douaumont",
+    "Fleury-devant-Douaumont village détruit",
+    "Bezonvaux",
+    "Ornes village détruit",
+    "Verdun battlefield",
+    "Douaumont ossuary",
+    "Zone rouge Verdun",
+    "Verdun shell craters"
+  ],
+  "titulo": "Tienen alcalde pero ningún vecino desde 1916",
+  "descripcion": "Fleury-devant-Douaumont y otros cinco pueblos destruidos en la batalla de Verdún (1916) nunca se reconstruyeron, pero siguen existiendo como municipios con alcalde nombrado por el Estado.\n\n#verdun #primeraguerramundial #historia #shorts",
+  "tags": [
+    "pueblos destruidos de verdun",
+    "fleury-devant-douaumont",
+    "verdun",
+    "primera guerra mundial",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "ALCALDE SIN VECINOS",
+  "prompt_miniatura": "a grassy forest full of shell craters with a small stone marker where a village once stood, foggy and silent"
+}

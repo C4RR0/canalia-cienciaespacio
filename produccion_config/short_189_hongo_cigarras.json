@@ -1,0 +1,35 @@
+{
+  "id": "short_189_hongo_cigarras",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Un hongo le arranca la parte de atrás del cuerpo a una cigarra, y ella sigue volando.\n\nHa pasado diecisiete años bajo tierra, en Estados Unidos, esperando salir a buscar pareja.\n\nPero el hongo Massospora ha cambiado su abdomen por un tapón de esporas.\n\nElla no muere. Sigue buscando pareja y va soltando esporas por donde pasa.\n\nSinceramente, es lo más retorcido que he contado aquí.\n\nY el hongo fabrica catinona, una droga de la familia de las anfetaminas.\n\nSi quieres más parásitos así, sígueme.",
+  "queries_imagenes": [
+    "Massospora cicadina",
+    "Massospora",
+    "Magicicada",
+    "periodical cicada",
+    "Magicicada septendecim",
+    "periodical cicada emergence",
+    "cicada nymph",
+    "Magicicada cassini"
+  ],
+  "titulo": "Le arranca medio cuerpo y su víctima sigue volando",
+  "descripcion": "El hongo Massospora cicadina infecta a las cigarras periódicas de Estados Unidos, sustituye su abdomen por esporas y produce catinona, una sustancia de la familia de las anfetaminas.\n\n#parasitos #cigarras #hongos #shorts",
+  "tags": [
+    "massospora",
+    "cigarra periodica",
+    "hongo parasito",
+    "parasitos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SIGUE VOLANDO SIN CUERPO",
+  "prompt_miniatura": "a cicada on a tree branch with the rear of its body replaced by a white chalky fungal plug, macro photo"
+}

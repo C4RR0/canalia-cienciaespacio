@@ -1,0 +1,35 @@
+{
+  "id": "short_197_isla_faisanes",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "cierre_suscripcion",
+  "guion": "Cada seis meses, un trozo de tierra cambia de país.\n\nEs la isla de los Faisanes, en el Bidasoa, entre Irún y Hendaya.\n\nDe febrero a julio es española. El resto del año, francesa.\n\nAllí se firmó en mil seiscientos cincuenta y nueve la Paz de los Pirineos.\n\nSolo se puede pisar en contadas visitas guiadas. Me parece la frontera más elegante del mundo.\n\nY sus gobernadores son dos marinos: el comandante naval de San Sebastián y el de Bayona.\n\nAquí hay más rincones así, sígueme.",
+  "queries_imagenes": [
+    "Pheasant Island",
+    "Île des Faisans",
+    "Isla de los Faisanes",
+    "Konpantzia",
+    "Bidasoa Irun Hendaye",
+    "Bidasoa river Hendaye",
+    "Treaty of the Pyrenees",
+    "Irun Bidasoa"
+  ],
+  "titulo": "Cada seis meses cambia de país y nadie puede pisarla",
+  "descripcion": "La isla de los Faisanes, en el río Bidasoa entre Irún y Hendaya, es española de febrero a julio y francesa de agosto a enero. Allí se firmó la Paz de los Pirineos en 1659.\n\n#isladelosfaisanes #bidasoa #historia #shorts",
+  "tags": [
+    "isla de los faisanes",
+    "bidasoa",
+    "irun",
+    "hendaya",
+    "paz de los pirineos",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "MEDIO AÑO DE CADA PAÍS",
+  "prompt_miniatura": "a small wooded river island with a stone monument, Spanish flag on one side and French flag on the other, misty morning"
+}

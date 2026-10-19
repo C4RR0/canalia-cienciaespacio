@@ -1,0 +1,35 @@
+{
+  "id": "short_196_quebrantahuesos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Un pájaro sube un hueso a decenas de metros y lo deja caer sobre las rocas para romperlo.\n\nEs el quebrantahuesos, y en España vive sobre todo en el Pirineo.\n\nCasi todo lo que come es hueso. Los pequeños se los traga enteros. Los grandes los tira hasta que se parten.\n\nSu estómago es tan ácido que los disuelve.\n\nPara mí es el ave más impresionante de Europa.\n\nY ese pecho naranja no es su color: se lo pinta él mismo, bañándose en barro con hierro.",
+  "queries_imagenes": [
+    "Gypaetus barbatus",
+    "bearded vulture",
+    "bearded vulture flying",
+    "Gypaetus barbatus Pyrenees",
+    "bearded vulture bone",
+    "lammergeier",
+    "Gypaetus barbatus portrait",
+    "bearded vulture mud bath"
+  ],
+  "titulo": "Lanza huesos contra las rocas y se los come enteros",
+  "descripcion": "El quebrantahuesos (Gypaetus barbatus) se alimenta casi solo de huesos: tira los grandes contra las rocas para romperlos y se tiñe el plumaje de naranja con barro rico en hierro.\n\n#quebrantahuesos #pirineo #avesdeespaña #shorts",
+  "tags": [
+    "quebrantahuesos",
+    "gypaetus barbatus",
+    "pirineo",
+    "aves de españa",
+    "buitres",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "COME HUESOS",
+  "prompt_miniatura": "a huge bearded vulture with rusty orange chest flying over mountain cliffs carrying a bone in its talons"
+}

@@ -177,3 +177,16 @@ short_181_explosion_halifax
 short_177_pez_cabeza_transparente
 short_178_pinzon_vampiro
 short_182_faro_flannan
+# 2026-10-19: tanda 189-200 (rutina automática), 2:1
+short_189_hongo_cigarras
+short_190_hongo_moscas
+short_197_isla_faisanes
+short_191_mosca_mosquito
+short_192_secretario_patadas
+short_198_pueblos_verdun
+short_193_anguila_salta
+short_194_ardilla_cola_caliente
+short_199_ballena_dinamita
+short_195_garza_cebo
+short_196_quebrantahuesos
+short_200_isla_antrax
