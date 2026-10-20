@@ -64,6 +64,14 @@ import generar_miniatura
 import musica
 import subir_youtube
 
+PREGUNTAS = [
+    "¿Lo sabías o es la primera vez que lo oyes? 👇",
+    "Del 1 al 10, ¿cuánto te ha sorprendido? 👇",
+    "¿Conoces algún dato todavía más raro que este? Cuéntalo aquí 👇",
+    "¿Qué animal o lugar quieres ver en el próximo vídeo? 👇",
+    "¿A quién se lo vas a contar primero? 👇",
+]
+
 
 def log(msg: str):
     print(f"\n=== {msg} ===", flush=True)
@@ -473,6 +481,13 @@ def producir(cfg: dict) -> dict:
         except Exception as e:
             error_subida = str(e)
             print(f"AVISO: la subida (o la miniatura) falló: {e}")
+        # Comentario del canal con una pregunta en cada Short en español (20/10): da pie a comentar,
+        # y los comentarios empujan el vídeo. Nunca bloquea la publicación.
+        if video_id and orientacion == "vertical" and cfg.get("idioma", "es") == "es":
+            try:
+                subir_youtube.comentar(video_id, PREGUNTAS[sum(map(ord, vid)) % len(PREGUNTAS)])
+            except Exception as e:
+                print(f"AVISO: no se pudo publicar el comentario con la pregunta: {e}")
 
     # 8) Resultado
     log("8/8 Resultado")

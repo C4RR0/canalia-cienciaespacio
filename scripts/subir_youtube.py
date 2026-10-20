@@ -35,6 +35,14 @@ def cargar_credenciales() -> Credentials:
     return creds
 
 
+def comentar(video_id: str, texto: str) -> str:
+    """Publica un comentario del propio canal en el vídeo (no se puede fijar por la API)."""
+    youtube = build("youtube", "v3", credentials=cargar_credenciales())
+    r = youtube.commentThreads().insert(part="snippet", body={"snippet": {
+        "videoId": video_id, "topLevelComment": {"snippet": {"textOriginal": texto}}}}).execute()
+    return r["id"]
+
+
 def subir(video_path: str, titulo: str, descripcion: str, tags: list[str],
           categoria_id: str, privacidad: str, miniatura: str | None = None,
           idioma: str = "es") -> str:
