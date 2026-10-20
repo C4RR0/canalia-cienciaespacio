@@ -8,5 +8,8 @@
  "agente": "vera",
  "tarea": "5g3b31k96fxb47eamt5i",
  "ok_de_sergio": true,
- "motivo": "Tarea del panel con OK de Sergio: pregunta fija en la descripción (tercera tanda de 40; se salta los que ya la tienen)"
+ "motivo": "Tarea del panel con OK de Sergio: pregunta fija en la descripción (tercera tanda de 40; se salta los que ya la tienen)",
+ "resultado": "Texto añadido a 40 vídeos (74 ya lo tenían).",
+ "estado": "hecha",
+ "ejecutada": "2026-10-20T08:37:33+00:00"
 }
