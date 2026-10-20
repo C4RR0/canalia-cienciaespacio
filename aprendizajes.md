@@ -1384,3 +1384,7 @@ Datos: metricas/videos.csv (vistas a los 3 días de publicar, para comparar en i
   por debajo). La primera frase debe mostrar YA la acción extrema (qué hace, a quién, con qué consecuencia), no contexto.
 - **Resubir un tema ya publicado lo hunde** (hipopótamos, rayos, gusano de 3 m: 18-76 vistas). Nunca repetir sujeto.
 - Hora: las franjas de 10, 13 y 16 UTC algo mejores que 07 y 19; la de 23 UTC es nueva (sin datos suficientes).
+
+## 2026-10-20 — Suscriptores por tema (metricas/temas_subs.md, se regenera cada día)
+Subs ganados por cada 1.000 vistas. Últimos 7 días: habilidades 3,0 · parásitos 2,2 · animales 1,5 · lugares 1,1 · otros 0,9 (media 1,5). Acumulado desde el 1/9: parásitos 2,7 · habilidades 2,2 · animales 1,8 · lugares 1,1 (media 1,7).
+Conclusión: para llegar a 500 subs, parásitos y «habilidad increíble concreta» convierten el doble que lugares; lugares sigue sirviendo para vistas (YPP por vistas), pero no para suscriptores. Mantener >=3 de 8 de parásitos/control y subir habilidades.
