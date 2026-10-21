@@ -6,4 +6,3 @@ short_206_guerra_zanzibar
 short_208_cacatua_basura
 short_210_serpiente_real
 short_211_halcon_peregrino
-short_212_baarle_frontera
