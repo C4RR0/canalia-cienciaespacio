@@ -1,0 +1,34 @@
+{
+  "id": "short_207_yubarta_foca",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Unas orcas iban a por una foca, y una ballena gigante se interpuso y la subió sobre su pecho.\n\nLo vio un biólogo en la Antártida, en 2009.\n\nLa foca huyó hacia una ballena jorobada, que se dio la vuelta y la sacó del agua, lejos de las orcas.\n\nHay más de cien casos documentados de jorobadas enfrentándose a orcas.\n\nY esto no me cabe en la cabeza: casi siempre, la víctima que defienden es de otra especie.\n\nSi te ha emocionado, quédate: aquí hay más.",
+  "queries_imagenes": [
+    "Megaptera novaeangliae",
+    "humpback whale Antarctica",
+    "humpback whale breaching",
+    "Weddell seal ice floe",
+    "Orcinus orca Antarctica",
+    "killer whales wave washing seal",
+    "humpback whale pectoral fin",
+    "Leptonychotes weddellii"
+  ],
+  "titulo": "Le quitó la presa a las orcas subiéndola a su pecho",
+  "descripcion": "En 2009, en la Antártida, una ballena jorobada (Megaptera novaeangliae) protegió a una foca de Weddell de unas orcas subiéndola sobre su pecho. Se han documentado más de cien casos de jorobadas interfiriendo en ataques de orcas, casi siempre a favor de otras especies.\n\n#ballenajorobada #orcas #animales #shorts",
+  "tags": [
+    "ballena jorobada",
+    "yubarta",
+    "orcas",
+    "foca de weddell",
+    "animales increibles",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "SE LA QUITA A LAS ORCAS",
+  "prompt_miniatura": "a humpback whale rolling on its back in icy Antarctic water with a seal resting on its chest, killer whale fins nearby",
+  "experimento": "cierre_suscripcion"
+}

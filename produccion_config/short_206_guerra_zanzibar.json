@@ -1,0 +1,34 @@
+{
+  "id": "short_206_guerra_zanzibar",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En 1896, un sultán perdió una guerra en unos cuarenta minutos.\n\nPasó en Zanzíbar, en la costa de África. Jalid se proclamó sultán y se encerró en el palacio sin permiso de los británicos.\n\nLe dieron un ultimátum: salir antes de las nueve. No salió.\n\nNada más pasar la hora, los barcos británicos bombardearon el palacio. Poco después, la bandera cayó.\n\nA mí me parece más un atraco que una guerra.\n\nY al final, sus partidarios tuvieron que pagar los proyectiles que les habían disparado.",
+  "queries_imagenes": [
+    "Anglo-Zanzibar War",
+    "Zanzibar palace 1896 bombardment",
+    "Khalid bin Barghash",
+    "Beit al-Hukm Zanzibar 1896",
+    "Stone Town Zanzibar",
+    "HMS St George 1892",
+    "Zanzibar 1896",
+    "House of Wonders Zanzibar"
+  ],
+  "titulo": "Perdieron en 40 minutos y encima pagaron los cañonazos",
+  "descripcion": "La guerra anglo-zanzibariana del 27 de agosto de 1896 duró unos 40 minutos, la más corta registrada. Después, los partidarios del sultán Jalid tuvieron que pagar los proyectiles disparados contra ellos.\n\n#zanzibar #historia #guerras #shorts",
+  "tags": [
+    "guerra anglo-zanzibariana",
+    "zanzibar",
+    "guerra mas corta",
+    "historia",
+    "sucesos insolitos",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "DURÓ 40 MINUTOS",
+  "prompt_miniatura": "a 19th century warship firing at a coastal palace with a falling red flag, smoke over a tropical harbour",
+  "experimento": "control"
+}

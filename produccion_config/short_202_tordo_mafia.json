@@ -1,0 +1,34 @@
+{
+  "id": "short_202_tordo_mafia",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro pone sus huevos en nidos ajenos, y si los dueños se los quitan, vuelve y les destroza el nido.\n\nEs el tordo cabecicafé, de Norteamérica. Nunca cría a sus pollos.\n\nUnos científicos quitaron sus huevos de muchos nidos de una pequeña ave amarilla.\n\nEn más de la mitad, el tordo volvió y arrasó el nido.\n\nEs lo mismo que hace la mafia, y me parece repugnante y brillante.\n\nY cuando los padres hacían otro nido, el tordo a menudo les colaba otro huevo.",
+  "queries_imagenes": [
+    "Molothrus ater",
+    "brown-headed cowbird",
+    "brown-headed cowbird egg nest",
+    "cowbird chick fed by host",
+    "Protonotaria citrea",
+    "prothonotary warbler nest",
+    "brown-headed cowbird female",
+    "cowbird brood parasite"
+  ],
+  "titulo": "Si tiras su huevo de tu nido, vuelve y te lo destroza",
+  "descripcion": "El tordo cabecicafé (Molothrus ater) pone sus huevos en nidos ajenos. En un experimento con reinitas protonotarias, cuando se retiraban sus huevos, el tordo volvía y destrozaba el nido en más de la mitad de los casos.\n\n#tordo #parasitismo #aves #shorts",
+  "tags": [
+    "tordo cabecicafe",
+    "molothrus ater",
+    "parasitismo de puesta",
+    "aves",
+    "animales raros",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "PAGA O LO DESTROZA",
+  "prompt_miniatura": "a brown-headed cowbird standing over a small nest with eggs, menacing, forest background",
+  "experimento": "control"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "short_212_baarle_frontera",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En este pueblo, la frontera entre dos países pasa por mitad de los salones de las casas.\n\nSe llama Baarle. Está en los Países Bajos, pero tiene más de veinte trocitos de Bélgica repartidos por sus calles.\n\nY dentro de algunos, hay trocitos holandeses.\n\nLa frontera está marcada en el suelo con cruces y atraviesa cafés y tiendas.\n\nMe parece el sitio más absurdo de Europa.\n\nCada casa es del país donde está su puerta principal. Por eso, algunos vecinos movieron la puerta... para cambiarse de país.",
+  "queries_imagenes": [
+    "Baarle-Hertog",
+    "Baarle-Nassau",
+    "Baarle border markings",
+    "Baarle-Hertog border house",
+    "Baarle-Nassau Baarle-Hertog border",
+    "Baarle enclave",
+    "Baarle-Hertog street",
+    "Baarle border cafe"
+  ],
+  "titulo": "Movieron la puerta de casa y cambiaron de país",
+  "descripcion": "Baarle-Hertog (Bélgica) y Baarle-Nassau (Países Bajos) forman un pueblo con más de veinte enclaves belgas, algunos con enclaves holandeses dentro. Cada casa pertenece al país donde está su puerta principal.\n\n#baarle #fronteras #lugaresinsolitos #shorts",
+  "tags": [
+    "baarle",
+    "baarle-hertog",
+    "baarle-nassau",
+    "fronteras",
+    "lugares insolitos",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "LA FRONTERA EN SU SALÓN",
+  "prompt_miniatura": "a European village street with a white painted border line and crosses running through the middle of a house doorway",
+  "experimento": "control"
+}

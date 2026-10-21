@@ -1,0 +1,34 @@
+{
+  "id": "short_208_cacatua_basura",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro aprendió a abrir los cubos de basura, y sus vecinas lo fueron copiando barrio a barrio.\n\nEs la cacatúa galerita, en Sídney. Levanta la tapa con el pico, camina por el borde y la vuelca.\n\nEn 2018 lo hacían en tres barrios. A finales de 2019, en cuarenta y cuatro.\n\nLos vecinos contraatacan con ladrillos sobre la tapa, y a mí esta guerra me parece maravillosa.\n\nLo mejor: en cada zona lo abren a su manera, como si tuvieran acento.",
+  "queries_imagenes": [
+    "Cacatua galerita",
+    "sulphur-crested cockatoo",
+    "sulphur-crested cockatoo bin",
+    "cockatoo wheelie bin Sydney",
+    "Cacatua galerita flock",
+    "sulphur-crested cockatoo beak",
+    "cockatoo garbage bin lid",
+    "Cacatua galerita Sydney"
+  ],
+  "titulo": "Aprendió a abrir la basura y lo copiaron 44 barrios",
+  "descripcion": "Las cacatúas galeritas (Cacatua galerita) de Sídney aprendieron a abrir los cubos de basura. La técnica pasó de 3 barrios en 2018 a 44 a finales de 2019, aprendida por imitación y con variantes locales.\n\n#cacatua #aves #animalesinteligentes #shorts",
+  "tags": [
+    "cacatua galerita",
+    "cacatua",
+    "sidney",
+    "aves inteligentes",
+    "animales increibles",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "ABRE TU BASURA",
+  "prompt_miniatura": "a white sulphur-crested cockatoo prying open the lid of a green wheelie bin on a suburban street",
+  "experimento": "control"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "short_201_avispa_tarantula",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta avispa paraliza a una tarántula de un aguijonazo y la entierra viva para su cría.\n\nEs la avispa caza tarántulas. Busca a la araña y la pica.\n\nLa tarántula queda inmóvil, pero viva. La avispa la arrastra a un agujero, le pone un huevo encima y tapa la entrada.\n\nLa larva se la va comiendo poco a poco.\n\nPocas muertes me parecen tan horribles.\n\nY lo curioso: la avispa adulta no come carne. Bebe néctar de flores.\n\nSi te ha revuelto el estómago, aquí hay más.",
+  "queries_imagenes": [
+    "Pepsis wasp",
+    "tarantula hawk wasp",
+    "Pepsis tarantula",
+    "tarantula hawk dragging tarantula",
+    "Pepsis grossa",
+    "Hemipepsis",
+    "Aphonopelma tarantula",
+    "Pepsis on flower"
+  ],
+  "titulo": "Paraliza a una tarántula y su cría se la come viva",
+  "descripcion": "La avispa caza tarántulas (género Pepsis) paraliza a una tarántula con su aguijón, la entierra con un huevo encima y su larva se la come viva. La adulta, en cambio, se alimenta de néctar.\n\n#avispa #tarantula #animalesraros #shorts",
+  "tags": [
+    "avispa caza tarantulas",
+    "pepsis",
+    "tarantula",
+    "parasitos",
+    "animales raros",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "LA ENTIERRA VIVA",
+  "prompt_miniatura": "a large black wasp with orange wings dragging a paralyzed tarantula across desert sand",
+  "experimento": "cierre_suscripcion"
+}

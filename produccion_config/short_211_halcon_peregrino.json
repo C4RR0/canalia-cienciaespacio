@@ -1,0 +1,34 @@
+{
+  "id": "short_211_halcon_peregrino",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Se lanza en picado a más de trescientos kilómetros por hora y golpea a una paloma en pleno vuelo.\n\nEs el halcón peregrino. Sube muy alto, pliega las alas y se deja caer.\n\nA mediados del siglo veinte casi desapareció de muchas regiones: el pesticida DDT le dejaba los huevos tan frágiles que se rompían al incubarlos.\n\nLo prohibieron y volvió.\n\nY esto me encanta: el ave más rápida del planeta ahora anida en rascacielos y caza palomas en plena ciudad.\n\nSi te gustan estas máquinas, sígueme.",
+  "queries_imagenes": [
+    "Falco peregrinus",
+    "peregrine falcon diving",
+    "peregrine falcon stoop",
+    "peregrine falcon skyscraper nest",
+    "peregrine falcon cathedral",
+    "peregrine falcon with pigeon prey",
+    "Falco peregrinus chicks nest box",
+    "peregrine falcon flight"
+  ],
+  "titulo": "Cae a más de 300 km/h y atrapa a su presa en el aire",
+  "descripcion": "El halcón peregrino (Falco peregrinus) supera los 300 km/h en picado para cazar aves en vuelo. Casi desaparece por el DDT y hoy anida en rascacielos y catedrales de muchas ciudades.\n\n#halconperegrino #aves #animalesincreibles #shorts",
+  "tags": [
+    "halcon peregrino",
+    "falco peregrinus",
+    "aves rapaces",
+    "ddt",
+    "animales increibles",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "300 KM/H EN PICADO",
+  "prompt_miniatura": "a peregrine falcon diving at full speed with wings folded towards a pigeon, city skyscrapers below",
+  "experimento": "cierre_suscripcion"
+}

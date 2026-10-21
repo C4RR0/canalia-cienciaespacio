@@ -1,0 +1,34 @@
+{
+  "id": "short_210_serpiente_real",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta serpiente caza serpientes de cascabel, aguanta sus mordiscos y se las traga enteras.\n\nEs la serpiente real común, de Norteamérica. Su sangre resiste el veneno de las víboras de su zona.\n\nMuerde a la cascabel, se enrolla en ella y aprieta hasta matarla. Luego se la come empezando por la cabeza.\n\nPara mí, es la matona más elegante de América.\n\nY lo mejor: las cascabel la reconocen por el olor. En cuanto la huelen, arquean el cuerpo y esconden la cabeza.",
+  "queries_imagenes": [
+    "Lampropeltis getula",
+    "common kingsnake",
+    "kingsnake eating rattlesnake",
+    "Lampropeltis californiae",
+    "Lampropeltis getula eating snake",
+    "Crotalus rattlesnake",
+    "California kingsnake",
+    "Lampropeltis holbrooki"
+  ],
+  "titulo": "La muerde una cascabel y se la come sin inmutarse",
+  "descripcion": "La serpiente real común (Lampropeltis getula) caza serpientes de cascabel: resiste su veneno, las mata por constricción y se las traga empezando por la cabeza. Las cascabel la reconocen por el olor y adoptan una postura defensiva.\n\n#serpientereal #serpientes #animalesraros #shorts",
+  "tags": [
+    "serpiente real",
+    "lampropeltis getula",
+    "serpiente de cascabel",
+    "reptiles",
+    "animales increibles",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "SE COME A LA CASCABEL",
+  "prompt_miniatura": "a black and white banded kingsnake coiled around a rattlesnake on desert ground, dramatic light",
+  "experimento": "control"
+}

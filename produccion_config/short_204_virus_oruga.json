@@ -1,0 +1,34 @@
+{
+  "id": "short_204_virus_oruga",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Un virus obliga a una oruga a subir a lo más alto del árbol, la mata allí y la convierte en líquido.\n\nLe pasa a la lagarta peluda, una oruga que deja sin hojas bosques enteros.\n\nDe día suele esconderse en la corteza. Infectada, hace lo contrario: trepa hasta la copa.\n\nAllí muere colgada y se deshace, gota a gota, sobre las hojas que comen otras orugas.\n\nMe parece de lo más siniestro que existe.\n\nY basta un solo gen del virus para provocar esa subida.",
+  "queries_imagenes": [
+    "Lymantria dispar caterpillar",
+    "gypsy moth caterpillar",
+    "Lymantria dispar larva tree trunk",
+    "spongy moth caterpillar",
+    "Lymantria dispar outbreak defoliation",
+    "gypsy moth caterpillars on bark",
+    "Lymantria dispar",
+    "nucleopolyhedrovirus caterpillar"
+  ],
+  "titulo": "La derrite en la copa del árbol para infectar a otras",
+  "descripcion": "Un baculovirus (LdMNPV) obliga a las orugas de lagarta peluda (Lymantria dispar) a trepar a la copa de los árboles, donde mueren y se licúan sobre las hojas. Un solo gen del virus, egt, provoca esa subida.\n\n#lagartapeluda #controlmental #insectos #shorts",
+  "tags": [
+    "lagarta peluda",
+    "lymantria dispar",
+    "baculovirus",
+    "control mental",
+    "parasitos",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "LA DERRITE EN LO ALTO",
+  "prompt_miniatura": "a hairy caterpillar hanging limp from the top of a tree branch, dripping, eerie morning light",
+  "experimento": "control"
+}

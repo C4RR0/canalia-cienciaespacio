@@ -1,0 +1,34 @@
+{
+  "id": "short_203_sealand_pais",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En 1967, un hombre ocupó un fuerte militar abandonado en mitad del mar y lo declaró país.\n\nSe llamaba Roy Bates, y lo llamó Sealand. Un tribunal británico decidió que quedaba fuera de sus aguas y no podía juzgarle.\n\nEn 1978, unos hombres a sueldo lo asaltaron en su ausencia y retuvieron a su hijo.\n\nBates lo recuperó llegando en helicóptero.\n\nMe parece la historia más británica que he oído jamás.\n\nY hoy su familia sigue vendiendo títulos de nobleza por internet.\n\nSi te gustan estas locuras, sígueme.",
+  "queries_imagenes": [
+    "Sealand",
+    "Principality of Sealand",
+    "Roughs Tower",
+    "HM Fort Roughs",
+    "Sealand platform North Sea",
+    "Maunsell Forts",
+    "Roy Bates Sealand",
+    "Sealand aerial"
+  ],
+  "titulo": "Se adueñó de un fuerte en el mar y lo declaró país",
+  "descripcion": "En 1967 Roy Bates ocupó HM Fort Roughs, un fuerte antiaéreo abandonado frente a Inglaterra, y lo declaró el Principado de Sealand. En 1978 lo recuperó en helicóptero tras un asalto.\n\n#sealand #micronaciones #historia #shorts",
+  "tags": [
+    "sealand",
+    "principado de sealand",
+    "roy bates",
+    "micronaciones",
+    "historia",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "SU PROPIO PAÍS",
+  "prompt_miniatura": "a rusty concrete sea fort on two giant pillars in the middle of a grey stormy sea, a helicopter approaching",
+  "experimento": "cierre_suscripcion"
+}

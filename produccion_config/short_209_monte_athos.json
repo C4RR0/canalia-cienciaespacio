@@ -1,0 +1,34 @@
+{
+  "id": "short_209_monte_athos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Desde hace casi mil años, ninguna mujer puede pisar este lugar. Y la ley lo castiga con cárcel.\n\nEs el monte Athos, en Grecia, donde solo viven monjes, en veinte monasterios.\n\nEn 1953, una joven se disfrazó de hombre y pasó allí varios días. Aquello acabó en una ley con penas de prisión.\n\nMe parece increíble que siga así en plena Europa.\n\nY la prohibición alcanza incluso a las vacas y las ovejas.\n\nSi te ha sorprendido, aquí hay sitios aún más raros.",
+  "queries_imagenes": [
+    "Mount Athos",
+    "Mount Athos monastery",
+    "Great Lavra",
+    "Simonopetra monastery",
+    "Dionysiou monastery Athos",
+    "Karyes Mount Athos",
+    "Athos peninsula",
+    "Vatopedi monastery"
+  ],
+  "titulo": "Llevan casi mil años sin dejar entrar a una sola mujer",
+  "descripcion": "El monte Athos, en Grecia, es una comunidad de veinte monasterios donde la entrada de mujeres está prohibida desde hace casi mil años. Tras la visita de una mujer disfrazada en 1953, la ley griega castiga con prisión la entrada de mujeres.\n\n#monteathos #grecia #lugaresprohibidos #shorts",
+  "tags": [
+    "monte athos",
+    "grecia",
+    "monasterios",
+    "lugares prohibidos",
+    "historia",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "PROHIBIDO A LAS MUJERES",
+  "prompt_miniatura": "an ancient monastery perched on a steep cliff above the sea, monks walking a stone path, no women",
+  "experimento": "cierre_suscripcion"
+}

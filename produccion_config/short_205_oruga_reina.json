@@ -1,0 +1,34 @@
+{
+  "id": "short_205_oruga_reina",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta oruga se cuela en un hormiguero y se hace pasar por la reina.\n\nEs la oruga de una pequeña mariposa azul de Europa. Huele igual que una larva de hormiga, así que las obreras la recogen y se la llevan a casa.\n\nAllí dentro imita hasta los sonidos de la reina.\n\nMe parece el timo más perfecto de la naturaleza.\n\nY si el hormiguero corre peligro, las obreras la rescatan antes que a sus propias crías.\n\nSi te gustan estos tramposos, aquí hay más.",
+  "queries_imagenes": [
+    "Phengaris alcon",
+    "Maculinea alcon",
+    "Phengaris alcon caterpillar ant",
+    "Maculinea rebeli",
+    "Myrmica ant",
+    "Phengaris alcon eggs Gentiana pneumonanthe",
+    "Alcon blue butterfly",
+    "Myrmica scabrinodis"
+  ],
+  "titulo": "Finge ser la reina y la salvan antes que a sus crías",
+  "descripcion": "La oruga de la mariposa Phengaris alcon engaña a las hormigas Myrmica con su olor, se deja llevar al hormiguero e imita los sonidos de la reina, hasta el punto de ser rescatada antes que las larvas de la colonia.\n\n#mariposa #hormigas #parasitos #shorts",
+  "tags": [
+    "phengaris alcon",
+    "mariposa",
+    "hormigas myrmica",
+    "parasitismo social",
+    "animales raros",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "FINGE SER LA REINA",
+  "prompt_miniatura": "a small pink caterpillar being carried by red ants into an underground ant nest, macro close-up",
+  "experimento": "cierre_suscripcion"
+}
