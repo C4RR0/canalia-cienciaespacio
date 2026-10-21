@@ -1,5 +1,4 @@
 short_199_ballena_dinamita
-short_205_oruga_reina
 short_206_guerra_zanzibar
 short_208_cacatua_basura
 short_210_serpiente_real
