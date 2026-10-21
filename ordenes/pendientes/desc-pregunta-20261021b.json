@@ -1,0 +1,12 @@
+{
+ "accion": "descripcion_anadir",
+ "parametros": {
+  "texto": "¿Cuál es el animal más raro que conoces? Cuéntanoslo en los comentarios 👇",
+  "videos": "todos",
+  "marca": "animal más raro que conoces"
+ },
+ "agente": "vera",
+ "tarea": "5g3b31k96fxb47eamt5i",
+ "ok_de_sergio": true,
+ "motivo": "Tarea del panel con OK de Sergio: pregunta fija en la descripción (reintento tras renovarse la cuota a las 09:00 Madrid; se salta los que ya la tienen)"
+}
