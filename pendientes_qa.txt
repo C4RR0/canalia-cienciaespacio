@@ -3,7 +3,6 @@ short_203_sealand_pais
 short_204_virus_oruga
 short_205_oruga_reina
 short_206_guerra_zanzibar
-short_207_yubarta_foca
 short_208_cacatua_basura
 short_209_monte_athos
 short_210_serpiente_real
