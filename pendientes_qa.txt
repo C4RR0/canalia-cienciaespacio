@@ -1,5 +1,4 @@
 short_199_ballena_dinamita
-short_202_tordo_mafia
 short_203_sealand_pais
 short_204_virus_oruga
 short_205_oruga_reina
