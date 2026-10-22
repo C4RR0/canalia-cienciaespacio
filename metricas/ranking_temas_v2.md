@@ -2,11 +2,11 @@
 
 | tema | vídeos | media vistas |
 |---|---|---|
-| parasitos | 8 | 2374 |
-| lugares | 27 | 1837 |
-| animales | 55 | 1800 |
-| otros | 20 | 1466 |
-| habilidades | 14 | 1436 |
-| historia | 6 | 1363 |
+| parasitos | 8 | 2380 |
+| lugares | 29 | 1845 |
+| animales | 55 | 1816 |
+| otros | 23 | 1524 |
+| habilidades | 14 | 1437 |
+| historia | 7 | 1344 |
 | espacio | 1 | 1105 |
 | cuerpo_ciencia | 3 | 743 |
