@@ -1,0 +1,35 @@
+{
+  "id": "short_224_arbol_corea",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Estados Unidos movilizó bombarderos, helicópteros y un portaaviones para cortar un solo árbol.\n\nPasó en mil novecientos setenta y seis, en la frontera entre las dos Coreas.\n\nUn álamo tapaba la vista a un puesto de vigilancia. Al ir a podarlo, soldados norcoreanos mataron a dos oficiales estadounidenses con las hachas del equipo.\n\nTres días después volvieron, con una operación militar enorme detrás.\n\nPara mí, la poda más tensa de la historia.\n\nY la operación se llamó como un leñador de cuento: Paul Bunyan.",
+  "queries_imagenes": [
+    "Operation Paul Bunyan",
+    "Korean axe murder incident",
+    "Joint Security Area",
+    "Panmunjom",
+    "Korean Demilitarized Zone",
+    "Bridge of No Return",
+    "JSA poplar tree 1976",
+    "Joint Security Area guards"
+  ],
+  "titulo": "Movilizaron bombarderos solo para cortar un árbol",
+  "descripcion": "En 1976, tras el incidente del hacha en la Zona de Seguridad Conjunta de Panmunjom, Estados Unidos y Corea del Sur cortaron el álamo con una enorme demostración de fuerza: la Operación Paul Bunyan.\n\n#historia #corea #guerrafria #shorts",
+  "tags": [
+    "operacion paul bunyan",
+    "incidente del hacha",
+    "corea",
+    "guerra fria",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "TODO POR UN ÁRBOL",
+  "prompt_miniatura": "a lone poplar tree at a tense military border with soldiers, helicopters and bombers in the sky",
+  "experimento": "control"
+}

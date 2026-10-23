@@ -1,0 +1,35 @@
+{
+  "id": "short_223_esfinge_calavera",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta polilla se mete de noche en una colmena llena de abejas, se atiborra de miel y sale como si nada.\n\nEs la esfinge de la calavera, y vive también en España.\n\nLas abejas atacan a cualquier intruso. Pero ella huele casi igual que la colmena, y no la reconocen.\n\nA veces el truco falla y aparece muerta dentro.\n\nMe parece de las ladronas más valientes que existen.\n\nY si la molestas, chilla. Pocas polillas pueden hacerlo. Si te ha sorprendido, aquí tienes más bichos así.",
+  "queries_imagenes": [
+    "Acherontia atropos",
+    "death's-head hawkmoth",
+    "Acherontia atropos skull",
+    "Acherontia atropos caterpillar",
+    "Acherontia atropos pupa",
+    "beehive frame honeybees",
+    "Acherontia atropos on hand",
+    "Acherontia atropos wings"
+  ],
+  "titulo": "Se cuela en colmenas y roba la miel sin que la piquen",
+  "descripcion": "La esfinge de la calavera (Acherontia atropos) entra en las colmenas para robar miel camuflada con un olor parecido al de las abejas, y puede chillar si se la molesta.\n\n#esfingedelacalavera #polillas #insectos #shorts",
+  "tags": [
+    "esfinge de la calavera",
+    "acherontia atropos",
+    "polillas",
+    "abejas",
+    "insectos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LADRONA DE MIEL",
+  "prompt_miniatura": "a large moth with a skull pattern on its back sitting on a honeycomb surrounded by bees, night",
+  "experimento": "cierre_suscripcion"
+}

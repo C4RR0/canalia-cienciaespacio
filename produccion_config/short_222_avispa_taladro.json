@@ -1,0 +1,35 @@
+{
+  "id": "short_222_avispa_taladro",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta avispa atraviesa varios centímetros de madera para poner un huevo sobre una larva que no puede ver.\n\nLo que parece un aguijón larguísimo es un taladro, más largo que su cuerpo.\n\nBusca larvas escondidas dentro de los troncos.\n\nTaladra, deja el huevo, y su cría se come a la larva viva.\n\nYo no querría ser un insecto en ese bosque.\n\nPero lo más raro lo hacen los machos: esperan sobre el tronco y se aparean con la hembra antes de que salga de la madera.",
+  "queries_imagenes": [
+    "Megarhyssa macrurus",
+    "Megarhyssa atrata",
+    "Megarhyssa ovipositing",
+    "giant ichneumon wasp",
+    "Megarhyssa greenei",
+    "Rhyssa persuasoria",
+    "Tremex columba",
+    "ichneumon wasp drilling wood"
+  ],
+  "titulo": "Taladra un tronco para dejar su cría sobre otra larva",
+  "descripcion": "Las avispas icneumónidas gigantes del género Megarhyssa perforan la madera con su ovipositor para poner un huevo sobre larvas de avispas de la madera, como Tremex columba.\n\n#avispas #parasitos #insectos #shorts",
+  "tags": [
+    "megarhyssa",
+    "avispa icneumon",
+    "parasitos",
+    "insectos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "TALADRA LA MADERA",
+  "prompt_miniatura": "a giant ichneumon wasp with a very long thin ovipositor drilling into a tree trunk",
+  "experimento": "control"
+}

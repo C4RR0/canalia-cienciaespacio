@@ -1,0 +1,35 @@
+{
+  "id": "short_217_drongo_suricatas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro imita el grito de alarma de las suricatas, y cuando huyen, les roba la comida.\n\nEs el drongo ahorquillado, del Kalahari.\n\nMuchas veces les avisa de verdad cuando llega un depredador. Por eso se fían de él.\n\nPero si una encuentra un buen bocado, da una alarma falsa, ellas se esconden y él baja a por la comida.\n\nMe parece el estafador más listo del desierto.\n\nY si dejan de creerle, imita la alarma de otra especie. Si te ha gustado este pillo, sígueme.",
+  "queries_imagenes": [
+    "Dicrurus adsimilis",
+    "fork-tailed drongo",
+    "fork-tailed drongo perched",
+    "Suricata suricatta",
+    "meerkat sentinel",
+    "meerkats foraging Kalahari",
+    "Kalahari desert",
+    "Dicrurus adsimilis Botswana"
+  ],
+  "titulo": "Imita la alarma de sus vecinas y les roba la comida",
+  "descripcion": "El drongo ahorquillado (Dicrurus adsimilis) del Kalahari imita las llamadas de alarma de las suricatas y de otras especies para que huyan y robarles la comida.\n\n#drongo #suricatas #animalesinteligentes #shorts",
+  "tags": [
+    "drongo ahorquillado",
+    "suricatas",
+    "kalahari",
+    "animales inteligentes",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "FALSA ALARMA",
+  "prompt_miniatura": "a black fork-tailed drongo perched above a group of meerkats in the Kalahari desert",
+  "experimento": "cierre_suscripcion"
+}

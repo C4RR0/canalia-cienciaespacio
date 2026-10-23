@@ -203,3 +203,16 @@ short_209_monte_athos
 short_210_serpiente_real
 short_211_halcon_peregrino
 short_212_baarle_frontera
+# 2026-10-23: tanda 213-224 (rutina automática), 2:1
+short_213_mosca_decapita_hormigas
+short_214_milano_incendios
+short_215_guerra_pasteles
+short_216_garrapata_carne
+short_217_drongo_suricatas
+short_218_surtsey_isla
+short_219_lamprea
+short_220_serpiente_voladora
+short_221_wittenoom_pueblo
+short_222_avispa_taladro
+short_223_esfinge_calavera
+short_224_arbol_corea

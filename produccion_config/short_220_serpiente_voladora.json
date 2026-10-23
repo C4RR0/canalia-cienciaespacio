@@ -1,0 +1,35 @@
+{
+  "id": "short_220_serpiente_voladora",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta serpiente se lanza desde lo alto de un árbol y planea por el aire hasta otro.\n\nVive en el sudeste asiático, y no tiene alas ni membranas.\n\nAntes de saltar, se cuelga de una rama en forma de jota y se impulsa.\n\nEn el aire abre las costillas y aplana el cuerpo, casi al doble de ancho.\n\nLo confieso: una serpiente cayendo del cielo no entraba en mis planes.\n\nY lo más raro: mientras vuela, se retuerce. Un estudio demostró que sin ese baile caería dando vueltas.",
+  "queries_imagenes": [
+    "Chrysopelea paradisi",
+    "Chrysopelea ornata",
+    "paradise tree snake",
+    "flying snake",
+    "golden tree snake",
+    "Chrysopelea paradisi tree",
+    "Chrysopelea ornata Thailand",
+    "Chrysopelea pelias"
+  ],
+  "titulo": "Se lanza desde un árbol y planea sin tener alas",
+  "descripcion": "La serpiente voladora del paraíso (Chrysopelea paradisi) salta de los árboles, aplana el cuerpo y planea ondulándose; un estudio de 2020 demostró que esa ondulación la estabiliza.\n\n#serpientes #serpientevoladora #animalesraros #shorts",
+  "tags": [
+    "serpiente voladora",
+    "chrysopelea",
+    "serpientes",
+    "sudeste asiatico",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "CAE DEL CIELO",
+  "prompt_miniatura": "a slender green and black snake gliding through the air between jungle trees, body flattened",
+  "experimento": "control"
+}

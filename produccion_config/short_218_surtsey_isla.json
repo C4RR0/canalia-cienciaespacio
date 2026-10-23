@@ -1,0 +1,35 @@
+{
+  "id": "short_218_surtsey_isla",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Una isla salió del mar en mil novecientos sesenta y tres, y casi nadie tiene permiso para pisarla.\n\nEs Surtsey, al sur de Islandia. La creó un volcán submarino.\n\nLos científicos vieron la oportunidad perfecta: ver cómo llega la vida a una tierra nueva, sin ayuda humana.\n\nAsí que la cerraron. Solo entran unos pocos investigadores, con normas estrictas.\n\nMe parece el experimento más bonito del planeta.\n\nPero un día brotó allí una tomatera. La había plantado, sin querer, un científico que hizo sus necesidades en la isla.",
+  "queries_imagenes": [
+    "Surtsey",
+    "Surtsey eruption 1963",
+    "Surtsey aerial",
+    "Surtsey island Iceland",
+    "Vestmannaeyjar",
+    "Surtsey vegetation",
+    "Heimaey",
+    "Surtsey from the air"
+  ],
+  "titulo": "Salió del mar en 1963 y casi nadie puede pisarla",
+  "descripcion": "Surtsey es una isla volcánica surgida en 1963 al sur de Islandia. Su acceso está restringido a unos pocos científicos que estudian cómo llega la vida a una tierra nueva.\n\n#surtsey #islandia #lugaresprohibidos #shorts",
+  "tags": [
+    "surtsey",
+    "islandia",
+    "isla volcanica",
+    "lugares prohibidos",
+    "lugares increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "PROHIBIDO PISARLA",
+  "prompt_miniatura": "a small volcanic island rising from a stormy North Atlantic sea, aerial view",
+  "experimento": "control"
+}

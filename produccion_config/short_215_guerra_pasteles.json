@@ -1,0 +1,35 @@
+{
+  "id": "short_215_guerra_pasteles",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Unos oficiales mexicanos saquearon la tienda de un pastelero francés, y años después Francia bombardeó México.\n\nEl pastelero reclamó una indemnización.\n\nFrancia la juntó con otras quejas, exigió una fortuna y, en mil ochocientos treinta y ocho, mandó su flota a Veracruz.\n\nLa gente la llamó la Guerra de los Pasteles. Para mí, el nombre más absurdo que ha tenido una guerra.\n\nEn la batalla, Santa Anna perdió una pierna.\n\nAños después, la enterró con honores de Estado. Si te gustan las guerras absurdas, aquí hay más.",
+  "queries_imagenes": [
+    "San Juan de Ulúa",
+    "Pastry War",
+    "Bombardment of San Juan de Ulúa 1838",
+    "Antonio López de Santa Anna",
+    "Veracruz harbor",
+    "San Juan de Ulúa fortress",
+    "Tacubaya",
+    "French navy 1838 Veracruz"
+  ],
+  "titulo": "Saquearon una pastelería y acabó en bombardeos",
+  "descripcion": "La Guerra de los Pasteles (1838-1839) enfrentó a Francia y México tras la reclamación de un pastelero francés de Tacubaya, entre otras. Santa Anna perdió una pierna en Veracruz y en 1842 la enterró con honores.\n\n#historiademexico #guerradelospasteles #historia #shorts",
+  "tags": [
+    "guerra de los pasteles",
+    "historia de mexico",
+    "santa anna",
+    "veracruz",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "TODO POR UNOS PASTELES",
+  "prompt_miniatura": "a 19th century French warship bombarding a stone sea fortress, with a pastry shop in the foreground",
+  "experimento": "cierre_suscripcion"
+}

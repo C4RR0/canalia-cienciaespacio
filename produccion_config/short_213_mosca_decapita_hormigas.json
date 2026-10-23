@@ -1,0 +1,35 @@
+{
+  "id": "short_213_mosca_decapita_hormigas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta mosca le mete un huevo a una hormiga de fuego y, semanas después, le arranca la cabeza desde dentro.\n\nSe lanza sobre ella y le deja el huevo dentro en un instante.\n\nLa larva sube a la cabeza y se come lo que hay dentro. La hormiga sigue caminando.\n\nAl final, la cabeza se suelta y cae.\n\nSinceramente, no se me ocurre peor forma de perder la cabeza.\n\nY de esa cabeza sale la mosca nueva. Si te ha gustado esta pesadilla, aquí hay más.",
+  "queries_imagenes": [
+    "Pseudacteon",
+    "Pseudacteon fly fire ant",
+    "Pseudacteon tricuspis",
+    "Pseudacteon curvatus",
+    "Solenopsis invicta",
+    "fire ant workers",
+    "Solenopsis invicta mound",
+    "phorid fly"
+  ],
+  "titulo": "Le mete un huevo y semanas después le arranca la cabeza",
+  "descripcion": "Las moscas fóridas del género Pseudacteon ponen un huevo dentro de las hormigas de fuego; la larva se come el interior de la cabeza, que acaba cayéndose, y la mosca adulta sale de ella.\n\n#parasitos #hormigasdefuego #animalesraros #shorts",
+  "tags": [
+    "pseudacteon",
+    "mosca decapitadora",
+    "hormigas de fuego",
+    "parasitos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LE ARRANCA LA CABEZA",
+  "prompt_miniatura": "a tiny fly hovering over a red fire ant, macro photo, dramatic close-up",
+  "experimento": "cierre_suscripcion"
+}

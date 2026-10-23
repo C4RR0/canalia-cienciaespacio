@@ -1,0 +1,35 @@
+{
+  "id": "short_214_milano_incendios",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro coge una rama ardiendo con las garras y la suelta lejos para empezar otro incendio.\n\nEs el milano negro, el mismo que cruza España cada verano.\n\nEn el norte de Australia, los milanos esperan junto al fuego y cazan al vuelo a los lagartos y ratones que huyen.\n\nY cuando el fuego se apaga, algunos llevan una brasa a la hierba seca.\n\nA mí me parece genial y aterrador a la vez.\n\nLos aborígenes llevaban generaciones contándolo. Y bomberos australianos dicen haberlo visto.",
+  "queries_imagenes": [
+    "Milvus migrans",
+    "black kite flight",
+    "Milvus migrans affinis",
+    "black kite Australia",
+    "whistling kite",
+    "bushfire Australia Northern Territory",
+    "savanna fire Australia",
+    "kites over bushfire"
+  ],
+  "titulo": "Coge una rama ardiendo y la suelta para quemar más",
+  "descripcion": "En el norte de Australia, el milano negro (Milvus migrans) y otras rapaces han sido vistos llevando ramas ardiendo para extender incendios y cazar a los animales que huyen, según un estudio de 2017.\n\n#milanonegro #aves #animalesinteligentes #shorts",
+  "tags": [
+    "milano negro",
+    "aves rapaces",
+    "incendios australia",
+    "animales inteligentes",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "PROVOCA INCENDIOS",
+  "prompt_miniatura": "a black kite flying with a burning stick in its talons over a savanna bushfire",
+  "experimento": "control"
+}

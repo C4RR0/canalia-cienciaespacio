@@ -1,0 +1,35 @@
+{
+  "id": "short_216_garrapata_carne",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Le pica una garrapata y, desde ese día, comerse un filete puede mandarle al hospital.\n\nSu saliva lleva un azúcar que también está en la carne de vaca, de cerdo y de cordero.\n\nEl cuerpo aprende a atacarlo, y la persona se vuelve alérgica a esas carnes.\n\nY la reacción no llega al comer, sino horas después.\n\nComo amante de la carne, no se me ocurre castigo peor.\n\nPero el pollo y el pescado no le hacen nada: las aves y los peces no tienen ese azúcar.",
+  "queries_imagenes": [
+    "Amblyomma americanum",
+    "lone star tick",
+    "Amblyomma americanum female",
+    "Amblyomma americanum male",
+    "lone star tick on skin",
+    "tick bite",
+    "Amblyomma americanum nymph",
+    "beef steak"
+  ],
+  "titulo": "Tras su picadura, un filete puede mandarte al hospital",
+  "descripcion": "La garrapata estrella solitaria (Amblyomma americanum) puede provocar el síndrome alfa-gal, una alergia a la carne de mamífero que aparece horas después de comerla.\n\n#garrapatas #alfagal #animalesraros #shorts",
+  "tags": [
+    "garrapata estrella solitaria",
+    "alergia a la carne",
+    "sindrome alfa gal",
+    "parasitos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "ALÉRGICO A LA CARNE",
+  "prompt_miniatura": "a tick with a white spot on its back crawling on human skin, macro, next to a grilled steak",
+  "experimento": "control"
+}

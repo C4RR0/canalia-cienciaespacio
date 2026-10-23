@@ -1,0 +1,35 @@
+{
+  "id": "short_219_lamprea",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Se pega a un pez vivo con una boca llena de dientes y le chupa la sangre.\n\nEs la lamprea marina. No tiene mandíbula: su boca es una ventosa redonda con filas de dientes y una lengua que raspa.\n\nHace un siglo invadió los Grandes Lagos y ayudó a hundir la pesca de truchas.\n\nReconozco que me da escalofríos solo verle la boca.\n\nPero el giro: en Galicia es un manjar, y se guisa en su propia sangre.\n\nSi te ha dado hambre o miedo, sígueme.",
+  "queries_imagenes": [
+    "Petromyzon marinus",
+    "sea lamprey mouth",
+    "sea lamprey attached to fish",
+    "lamprey teeth",
+    "Petromyzon marinus Great Lakes",
+    "lamprea a la bordelesa",
+    "lamprey Minho",
+    "sea lamprey on lake trout"
+  ],
+  "titulo": "Se pega a un pez vivo y le chupa la sangre",
+  "descripcion": "La lamprea marina (Petromyzon marinus) se fija a otros peces con su boca en ventosa y se alimenta de su sangre. Invadió los Grandes Lagos y en Galicia se cocina a la bordelesa, con su propia sangre.\n\n#lamprea #parasitos #animalesraros #shorts",
+  "tags": [
+    "lamprea marina",
+    "lamprea",
+    "parasitos",
+    "grandes lagos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "BOCA DE PESADILLA",
+  "prompt_miniatura": "close-up of a sea lamprey round sucker mouth full of teeth attached to a fish",
+  "experimento": "cierre_suscripcion"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_221_wittenoom_pueblo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Australia borró este pueblo de los mapas, quitó sus señales y derribó sus casas.\n\nSe llamaba Wittenoom. Allí se extrajo amianto azul, el más peligroso de todos.\n\nEl polvo lo cubría todo. Hasta se usaron restos de la mina en calles y patios.\n\nCon los años, cientos de trabajadores y vecinos murieron por el amianto.\n\nPara mí, es una de las historias más tristes de Australia.\n\nY aun así, algunos vecinos se negaron a irse hasta dos mil veintidós. Si te gustan estos lugares, aquí hay más.",
+  "queries_imagenes": [
+    "Wittenoom",
+    "Wittenoom Western Australia",
+    "Wittenoom Gorge",
+    "Wittenoom asbestos warning sign",
+    "crocidolite",
+    "Hamersley Range",
+    "Pilbara landscape",
+    "Wittenoom ghost town"
+  ],
+  "titulo": "Lo borraron de los mapas para que nadie fuera allí",
+  "descripcion": "Wittenoom, en Australia Occidental, fue un pueblo minero de amianto azul. Por su contaminación, el gobierno lo eliminó de los mapas y derribó sus casas.\n\n#wittenoom #australia #lugaresprohibidos #shorts",
+  "tags": [
+    "wittenoom",
+    "amianto",
+    "australia",
+    "pueblo abandonado",
+    "lugares prohibidos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "BORRADO DEL MAPA",
+  "prompt_miniatura": "an abandoned outback town in red Australian desert with a faded danger warning sign",
+  "experimento": "cierre_suscripcion"
+}
