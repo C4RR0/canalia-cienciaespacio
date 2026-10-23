@@ -34,6 +34,7 @@ jobs:
           python scripts/snapshot_metricas.py
           # Qué temas convierten vistas en suscriptores (metricas/temas_subs.md, últimos 7 días y acumulado)
           { python scripts/etiquetar_temas.py > /dev/null && python scripts/informe_temas_subs.py > /dev/null; } || echo "::warning::informe de temas falló"
+          python scripts/proyeccion_ypp.py > /dev/null || echo "::warning::proyeccion_ypp falló"
           # Listas temáticas: 30 vídeos al día como mucho (50 unidades de cuota cada uno).
           python scripts/listas.py 30 || echo "::warning::listas.py falló"
           # Canal en inglés (Wild Facts Daily): mismas métricas en metricas_en/.
