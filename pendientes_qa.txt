@@ -1,4 +1,3 @@
-short_215_guerra_pasteles
 short_216_garrapata_carne
 short_217_drongo_suricatas
 short_218_surtsey_isla
