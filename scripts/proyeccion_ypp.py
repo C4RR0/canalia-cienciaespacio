@@ -23,7 +23,7 @@ if faltan > 0 and s7 > 0:
 L += [f"- Vistas de los últimos {dias90} días (los datos empiezan el {ref90[0]:%d/%m}): {v90:,}.".replace(",", "."),
       f"- Objetivo: {OBJ_VISTAS_90:,} en 90 días = {OBJ_VISTAS_90/90:,.0f}/día. Ritmo actual = {v7/(OBJ_VISTAS_90/90)*100:.0f} % del necesario.".replace(",", ".")]
 if v7 > 0:
-    L.append(f"- Con {v7:,.0f} vistas/día, en 90 días se acumularían {v7*90:,.0f} vistas ({v7*90/OBJ_VISTAS_90*100:.0f} % del objetivo).".replace(",", "."))
+    L.append(f"- Con {v7:,.0f} vistas/día se acumularían en 90 días: {v7*90:,.0f} vistas ({v7*90/OBJ_VISTAS_90*100:.0f} % del objetivo).".replace(",", "."))
 L += ["", "Nota: las vistas del canal incluyen largos; es una aproximación. Alternativa de YouTube: 3.000 h de reproducción en 12 meses."]
 open("metricas/proyeccion_ypp.md", "w", encoding="utf-8").write("\n".join(L) + "\n")
 print("\n".join(L))
