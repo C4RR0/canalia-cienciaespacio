@@ -1,4 +1,3 @@
-short_219_lamprea
 short_220_serpiente_voladora
 short_221_wittenoom_pueblo
 short_222_avispa_taladro
