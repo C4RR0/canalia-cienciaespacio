@@ -4,5 +4,4 @@ short_227_planeador_gimli
 short_231_bacteria_machos
 short_233_maraton_1904
 short_234_hongo_oruga
-short_235_cobra_escupidora
 short_236_coober_pedy
