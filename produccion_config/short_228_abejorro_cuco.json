@@ -1,0 +1,35 @@
+{
+  "id": "short_228_abejorro_cuco",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta abeja se cuela en el nido de otra, a menudo mata a la reina y pone a sus obreras a trabajar para ella.\n\nEs un abejorro cuco, y vive también en España.\n\nNo tiene obreras propias ni cestillos para recoger polen.\n\nAsí que espera a que otra reina levante su nido, se mete dentro y acaba oliendo como la colonia.\n\nMe parece un golpe de estado de manual.\n\nY las obreras crían, sin saberlo, a los hijos de quien mató a su madre.",
+  "queries_imagenes": [
+    "Bombus vestalis",
+    "Bombus rupestris",
+    "cuckoo bumblebee",
+    "Bombus sylvestris",
+    "Bombus terrestris nest",
+    "Bombus terrestris",
+    "Bombus vestalis flower",
+    "bumblebee nest"
+  ],
+  "titulo": "Mata a la reina y las obreras le crían a sus hijos",
+  "descripcion": "Los abejorros cuco (como Bombus vestalis) no tienen obreras: invaden el nido de otros abejorros, a menudo matan a la reina y las obreras crían a sus hijos.\n\n#abejorrocuco #parasitos #insectos #shorts",
+  "tags": [
+    "abejorro cuco",
+    "bombus vestalis",
+    "parasitos",
+    "insectos",
+    "abejorros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UN GOLPE DE ESTADO",
+  "prompt_miniatura": "a large bumblebee invading a nest full of smaller bumblebees and wax cells, dramatic close-up",
+  "experimento": "control"
+}

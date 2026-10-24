@@ -1,0 +1,35 @@
+{
+  "id": "short_226_dragon_azul",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este animal se come a la carabela portuguesa y se queda con su veneno.\n\nEs el dragón azul, una babosa marina de apenas unos centímetros.\n\nLos tentáculos de la carabela están llenos de células que disparan arpones venenosos. Él se los come sin que se disparen.\n\nDespués guarda esas células intactas en las puntas de su cuerpo, y las usa para defenderse.\n\nPara mí, es el ladrón más elegante del océano.\n\nY para no hundirse, se traga una burbuja de aire y flota panza arriba.",
+  "queries_imagenes": [
+    "Glaucus atlanticus",
+    "blue dragon sea slug",
+    "Glaucus atlanticus floating",
+    "Portuguese man o' war",
+    "Physalia physalis",
+    "Physalia physalis beach",
+    "Glaucus atlanticus cerata",
+    "Glaucus atlanticus hand"
+  ],
+  "titulo": "Se come a la carabela portuguesa y se queda su veneno",
+  "descripcion": "El dragón azul (Glaucus atlanticus) es una babosa marina que se come a la carabela portuguesa y guarda sus células urticantes para defenderse. Flota panza arriba gracias a una burbuja de aire.\n\n#dragonazul #glaucusatlanticus #carabelaportuguesa #shorts",
+  "tags": [
+    "dragon azul",
+    "glaucus atlanticus",
+    "carabela portuguesa",
+    "babosa marina",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "ROBA EL VENENO",
+  "prompt_miniatura": "a tiny bright blue sea slug floating upside down on the ocean surface next to a purple Portuguese man o' war",
+  "experimento": "control"
+}

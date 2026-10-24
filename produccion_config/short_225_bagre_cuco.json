@@ -1,0 +1,35 @@
+{
+  "id": "short_225_bagre_cuco",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pez cuela sus huevos en la boca de otra madre, y sus crías se comen a las de ella ahí dentro.\n\nEs el bagre cuco, del lago Tanganica.\n\nAlgunos cíclidos protegen sus huevos llevándolos en la boca. Mientras la hembra pone, los bagres sueltan los suyos y ella los recoge.\n\nLas crías del bagre nacen antes y devoran a sus hermanastros.\n\nMe parece la jugada más cruel de todo el lago.\n\nY la madre sigue protegiéndolas como si fueran suyas. Sígueme si quieres más trampas así.",
+  "queries_imagenes": [
+    "Synodontis multipunctatus",
+    "cuckoo catfish",
+    "Synodontis multipunctatus aquarium",
+    "mouthbrooding cichlid",
+    "Lake Tanganyika cichlid",
+    "cichlid mouthbrooding fry",
+    "Lake Tanganyika",
+    "Synodontis catfish"
+  ],
+  "titulo": "Sus crías devoran a las de otra madre dentro de su boca",
+  "descripcion": "El bagre cuco (Synodontis multipunctatus) del lago Tanganica cuela sus huevos entre los de cíclidos que incuban en la boca; sus crías nacen antes y se comen a las de la madre adoptiva.\n\n#bagrecuco #parasitos #lagotanganica #shorts",
+  "tags": [
+    "bagre cuco",
+    "synodontis multipunctatus",
+    "parasitos de cria",
+    "lago tanganica",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE COMEN A SUS HERMANOS",
+  "prompt_miniatura": "a spotted catfish fry hiding inside the open mouth of a colorful African cichlid underwater",
+  "experimento": "cierre_suscripcion"
+}

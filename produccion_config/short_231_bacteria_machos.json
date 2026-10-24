@@ -1,0 +1,35 @@
+{
+  "id": "short_231_bacteria_machos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Una bacteria mató a casi todos los machos de una mariposa en una isla.\n\nPasó en Samoa, con la mariposa luna azul. La bacteria, Wolbachia, pasa de madre a hijos dentro del huevo.\n\nEn los machos no tiene salida, así que los mata antes de nacer.\n\nHacia dos mil uno, había unas cien hembras por cada macho.\n\nSinceramente, parecía el final de esa población.\n\nPero en pocos años los machos volvieron: se extendió un gen que los protegía. Si te gusta la evolución en directo, sígueme.",
+  "queries_imagenes": [
+    "Hypolimnas bolina",
+    "Hypolimnas bolina male",
+    "Hypolimnas bolina female",
+    "great eggfly butterfly",
+    "Wolbachia",
+    "Wolbachia bacteria",
+    "Samoa Upolu",
+    "Hypolimnas bolina caterpillar"
+  ],
+  "titulo": "Mató a casi todos los machos de una isla antes de nacer",
+  "descripcion": "En Samoa, la bacteria Wolbachia mataba a los machos de la mariposa luna azul (Hypolimnas bolina) antes de nacer: llegó a haber unas cien hembras por macho, hasta que se extendió un gen que los protegía.\n\n#wolbachia #parasitos #evolucion #shorts",
+  "tags": [
+    "wolbachia",
+    "hypolimnas bolina",
+    "parasitos",
+    "evolucion",
+    "mariposas",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SIN MACHOS",
+  "prompt_miniatura": "a blue and black butterfly on a tropical island leaf, glowing bacteria inside its eggs, dramatic",
+  "experimento": "cierre_suscripcion"
+}

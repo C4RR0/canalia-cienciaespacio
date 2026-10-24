@@ -1,0 +1,35 @@
+{
+  "id": "short_232_hormigas_tejedoras",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Estas hormigas cosen hojas usando a sus propias crías como si fueran tubos de pegamento.\n\nSon hormigas tejedoras. Primero, filas de obreras doblan dos hojas y las sujetan juntas.\n\nLuego otras traen larvas en las mandíbulas y las mueven de un borde al otro. Las larvas sueltan seda y la hoja queda cosida.\n\nAsí fabrican nidos enteros en los árboles.\n\nMe parece más ingenioso que muchos inventos humanos.\n\nY en China, hace más de mil setecientos años, ya se usaban contra las plagas de los cítricos.",
+  "queries_imagenes": [
+    "Oecophylla smaragdina",
+    "weaver ants nest",
+    "Oecophylla smaragdina nest",
+    "weaver ants building nest",
+    "Oecophylla smaragdina larva",
+    "green tree ant Australia",
+    "weaver ant chain",
+    "Oecophylla"
+  ],
+  "titulo": "Usan a sus crías como pegamento para coser hojas",
+  "descripcion": "Las hormigas tejedoras (Oecophylla smaragdina) cosen hojas con la seda de sus larvas para fabricar nidos en los árboles. En China se usaban contra las plagas de los cítricos hace más de 1.700 años.\n\n#hormigastejedoras #hormigas #insectos #shorts",
+  "tags": [
+    "hormigas tejedoras",
+    "oecophylla smaragdina",
+    "hormigas",
+    "insectos",
+    "animales increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "COSEN CON SUS CRÍAS",
+  "prompt_miniatura": "orange ants forming a living chain to pull two green leaves together, macro photo",
+  "experimento": "control"
+}

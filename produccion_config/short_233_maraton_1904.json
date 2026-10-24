@@ -1,0 +1,35 @@
+{
+  "id": "short_233_maraton_1904",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "El primero en cruzar la meta del maratón olímpico de mil novecientos cuatro había hecho parte en coche.\n\nHacía un calor brutal. Fred Lorz se retiró, subió a un coche y, cuando se averió, volvió a correr.\n\nCasi le dan el oro.\n\nEl ganador real aguantó porque su equipo le dio estricnina, un veneno, con brandy.\n\nPara mí, la carrera más absurda de la historia.\n\nY un cubano paró a comer manzanas podridas, se echó una siesta... y quedó cuarto. Sígueme para más locuras reales.",
+  "queries_imagenes": [
+    "1904 Olympic marathon",
+    "Thomas Hicks marathon 1904",
+    "Fred Lorz",
+    "Félix Carvajal",
+    "1904 Summer Olympics St. Louis",
+    "Thomas Hicks 1904",
+    "1904 Olympics marathon runners",
+    "Francis Field St. Louis"
+  ],
+  "titulo": "Cruzó primero la meta del maratón tras ir en coche",
+  "descripcion": "En el maratón olímpico de San Luis 1904, Fred Lorz cruzó primero tras hacer parte en coche, el ganador Thomas Hicks corrió con estricnina y el cubano Félix Carvajal se echó una siesta y quedó cuarto.\n\n#maraton1904 #juegosolimpicos #historiasreales #shorts",
+  "tags": [
+    "maraton olimpico 1904",
+    "fred lorz",
+    "thomas hicks",
+    "felix carvajal",
+    "juegos olimpicos",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "GANÓ EN COCHE",
+  "prompt_miniatura": "an exhausted marathon runner in 1904 on a dusty road while an old car passes by with a runner inside",
+  "experimento": "cierre_suscripcion"
+}

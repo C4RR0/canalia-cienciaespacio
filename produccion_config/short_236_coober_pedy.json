@@ -1,0 +1,35 @@
+{
+  "id": "short_236_coober_pedy",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En este pueblo hace tanto calor en verano que muchos vecinos viven bajo tierra.\n\nEs Coober Pedy, en pleno desierto australiano. Nació para buscar ópalos, y los mineros empezaron a excavar sus casas en la roca.\n\nAhí abajo la temperatura se mantiene agradable todo el año, mientras arriba se superan los cuarenta grados.\n\nHoy hay casas, iglesias y hasta un hotel bajo tierra.\n\nYo pagaría por pasar una noche ahí.\n\nY el paisaje es tan raro que allí se rodó una película de Mad Max.",
+  "queries_imagenes": [
+    "Coober Pedy",
+    "Coober Pedy underground home",
+    "Coober Pedy dugout",
+    "Coober Pedy underground church",
+    "Coober Pedy opal mine",
+    "Coober Pedy desert",
+    "Coober Pedy Serbian Orthodox Church",
+    "Coober Pedy sign"
+  ],
+  "titulo": "Hace tanto calor que la gente vive bajo tierra",
+  "descripcion": "Coober Pedy, pueblo minero de ópalos en el desierto de Australia, tiene casas, iglesias y hasta un hotel bajo tierra para escapar del calor. Allí se rodó parte de Mad Max.\n\n#cooberpedy #australia #lugaresincreibles #shorts",
+  "tags": [
+    "coober pedy",
+    "australia",
+    "casas bajo tierra",
+    "lugares increibles",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "VIVEN BAJO TIERRA",
+  "prompt_miniatura": "an underground home carved into pink desert rock with furniture and lamps, Australian outback above",
+  "experimento": "control"
+}

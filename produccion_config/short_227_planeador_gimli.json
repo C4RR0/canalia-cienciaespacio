@@ -1,0 +1,35 @@
+{
+  "id": "short_227_planeador_gimli",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En mil novecientos ochenta y tres, un avión de pasajeros se quedó sin combustible a doce mil metros.\n\nEra el vuelo ciento cuarenta y tres de Air Canada. Calcularon el combustible en libras en vez de kilos. Llevaba menos de la mitad.\n\nSe pararon los dos motores. Por suerte, el capitán era piloto de planeadores.\n\nPlaneó hasta una antigua base militar convertida en circuito, con gente en la pista.\n\nSinceramente, no sé cómo lo consiguió.\n\nAterrizó, y nadie murió. Si te gustan estas historias reales, sígueme.",
+  "queries_imagenes": [
+    "Gimli Glider",
+    "C-GAUN",
+    "Air Canada Boeing 767-200",
+    "Gimli Industrial Park Airport",
+    "Gimli Manitoba",
+    "Air Canada 767 C-GAUN",
+    "Gimli Motorsport Park",
+    "Boeing 767 cockpit"
+  ],
+  "titulo": "Confundieron kilos y libras y se apagaron los motores",
+  "descripcion": "En 1983, el vuelo 143 de Air Canada, el «planeador de Gimli», se quedó sin combustible en pleno vuelo por un error entre libras y kilos. El capitán, piloto de planeadores, aterrizó en una antigua base militar sin que muriera nadie.\n\n#planeadordegimli #aviacion #historiasreales #shorts",
+  "tags": [
+    "planeador de gimli",
+    "air canada 143",
+    "aviacion",
+    "historias reales",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SIN MOTORES A 12.000 M",
+  "prompt_miniatura": "a passenger jet gliding silently with both engines off toward an old runway with race cars and people on it",
+  "experimento": "cierre_suscripcion"
+}

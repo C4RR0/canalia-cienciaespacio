@@ -216,3 +216,16 @@ short_221_wittenoom_pueblo
 short_222_avispa_taladro
 short_223_esfinge_calavera
 short_224_arbol_corea
+# 2026-10-24: tanda 225-236 (rutina automática), 2:1
+short_225_bagre_cuco
+short_226_dragon_azul
+short_227_planeador_gimli
+short_228_abejorro_cuco
+short_229_aguja_colipinta
+short_230_kiruna_ciudad
+short_231_bacteria_machos
+short_232_hormigas_tejedoras
+short_233_maraton_1904
+short_234_hongo_oruga
+short_235_cobra_escupidora
+short_236_coober_pedy

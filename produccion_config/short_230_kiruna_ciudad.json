@@ -1,0 +1,35 @@
+{
+  "id": "short_230_kiruna_ciudad",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Una mina se está tragando una ciudad entera, así que la están moviendo de sitio.\n\nEs Kiruna, en el norte de Suecia. Debajo está la mina subterránea de hierro más grande del mundo, y el suelo se deforma bajo las casas.\n\nPor eso derriban barrios y levantan un centro nuevo a unos kilómetros.\n\nAlgunos edificios históricos no se derriban: se trasladan enteros.\n\nMe parece una locura, y a la vez fascinante.\n\nEn dos mil veinticinco, su iglesia de madera viajó cinco kilómetros sobre ruedas, de una sola pieza.",
+  "queries_imagenes": [
+    "Kiruna",
+    "Kiruna Church",
+    "Kiruna mine LKAB",
+    "Kirunavaara",
+    "Kiruna town hall",
+    "Kiruna city centre",
+    "Kiruna church moving",
+    "Kiruna winter"
+  ],
+  "titulo": "Se hunde sobre una mina y la están trasladando entera",
+  "descripcion": "Kiruna (Suecia) se está trasladando porque la mina de hierro subterránea más grande del mundo deforma el suelo bajo la ciudad. En 2025 su iglesia de madera se movió entera cinco kilómetros.\n\n#kiruna #suecia #lugaresincreibles #shorts",
+  "tags": [
+    "kiruna",
+    "suecia",
+    "mina de hierro",
+    "lugares increibles",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MUDAN LA CIUDAD ENTERA",
+  "prompt_miniatura": "a red wooden church being moved on huge trailers through a snowy Swedish town with a mine in the background",
+  "experimento": "control"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_235_cobra_escupidora",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta serpiente te escupe veneno directamente a los ojos desde más de dos metros.\n\nEs una cobra escupidora. No dispara al azar: apunta a la cara y mueve la cabeza para seguir los ojos de su enemigo.\n\nEl veneno provoca un dolor terrible, y si no se lava a tiempo puede dejar ciego.\n\nMe parece una de las defensas más listas del mundo animal.\n\nY un estudio sugiere que el escupitajo surgió para defenderse de primates como nuestros antepasados. Sígueme si quieres más animales así.",
+  "queries_imagenes": [
+    "Naja nigricollis",
+    "spitting cobra",
+    "Naja pallida",
+    "Naja mossambica",
+    "Naja nigricollis spitting",
+    "Naja sumatrana",
+    "Naja ashei",
+    "spitting cobra hood"
+  ],
+  "titulo": "Te escupe veneno a los ojos desde más de dos metros",
+  "descripcion": "Las cobras escupidoras (como Naja nigricollis) lanzan veneno a los ojos de su enemigo y ajustan la puntería moviendo la cabeza. Un estudio sugiere que el escupitajo surgió como defensa frente a primates.\n\n#cobraescupidora #serpientes #animalespeligrosos #shorts",
+  "tags": [
+    "cobra escupidora",
+    "naja nigricollis",
+    "serpientes",
+    "animales peligrosos",
+    "cobras",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "APUNTA A TUS OJOS",
+  "prompt_miniatura": "a cobra with spread hood spraying twin jets of venom toward the camera, dramatic lighting",
+  "experimento": "cierre_suscripcion"
+}

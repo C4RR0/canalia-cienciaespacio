@@ -1,0 +1,35 @@
+{
+  "id": "short_234_hongo_oruga",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Un hongo se come por dentro a una oruga enterrada y le sale por la cabeza como un tallo.\n\nPasa en las montañas del Tíbet y del Himalaya. La oruga, de una polilla, vive bajo tierra comiendo raíces. Las esporas la infectan, y el hongo la va llenando hasta matarla.\n\nEn primavera, el tallo asoma entre la hierba.\n\nSinceramente, esa imagen me revuelve el estómago.\n\nY aun así, la gente lo busca de rodillas: los mejores ejemplares se pagan a decenas de miles de euros el kilo.",
+  "queries_imagenes": [
+    "Ophiocordyceps sinensis",
+    "Cordyceps sinensis",
+    "caterpillar fungus",
+    "yartsa gunbu",
+    "Ophiocordyceps sinensis harvest",
+    "Cordyceps sinensis market",
+    "Thitarodes",
+    "Tibetan plateau meadow"
+  ],
+  "titulo": "Le brota de la cabeza a una oruga y vale una fortuna",
+  "descripcion": "El hongo oruga (Ophiocordyceps sinensis) infecta a orugas enterradas en el Tíbet y el Himalaya y brota de su cabeza. Los mejores ejemplares se pagan a decenas de miles de euros el kilo.\n\n#cordyceps #parasitos #hongos #shorts",
+  "tags": [
+    "hongo oruga",
+    "ophiocordyceps sinensis",
+    "cordyceps",
+    "parasitos",
+    "hongos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "VALE UNA FORTUNA",
+  "prompt_miniatura": "a dead caterpillar in the soil with a thin brown fungus stalk growing from its head, Himalayan meadow",
+  "experimento": "control"
+}

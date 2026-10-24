@@ -1,0 +1,35 @@
+{
+  "id": "short_229_aguja_colipinta",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Con solo cinco meses de vida, este pájaro voló once días seguidos sin parar a comer ni a beber.\n\nEs una aguja colipinta. En dos mil veintidós, una cría con un pequeño emisor salió de Alaska y no se posó hasta Tasmania. Más de trece mil quinientos kilómetros.\n\nAntes de salir engordan muchísimo, y sus órganos digestivos se encogen para pesar menos.\n\nPara mí, es el viaje más brutal del reino animal.\n\nY nadie le enseñó el camino: era su primera migración. Sígueme si quieres más animales imposibles.",
+  "queries_imagenes": [
+    "Limosa lapponica",
+    "bar-tailed godwit",
+    "bar-tailed godwit flight",
+    "Limosa lapponica baueri",
+    "bar-tailed godwit flock",
+    "Limosa lapponica juvenile",
+    "bar-tailed godwit Alaska",
+    "godwit New Zealand"
+  ],
+  "titulo": "Con cinco meses voló once días seguidos sin posarse",
+  "descripcion": "En 2022, una aguja colipinta (Limosa lapponica) de cinco meses voló sin parar de Alaska a Tasmania: más de 13.500 km en 11 días, en su primera migración.\n\n#agujacolipinta #aves #migracion #shorts",
+  "tags": [
+    "aguja colipinta",
+    "limosa lapponica",
+    "migracion de aves",
+    "aves",
+    "animales increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "ONCE DÍAS SIN PARAR",
+  "prompt_miniatura": "a slim long-billed shorebird flying alone over a vast ocean at sunset",
+  "experimento": "cierre_suscripcion"
+}
