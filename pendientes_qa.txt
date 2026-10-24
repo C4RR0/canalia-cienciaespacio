@@ -1,7 +1,6 @@
 short_225_bagre_cuco
 short_226_dragon_azul
 short_227_planeador_gimli
-short_228_abejorro_cuco
 short_229_aguja_colipinta
 short_230_kiruna_ciudad
 short_231_bacteria_machos
