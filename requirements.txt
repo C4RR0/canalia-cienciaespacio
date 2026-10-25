@@ -1,4 +1,4 @@
-edge-tts==7.2.8
+edge-tts==7.3.1
 faster-whisper==1.2.1
 av==18.1.0
 google-api-python-client==2.200.0
