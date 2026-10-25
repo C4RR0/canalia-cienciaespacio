@@ -30,17 +30,8 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 import requests
 import edge_tts
-from edge_tts import communicate as _edge_communicate
-from edge_tts.constants import TRUSTED_CLIENT_TOKEN
 
-# 2026-10-13: Microsoft movió la síntesis de speech.platform.bing.com (403
-# desde el 10/10) a api.msedgeservices.com; edge-tts 7.2.8 aún usa la URL
-# vieja (rany2/edge-tts#490). Hay que pisar la de communicate, no la de
-# constants. Quitar cuando salga una versión que lo arregle.
-_edge_communicate.WSS_URL = (
-    "wss://api.msedgeservices.com/tts/cognitiveservices/websocket/v1"
-    f"?Ocp-Apim-Subscription-Key={TRUSTED_CLIENT_TOKEN}"
-)
+# 2026-10-25: quitado el apaño de api.msedgeservices.com (daba 500); edge-tts 7.3.1 ya funciona con su URL.
 
 VOZ_POR_DEFECTO = "es-ES-AlvaroNeural"
 
