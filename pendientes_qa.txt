@@ -1,7 +1,6 @@
 short_226_dragon_azul
 short_234_hongo_oruga
 short_236_coober_pedy
-short_241_hormiga_mandibula
 short_242_llivia_enclave
 short_243_indicador_miel
 short_244_sanguijuela_medicinal
