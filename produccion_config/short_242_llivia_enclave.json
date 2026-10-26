@@ -1,0 +1,35 @@
+{
+  "id": "short_242_llivia_enclave",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Por una sola palabra, un pueblo español lleva más de trescientos cincuenta años encerrado dentro de Francia.\n\nEn 1660, España entregó a Francia treinta y tres pueblos de la Cerdaña.\n\nPero Llívia no era un pueblo: tenía el título de villa.\n\nAsí que siguió siendo española, rodeada de Francia por todas partes.\n\nHoy se llega por una carretera que cruza territorio francés.\n\nMe encanta que un tecnicismo de hace siglos siga dibujando el mapa.\n\nY dentro guarda una de las farmacias más antiguas de Europa.",
+  "queries_imagenes": [
+    "Llívia",
+    "Llivia town",
+    "Llívia church",
+    "Llívia pharmacy museum",
+    "Farmàcia Esteve Llívia",
+    "Llívia Cerdanya",
+    "Llívia castle",
+    "Cerdanya valley"
+  ],
+  "titulo": "Una sola palabra lo dejó atrapado dentro de otro país",
+  "descripcion": "Llívia es un pueblo español rodeado por Francia: en el reparto de la Cerdaña de 1660 se entregaron 33 pueblos y Llívia, por ser villa, siguió siendo española.\n\n#llivia #cerdanya #historia #shorts",
+  "tags": [
+    "Llívia",
+    "enclave",
+    "Cerdaña",
+    "Tratado de los Pirineos",
+    "lugares insolitos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "ATRAPADO EN OTRO PAÍS",
+  "prompt_miniatura": "a small stone mountain village in the Pyrenees surrounded by green fields, with a border sign",
+  "experimento": "control"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_244_sanguijuela_medicinal",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Se engancha a tu piel con tres mandíbulas llenas de dientes, y ni lo notas.\n\nLa sanguijuela medicinal inyecta un anestésico y una sustancia que impide que la sangre se coagule.\n\nPuede beber varias veces su peso y pasar meses sin comer.\n\nEn el siglo diecinueve se usaron por millones para sangrar a enfermos.\n\nReconozco que solo de pensarlo me dan escalofríos.\n\nPero hoy han vuelto a los hospitales: ayudan a salvar dedos y orejas reimplantados, y en Estados Unidos están aprobadas como dispositivo médico.",
+  "queries_imagenes": [
+    "Hirudo medicinalis",
+    "medicinal leech",
+    "leech bite",
+    "Hirudo medicinalis feeding",
+    "leech therapy",
+    "hirudotherapy",
+    "leech jar pharmacy",
+    "Hirudo verbana"
+  ],
+  "titulo": "Te muerde con tres mandíbulas y ni siquiera lo notas",
+  "descripcion": "La sanguijuela medicinal (Hirudo medicinalis) anestesia y evita la coagulación al morder. Hoy se usa en microcirugía para salvar dedos y orejas reimplantados.\n\n#sanguijuela #medicina #parasitos #shorts",
+  "tags": [
+    "sanguijuela medicinal",
+    "Hirudo medicinalis",
+    "hirudoterapia",
+    "parasitos",
+    "historia de la medicina",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO SIENTES NADA",
+  "prompt_miniatura": "a dark glossy leech attached to human skin, close-up, clinical lighting",
+  "experimento": "control"
+}

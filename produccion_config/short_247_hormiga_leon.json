@@ -1,0 +1,35 @@
+{
+  "id": "short_247_hormiga_leon",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Cava una trampa en la arena y, si la hormiga intenta escapar, le lanza arena hasta que cae dentro.\n\nEs la larva de la hormiga león. Hace un embudo andando hacia atrás, se entierra en el fondo y espera.\n\nCuando cae una presa, la vacía por dentro y tira el cadáver fuera del hoyo.\n\nLo de la arena me parece de francotirador.\n\nY durante su vida de larva, que puede durar años, no hace caca ni una vez. Si te ha flipado, aquí hay más bichos así.",
+  "queries_imagenes": [
+    "Myrmeleontidae larva",
+    "antlion larva",
+    "antlion pit",
+    "antlion pits sand",
+    "Myrmeleon formicarius",
+    "Euroleon nostras",
+    "antlion adult",
+    "Myrmeleontidae"
+  ],
+  "titulo": "Cava una trampa y te tira arena para que no escapes",
+  "descripcion": "La larva de la hormiga león (familia Myrmeleontidae) cava un embudo en la arena y lanza arena a sus presas para que caigan. Durante toda su fase de larva no defeca.\n\n#hormigaleon #insectos #animalesincreibles #shorts",
+  "tags": [
+    "hormiga leon",
+    "Myrmeleontidae",
+    "larva de hormiga leon",
+    "insectos",
+    "animales increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NADIE SALE DEL HOYO",
+  "prompt_miniatura": "a cone-shaped pit in fine sand with an ant slipping down and sand flying from the bottom, macro",
+  "experimento": "cierre_suscripcion"
+}

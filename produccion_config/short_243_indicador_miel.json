@@ -1,0 +1,35 @@
+{
+  "id": "short_243_indicador_miel",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro llama a los humanos, los guía hasta una colmena y espera a que la abran para quedarse la cera.\n\nEs el indicador grande, de África. Los cazadores de miel lo llaman con un sonido especial, y él los guía de árbol en árbol.\n\nEllos sacan la miel con humo. Él se come la cera.\n\nMe parece una alianza preciosa.\n\nPero su cría nace en un nido ajeno y mata a sus hermanastros con un gancho del pico. Sígueme para más animales con doble cara.",
+  "queries_imagenes": [
+    "Indicator indicator",
+    "greater honeyguide",
+    "greater honeyguide bird",
+    "honey hunter Africa",
+    "wild bee nest tree",
+    "Indicator indicator female",
+    "honeyguide Africa",
+    "Merops bullockoides"
+  ],
+  "titulo": "Guía a los humanos hasta la miel a cambio de la cera",
+  "descripcion": "El indicador grande (Indicator indicator) guía a los cazadores de miel africanos hasta las colmenas y se come la cera. Su cría, parásita, mata a las crías del nido donde nace con un gancho en el pico.\n\n#indicador #aves #africa #shorts",
+  "tags": [
+    "indicador grande",
+    "Indicator indicator",
+    "cazadores de miel",
+    "aves de africa",
+    "parasitos de cria",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NOS USA COMO HERRAMIENTA",
+  "prompt_miniatura": "a small brown African bird perched near a wild bee nest in a tree while a honey hunter with smoke approaches",
+  "experimento": "cierre_suscripcion"
+}

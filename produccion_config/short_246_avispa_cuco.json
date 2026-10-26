@@ -1,0 +1,35 @@
+{
+  "id": "short_246_avispa_cuco",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta avispa entra en el nido de otra, deja un huevo junto a su cría, y su larva se la come.\n\nEs una avispa cuco, y brilla como una joya, en verde, azul y rojo metálico.\n\nSi la dueña del nido la pilla dentro, no puede hacerle nada: se enrolla como una bola y su coraza es tan dura que el aguijón no la atraviesa.\n\nMe parece la ladrona más elegante que existe.\n\nY algunas especies copian hasta el olor de sus víctimas para pasar desapercibidas.",
+  "queries_imagenes": [
+    "Chrysis ignita",
+    "Chrysididae",
+    "cuckoo wasp",
+    "Chrysis",
+    "Hedychrum",
+    "cuckoo wasp curled ball",
+    "Chrysis viridula",
+    "Stilbum cyanurum"
+  ],
+  "titulo": "Se come a crías ajenas y ningún aguijón la atraviesa",
+  "descripcion": "Las avispas cuco (familia Chrysididae, como Chrysis ignita) ponen sus huevos en nidos de otras avispas y abejas, y se enrollan en bola con una coraza que el aguijón no atraviesa.\n\n#avispacuco #insectos #parasitos #shorts",
+  "tags": [
+    "avispa cuco",
+    "Chrysis ignita",
+    "Chrysididae",
+    "insectos",
+    "parasitos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NADIE PUEDE PICARLA",
+  "prompt_miniatura": "macro of a shiny metallic green, blue and red wasp at the entrance of another insect's nest hole",
+  "experimento": "control"
+}

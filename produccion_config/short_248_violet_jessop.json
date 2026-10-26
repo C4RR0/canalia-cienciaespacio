@@ -1,0 +1,35 @@
+{
+  "id": "short_248_violet_jessop",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Esta mujer sobrevivió al hundimiento del Titanic. Y cuatro años después, se le hundió otro barco bajo los pies.\n\nSe llamaba Violet Jessop, y había nacido en Argentina.\n\nEn 1911 trabajaba en el Olympic cuando chocó con un buque de guerra.\n\nEn 1912 escapó del Titanic en un bote salvavidas.\n\nEn 1916, cuando el Britannic se hundía, saltó de su bote para no ser arrastrada por las hélices.\n\nYo, después del primero, no vuelvo a pisar un barco.\n\nElla siguió trabajando en el mar durante décadas.",
+  "queries_imagenes": [
+    "Violet Jessop",
+    "RMS Titanic",
+    "HMHS Britannic",
+    "RMS Olympic",
+    "Titanic lifeboat",
+    "Britannic hospital ship 1916",
+    "Olympic Hawke collision",
+    "Titanic 1912 departure"
+  ],
+  "titulo": "Sobrevivió al Titanic y cuatro años después, otra vez",
+  "descripcion": "Violet Jessop, nacida en Argentina, viajaba en el Olympic cuando chocó con el HMS Hawke (1911), sobrevivió al Titanic (1912) y al hundimiento del Britannic (1916).\n\n#titanic #historia #naufragios #shorts",
+  "tags": [
+    "Violet Jessop",
+    "Titanic",
+    "Britannic",
+    "Olympic",
+    "naufragios",
+    "historias reales",
+    "shorts"
+  ],
+  "hook_miniatura": "TRES BARCOS, UNA MUJER",
+  "prompt_miniatura": "a 1910s stewardess in uniform on the deck of a large ocean liner, sepia, a sinking ship in the background",
+  "experimento": "control"
+}

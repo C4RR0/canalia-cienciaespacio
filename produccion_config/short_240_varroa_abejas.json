@@ -1,0 +1,35 @@
+{
+  "id": "short_240_varroa_abejas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Un ácaro se cuela en la celda de una cría de abeja justo antes de que la sellen.\n\nEncerrado con ella, pone sus huevos, y sus crías se alimentan de la abeja mientras se desarrolla.\n\nEs la varroa, y viaja a lomos de las abejas de colmena en colmena.\n\nAdemás les contagia virus: muchas nacen con las alas arrugadas.\n\nPara mí, es su peor pesadilla.\n\nY durante décadas creímos que les chupaba la sangre. En 2019 se descubrió que lo que se come es su grasa.",
+  "queries_imagenes": [
+    "Varroa destructor",
+    "Varroa destructor on honey bee",
+    "varroa mite bee",
+    "Varroa mite pupa",
+    "honey bee brood cells",
+    "deformed wing virus bee",
+    "Apis mellifera brood",
+    "varroa mite close up"
+  ],
+  "titulo": "Se cuela en la cuna de una abeja y se alimenta de ella",
+  "descripcion": "El ácaro Varroa destructor se reproduce dentro de las celdas de cría de las abejas y se alimenta de ellas. En 2019 se demostró que come sobre todo su tejido graso, no su 'sangre'.\n\n#varroa #abejas #parasitos #shorts",
+  "tags": [
+    "varroa",
+    "Varroa destructor",
+    "abejas",
+    "acaros",
+    "parasitos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE ENCIERRA CON ELLA",
+  "prompt_miniatura": "extreme macro of a reddish-brown mite clinging to a honey bee on a honeycomb",
+  "experimento": "control"
+}

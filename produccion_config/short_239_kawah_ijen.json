@@ -1,0 +1,35 @@
+{
+  "id": "short_239_kawah_ijen",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Cada noche, dentro de este volcán arden llamas azules, y hay hombres que bajan a trabajar junto a ellas.\n\nEs el Kawah Ijen, en Indonesia. El fuego son gases de azufre que arden al tocar el aire.\n\nLos mineros parten el azufre entre humos que queman la garganta, y lo suben por el cráter en cestas que pueden pasar de setenta kilos.\n\nYo no subiría esa cuesta ni sin peso.\n\nY al lado tienen uno de los lagos más ácidos del mundo. Sígueme para más lugares imposibles.",
+  "queries_imagenes": [
+    "Kawah Ijen",
+    "Kawah Ijen blue fire",
+    "Ijen crater lake",
+    "Ijen sulfur miner",
+    "Kawah Ijen sulfur",
+    "Ijen volcano",
+    "sulfur miners Ijen baskets",
+    "Ijen crater"
+  ],
+  "titulo": "Cada noche arde en azul y hay hombres que bajan dentro",
+  "descripcion": "En el cráter del Kawah Ijen (Java, Indonesia) los gases de azufre arden con llamas azules y los mineros cargan el azufre a mano junto a uno de los lagos más ácidos del mundo.\n\n#kawahijen #indonesia #volcanes #shorts",
+  "tags": [
+    "Kawah Ijen",
+    "fuego azul",
+    "volcan Ijen",
+    "mineros de azufre",
+    "lugares increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "BAJAN AL FUEGO AZUL",
+  "prompt_miniatura": "blue sulfur flames at night inside a volcanic crater with a miner carrying baskets of yellow sulfur",
+  "experimento": "cierre_suscripcion"
+}

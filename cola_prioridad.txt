@@ -229,3 +229,16 @@ short_233_maraton_1904
 short_234_hongo_oruga
 short_235_cobra_escupidora
 short_236_coober_pedy
+# 2026-10-26: tanda 237-248 (rutina automática), 2:1
+short_237_avispa_agallas
+short_238_alimoche_piedras
+short_239_kawah_ijen
+short_240_varroa_abejas
+short_241_hormiga_mandibula
+short_242_llivia_enclave
+short_243_indicador_miel
+short_244_sanguijuela_medicinal
+short_245_castillo_itter
+short_246_avispa_cuco
+short_247_hormiga_leon
+short_248_violet_jessop

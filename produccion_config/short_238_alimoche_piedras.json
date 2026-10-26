@@ -1,0 +1,35 @@
+{
+  "id": "short_238_alimoche_piedras",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este buitre coge una piedra con el pico y la lanza una y otra vez contra un huevo de avestruz hasta romperlo.\n\nEs el alimoche, y también vive en España.\n\nLa cáscara es demasiado dura para su pico, así que usa una herramienta. Muy pocas aves hacen algo así.\n\nLo descubrieron en África Jane Goodall y su marido, en los años sesenta.\n\nSinceramente, me parece más listo que muchos animales con mejor fama.\n\nY el amarillo de su cara lo consigue comiendo excrementos de ganado.",
+  "queries_imagenes": [
+    "Neophron percnopterus",
+    "Egyptian vulture",
+    "Egyptian vulture head",
+    "Egyptian vulture flight",
+    "Egyptian vulture Spain",
+    "ostrich egg",
+    "Neophron percnopterus juvenile",
+    "Egyptian vulture feeding"
+  ],
+  "titulo": "Lanza piedras con el pico hasta romper un huevo gigante",
+  "descripcion": "El alimoche (Neophron percnopterus) rompe huevos de avestruz lanzándoles piedras con el pico, uno de los pocos casos de aves que usan herramientas. El amarillo de su cara viene de carotenoides que obtiene de excrementos de ganado.\n\n#alimoche #buitre #avesdeespaña #shorts",
+  "tags": [
+    "alimoche",
+    "buitre",
+    "Neophron percnopterus",
+    "aves que usan herramientas",
+    "animales inteligentes",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "USA PIEDRAS COMO MARTILLO",
+  "prompt_miniatura": "an Egyptian vulture with a stone in its beak standing over a large ostrich egg in dry savanna",
+  "experimento": "control"
+}

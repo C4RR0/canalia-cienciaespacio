@@ -1,0 +1,35 @@
+{
+  "id": "short_237_avispa_agallas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Una avispa diminuta obliga a un roble a construirle una casa llena de comida.\n\nPone un huevo en una yema del árbol.\n\nLa larva engaña al roble, y el árbol, en vez de una rama, fabrica una bola dura a su alrededor.\n\nDentro crece a salvo, y luego sale por un agujerito.\n\nMe fascina que un bicho tan pequeño reprograme un árbol entero.\n\nY con esas bolas se hizo durante siglos la tinta con la que se escribía en Europa. Si te ha sorprendido, sígueme.",
+  "queries_imagenes": [
+    "Andricus kollari",
+    "Andricus kollari gall",
+    "oak marble gall",
+    "oak gall exit hole",
+    "oak apple gall",
+    "Cynipidae wasp",
+    "gall wasp oak",
+    "iron gall ink manuscript"
+  ],
+  "titulo": "Obliga a un árbol a construirle una casa con comida",
+  "descripcion": "Las avispas de las agallas, como Andricus kollari, hacen que el roble fabrique una bola dura alrededor de su larva. Con esas agallas se hizo durante siglos la tinta ferrogálica.\n\n#avispa #roble #naturaleza #shorts",
+  "tags": [
+    "avispa de las agallas",
+    "agallas del roble",
+    "Andricus kollari",
+    "tinta ferrogalica",
+    "parasitos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "EL ÁRBOL OBEDECE",
+  "prompt_miniatura": "a tiny wasp on an oak branch next to a round hard brown gall with a small exit hole, macro photo",
+  "experimento": "cierre_suscripcion"
+}

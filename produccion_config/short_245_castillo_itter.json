@@ -1,0 +1,35 @@
+{
+  "id": "short_245_castillo_itter",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En mayo de 1945, soldados americanos y alemanes lucharon juntos contra las SS para defender un castillo.\n\nEra el castillo de Itter, en Austria, donde los nazis tenían presos a franceses famosos, entre ellos un campeón de tenis.\n\nLos guardias huyeron, y llegaron un capitán americano con un tanque y un comandante alemán que se había vuelto contra los nazis.\n\nPara mí, es la batalla más absurda de la guerra.\n\nY el tenista saltó la muralla para pedir refuerzos. Sígueme si te gustan las historias que parecen inventadas.",
+  "queries_imagenes": [
+    "Schloss Itter",
+    "Itter Castle",
+    "Itter Castle Tyrol",
+    "Jean Borotra",
+    "Paul Reynaud",
+    "Édouard Daladier",
+    "Sherman tank 1945",
+    "Itter Tirol"
+  ],
+  "titulo": "Americanos y alemanes lucharon juntos contra las SS",
+  "descripcion": "La batalla del castillo de Itter (Austria, 5 de mayo de 1945): soldados estadounidenses, soldados alemanes de la Wehrmacht y presos franceses defendieron el castillo frente a las Waffen-SS.\n\n#historia #segundaguerramundial #austria #shorts",
+  "tags": [
+    "castillo de Itter",
+    "batalla del castillo de Itter",
+    "Segunda Guerra Mundial",
+    "Jean Borotra",
+    "historias reales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "ENEMIGOS DEL MISMO LADO",
+  "prompt_miniatura": "a medieval castle in the Austrian Alps in 1945 with an old American tank at its gate, dramatic sky",
+  "experimento": "cierre_suscripcion"
+}

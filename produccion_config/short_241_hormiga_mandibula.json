@@ -1,0 +1,35 @@
+{
+  "id": "short_241_hormiga_mandibula",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta hormiga cierra la boca a más de doscientos kilómetros por hora.\n\nEs una hormiga de mandíbula trampa. Camina con las mandíbulas abiertas del todo, bloqueadas como un cepo.\n\nCuando una presa le roza unos pelos sensibles, se disparan en una fracción de milisegundo.\n\nConfieso que, si yo fuera un insecto, esta hormiga me daría pánico.\n\nY si la amenazan, golpea el suelo con las mandíbulas y sale despedida por los aires. Si te gustan los animales así de rápidos, sígueme.",
+  "queries_imagenes": [
+    "Odontomachus",
+    "Odontomachus bauri",
+    "trap-jaw ant",
+    "Odontomachus mandibles open",
+    "trap jaw ant head",
+    "Odontomachus haematodus",
+    "Odontomachus monticola",
+    "trap-jaw ant macro"
+  ],
+  "titulo": "Cierra la boca a 200 km/h y la usa para salir volando",
+  "descripcion": "Las hormigas de mandíbula trampa (Odontomachus) cierran las mandíbulas a más de 200 km/h y las usan también para impulsarse por el aire y escapar.\n\n#hormigas #insectos #animalesincreibles #shorts",
+  "tags": [
+    "hormiga mandibula trampa",
+    "Odontomachus",
+    "hormigas",
+    "insectos",
+    "animales increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UN CEPO A 200 KM/H",
+  "prompt_miniatura": "macro photo of an ant with long mandibles opened 180 degrees like a bear trap",
+  "experimento": "cierre_suscripcion"
+}
