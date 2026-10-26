@@ -1,7 +1,6 @@
 short_226_dragon_azul
 short_234_hongo_oruga
 short_236_coober_pedy
-short_238_alimoche_piedras
 short_239_kawah_ijen
 short_240_varroa_abejas
 short_241_hormiga_mandibula
