@@ -1388,3 +1388,24 @@ Datos: metricas/videos.csv (vistas a los 3 días de publicar, para comparar en i
 ## 2026-10-20 — Suscriptores por tema (metricas/temas_subs.md, se regenera cada día)
 Subs ganados por cada 1.000 vistas. Últimos 7 días: habilidades 3,0 · parásitos 2,2 · animales 1,5 · lugares 1,1 · otros 0,9 (media 1,5). Acumulado desde el 1/9: parásitos 2,7 · habilidades 2,2 · animales 1,8 · lugares 1,1 (media 1,7).
 Conclusión: para llegar a 500 subs, parásitos y «habilidad increíble concreta» convierten el doble que lugares; lugares sigue sirviendo para vistas (YPP por vistas), pero no para suscriptores. Mantener >=3 de 8 de parásitos/control y subir habilidades.
+
+## 2026-10-26 — Las vistas se frenan: casi ningún Short se escapa de la prueba inicial
+Datos: canal.csv, videos.csv y videos_enganche.csv (26/10).
+- Suscriptores bien: +9/día, 426 → 500 hacia el 3/11. Vistas: ~10-11k/día, y son casi solo la prueba inicial de
+  ~1.000 por Short × 7 al día. Lo que falla es que se escapen: Shorts que pasan de 1.800 vistas, por semana de
+  publicación: 7 % (21/9) · 14 % (28/9) · 23 % (5/10) · 30 % (12/10) · **6 % (19/10)**. Desde el 20/10, solo 2 de ~45.
+- Enganche (vistas_comprometidas/vistas): ~43 % hasta el 19/10 → 36-40 % del 20 al 23/10. Por debajo de ~40 % casi
+  ningún Short se escapa (0 de 17 con <35 %; 37 % de los que tienen 42-50 % pasan de 1.800).
+- Dos causas, ambas nuestras:
+  1. Del 20 al 22/10 salieron los guiones antiguos de septiembre que quedaban al final de la cola (Tunguska, reactor
+     natural, piedras que se mueven, plátanos radiactivos, Carrington, Hiawatha): espacio/geología, todos ~1.000.
+  2. **La regla de TÍTULO de la rutina quedó escrita AL REVÉS el 17/10**: prohibía «Este pájaro…», «Esta avispa…»,
+     «El pueblo donde…», que son justo las fórmulas del top del canal (BANCO_GANCHOS.md: 9 de los 20 mejores son
+     «Este/Esta + sujeto genérico + acción»; ninguno empieza por verbo o pronombre). Desde la tanda 189 todos los
+     títulos empezaban sin sujeto («Le mete un huevo…», «Se cuela en…»). Del 1 al 23/10: «Este/Esta + sujeto» se
+     escapó el 31 % de las veces; los que empiezan por verbo o pronombre, el 20 %.
+- Lo que se entendía el 13/10 por «sujeto oculto» era NO nombrar la especie, el lugar o la persona concretos
+  («Los hipopótamos…», «Las nutrias…»), pero SÍ decir qué tipo de cosa es («Este pájaro», «Esta avispa», «El pueblo que»).
+- Arreglado el 26/10: títulos de los 31 Shorts en cola (216-248) reescritos con «Este/Esta + tipo genérico + acción»,
+  «El/La … que/donde …» o arranque narrativo con sujeto; regla de la rutina corregida. MEDIR a partir del 27/10
+  (y sobre todo desde el 29/10, cuando salgan los de 225 en adelante): enganche medio ≥ 42 % y ≥ 20 % de escapados.
