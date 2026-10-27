@@ -65,8 +65,9 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           printf '%s' "$YOUTUBE_TOKEN_JSON" > token.json
-          # Canal en inglés (opcional): sin el secret no se crea el fichero y no se hace nada.
-          [ -n "$YOUTUBE_TOKEN_EN_JSON" ] && printf '%s' "$YOUTUBE_TOKEN_EN_JSON" > token_en.json
+          # Canal en inglés (Wild Facts) EN PAUSA desde el 27/10/2026: 0 suscriptores en 75 vídeos.
+          # Para reactivarlo, descomentar la línea de abajo (sin token_en.json no se sube nada en inglés).
+          # [ -n "$YOUTUBE_TOKEN_EN_JSON" ] && printf '%s' "$YOUTUBE_TOKEN_EN_JSON" > token_en.json
           if [ "${{ inputs.prueba_ingles }}" = "true" ]; then
             ID=$(python -c "import sys; sys.path.insert(0, 'scripts'); import publicar_siguiente as p; print(p.ids_listos()[0])")
             python scripts/publicar_ingles.py "$ID" --prueba | tee salida.txt
