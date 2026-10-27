@@ -1,0 +1,35 @@
+{
+  "id": "short_249_avispa_telarana",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Una larva de avispa hace que una araña teja una telaraña que no es la suya. Y después se la come.\n\nLa avispa Hymenoepimecis argyraphaga pone un huevo sobre la araña Plesiometa argyra. La larva crece enganchada a su abdomen, chupándole la sangre.\n\nUna noche, la araña deja su telaraña de siempre y construye una estructura sencilla, hecha a la medida del capullo de la larva.\n\nAl terminar, la larva la mata, se la come y cuelga su capullo de ese soporte.\n\nPara mí, lo más inquietante es que la araña trabaja para su verdugo.\n\n¿Qué parásito te da más repelús?",
+  "queries_imagenes": [
+    "Hymenoepimecis argyraphaga",
+    "Plesiometa argyra",
+    "Hymenoepimecis",
+    "Plesiometa",
+    "araña tejedora",
+    "orb-weaver spider web",
+    "parasitoid wasp larva",
+    "Ichneumonidae"
+  ],
+  "titulo": "Una avispa obliga a una araña a tejer la tumba de su propia muerte",
+  "descripcion": "La larva de la avispa Hymenoepimecis argyraphaga manipula a la araña Plesiometa argyra para que teja una telaraña modificada donde colgará su capullo (Eberhard, 2000).\n\n#parasitos #avispas #aranas #shorts",
+  "tags": [
+    "avispa parásita",
+    "Hymenoepimecis argyraphaga",
+    "Plesiometa argyra",
+    "manipulación parasitaria",
+    "parásitos",
+    "animales increíbles",
+    "shorts"
+  ],
+  "hook_miniatura": "LA ARAÑA TEJE SU TUMBA",
+  "prompt_miniatura": "a large orb-weaver spider in a strange simplified web with a wasp larva clinging to its abdomen, macro, dramatic light",
+  "experimento": "control"
+}

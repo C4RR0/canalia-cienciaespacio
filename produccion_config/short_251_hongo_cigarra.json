@@ -1,0 +1,35 @@
+{
+  "id": "short_251_hongo_cigarra",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "A esta cigarra se le cae el abdomen, convertido en polvo, y sigue caminando como si nada.\n\nEs el hongo Massospora. Infecta a la cigarra adulta y sustituye el final de su cuerpo por una masa de esporas.\n\nSigue andando e intentando aparearse, así que reparte el polvo a otras cigarras por el camino.\n\nEn dos especies de Massospora se han hallado sustancias psicoactivas: psilocibina en una y catinona en otra.\n\nUn zombi que va soltando esporas.\n\n¿Qué te parece más raro, el hongo o la cigarra?",
+  "queries_imagenes": [
+    "Massospora cicadina",
+    "Massospora",
+    "periodical cicada",
+    "Magicicada",
+    "cicada infected fungus",
+    "Magicicada septendecim",
+    "cicada adult",
+    "cicada emerging"
+  ],
+  "titulo": "A esta cigarra se le cae el cuerpo y sigue caminando",
+  "descripcion": "El hongo Massospora sustituye parte del abdomen de la cigarra por esporas; el insecto sigue activo y contagia a otros. Se han hallado psilocibina y catinona en distintas especies (Boyce et al., 2019, Fungal Ecology).\n\n#hongos #cigarras #parasitos #shorts",
+  "tags": [
+    "Massospora",
+    "cigarra",
+    "hongo zombi",
+    "psilocibina",
+    "parásitos",
+    "animales increíbles",
+    "shorts"
+  ],
+  "hook_miniatura": "SIGUE ANDANDO SIN ABDOMEN",
+  "prompt_miniatura": "a periodical cicada with a chalky white spore plug in place of its abdomen, walking on bark, macro",
+  "experimento": "control"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_250_hongo_mosca",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este hongo hace que una mosca suba a lo alto, abra las alas y muera allí.\n\nSe llama Entomophthora muscae. Cuando infecta a una mosca doméstica, crece dentro de su cuerpo durante días.\n\nAl final la obliga a trepar, a clavar la trompa en la superficie y a levantar las alas, justo al atardecer.\n\nLa mosca muere así, y del abdomen salen anillos blancos de esporas que se disparan hacia otras moscas.\n\nLa pose ayuda a que las esporas lleguen lejos.\n\n¿Crees que una mosca sabe lo que le pasa?",
+  "queries_imagenes": [
+    "Entomophthora muscae",
+    "fly infected with fungus",
+    "Entomophthora",
+    "mosca doméstica",
+    "Musca domestica",
+    "entomopathogenic fungus",
+    "fungus killed fly",
+    "Drosophila"
+  ],
+  "titulo": "Este hongo manda a una mosca a morir en lo más alto",
+  "descripcion": "El hongo Entomophthora muscae altera la conducta de la mosca: trepa, extiende las alas y muere; después libera esporas (Elya et al., 2018, eLife).\n\n#hongos #parasitos #moscas #shorts",
+  "tags": [
+    "Entomophthora muscae",
+    "hongo zombi",
+    "mosca",
+    "manipulación parasitaria",
+    "parásitos",
+    "animales increíbles",
+    "shorts"
+  ],
+  "hook_miniatura": "EL HONGO MANDA",
+  "prompt_miniatura": "a dead house fly clinging to a plant stem with wings raised and white fungal bands on its abdomen, macro, shallow depth of field",
+  "experimento": "cierre_suscripcion"
+}

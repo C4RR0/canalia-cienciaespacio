@@ -147,3 +147,6 @@ Whittier (Alaska): ~270 habitantes, casi todos en Begich Towers (14 plantas); es
 Monowi (Nebraska): Elsie Eiler unica habitante desde 2004 (murio su marido Rudy); alcaldesa, licencia del bar, impuestos; biblioteca de Rudy - short_156_monowi_una_habitante
 Gran Niebla de Londres (5-9 dic. 1952): carbon + anticiclon; ~12.000 muertos estimados; autobuses guiados con antorchas; ganado de Smithfield; Clean Air Act 1956 - short_157_gran_niebla_londres
 pozo superprofundo de Kola: 12.262 m (1989), 23 cm de diametro, ~180 C, roca plastica; leyenda falsa de los gritos del infierno; sellado - short_158_pozo_kola
+Hymenoepimecis argyraphaga: la larva hace que la arana Plesiometa argyra teja un soporte para su capullo y luego la mata (Eberhard 2000) - short_249_avispa_telarana
+Entomophthora muscae: el hongo hace que la mosca trepe, abra las alas y muera; esporas del abdomen (Elya 2018, eLife) - short_250_hongo_mosca
+Massospora: hongo que sustituye el abdomen de la cigarra por esporas; la cigarra sigue activa; psilocibina/catinona segun especie (Boyce 2019) - short_251_hongo_cigarra

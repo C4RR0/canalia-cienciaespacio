@@ -242,3 +242,6 @@ short_245_castillo_itter
 short_246_avispa_cuco
 short_247_hormiga_leon
 short_248_violet_jessop
+short_249_avispa_telarana
+short_250_hongo_mosca
+short_251_hongo_cigarra
