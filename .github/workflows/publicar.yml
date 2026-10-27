@@ -34,7 +34,9 @@ permissions:
 jobs:
   publicar:
     runs-on: ubuntu-24.04  # fijado: ubuntu-latest pasa a 26 el 19/10/2026
-    timeout-minutes: 45
+    # 75: el 26/10 apt tardó 39 min y el timeout de 45 cortó el commit de limpieza
+    # (el vídeo se publicó dos veces). publicar_siguiente.py ya comprueba duplicados.
+    timeout-minutes: 75
     steps:
       - uses: actions/checkout@v4
 
@@ -51,7 +53,8 @@ jobs:
       - name: Instalar ffmpeg y dependencias
         if: steps.cola.outputs.hay == '1'
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu fonts-liberation
+          sudo apt-get update -qq -o Acquire::Retries=3 -o Acquire::http::Timeout=30
+          sudo apt-get install -y -qq -o Acquire::Retries=3 -o Acquire::http::Timeout=30 ffmpeg fonts-dejavu fonts-liberation
           pip install -q -r requirements.txt
 
       - name: Producir y publicar

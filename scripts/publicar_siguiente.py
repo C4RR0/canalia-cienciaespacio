@@ -70,6 +70,30 @@ def limpiar_cola(vid: str):
             shutil.rmtree(d)
 
 
+def ya_subido(titulo: str) -> str | None:
+    """URL del vídeo si entre las últimas subidas del canal hay uno con este título.
+
+    Evita duplicados: el 26/10 el job llegó a su timeout justo después de publicar
+    short_221 y antes de hacer el commit de limpieza, y la ejecución siguiente lo
+    volvió a subir. Si la consulta falla se devuelve None y se publica normal.
+    """
+    try:
+        sys.path.insert(0, str(BASE / "scripts"))
+        from googleapiclient.discovery import build
+        import subir_youtube
+        yt = build("youtube", "v3", credentials=subir_youtube.cargar_credenciales())
+        canal = yt.channels().list(part="contentDetails", mine=True).execute()["items"][0]
+        uploads = canal["contentDetails"]["relatedPlaylists"]["uploads"]
+        items = yt.playlistItems().list(part="snippet", playlistId=uploads,
+                                        maxResults=15).execute().get("items", [])
+        for it in items:
+            if it["snippet"]["title"].strip() == titulo.strip():
+                return f"https://youtu.be/{it['snippet']['resourceId']['videoId']}"
+    except Exception as e:
+        print(f"AVISO: no se pudo comprobar si ya estaba subido ({e}); se publica igual.")
+    return None
+
+
 def main():
     listos = ids_listos()
     print(f"Listos en cola: {len(listos)} {listos}")
@@ -89,6 +113,14 @@ def main():
         config = BASE / "salidas" / f"_prueba_{vid}.json"
         config.parent.mkdir(exist_ok=True)
         config.write_text(json.dumps(cfg, ensure_ascii=False), encoding="utf-8")
+    else:
+        titulo = json.loads(config.read_text(encoding="utf-8"))["titulo"]
+        url = ya_subido(titulo)
+        if url:
+            limpiar_cola(vid)
+            print(f"{vid} ya estaba en el canal ({url}): no se vuelve a subir; solo se limpia la cola.")
+            print(f"PUBLICADO={vid}")
+            return 0
     print(f"Produciendo {vid} con {productor.name}...", flush=True)
     subprocess.run([sys.executable, str(productor), str(config)], cwd=BASE)
 
