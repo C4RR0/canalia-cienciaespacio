@@ -13,7 +13,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
-MINIMO = {"metricas": ("Sabías Qué", 6), "metricas_en": ("Wild Facts Daily", 5)}
+# Wild Facts Daily en pausa desde el 27/10/2026 (ver publicar.yml): sin mínimo mientras esté parado.
+MINIMO = {"metricas": ("Sabías Qué", 6)}
 
 
 def publicados_24h(carpeta: Path) -> int | None:
