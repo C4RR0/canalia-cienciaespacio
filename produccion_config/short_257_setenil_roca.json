@@ -1,0 +1,34 @@
+{
+  "id": "short_257_setenil_roca",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En este pueblo de Cádiz, una roca gigante hace de tejado a decenas de casas.\n\nSe llama Setenil de las Bodegas. El río excavó el valle y dejó enormes salientes de piedra encima.\n\nEn vez de apartarse, los vecinos construyeron debajo. Muchas casas no tienen techo propio: la roca hace el trabajo.\n\nDentro se está fresco en pleno verano andaluz.\n\nYo no dormiría tranquilo con toneladas de piedra sobre la cama.\n\nY hay una calle tapada casi entera por la roca. Se llama Cuevas de la Sombra.",
+  "queries_imagenes": [
+    "Setenil de las Bodegas",
+    "Setenil de las Bodegas Cuevas de la Sombra",
+    "Setenil de las Bodegas Cuevas del Sol",
+    "Setenil rock houses",
+    "Setenil de las Bodegas street",
+    "Setenil de las Bodegas panorama",
+    "Río Trejo Setenil",
+    "Setenil de las Bodegas castillo"
+  ],
+  "titulo": "El pueblo donde la gente vive debajo de una roca gigante",
+  "descripcion": "En Setenil de las Bodegas (Cádiz) muchas casas están construidas bajo los salientes de roca del tajo del río Trejo; la calle Cuevas de la Sombra queda casi cubierta por la piedra.\n\n#setenil #cadiz #pueblosdeespana #shorts",
+  "tags": [
+    "Setenil de las Bodegas",
+    "Cádiz",
+    "pueblos de España",
+    "Andalucía",
+    "lugares increíbles",
+    "shorts"
+  ],
+  "hook_miniatura": "SU TECHO ES UNA ROCA",
+  "prompt_miniatura": "white Andalusian houses built under a huge overhanging rock along a narrow street, sunny day",
+  "experimento": "control"
+}

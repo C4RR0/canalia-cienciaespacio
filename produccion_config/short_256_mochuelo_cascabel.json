@@ -1,0 +1,34 @@
+{
+  "id": "short_256_mochuelo_cascabel",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Si te asomas al nido de este búho, oirás una serpiente de cascabel. Pero no hay ninguna.\n\nEs el mochuelo de madriguera, de América. Vive bajo tierra, en agujeros que suelen excavar otros animales.\n\nSi algo se acerca, los pollos sueltan un siseo casi igual que el cascabel.\n\nLas ardillas que lo oyen se lo piensan dos veces. Yo también, la verdad.\n\nY su otro truco: llena la entrada de excrementos de vaca para atraer escarabajos y comérselos.\n\nSi te gustan los animales tramposos, aquí hay muchos más.",
+  "queries_imagenes": [
+    "Athene cunicularia",
+    "burrowing owl",
+    "burrowing owl burrow",
+    "burrowing owl chicks",
+    "Athene cunicularia juvenile",
+    "burrowing owl family",
+    "burrowing owl Florida",
+    "Athene cunicularia hypugaea"
+  ],
+  "titulo": "Este búho sisea como una cascabel para que nadie entre",
+  "descripcion": "Los pollos del mochuelo de madriguera (Athene cunicularia) imitan el sonido de una serpiente de cascabel para ahuyentar intrusos, y la especie usa excrementos para atraer escarabajos a su madriguera.\n\n#mochuelo #buhos #animalesincreibles #shorts",
+  "tags": [
+    "mochuelo de madriguera",
+    "Athene cunicularia",
+    "búhos",
+    "aves",
+    "animales increíbles",
+    "shorts"
+  ],
+  "hook_miniatura": "SUENA A SERPIENTE",
+  "prompt_miniatura": "a small long-legged owl standing at the entrance of an underground burrow on dry prairie, golden light",
+  "experimento": "cierre_suscripcion"
+}

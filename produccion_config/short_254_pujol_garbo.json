@@ -1,0 +1,35 @@
+{
+  "id": "short_254_pujol_garbo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Un español engañó a Hitler con veintisiete espías que solo existían en su cabeza.\n\nSe llamaba Juan Pujol. Los británicos no lo quisieron como espía.\n\nAsí que se ofreció a los alemanes. Desde Lisboa fingía estar en Inglaterra y les inventaba informes con una guía turística.\n\nAl final, los británicos lo ficharon. En el Día D convenció a Alemania de que Normandía era una distracción.\n\nMejor que cualquier película de espías.\n\nAlemania le dio la Cruz de Hierro. Y Gran Bretaña, una medalla.\n\n¿Quieres más historias así? Sígueme.",
+  "queries_imagenes": [
+    "Juan Pujol García",
+    "Juan Pujol Garcia Garbo",
+    "Normandy landings",
+    "Omaha Beach 1944",
+    "Operation Fortitude",
+    "Iron Cross",
+    "MI5 Thames House",
+    "Lisbon 1940s"
+  ],
+  "titulo": "Este espía engañó a Hitler con 27 agentes que no existían",
+  "descripcion": "Juan Pujol García, alias Garbo, fue un agente doble español que inventó una red de 27 espías falsos y ayudó a engañar a Alemania sobre el Desembarco de Normandía. Recibió la Cruz de Hierro y una condecoración británica.\n\n#juanpujol #garbo #segundaguerramundial #shorts",
+  "tags": [
+    "Juan Pujol",
+    "Garbo",
+    "espías",
+    "Segunda Guerra Mundial",
+    "Día D",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "27 ESPÍAS FALSOS",
+  "prompt_miniatura": "a 1940s man in a suit writing letters at a desk with a typewriter, maps and a travel guidebook, dim lamp light",
+  "experimento": "cierre_suscripcion"
+}

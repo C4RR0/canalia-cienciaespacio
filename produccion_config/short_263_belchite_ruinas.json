@@ -1,0 +1,35 @@
+{
+  "id": "short_263_belchite_ruinas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Este pueblo quedó destrozado en una batalla, y en vez de reconstruirlo, lo dejaron así para siempre.\n\nEs Belchite, en Zaragoza. En mil novecientos treinta y siete, durante la Guerra Civil, se luchó calle por calle.\n\nAl acabar la guerra, Franco decidió conservar las ruinas como monumento.\n\nJusto al lado levantaron un pueblo nuevo, y los vecinos se mudaron allí.\n\nPasear hoy entre esas iglesias sin techo me pone la piel de gallina.\n\nY aquel pueblo nuevo lo construyeron, en parte, presos del bando republicano.",
+  "queries_imagenes": [
+    "Belchite",
+    "Belchite ruins",
+    "Belchite pueblo viejo",
+    "Belchite church San Martín",
+    "Belchite iglesia San Agustín",
+    "Belchite viejo calle",
+    "Belchite Zaragoza",
+    "Belchite Spanish Civil War"
+  ],
+  "titulo": "El pueblo que dejaron en ruinas a propósito tras la guerra",
+  "descripcion": "Belchite (Zaragoza) quedó destruido en la batalla de 1937. Tras la guerra se conservaron sus ruinas y se construyó un pueblo nuevo al lado, en parte con trabajo de presos republicanos.\n\n#belchite #guerracivil #zaragoza #shorts",
+  "tags": [
+    "Belchite",
+    "Guerra Civil",
+    "Zaragoza",
+    "pueblos abandonados",
+    "historia",
+    "lugares increíbles",
+    "shorts"
+  ],
+  "hook_miniatura": "LO DEJARON ASÍ",
+  "prompt_miniatura": "ruins of a Spanish village church with no roof and bullet-marked walls under a dramatic sky",
+  "experimento": "control"
+}

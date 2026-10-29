@@ -1,0 +1,34 @@
+{
+  "id": "short_255_tenia_espinoso",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Un gusano crece dentro de un pez hasta llenarle el vientre, y luego hace que se deje cazar.\n\nEl pez espinoso se infecta al comer un crustáceo diminuto.\n\nDentro, el gusano engorda tanto que el pez parece hinchado.\n\nY el pez cambia: pierde el miedo y nada cerca de la superficie.\n\nJusto lo que necesita el gusano, que solo se reproduce dentro de un ave.\n\nPara mí, eso es lo más siniestro.\n\nEn cuanto nota el calor del pájaro, en un par de días ya pone huevos.",
+  "queries_imagenes": [
+    "Schistocephalus solidus",
+    "Gasterosteus aculeatus",
+    "three-spined stickleback",
+    "stickleback parasite",
+    "Schistocephalus",
+    "Gasterosteus aculeatus male",
+    "grey heron fishing",
+    "copepod"
+  ],
+  "titulo": "El gusano que obliga a un pez a dejarse cazar por un ave",
+  "descripcion": "La tenia Schistocephalus solidus crece dentro del pez espinoso y lo vuelve menos cauto ante las aves, su siguiente huésped. Dentro del pájaro madura y pone huevos en pocos días.\n\n#parasitos #controlmental #peces #shorts",
+  "tags": [
+    "Schistocephalus solidus",
+    "pez espinoso",
+    "parásitos",
+    "control mental",
+    "animales increíbles",
+    "shorts"
+  ],
+  "hook_miniatura": "NO ES DUEÑO DE SÍ",
+  "prompt_miniatura": "a small three-spined stickleback fish with a swollen belly swimming near the water surface, a heron's shadow above",
+  "experimento": "control"
+}

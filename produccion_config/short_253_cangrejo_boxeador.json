@@ -1,0 +1,34 @@
+{
+  "id": "short_253_cangrejo_boxeador",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este cangrejo lleva siempre dos anémonas vivas en las pinzas, como guantes de boxeo.\n\nLas agita ante cualquier enemigo, y sus tentáculos pican de verdad.\n\nAdemás, con ellas atrapa restos de comida, y luego se los quita para comérselos él.\n\nSus pinzas son tan finas que sin ellas casi no puede defenderse. Sinceramente, me parece el truco más elegante del mar.\n\n¿Y si pierde una? Parte la otra en dos.\n\nCada mitad se regenera hasta convertirse en una anémona completa.",
+  "queries_imagenes": [
+    "Lybia tessellata",
+    "boxer crab",
+    "pom-pom crab",
+    "Lybia crab anemone",
+    "Lybia edmondsoni",
+    "boxer crab anemones claws",
+    "Lybia",
+    "Triactis producta"
+  ],
+  "titulo": "El cangrejo que boxea con dos anémonas vivas en las pinzas",
+  "descripcion": "El cangrejo boxeador (Lybia tessellata) lleva una anémona en cada pinza para defenderse y recoger comida. Si pierde una, parte la otra en dos y ambas mitades se regeneran.\n\n#cangrejoboxeador #animalesmarinos #animalesraros #shorts",
+  "tags": [
+    "cangrejo boxeador",
+    "Lybia tessellata",
+    "anémonas",
+    "animales marinos",
+    "animales increíbles",
+    "shorts"
+  ],
+  "hook_miniatura": "GUANTES QUE PICAN",
+  "prompt_miniatura": "a tiny boxer crab holding a small sea anemone in each claw like pom-poms, coral reef macro",
+  "experimento": "control"
+}

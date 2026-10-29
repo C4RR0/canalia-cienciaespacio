@@ -1,0 +1,34 @@
+{
+  "id": "short_259_arana_portia",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta araña entra en la tela de otra araña y la hace vibrar como si fuera un insecto atrapado.\n\nEs una araña saltadora del género Portia, y caza a otras arañas.\n\nLa dueña de la tela acude a comer, y se encuentra a su cazadora.\n\nSi una vibración no funciona, prueba otra, hasta dar con la que engaña a esa especie.\n\nCon un cerebro diminuto, esto me parece casi brujería.\n\nY a veces da un largo rodeo, perdiendo de vista a su presa, para atacarla por detrás.",
+  "queries_imagenes": [
+    "Portia fimbriata",
+    "Portia jumping spider",
+    "Portia labiata",
+    "Portia africana",
+    "Portia schultzi",
+    "Portia spider web",
+    "jumping spider Salticidae eyes",
+    "Portia"
+  ],
+  "titulo": "Esta araña hace vibrar telas ajenas para fingir ser comida",
+  "descripcion": "Las arañas saltadoras del género Portia cazan a otras arañas: hacen vibrar su tela imitando a una presa, prueban señales hasta dar con la que funciona y planean rodeos para atacar por detrás.\n\n#arañas #portia #animalesincreibles #shorts",
+  "tags": [
+    "araña Portia",
+    "Portia fimbriata",
+    "arañas saltadoras",
+    "arañas",
+    "animales increíbles",
+    "shorts"
+  ],
+  "hook_miniatura": "FINGE SER LA COMIDA",
+  "prompt_miniatura": "a hairy brown jumping spider with large front eyes creeping onto another spider's web, macro photo",
+  "experimento": "control"
+}

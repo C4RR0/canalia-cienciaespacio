@@ -1,0 +1,35 @@
+{
+  "id": "short_258_gusano_guinea",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este gusano de casi un metro te quema el pie hasta que lo metes en agua. Justo lo que quiere.\n\nEntra al beber agua con crustáceos diminutos infectados.\n\nUn año después, la hembra forma una ampolla que arde.\n\nLa persona busca alivio en un río, y el gusano suelta allí miles de larvas.\n\nNo hay vacuna. Se saca enrollándolo en un palito.\n\nMe parece cruelísimo.\n\nPero de millones de casos en los ochenta, hoy quedan unas pocas decenas al año.\n\nSi te ha dado escalofríos, sígueme.",
+  "queries_imagenes": [
+    "Dracunculus medinensis",
+    "Guinea worm",
+    "Guinea worm extraction",
+    "dracunculiasis",
+    "Guinea worm eradication",
+    "Guinea worm water filter",
+    "copepod Cyclops",
+    "Dracunculus"
+  ],
+  "titulo": "Este gusano te quema el pie hasta que lo metes en agua",
+  "descripcion": "El gusano de Guinea (Dracunculus medinensis) sale por la piel, casi siempre de las piernas o los pies, y libera sus larvas cuando la persona mete la herida en agua. Ha pasado de millones de casos en los años ochenta a unas pocas decenas al año.\n\n#gusanodeguinea #parasitos #salud #shorts",
+  "tags": [
+    "gusano de Guinea",
+    "Dracunculus medinensis",
+    "parásitos",
+    "enfermedades",
+    "Centro Carter",
+    "animales increíbles",
+    "shorts"
+  ],
+  "hook_miniatura": "QUIERE QUE BUSQUES AGUA",
+  "prompt_miniatura": "a long thin white worm wound around a small wooden stick, medical close-up, neutral background",
+  "experimento": "cierre_suscripcion"
+}

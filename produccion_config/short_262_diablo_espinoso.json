@@ -1,0 +1,35 @@
+{
+  "id": "short_262_diablo_espinoso",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este lagarto bebe con la piel: se echa arena mojada encima y el agua llega sola a su boca.\n\nEs el diablo espinoso, del desierto australiano.\n\nEntre sus escamas tiene canales diminutos. El agua corre por ellos como en una servilleta.\n\nAsí aprovecha el rocío y la humedad de la arena.\n\nCome casi solo hormigas, miles al día. Para mí es el diseño más ingenioso del desierto.\n\nY si lo atacan, esconde la cabeza y enseña un bulto en la nuca: una cabeza falsa.\n\n¿Te ha sorprendido? Sígueme.",
+  "queries_imagenes": [
+    "Moloch horridus",
+    "thorny devil",
+    "thorny devil lizard Australia",
+    "Moloch horridus desert",
+    "thorny devil false head",
+    "Moloch horridus close-up",
+    "thorny devil spikes",
+    "Moloch horridus Western Australia"
+  ],
+  "titulo": "El lagarto que bebe por la piel echándose arena mojada",
+  "descripcion": "El diablo espinoso (Moloch horridus) de Australia tiene canales entre las escamas que llevan el agua hasta su boca por capilaridad, incluso desde la arena húmeda que se echa encima, y una falsa cabeza en la nuca para engañar a los depredadores.\n\n#diabloespinoso #reptiles #australia #shorts",
+  "tags": [
+    "diablo espinoso",
+    "Moloch horridus",
+    "lagartos",
+    "reptiles",
+    "Australia",
+    "animales increíbles",
+    "shorts"
+  ],
+  "hook_miniatura": "BEBE CON LA PIEL",
+  "prompt_miniatura": "a spiky orange and brown desert lizard standing on damp red sand in the Australian outback, close-up",
+  "experimento": "cierre_suscripcion"
+}

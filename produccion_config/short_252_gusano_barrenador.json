@@ -1,0 +1,35 @@
+{
+  "id": "short_252_gusano_barrenador",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta mosca pone sus huevos en una herida, y sus larvas se comen vivo al animal.\n\nEs el gusano barrenador. Las larvas excavan en la carne, la herida crece y atrae a más moscas.\n\nPara frenarla, se soltaron desde aviones millones de machos estériles.\n\nLa hembra solo se aparea una vez. Si es con uno de ellos, no hay crías.\n\nMe parece una idea brillante.\n\nAsí la echaron hasta Panamá. Pero en dos mil veinticuatro volvió a México.\n\nSi quieres saber cómo acaba esta guerra, quédate.",
+  "queries_imagenes": [
+    "Cochliomyia hominivorax",
+    "New World screwworm fly",
+    "screwworm larvae",
+    "screwworm myiasis cattle",
+    "sterile insect technique screwworm",
+    "Cochliomyia",
+    "screwworm eradication",
+    "Cochliomyia hominivorax larva"
+  ],
+  "titulo": "Esta mosca pone huevos en heridas y sus larvas comen carne",
+  "descripcion": "El gusano barrenador (Cochliomyia hominivorax) es una mosca cuyas larvas se alimentan de tejido vivo. Se erradicó de Norteamérica soltando machos estériles desde aviones, pero desde 2024 ha vuelto a México.\n\n#gusanobarrenador #parasitos #mexico #shorts",
+  "tags": [
+    "gusano barrenador",
+    "Cochliomyia hominivorax",
+    "mosca",
+    "parásitos",
+    "ganadería",
+    "animales increíbles",
+    "shorts"
+  ],
+  "hook_miniatura": "SE COME LA CARNE VIVA",
+  "prompt_miniatura": "a metallic blue-green fly with orange eyes resting on a cattle hide near a wound, macro photo",
+  "experimento": "cierre_suscripcion"
+}

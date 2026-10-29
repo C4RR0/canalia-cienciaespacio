@@ -1,0 +1,34 @@
+{
+  "id": "short_261_pez_limpiador_espejo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Unos científicos le pintaron una mancha marrón en el cuello a este pez. Solo podía verla en un espejo.\n\nAl verse reflejado, se frotó la garganta contra el fondo para quitársela.\n\nEs el pez limpiador, un pez pequeño que vive de quitar parásitos a otros peces. Y la mancha parecía uno.\n\nEsa prueba del espejo la pasan muy pocos animales: chimpancés, elefantes, delfines.\n\nReconozco que yo no lo esperaba de un pez de diez centímetros.\n\nEn otro experimento fue más lejos: reconoció su propia cara en fotos.",
+  "queries_imagenes": [
+    "Labroides dimidiatus",
+    "bluestreak cleaner wrasse",
+    "cleaner wrasse cleaning fish",
+    "cleaner wrasse cleaning station",
+    "Labroides dimidiatus cleaning",
+    "cleaner wrasse mouth",
+    "Labroides",
+    "cleaner fish coral reef"
+  ],
+  "titulo": "El pez que se reconoce en el espejo y se quita una mancha",
+  "descripcion": "El pez limpiador (Labroides dimidiatus) intentó quitarse una marca que solo veía en un espejo (Kohda et al., 2019) y, en un estudio posterior, distinguió fotos de su propia cara.\n\n#pezlimpiador #animalesinteligentes #peces #shorts",
+  "tags": [
+    "pez limpiador",
+    "Labroides dimidiatus",
+    "prueba del espejo",
+    "inteligencia animal",
+    "animales increíbles",
+    "shorts"
+  ],
+  "hook_miniatura": "SE RECONOCE",
+  "prompt_miniatura": "a small blue and black striped fish looking at its reflection in a mirror underwater on a coral reef",
+  "experimento": "control"
+}

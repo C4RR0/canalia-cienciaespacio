@@ -1,0 +1,34 @@
+{
+  "id": "short_260_concilio_cadaver",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En el año ochocientos noventa y siete, un papa desenterró a otro papa muerto y lo juzgó.\n\nEsteban sexto sacó de la tumba a Formoso, muerto meses antes.\n\nLo vistieron y lo sentaron en un trono. Un diácono respondía por él.\n\nPerdió el juicio, claro. Le cortaron los dedos con los que bendecía y lo tiraron al Tíber.\n\nSinceramente, no sé qué me da más miedo, el cadáver o el juez.\n\nMeses después, Esteban acabó estrangulado en prisión.\n\nSi te gustan las historias más locas, sígueme.",
+  "queries_imagenes": [
+    "Cadaver Synod",
+    "Jean-Paul Laurens Le Pape Formose et Étienne VII",
+    "Pope Formosus",
+    "Pope Stephen VI",
+    "Archbasilica of Saint John Lateran",
+    "Tiber river Rome",
+    "Lateran Palace",
+    "Synod horrenda"
+  ],
+  "titulo": "Un papa desenterró a otro papa muerto para juzgarlo",
+  "descripcion": "En el Sínodo del Cadáver (897), el papa Esteban VI juzgó el cuerpo exhumado del papa Formoso. Lo declararon culpable y su cuerpo acabó en el Tíber; meses después Esteban murió estrangulado en prisión.\n\n#historia #papas #edadmedia #shorts",
+  "tags": [
+    "Sínodo del Cadáver",
+    "papa Formoso",
+    "Esteban VI",
+    "historia",
+    "Edad Media",
+    "shorts"
+  ],
+  "hook_miniatura": "EL ACUSADO ESTABA MUERTO",
+  "prompt_miniatura": "a medieval church hall where a robed skeleton sits on a papal throne facing a furious pope and clergy, candlelight, oil painting style",
+  "experimento": "cierre_suscripcion"
+}
