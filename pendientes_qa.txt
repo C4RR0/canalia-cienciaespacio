@@ -1,5 +1,4 @@
 short_252_gusano_barrenador
-short_253_cangrejo_boxeador
 short_258_gusano_guinea
 short_261_pez_limpiador_espejo
 short_260_concilio_cadaver
