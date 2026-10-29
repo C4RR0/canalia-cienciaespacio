@@ -1,5 +1,4 @@
 short_252_gusano_barrenador
-short_261_pez_limpiador_espejo
 short_260_concilio_cadaver
 short_259_arana_portia
 short_262_diablo_espinoso
