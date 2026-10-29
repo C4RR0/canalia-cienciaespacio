@@ -1,6 +1,5 @@
 short_252_gusano_barrenador
 short_253_cangrejo_boxeador
-short_254_pujol_garbo
 short_255_tenia_espinoso
 short_256_mochuelo_cascabel
 short_257_setenil_roca
