@@ -2,7 +2,6 @@ short_264_acaros_cara
 short_266_lago_peigneur
 short_267_xenos_avispas
 short_269_hashima_isla
-short_271_serpiente_huevos
 short_272_emperador_norton
 short_273_hormigas_cortadoras
 short_274_gusano_ojo
