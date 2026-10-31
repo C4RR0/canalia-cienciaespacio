@@ -1,0 +1,35 @@
+{
+  "id": "short_265_cangrejo_cocotero",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este cangrejo trepó a un árbol de noche, le partió el ala a un pájaro dormido y lo tiró al suelo.\n\nEs el cangrejo de los cocoteros, el mayor artrópodo terrestre. Abre cocos con unas pinzas que aprietan como la mordida de un león.\n\nUn biólogo lo vio en una isla del Índico, con un piquero que dormía en una rama.\n\nSinceramente, ya no miro igual a ningún cangrejo.\n\nPorque abajo lo esperaban otros cinco cangrejos para repartírselo.",
+  "queries_imagenes": [
+    "Birgus latro",
+    "coconut crab",
+    "coconut crab climbing tree",
+    "coconut crab eating coconut",
+    "Birgus latro claws",
+    "coconut crab Christmas Island",
+    "red-footed booby",
+    "Sula sula nest tree"
+  ],
+  "titulo": "El cangrejo gigante que trepa y caza pájaros dormidos",
+  "descripcion": "El cangrejo de los cocoteros (Birgus latro) es el mayor artrópodo terrestre: abre cocos con las pinzas y en el archipiélago de Chagos se le vio cazar un piquero dormido en un árbol.\n\n#cangrejodeloscocoteros #birguslatro #animalesraros #shorts",
+  "tags": [
+    "cangrejo de los cocoteros",
+    "birgus latro",
+    "cangrejo gigante",
+    "animales raros",
+    "depredadores",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SUBE DE NOCHE",
+  "prompt_miniatura": "a giant coconut crab climbing a palm tree at night toward a sleeping seabird on a branch, moonlight",
+  "experimento": "control"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_267_xenos_avispas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este parásito vive dentro de una avispa y la obliga a abandonar su colonia para siempre.\n\nEs un insecto diminuto llamado Xenos. Su larva se mete en una avispa papelera y crece en su abdomen.\n\nLa avispa deja de trabajar y queda estéril. Se va del nido y se junta con otras infectadas.\n\nAllí la hembra del parásito asoma la cabeza, y los machos acuden a aparearse con ella.\n\nPara mí, esto es terror puro.\n\nY el macho, en cuanto sale, vive solo unas horas.",
+  "queries_imagenes": [
+    "Xenos vesparum",
+    "Strepsiptera",
+    "Polistes dominula Xenos",
+    "Stylops",
+    "Polistes dominula",
+    "Strepsiptera male",
+    "Polistes nest",
+    "stylopized wasp"
+  ],
+  "titulo": "Este parásito obliga a las avispas a abandonar su colonia",
+  "descripcion": "Xenos vesparum es un estrepsíptero que parasita a la avispa papelera (Polistes dominula): la avispa infectada queda estéril, abandona la colonia y se reúne con otras infectadas donde los machos del parásito se aparean con las hembras.\n\n#parasitos #avispas #controlmental #shorts",
+  "tags": [
+    "xenos vesparum",
+    "estrepsipteros",
+    "avispa papelera",
+    "parasitos",
+    "control mental",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LA ABANDONA TODO",
+  "prompt_miniatura": "a paper wasp with a tiny parasite poking out between its abdominal segments, macro photography",
+  "experimento": "control"
+}

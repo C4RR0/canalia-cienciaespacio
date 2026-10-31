@@ -1,0 +1,35 @@
+{
+  "id": "short_275_suecia_carril",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Un domingo de mil novecientos sesenta y siete, a las cinco de la mañana, toda Suecia cambió de golpe el lado por el que conducía.\n\nHasta entonces iban por la izquierda.\n\nAños antes, más del ochenta por ciento había votado en contra en un referéndum. El gobierno lo hizo igualmente.\n\nEse día el tráfico se paró y los coches cruzaron al otro carril.\n\nYo no habría sacado el coche esa mañana ni loco.\n\nY en los meses siguientes hubo menos accidentes que antes.",
+  "queries_imagenes": [
+    "Dagen H",
+    "Dagen H 1967",
+    "Kungsgatan Stockholm 1967",
+    "Högertrafikomläggningen",
+    "Sweden right-hand traffic 1967",
+    "Dagen H Stockholm",
+    "Swedish traffic change 1967",
+    "Högertrafik 1967"
+  ],
+  "titulo": "El día que todo un país cambió de lado al conducir",
+  "descripcion": "El 3 de septiembre de 1967 (Dagen H), Suecia pasó de circular por la izquierda a circular por la derecha, pese a que en el referéndum de 1955 más del 80 % había votado en contra.\n\n#suecia #dagenh #historiareal #shorts",
+  "tags": [
+    "dagen h",
+    "suecia",
+    "1967",
+    "cambio de carril",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "TODOS AL OTRO LADO",
+  "prompt_miniatura": "1960s Stockholm street at dawn crowded with vintage cars switching from the left to the right side of the road, crowds watching",
+  "experimento": "control"
+}

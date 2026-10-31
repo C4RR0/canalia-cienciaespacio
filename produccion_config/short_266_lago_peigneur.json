@@ -1,0 +1,35 @@
+{
+  "id": "short_266_lago_peigneur",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En mil novecientos ochenta, un taladro agujereó el fondo de un lago, y el lago entero se fue por él.\n\nFue en el lago Peigneur, en Luisiana. Una petrolera perforaba encima de una mina de sal, y acertó en la mina.\n\nEl agua disolvió la sal y abrió un remolino que se tragó la plataforma y varias barcazas.\n\nMe parece el error de cálculo más espectacular de la historia.\n\nY el canal del lago cambió de sentido y formó una cascada. Si te van los desastres absurdos, sígueme.",
+  "queries_imagenes": [
+    "Lake Peigneur",
+    "Lake Peigneur Louisiana",
+    "Jefferson Island Louisiana",
+    "Rip Van Winkle Gardens",
+    "Delcambre Canal",
+    "Jefferson Island salt dome",
+    "salt mine Louisiana",
+    "Avery Island salt mine"
+  ],
+  "titulo": "El lago que desapareció entero por un agujero de taladro",
+  "descripcion": "En 1980, una perforación petrolera atravesó la mina de sal bajo el lago Peigneur (Luisiana): el lago se vació por el agujero, se tragó la plataforma y varias barcazas, y el canal cercano cambió de sentido formando una cascada.\n\n#lagopeigneur #desastres #historiareal #shorts",
+  "tags": [
+    "lago peigneur",
+    "luisiana",
+    "desastre de 1980",
+    "mina de sal",
+    "historia",
+    "lugares increibles",
+    "shorts"
+  ],
+  "hook_miniatura": "SE FUE POR EL DESAGÜE",
+  "prompt_miniatura": "a lake draining into a giant whirlpool swallowing a drilling rig and barges, aerial dramatic view",
+  "experimento": "cierre_suscripcion"
+}

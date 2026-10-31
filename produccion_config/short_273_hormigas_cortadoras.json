@@ -1,0 +1,35 @@
+{
+  "id": "short_273_hormigas_cortadoras",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Estas hormigas cortan montones de hojas cada día, y no se comen ni una.\n\nSon las hormigas cortadoras de hojas, de América. Las mastican en el hormiguero y con esa pasta cultivan un hongo, que es su comida.\n\nPero su huerto tiene una plaga: otro hongo que lo destruye.\n\nY aquí viene lo que, para mí, las hace más listas que muchos agricultores.\n\nLas obreras llevan en el cuerpo unas bacterias que fabrican un antibiótico, y lo usan para proteger la cosecha.",
+  "queries_imagenes": [
+    "Atta cephalotes",
+    "leafcutter ants",
+    "leafcutter ants carrying leaves",
+    "Atta fungus garden",
+    "Acromyrmex",
+    "leaf cutter ant nest",
+    "Atta sexdens",
+    "leafcutter ant trail"
+  ],
+  "titulo": "Estas hormigas tienen granjas de hongos bajo tierra",
+  "descripcion": "Las hormigas cortadoras de hojas (Atta y Acromyrmex) no comen hojas: las usan para cultivar un hongo del que se alimentan, y lo protegen de plagas con antibióticos fabricados por bacterias que llevan en el cuerpo.\n\n#hormigas #hormigascortadoras #naturaleza #shorts",
+  "tags": [
+    "hormigas cortadoras de hojas",
+    "atta",
+    "hormigas",
+    "animales increibles",
+    "agricultura animal",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO SE LAS COMEN",
+  "prompt_miniatura": "a long line of ants carrying green leaf pieces over a forest floor toward an underground fungus garden, macro",
+  "experimento": "control"
+}

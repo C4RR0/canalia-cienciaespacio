@@ -1,0 +1,35 @@
+{
+  "id": "short_270_tortuga_caiman",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta tortuga espera con la boca abierta, y los peces entran solos para que se los coma.\n\nEs la tortuga caimán, de Estados Unidos.\n\nEn la lengua tiene un apéndice rosa que menea como un gusano. El pez se acerca, y la boca se cierra de golpe.\n\nMe parece la trampa más perezosa y más brillante de la naturaleza.\n\nY se queda tan quieta que le crecen algas encima: el pez no ve una tortuga, ve una piedra con un gusano. Sígueme para más cazadores así.",
+  "queries_imagenes": [
+    "Macrochelys temminckii",
+    "alligator snapping turtle",
+    "alligator snapping turtle mouth open",
+    "alligator snapping turtle lure",
+    "Macrochelys temminckii head",
+    "alligator snapping turtle shell",
+    "Macrochelys",
+    "alligator snapping turtle underwater"
+  ],
+  "titulo": "Esta tortuga pesca con un gusano falso dentro de la boca",
+  "descripcion": "La tortuga caimán (Macrochelys temminckii) caza inmóvil en el fondo con la boca abierta, moviendo un apéndice rosa de la lengua que imita a un gusano para atraer a los peces.\n\n#tortugacaiman #animalesraros #depredadores #shorts",
+  "tags": [
+    "tortuga caiman",
+    "macrochelys temminckii",
+    "tortuga",
+    "animales raros",
+    "depredadores",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LOS PECES ENTRAN SOLOS",
+  "prompt_miniatura": "a huge prehistoric-looking turtle on a murky riverbed with its mouth wide open showing a pink worm-like lure, a fish approaching",
+  "experimento": "cierre_suscripcion"
+}

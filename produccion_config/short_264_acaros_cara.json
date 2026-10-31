@@ -1,0 +1,35 @@
+{
+  "id": "short_264_acaros_cara",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Ahora mismo, en tu cara, viven unos bichos que salen de noche a aparearse sobre tu piel.\n\nSon los ácaros Demodex. Miden menos de medio milímetro y viven en los poros, cabeza abajo, comiendo grasa.\n\nCasi todos los adultos los tenemos.\n\nDesde que lo sé, me lavo la cara dos veces.\n\nY lo más probable es que los tuyos te los pasara tu madre, en tus primeros días de vida. Si te ha dado grima, quédate: aquí hay cosas peores.",
+  "queries_imagenes": [
+    "Demodex folliculorum",
+    "Demodex mite",
+    "Demodex brevis",
+    "Demodex micrograph",
+    "hair follicle mite",
+    "Demodex skin",
+    "human skin pores close up",
+    "face skin macro"
+  ],
+  "titulo": "Estos bichos viven en tu cara y salen de noche a aparearse",
+  "descripcion": "Los ácaros Demodex (Demodex folliculorum) viven en los poros de la cara de casi todos los adultos, se alimentan de grasa y salen de noche a aparearse sobre la piel.\n\n#acaros #demodex #cuerpohumano #shorts",
+  "tags": [
+    "acaros demodex",
+    "demodex folliculorum",
+    "acaros de la cara",
+    "cuerpo humano",
+    "bichos raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "VIVEN EN TU CARA",
+  "prompt_miniatura": "extreme close-up of a microscopic mite emerging from a human skin pore at night, scientific micrograph style",
+  "experimento": "cierre_suscripcion"
+}

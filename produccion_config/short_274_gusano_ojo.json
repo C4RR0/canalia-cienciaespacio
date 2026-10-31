@@ -1,0 +1,35 @@
+{
+  "id": "short_274_gusano_ojo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este gusano vive bajo tu piel durante años, y a veces cruza por delante de tu ojo.\n\nEs la loa loa. La transmite la picadura de un tábano en las selvas de África.\n\nEl gusano adulto se pasea bajo la piel, y puede colarse bajo la capa transparente del ojo, donde se le ve moverse.\n\nEs lo más angustioso que he contado en este canal.\n\nY el médico tiene que sacarlo con pinzas justo entonces, antes de que se esconda. Sígueme si aún sigues aquí.",
+  "queries_imagenes": [
+    "Loa loa",
+    "Loa loa eye",
+    "Loa loa worm",
+    "loiasis",
+    "Chrysops",
+    "Chrysops silacea",
+    "deer fly Chrysops",
+    "Loa loa microfilaria"
+  ],
+  "titulo": "El gusano que vive bajo tu piel y a veces cruza por tu ojo",
+  "descripcion": "La loa loa (Loa loa), el gusano africano del ojo, se transmite por la picadura de tábanos del género Chrysops; el adulto se mueve bajo la piel durante años y a veces cruza por el ojo, donde se puede extraer.\n\n#parasitos #loaloa #cuerpohumano #shorts",
+  "tags": [
+    "loa loa",
+    "gusano del ojo",
+    "loiasis",
+    "parasitos",
+    "tabano",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "CRUZA POR TU OJO",
+  "prompt_miniatura": "extreme close-up of a human eye with a thin worm visible under the clear surface, medical horror style",
+  "experimento": "cierre_suscripcion"
+}

@@ -258,3 +258,16 @@ short_260_concilio_cadaver
 short_259_arana_portia
 short_262_diablo_espinoso
 short_263_belchite_ruinas
+# 2026-10-31: tanda 264-275 (rutina automática), 2:1
+short_264_acaros_cara
+short_265_cangrejo_cocotero
+short_266_lago_peigneur
+short_267_xenos_avispas
+short_268_nigua_pie
+short_269_hashima_isla
+short_270_tortuga_caiman
+short_271_serpiente_huevos
+short_272_emperador_norton
+short_273_hormigas_cortadoras
+short_274_gusano_ojo
+short_275_suecia_carril

@@ -1,0 +1,35 @@
+{
+  "id": "short_269_hashima_isla",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Más de cinco mil personas vivían apretadas en una roca en medio del mar, y en pocos meses se marcharon todas.\n\nEs Hashima, en Japón. Tenía una mina de carbón, y Mitsubishi la llenó de bloques de hormigón rodeados por un muro.\n\nDesde lejos parece un barco de guerra.\n\nEn mil novecientos setenta y cuatro cerró la mina, y nadie volvió a vivir allí.\n\nSus fotos todavía me inquietan.\n\nY esas ruinas inspiraron la guarida del villano en una película de James Bond.",
+  "queries_imagenes": [
+    "Hashima Island",
+    "Gunkanjima",
+    "Hashima Island Nagasaki",
+    "Gunkanjima ruins",
+    "Hashima apartment buildings",
+    "Gunkanjima from sea",
+    "Hashima coal mine",
+    "Gunkanjima abandoned"
+  ],
+  "titulo": "La isla con forma de barco donde no vive nadie desde 1974",
+  "descripcion": "Hashima o Gunkanjima (Nagasaki, Japón) fue una isla minera de Mitsubishi con más de cinco mil habitantes; desde el cierre de la mina en 1974 está deshabitada.\n\n#hashima #gunkanjima #lugaresabandonados #shorts",
+  "tags": [
+    "hashima",
+    "gunkanjima",
+    "japon",
+    "lugares abandonados",
+    "isla fantasma",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "TODOS SE FUERON",
+  "prompt_miniatura": "an abandoned concrete island city shaped like a battleship in a grey sea, crumbling apartment blocks",
+  "experimento": "control"
+}

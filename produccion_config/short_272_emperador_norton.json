@@ -1,0 +1,35 @@
+{
+  "id": "short_272_emperador_norton",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Este hombre se proclamó emperador de Estados Unidos, y su ciudad le siguió el juego durante veinte años.\n\nEra Joshua Norton, un comerciante arruinado de San Francisco. En mil ochocientos cincuenta y nueve, un periódico publicó su proclamación.\n\nVestía uniforme militar e imprimía su propio dinero, que muchos comercios aceptaban.\n\nHasta ordenó disolver el Congreso.\n\nMe parece la ciudad más simpática de la historia.\n\nY a su entierro fueron miles de personas. Si te gustan las historias así, aquí hay muchas más.",
+  "queries_imagenes": [
+    "Joshua Norton",
+    "Emperor Norton",
+    "Emperor Norton photograph",
+    "Norton I Emperor of the United States",
+    "Emperor Norton banknote",
+    "San Francisco 1870s",
+    "San Francisco Daily Evening Bulletin",
+    "Emperor Norton grave"
+  ],
+  "titulo": "Este hombre se proclamó emperador y la ciudad le siguió",
+  "descripcion": "Joshua Norton, comerciante arruinado de San Francisco, se proclamó en 1859 emperador de Estados Unidos; la ciudad le siguió la corriente, aceptó su propio dinero y miles de personas acudieron a su entierro en 1880.\n\n#emperadornorton #sanfrancisco #historiareal #shorts",
+  "tags": [
+    "emperador norton",
+    "joshua norton",
+    "san francisco",
+    "historia",
+    "personajes increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE CORONÓ ÉL SOLO",
+  "prompt_miniatura": "a 19th century man in a worn military uniform with epaulettes and a sabre walking proudly down a San Francisco street, sepia",
+  "experimento": "cierre_suscripcion"
+}

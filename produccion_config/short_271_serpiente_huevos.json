@@ -1,0 +1,35 @@
+{
+  "id": "short_271_serpiente_huevos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta serpiente se traga un huevo más grande que su cabeza y luego escupe la cáscara vacía.\n\nEs la serpiente comedora de huevos, de África. Casi no tiene dientes y solo come huevos de pájaro.\n\nLo engulle entero, y dentro, unas puntas de su columna rompen la cáscara en la garganta.\n\nSe traga el contenido y escupe la cáscara, aplastada.\n\nLo veo y sigo sin creer que eso quepa ahí.\n\nY si la amenazas, frota sus escamas y suena como una víbora venenosa. Pero no tiene veneno.",
+  "queries_imagenes": [
+    "Dasypeltis scabra",
+    "egg-eating snake",
+    "Dasypeltis",
+    "Dasypeltis scabra eating egg",
+    "rhombic egg-eater",
+    "egg eating snake swallowing egg",
+    "Echis carinatus",
+    "Dasypeltis scabra head"
+  ],
+  "titulo": "La serpiente que se traga huevos y escupe la cáscara",
+  "descripcion": "La serpiente comedora de huevos (Dasypeltis scabra) de África se traga huevos enteros, los rompe con unas puntas de sus vértebras en la garganta y escupe la cáscara. Para defenderse imita el sonido de una víbora frotando sus escamas.\n\n#serpientes #animalesraros #africa #shorts",
+  "tags": [
+    "serpiente comedora de huevos",
+    "dasypeltis scabra",
+    "serpientes",
+    "animales raros",
+    "africa",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO DEBERÍA CABERLE",
+  "prompt_miniatura": "a slender snake with its jaws stretched around a bird egg much larger than its head, close-up",
+  "experimento": "control"
+}
