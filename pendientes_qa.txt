@@ -1,7 +1,6 @@
 short_264_acaros_cara
 short_266_lago_peigneur
 short_267_xenos_avispas
-short_268_nigua_pie
 short_269_hashima_isla
 short_270_tortuga_caiman
 short_271_serpiente_huevos
