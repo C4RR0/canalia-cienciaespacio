@@ -1,5 +1,4 @@
 short_269_hashima_isla
 short_275_suecia_carril
 short_276_avispa_pulgones
-short_277_chinche_besucona
 short_281_robo_cuadro
