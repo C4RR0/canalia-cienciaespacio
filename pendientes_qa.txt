@@ -3,7 +3,6 @@ short_275_suecia_carril
 short_276_avispa_pulgones
 short_277_chinche_besucona
 short_281_robo_cuadro
-short_284_lascaux_cueva
 short_285_zorro_nieve
 short_286_rabihorcado
 short_287_green_bank
