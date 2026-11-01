@@ -1,0 +1,35 @@
+{
+  "id": "short_280_maluro_contrasena",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta madre enseña una contraseña a sus crías cuando aún están dentro del huevo.\n\nEs el maluro soberbio, un pajarito azul de Australia. Mientras incuba, les canta una nota concreta.\n\nAl nacer, los pollos la usan para pedir comida.\n\nTodo por un cuco que cuela su huevo en el nido. Para un pájaro de diez gramos, me parece brutal.\n\nEl pollo del cuco nace antes, apenas oye la lección y pide comida sin contraseña.\n\nY muchas veces lo abandonan. Sígueme para más trucos así.",
+  "queries_imagenes": [
+    "Malurus cyaneus",
+    "superb fairywren",
+    "superb fairywren nest",
+    "Malurus cyaneus female",
+    "superb fairy-wren male",
+    "Chalcites basalis",
+    "Horsfield's bronze cuckoo",
+    "fairywren chicks"
+  ],
+  "titulo": "El pájaro que da una contraseña a sus crías antes de nacer",
+  "descripcion": "La hembra del maluro soberbio (Malurus cyaneus) canta una nota a sus huevos y los pollos la incluyen al pedir comida; el pollo del cuco broncíneo de Horsfield no la aprende y los padres a menudo lo abandonan.\n\n#maluro #avesdeaustralia #cucos #shorts",
+  "tags": [
+    "maluro soberbio",
+    "malurus cyaneus",
+    "avesdeaustralia",
+    "cuco",
+    "pajaros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LA CONTRASEÑA SECRETA",
+  "prompt_miniatura": "a tiny bright blue bird singing next to a small nest with eggs, soft Australian bush background",
+  "experimento": "cierre_suscripcion"
+}

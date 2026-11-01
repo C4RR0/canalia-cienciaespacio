@@ -1,0 +1,35 @@
+{
+  "id": "short_276_avispa_pulgones",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta avispa diminuta mete un huevo dentro de un pulgón vivo, y lo convierte en una momia.\n\nEs del género Aphidius. Pica en un instante y se va a por el siguiente.\n\nEl pulgón sigue comiendo como si nada, mientras la larva lo devora por dentro.\n\nA mí me parece una película de terror en miniatura.\n\nCuando lo ha vaciado, la piel se endurece y se hincha como una perla.\n\nY la avispa adulta sale recortando una tapa redonda perfecta. Si te gustan estos bichos, aquí hay más.",
+  "queries_imagenes": [
+    "Aphidius",
+    "aphid mummy",
+    "Aphidius colemani",
+    "Aphidius ervi",
+    "parasitoid wasp aphid",
+    "mummified aphid",
+    "Aphidius aphid",
+    "aphid mummy exit hole"
+  ],
+  "titulo": "Esta avispa convierte a un pulgón vivo en una momia",
+  "descripcion": "Las avispas del género Aphidius ponen un huevo dentro de un pulgón vivo; la larva se lo come por dentro, el pulgón se convierte en una momia y la avispa adulta sale recortando una tapa redonda.\n\n#avispas #parasitos #insectos #shorts",
+  "tags": [
+    "aphidius",
+    "avispa parasitoide",
+    "pulgon momia",
+    "parasitos",
+    "insectos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MOMIA EN VIDA",
+  "prompt_miniatura": "macro photo of a swollen golden mummified aphid on a green leaf with a tiny wasp standing beside it",
+  "experimento": "cierre_suscripcion"
+}

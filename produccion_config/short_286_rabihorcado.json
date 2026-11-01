@@ -1,0 +1,35 @@
+{
+  "id": "short_286_rabihorcado",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro persigue a otras aves en pleno vuelo y les tira de la cola hasta que sueltan su pescado.\n\nEs el rabihorcado, con alas de más de dos metros.\n\nCuando la víctima suelta la presa, o la vomita, la atrapa antes de que toque el agua.\n\nMe parece el pirata más descarado del cielo.\n\nPero vive del mar sin poder mojarse: sus plumas no son impermeables, y si se posa en el agua puede no volver a despegar. Sígueme si te gustan los animales piratas.",
+  "queries_imagenes": [
+    "Fregata magnificens",
+    "magnificent frigatebird",
+    "frigatebird chasing",
+    "frigatebird flight",
+    "Fregata minor",
+    "frigatebird booby",
+    "frigatebird kleptoparasitism",
+    "Fregata magnificens flight"
+  ],
+  "titulo": "El pájaro pirata que roba la comida a otros en pleno vuelo",
+  "descripcion": "El rabihorcado o ave fragata (Fregata) persigue a otras aves marinas hasta que sueltan o vomitan su pescado y lo atrapa en el aire; sus plumas no son impermeables, así que evita posarse en el mar.\n\n#rabihorcado #avesmarinas #animales #shorts",
+  "tags": [
+    "rabihorcado",
+    "ave fragata",
+    "fregata magnificens",
+    "aves marinas",
+    "animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "EL PIRATA DEL CIELO",
+  "prompt_miniatura": "a black frigatebird with huge wings chasing a seabird carrying a fish over the ocean, dramatic sky",
+  "experimento": "cierre_suscripcion"
+}

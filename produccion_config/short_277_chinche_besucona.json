@@ -1,0 +1,35 @@
+{
+  "id": "short_277_chinche_besucona",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este insecto te pica en la cara mientras duermes, y lo peligroso no es la picadura.\n\nEs la chinche besucona, de América. Sale de noche de las grietas de las paredes y te chupa la sangre cerca de la boca o los ojos.\n\nPero al terminar, hace sus necesidades justo al lado.\n\nAhí viaja el parásito del mal de Chagas. Y entra cuando tú, dormido, te rascas y lo metes en la herida.\n\nSinceramente, prefiero mil mosquitos antes que uno de estos.",
+  "queries_imagenes": [
+    "Triatoma infestans",
+    "Triatoma",
+    "kissing bug",
+    "Rhodnius prolixus",
+    "Triatoma dimidiata",
+    "Triatominae",
+    "Trypanosoma cruzi",
+    "Chagas disease house"
+  ],
+  "titulo": "Este bicho te pica la cara mientras duermes y te infecta",
+  "descripcion": "La chinche besucona (Triatoma) pica de noche cerca de la boca y los ojos y defeca junto a la picadura; en sus heces viaja Trypanosoma cruzi, el parásito del mal de Chagas, que entra al rascarse.\n\n#chagas #insectos #parasitos #shorts",
+  "tags": [
+    "chinche besucona",
+    "triatoma",
+    "mal de chagas",
+    "vinchuca",
+    "parasitos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO TE RASQUES",
+  "prompt_miniatura": "close-up of a dark kissing bug insect on a pillow next to a sleeping person's face at night, dim light",
+  "experimento": "control"
+}

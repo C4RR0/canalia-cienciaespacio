@@ -1,0 +1,35 @@
+{
+  "id": "short_281_robo_cuadro",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Un obrero salió de un museo con el cuadro más famoso bajo su bata.\n\nFue en el Louvre, en mil novecientos once. Vincenzo Peruggia había trabajado allí poniendo cristales protectores.\n\nSe escondió una noche y se llevó la Mona Lisa un lunes, con el museo cerrado.\n\nNadie notó el hueco hasta el día siguiente.\n\nLa policía llegó a interrogar a Picasso. Habría pagado por ver esa cara.\n\nY lo más loco: antes del robo, no era el cuadro más famoso del mundo. El robo la hizo famosa.",
+  "queries_imagenes": [
+    "Vincenzo Peruggia",
+    "Mona Lisa",
+    "Mona Lisa theft 1911",
+    "Louvre Salon Carre 1911",
+    "Mona Lisa Louvre",
+    "Louvre Museum 1910s",
+    "Pablo Picasso 1908",
+    "Mona Lisa 1913 Florence"
+  ],
+  "titulo": "Un obrero se llevó el cuadro más famoso bajo la bata",
+  "descripcion": "En 1911, Vincenzo Peruggia, que había trabajado en el Louvre, se escondió en el museo y salió con la Mona Lisa bajo su bata; la policía llegó a interrogar a Picasso y el cuadro no apareció hasta 1913.\n\n#monalisa #historia #robos #shorts",
+  "tags": [
+    "mona lisa",
+    "vincenzo peruggia",
+    "robo de la mona lisa",
+    "louvre",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NADIE LO NOTÓ",
+  "prompt_miniatura": "an empty museum wall with four iron hooks where a famous painting used to hang, 1911 style, sepia tone",
+  "experimento": "control"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_287_green_bank",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En este pueblo de Estados Unidos, el wifi y la cobertura móvil están prácticamente prohibidos.\n\nEs Green Bank, en Virginia Occidental. Allí hay uno de los radiotelescopios orientables más grandes del mundo.\n\nEs tan sensible que cualquier señal le estropea las mediciones.\n\nPor eso hay una enorme zona de silencio de radio, y un vehículo patrulla buscando interferencias.\n\nA mí me parecería el paraíso una semana. Después, no sé.\n\nY han llegado vecinos nuevos justo por eso: gente convencida de que las ondas les enferman.",
+  "queries_imagenes": [
+    "Green Bank Telescope",
+    "Robert C. Byrd Green Bank Telescope",
+    "Green Bank West Virginia",
+    "Green Bank Observatory",
+    "National Radio Quiet Zone",
+    "Pocahontas County West Virginia",
+    "Green Bank telescope dish",
+    "Green Bank Observatory sign"
+  ],
+  "titulo": "El pueblo donde están prohibidos el wifi y los móviles",
+  "descripcion": "Green Bank, en Virginia Occidental, está en la Zona Nacional de Silencio Radioeléctrico por su gran radiotelescopio, así que el wifi y la cobertura móvil están muy restringidos.\n\n#greenbank #lugaresinsolitos #estadosunidos #shorts",
+  "tags": [
+    "green bank",
+    "zona de silencio de radio",
+    "radiotelescopio",
+    "virginia occidental",
+    "lugares insolitos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "AQUÍ NO HAY WIFI",
+  "prompt_miniatura": "a small rural American town in green hills with a gigantic white radio telescope dish towering behind it",
+  "experimento": "control"
+}

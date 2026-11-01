@@ -1,0 +1,35 @@
+{
+  "id": "short_283_cangrejos_ermitanos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Estos cangrejos hacen cola, ordenados por tamaño, para cambiarse de concha a la vez.\n\nSon cangrejos ermitaños, y al crecer necesitan una casa más grande.\n\nSi uno encuentra una concha que le queda grande, espera al lado.\n\nLlegan otros y forman una fila, del más grande al más pequeño.\n\nCuando aparece el que encaja, se muda. Y en segundos, cada uno salta a la concha que deja el de delante.\n\nYa quisieran muchas mudanzas humanas esta organización.\n\nY pueden pasarse horas esperando al que falta.",
+  "queries_imagenes": [
+    "Coenobita clypeatus",
+    "hermit crab",
+    "Caribbean hermit crab",
+    "land hermit crab",
+    "hermit crab shell",
+    "Coenobita",
+    "hermit crabs group",
+    "hermit crab beach"
+  ],
+  "titulo": "Estos cangrejos hacen cola por tamaños para mudarse",
+  "descripcion": "Los cangrejos ermitaños terrestres como Coenobita clypeatus forman cadenas de vacantes: se ordenan por tamaño junto a una concha nueva y se intercambian las conchas en cadena en cuestión de segundos.\n\n#cangrejoermitano #animales #naturaleza #shorts",
+  "tags": [
+    "cangrejo ermitaño",
+    "coenobita clypeatus",
+    "cangrejos",
+    "animales",
+    "naturaleza",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "HACEN COLA",
+  "prompt_miniatura": "a line of hermit crabs of decreasing sizes waiting beside an empty seashell on a tropical beach",
+  "experimento": "control"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_279_picabueyes",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro vive subido a jirafas y búfalos, y a veces les bebe la sangre.\n\nEs el picabueyes, de África. Se come sus garrapatas, así que parece el amigo perfecto.\n\nPero si el animal tiene una herida, la picotea, bebe de ella y no la deja cerrar.\n\nY aun así, lo toleran. Para mí, es medio socio y medio vampiro.\n\nPorque además grita cuando se acerca alguien. Los rinocerontes que lo llevan encima detectan antes a los humanos.\n\nEn suajili lo llaman el guardián del rinoceronte.",
+  "queries_imagenes": [
+    "Buphagus erythrorynchus",
+    "Buphagus africanus",
+    "oxpecker giraffe",
+    "oxpecker rhinoceros",
+    "red-billed oxpecker",
+    "yellow-billed oxpecker",
+    "oxpecker buffalo",
+    "oxpecker impala"
+  ],
+  "titulo": "El pájaro que limpia a las jirafas y les bebe la sangre",
+  "descripcion": "El picabueyes (Buphagus) come garrapatas de los grandes mamíferos africanos, pero también bebe sangre de sus heridas; en suajili, el picabueyes piquirrojo se llama «askari wa kifaru», el guardián del rinoceronte.\n\n#picabueyes #avesdeafrica #animales #shorts",
+  "tags": [
+    "picabueyes",
+    "buphagus",
+    "aves de africa",
+    "rinoceronte",
+    "jirafa",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "AMIGO O VAMPIRO",
+  "prompt_miniatura": "a small red-billed bird perched on a giraffe's neck pecking at its skin, African savanna background",
+  "experimento": "control"
+}

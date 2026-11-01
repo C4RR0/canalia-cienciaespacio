@@ -1,0 +1,35 @@
+{
+  "id": "short_285_zorro_nieve",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este animal salta y se clava de cabeza en la nieve para atrapar a un ratón que no puede ver.\n\nEs el zorro rojo. En invierno, los roedores corren por túneles bajo la nieve.\n\nEl zorro se para, gira la cabeza y escucha. Así lo localiza.\n\nEntonces da un salto alto y cae en picado, con el hocico por delante.\n\nCada vez que lo veo, me parece magia.\n\nPero unos científicos checos encontraron algo rarísimo: acierta muchísimo más cuando salta mirando hacia el noreste.",
+  "queries_imagenes": [
+    "Vulpes vulpes snow",
+    "red fox jumping snow",
+    "red fox mousing",
+    "red fox winter",
+    "Vulpes vulpes hunting",
+    "red fox pounce",
+    "fox snow dive",
+    "Vulpes vulpes winter"
+  ],
+  "titulo": "El animal que oye ratones bajo la nieve y salta de cabeza",
+  "descripcion": "El zorro rojo (Vulpes vulpes) localiza roedores bajo la nieve por el oído y salta en picado; un estudio checo de 2011 vio que acierta mucho más cuando salta hacia el noreste.\n\n#zorro #animales #naturaleza #shorts",
+  "tags": [
+    "zorro rojo",
+    "vulpes vulpes",
+    "zorro cazando",
+    "animales",
+    "naturaleza",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SALTA A CIEGAS",
+  "prompt_miniatura": "a red fox mid-air diving headfirst into deep white snow, winter field, dramatic action shot",
+  "experimento": "control"
+}

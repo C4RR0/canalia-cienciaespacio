@@ -1,0 +1,35 @@
+{
+  "id": "short_284_lascaux_cueva",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Esta cueva se cerró al público porque el aliento de los visitantes la estaba destruyendo.\n\nEs Lascaux, en Francia. Sus animales pintados tienen unos diecisiete mil años.\n\nLlegó a recibir más de mil visitas al día.\n\nSu respiración y su calor llenaron las paredes de algas verdes.\n\nMe duele pensar que casi la matamos a base de mirarla.\n\nHoy se visita una réplica. La real solo la pisan unos pocos científicos. Si te gustan los sitios prohibidos, aquí hay más.",
+  "queries_imagenes": [
+    "Lascaux",
+    "Lascaux cave painting",
+    "Lascaux II",
+    "Lascaux IV",
+    "Lascaux horse",
+    "Lascaux aurochs",
+    "Montignac Lascaux",
+    "Lascaux hall of the bulls"
+  ],
+  "titulo": "Esta cueva se moría por el aliento de los visitantes",
+  "descripcion": "La cueva de Lascaux, en Francia, con pinturas de hace unos 17.000 años, se cerró al público en 1963 porque el aliento y el calor de los visitantes la llenaban de algas; hoy se visita una réplica.\n\n#lascaux #prehistoria #historia #shorts",
+  "tags": [
+    "lascaux",
+    "cueva de lascaux",
+    "pinturas rupestres",
+    "prehistoria",
+    "francia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "CERRADA PARA SIEMPRE",
+  "prompt_miniatura": "prehistoric cave paintings of horses and bulls on a rock wall lit by a dim torch, with a locked metal gate in front",
+  "experimento": "cierre_suscripcion"
+}

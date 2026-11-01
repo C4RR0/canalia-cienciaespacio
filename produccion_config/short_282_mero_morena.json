@@ -1,0 +1,35 @@
+{
+  "id": "short_282_mero_morena",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pez llama a una morena con la cabeza para que le ayude a cazar.\n\nEs el mero de coral del mar Rojo. Si la presa se mete donde él no cabe, busca a una morena gigante y sacude la cabeza.\n\nLa morena sale y cazan juntos: ella por las rocas, él fuera.\n\nYo no esperaba esto de un pez.\n\nY para enseñarle el escondite, se pone cabeza abajo y lo señala. Un gesto que se creía cosa de humanos y simios. Sígueme si te ha sorprendido.",
+  "queries_imagenes": [
+    "Plectropomus pessuliferus",
+    "Gymnothorax javanicus",
+    "roving coral grouper",
+    "giant moray",
+    "Plectropomus pessuliferus marisrubri",
+    "giant moray Red Sea",
+    "grouper moray",
+    "coral grouper Red Sea"
+  ],
+  "titulo": "Este pez le pide ayuda a una morena y le señala la presa",
+  "descripcion": "El mero de coral (Plectropomus pessuliferus) del mar Rojo sacude la cabeza delante de una morena gigante para cazar juntos, y se pone cabeza abajo para señalarle dónde se esconde la presa.\n\n#peces #marrojo #animales #shorts",
+  "tags": [
+    "mero de coral",
+    "plectropomus pessuliferus",
+    "morena gigante",
+    "peces",
+    "mar rojo",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SOCIOS DE CAZA",
+  "prompt_miniatura": "a red spotted grouper and a giant moray eel side by side on a coral reef, underwater photo",
+  "experimento": "cierre_suscripcion"
+}

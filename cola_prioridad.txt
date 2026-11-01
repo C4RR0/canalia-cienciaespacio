@@ -271,3 +271,16 @@ short_272_emperador_norton
 short_273_hormigas_cortadoras
 short_274_gusano_ojo
 short_275_suecia_carril
+# 2026-11-01: tanda 276-287 (rutina automática), 2:1
+short_276_avispa_pulgones
+short_279_picabueyes
+short_278_colma_muertos
+short_277_chinche_besucona
+short_286_rabihorcado
+short_281_robo_cuadro
+short_283_cangrejos_ermitanos
+short_280_maluro_contrasena
+short_284_lascaux_cueva
+short_285_zorro_nieve
+short_282_mero_morena
+short_287_green_bank

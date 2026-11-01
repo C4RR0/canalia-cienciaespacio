@@ -1,0 +1,35 @@
+{
+  "id": "short_278_colma_muertos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En este pueblo hay más de mil muertos por cada vecino vivo.\n\nEs Colma, junto a San Francisco. Y la culpa es de su vecina.\n\nA principios del siglo veinte, San Francisco quería suelo para crecer y prohibió los entierros.\n\nDespués vació sus cementerios, y decenas de miles de cuerpos acabaron en Colma.\n\nHoy casi todo el pueblo son tumbas.\n\nY me encanta cómo se lo toman: su lema es «Es genial estar vivo en Colma». Quédate si te van los lugares raros.",
+  "queries_imagenes": [
+    "Colma California",
+    "Colma cemetery",
+    "Cypress Lawn Memorial Park",
+    "Holy Cross Cemetery Colma",
+    "Woodlawn Memorial Park Colma",
+    "Hills of Eternity Colma",
+    "Colma town hall",
+    "San Francisco cemetery removal"
+  ],
+  "titulo": "El pueblo donde hay mil muertos por cada vecino vivo",
+  "descripcion": "Colma, en California, tiene unos 1.500 habitantes y más de un millón y medio de muertos enterrados, después de que San Francisco prohibiera los entierros y trasladara allí sus cementerios.\n\n#colma #lugaresinsolitos #historia #shorts",
+  "tags": [
+    "colma",
+    "cementerios",
+    "san francisco",
+    "lugares insolitos",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MÁS MUERTOS QUE VIVOS",
+  "prompt_miniatura": "aerial view of a small town completely surrounded by endless green cemeteries with rows of tombstones, golden hour",
+  "experimento": "cierre_suscripcion"
+}
