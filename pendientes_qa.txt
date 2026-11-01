@@ -2,7 +2,6 @@ short_269_hashima_isla
 short_275_suecia_carril
 short_276_avispa_pulgones
 short_277_chinche_besucona
-short_278_colma_muertos
 short_279_picabueyes
 short_280_maluro_contrasena
 short_281_robo_cuadro
