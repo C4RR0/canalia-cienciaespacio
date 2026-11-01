@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:10,740
+En este pueblo de Estados Unidos, el wifi y la cobertura móvil están prácticamente prohibidos, es Green Bank, en Virginia Occidental, allí hay uno de los radiotelescopios orientables más grandes del mundo.
+
+2
+00:00:11,039 --> 00:00:18,920
+Es tan sensible que cualquier señal le estropea las mediciones, por eso hay una enorme zona de silencio de radio y un vehículo patrulla buscando interferencias.
+
+3
+00:00:19,239 --> 00:00:27,280
+A mí me parecería el paraíso una semana. Después, no sé, y han llegado vecinos nuevos justo por eso, gente convencida de que las ondas les enferman.
+

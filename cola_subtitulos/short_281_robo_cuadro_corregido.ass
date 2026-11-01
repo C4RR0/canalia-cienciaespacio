@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,40,108,422,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} OBRERO SALIÓ DE
+Dialogue: 0,0:00:00.34,0:00:00.96,Default,,0,0,0,,UN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OBRERO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SALIÓ{\r} DE
+Dialogue: 0,0:00:00.96,0:00:01.08,Default,,0,0,0,,UN OBRERO SALIÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:01.08,0:00:01.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUSEO{\r} CON EL
+Dialogue: 0,0:00:01.58,0:00:01.84,Default,,0,0,0,,UN MUSEO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
+Dialogue: 0,0:00:01.84,0:00:02.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUADRO{\r} MÁS FAMOSO BAJO
+Dialogue: 0,0:00:02.16,0:00:02.72,Default,,0,0,0,,CUADRO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FAMOSO{\r} BAJO
+Dialogue: 0,0:00:02.72,0:00:02.98,Default,,0,0,0,,CUADRO MÁS FAMOSO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BAJO{\r}
+Dialogue: 0,0:00:02.98,0:00:03.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SU{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BATA.{\r}
+Dialogue: 0,0:00:03.76,0:00:04.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOUVRE,{\r}
+Dialogue: 0,0:00:04.56,0:00:04.99,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MIL{\r} NOVECIENTOS ONCE.
+Dialogue: 0,0:00:04.99,0:00:05.80,Default,,0,0,0,,EN MIL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NOVECIENTOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ONCE.{\r}
+Dialogue: 0,0:00:06.04,0:00:06.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VINCENZO{\r} PERUGGIA HABÍA
+Dialogue: 0,0:00:06.52,0:00:06.98,Default,,0,0,0,,VINCENZO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERUGGIA{\r} HABÍA
+Dialogue: 0,0:00:06.98,0:00:07.16,Default,,0,0,0,,VINCENZO PERUGGIA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HABÍA{\r}
+Dialogue: 0,0:00:07.16,0:00:07.70,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRABAJADO{\r} ALLÍ PONIENDO
+Dialogue: 0,0:00:07.70,0:00:08.30,Default,,0,0,0,,TRABAJADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALLÍ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PONIENDO{\r}
+Dialogue: 0,0:00:08.30,0:00:08.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CRISTALES{\r} PROTECTORES.
+Dialogue: 0,0:00:08.78,0:00:09.60,Default,,0,0,0,,CRISTALES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PROTECTORES.{\r}
+Dialogue: 0,0:00:09.70,0:00:10.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESCONDIÓ{\r} UNA NOCHE
+Dialogue: 0,0:00:10.24,0:00:10.64,Default,,0,0,0,,SE ESCONDIÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NOCHE{\r}
+Dialogue: 0,0:00:10.64,0:00:10.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} LLEVÓ LA
+Dialogue: 0,0:00:10.98,0:00:11.34,Default,,0,0,0,,Y SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLEVÓ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
+Dialogue: 0,0:00:11.34,0:00:11.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MONA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LISA{\r} UN LUNES,
+Dialogue: 0,0:00:11.80,0:00:12.44,Default,,0,0,0,,MONA LISA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LUNES,{\r}
+Dialogue: 0,0:00:12.50,0:00:13.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUSEO{\r} CERRADO.
+Dialogue: 0,0:00:13.06,0:00:13.68,Default,,0,0,0,,CON EL MUSEO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CERRADO.{\r}
+Dialogue: 0,0:00:13.78,0:00:14.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NADIE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NOTÓ{\r} EL HUECO
+Dialogue: 0,0:00:14.32,0:00:14.72,Default,,0,0,0,,NADIE NOTÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HUECO{\r}
+Dialogue: 0,0:00:14.72,0:00:15.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HASTA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} DÍA SIGUIENTE.
+Dialogue: 0,0:00:15.06,0:00:15.74,Default,,0,0,0,,HASTA EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DÍA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIGUIENTE.{\r}
+Dialogue: 0,0:00:15.94,0:00:16.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POLICÍA{\r} LLEGÓ A
+Dialogue: 0,0:00:16.46,0:00:16.82,Default,,0,0,0,,LA POLICÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LLEGÓ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
+Dialogue: 0,0:00:16.82,0:00:17.30,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INTERROGAR{\r} A PICASSO.
+Dialogue: 0,0:00:17.30,0:00:17.92,Default,,0,0,0,,INTERROGAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PICASSO.{\r}
+Dialogue: 0,0:00:18.08,0:00:18.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HABRÍA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PAGADO{\r} POR VER
+Dialogue: 0,0:00:18.76,0:00:19.12,Default,,0,0,0,,HABRÍA PAGADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VER{\r}
+Dialogue: 0,0:00:19.12,0:00:19.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CARA.{\r}
+Dialogue: 0,0:00:19.86,0:00:20.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r} LOCO:
+Dialogue: 0,0:00:20.24,0:00:20.74,Default,,0,0,0,,Y LO MÁS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOCO:{\r}
+Dialogue: 0,0:00:20.80,0:00:21.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ANTES{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} ROBO, NO
+Dialogue: 0,0:00:21.24,0:00:21.80,Default,,0,0,0,,ANTES DEL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ROBO,{\r} NO
+Dialogue: 0,0:00:21.80,0:00:21.94,Default,,0,0,0,,ANTES DEL ROBO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r}
+Dialogue: 0,0:00:21.94,0:00:22.52,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ERA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUADRO{\r} MÁS
+Dialogue: 0,0:00:22.52,0:00:22.68,Default,,0,0,0,,ERA EL CUADRO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r}
+Dialogue: 0,0:00:22.68,0:00:23.02,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FAMOSO{\r} DEL MUNDO.
+Dialogue: 0,0:00:23.02,0:00:23.66,Default,,0,0,0,,FAMOSO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUNDO.{\r}
+Dialogue: 0,0:00:23.78,0:00:24.14,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ROBO{\r} LA HIZO
+Dialogue: 0,0:00:24.14,0:00:24.44,Default,,0,0,0,,EL ROBO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HIZO{\r}
+Dialogue: 0,0:00:24.44,0:00:25.12,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FAMOSA.{\r}
