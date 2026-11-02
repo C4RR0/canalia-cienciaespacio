@@ -1,0 +1,67 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,40,108,422,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTE{\r} CIEMPIÉS SE CUELGA
+Dialogue: 0,0:00:00.42,0:00:00.80,Default,,0,0,0,,ESTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIEMPIÉS{\r} SE CUELGA
+Dialogue: 0,0:00:00.80,0:00:01.24,Default,,0,0,0,,ESTE CIEMPIÉS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUELGA{\r}
+Dialogue: 0,0:00:01.24,0:00:01.72,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TECHO{\r} Y CAZA
+Dialogue: 0,0:00:01.72,0:00:02.08,Default,,0,0,0,,DEL TECHO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAZA{\r}
+Dialogue: 0,0:00:02.08,0:00:02.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MURCIÉLAGOS{\r} EN PLENO
+Dialogue: 0,0:00:02.74,0:00:03.22,Default,,0,0,0,,MURCIÉLAGOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PLENO{\r}
+Dialogue: 0,0:00:03.22,0:00:03.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VUELO.{\r}
+Dialogue: 0,0:00:03.74,0:00:04.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ES{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIEMPIÉS{\r} GIGANTE
+Dialogue: 0,0:00:04.42,0:00:04.86,Default,,0,0,0,,ES EL CIEMPIÉS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GIGANTE{\r}
+Dialogue: 0,0:00:04.86,0:00:05.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AMAZONAS,{\r} Y PUEDE
+Dialogue: 0,0:00:05.78,0:00:06.08,Default,,0,0,0,,DEL AMAZONAS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PUEDE{\r}
+Dialogue: 0,0:00:06.08,0:00:06.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUPERAR{\r} LOS VEINTE
+Dialogue: 0,0:00:06.50,0:00:06.90,Default,,0,0,0,,SUPERAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VEINTE{\r}
+Dialogue: 0,0:00:06.90,0:00:07.70,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CENTÍMETROS.{\r}
+Dialogue: 0,0:00:07.88,0:00:08.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUEVA{\r} DE
+Dialogue: 0,0:00:08.42,0:00:08.54,Default,,0,0,0,,EN UNA CUEVA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:08.54,0:00:09.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VENEZUELA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} VIERON
+Dialogue: 0,0:00:09.16,0:00:09.36,Default,,0,0,0,,VENEZUELA LO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIERON{\r}
+Dialogue: 0,0:00:09.36,0:00:09.78,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COLGANDO{\r} DEL TECHO,
+Dialogue: 0,0:00:09.78,0:00:10.52,Default,,0,0,0,,COLGANDO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TECHO,{\r}
+Dialogue: 0,0:00:10.58,0:00:11.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUJETO{\r} SOLO POR LAS
+Dialogue: 0,0:00:11.00,0:00:11.46,Default,,0,0,0,,SUJETO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SOLO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r} LAS
+Dialogue: 0,0:00:11.46,0:00:11.62,Default,,0,0,0,,SUJETO SOLO POR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r}
+Dialogue: 0,0:00:11.62,0:00:12.56,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PATAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRASERAS.{\r}
+Dialogue: 0,0:00:12.64,0:00:13.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CUANDO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PASABA{\r} UN
+Dialogue: 0,0:00:13.24,0:00:13.38,Default,,0,0,0,,CUANDO PASABA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r}
+Dialogue: 0,0:00:13.38,0:00:14.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MURCIÉLAGO,{\r} LO AGARRABA
+Dialogue: 0,0:00:14.18,0:00:14.80,Default,,0,0,0,,MURCIÉLAGO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AGARRABA{\r}
+Dialogue: 0,0:00:14.80,0:00:15.44,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INYECTABA{\r} VENENO.
+Dialogue: 0,0:00:15.44,0:00:16.04,Default,,0,0,0,,Y LE INYECTABA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VENENO.{\r}
+Dialogue: 0,0:00:16.12,0:00:16.56,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}YO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CREÍA{\r} QUE ALLÍ
+Dialogue: 0,0:00:16.56,0:00:16.92,Default,,0,0,0,,YO CREÍA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALLÍ{\r}
+Dialogue: 0,0:00:16.92,0:00:17.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAZADORES{\r} ERAN LOS
+Dialogue: 0,0:00:17.50,0:00:17.82,Default,,0,0,0,,LOS CAZADORES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ERAN{\r} LOS
+Dialogue: 0,0:00:17.82,0:00:17.98,Default,,0,0,0,,LOS CAZADORES ERAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r}
+Dialogue: 0,0:00:17.98,0:00:18.92,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MURCIÉLAGOS.{\r}
+Dialogue: 0,0:00:18.94,0:00:19.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AHÍ{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ARRIBA,{\r} SON LA
+Dialogue: 0,0:00:19.74,0:00:20.06,Default,,0,0,0,,AHÍ ARRIBA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
+Dialogue: 0,0:00:20.06,0:00:20.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PRESA.{\r}
+Dialogue: 0,0:00:20.62,0:00:20.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r} CONFORMABA
+Dialogue: 0,0:00:20.98,0:00:21.54,Default,,0,0,0,,Y NO SE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CONFORMABA{\r}
+Dialogue: 0,0:00:21.54,0:00:22.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CON{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNO:{\r} CAZABA
+Dialogue: 0,0:00:22.18,0:00:22.48,Default,,0,0,0,,CON UNO: {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CAZABA{\r}
+Dialogue: 0,0:00:22.48,0:00:23.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MURCIÉLAGOS{\r} DE TRES
+Dialogue: 0,0:00:23.08,0:00:23.42,Default,,0,0,0,,MURCIÉLAGOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRES{\r}
+Dialogue: 0,0:00:23.42,0:00:23.84,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESPECIES{\r} DISTINTAS.
+Dialogue: 0,0:00:23.84,0:00:24.66,Default,,0,0,0,,ESPECIES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DISTINTAS.{\r}
+Dialogue: 0,0:00:24.66,0:00:24.98,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TE{\r} HA DADO
+Dialogue: 0,0:00:24.98,0:00:25.22,Default,,0,0,0,,SI TE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DADO{\r}
+Dialogue: 0,0:00:25.22,0:00:26.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESCALOFRÍOS,{\r} SÍGUEME:
+Dialogue: 0,0:00:26.18,0:00:26.76,Default,,0,0,0,,ESCALOFRÍOS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SÍGUEME:{\r}
+Dialogue: 0,0:00:26.82,0:00:27.38,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TENGO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BICHOS{\r} PEORES.
+Dialogue: 0,0:00:27.38,0:00:27.88,Default,,0,0,0,,TENGO BICHOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PEORES.{\r}
