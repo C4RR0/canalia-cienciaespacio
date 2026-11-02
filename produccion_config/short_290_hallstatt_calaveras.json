@@ -1,0 +1,35 @@
+{
+  "id": "short_290_hallstatt_calaveras",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Este pueblo desentierra a sus muertos para pintarles la calavera.\n\nEs Hallstatt, en Austria, encajado entre un lago y la montaña. Tanto, que en su cementerio no cabía nadie más.\n\nPasados unos años, sacaban los huesos para dejar sitio.\n\nLas familias pintaban los cráneos con flores y el nombre del difunto, y los guardaban en una capilla.\n\nHoy hay más de mil.\n\nA mí me parece más tierno que macabro.\n\nY la última llegó en los años noventa: lo dejó pedido una vecina antes de morir.",
+  "queries_imagenes": [
+    "Hallstatt Beinhaus",
+    "Hallstatt charnel house skulls",
+    "Hallstatt painted skulls",
+    "Hallstatt",
+    "Hallstatt cemetery",
+    "Hallstatt Karner",
+    "Hallstatt church",
+    "Hallstatt lake village"
+  ],
+  "titulo": "El pueblo que pinta las calaveras de sus muertos",
+  "descripcion": "En el osario (Beinhaus) de Hallstatt, Austria, se guardan más de mil calaveras, muchas pintadas con flores y nombres, porque el cementerio no tenía sitio.\n\n#hallstatt #austria #lugaresincreibles #shorts",
+  "tags": [
+    "hallstatt",
+    "osario de hallstatt",
+    "calaveras pintadas",
+    "austria",
+    "lugares increibles",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "LES PINTAN LA CALAVERA",
+  "prompt_miniatura": "shelves full of old human skulls painted with flowers and names inside a small alpine chapel",
+  "experimento": "control"
+}

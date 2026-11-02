@@ -1,0 +1,35 @@
+{
+  "id": "short_288_mosca_caballo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta mosca consigue que un caballo se trague a sus crías.\n\nPega sus huevos en los pelos de las patas delanteras.\n\nCuando el caballo se lame, la saliva despierta a las larvas, que se le cuelan en la boca.\n\nSe esconden en la lengua y luego bajan al estómago, donde se agarran durante meses.\n\nSinceramente, es el plan más retorcido que conozco para criar a tus hijos.\n\nSalen con el estiércol.\n\nY la mosca adulta ni puede comer: vive unos días, lo justo para buscar otro caballo.",
+  "queries_imagenes": [
+    "Gasterophilus intestinalis",
+    "Gasterophilus eggs horse hair",
+    "horse bot fly",
+    "Gasterophilus larvae stomach",
+    "Gasterophilus",
+    "horse licking leg",
+    "bot fly eggs on horse",
+    "Oestridae Gasterophilinae"
+  ],
+  "titulo": "Esta mosca hace que el caballo se trague a sus crías",
+  "descripcion": "El tábano del caballo o gastrófilo (Gasterophilus intestinalis) pega sus huevos en los pelos del caballo; al lamerse, el caballo se traga las larvas, que viven meses en su estómago.\n\n#gasterophilus #parasitos #caballos #shorts",
+  "tags": [
+    "gasterophilus",
+    "mosca del caballo",
+    "parasitos",
+    "caballos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE TRAGA A SUS CRÍAS",
+  "prompt_miniatura": "a horse licking its front leg covered with tiny yellow fly eggs glued to the hairs, close-up",
+  "experimento": "control"
+}

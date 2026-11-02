@@ -1,0 +1,35 @@
+{
+  "id": "short_293_batalla_los_angeles",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Dispararon más de mil cuatrocientos proyectiles contra un enemigo que no existía.\n\nFue en Los Ángeles, en febrero de 1942, poco después de Pearl Harbor.\n\nUn radar detectó algo sobre el mar, sonaron las sirenas y se apagó la ciudad.\n\nLos cañones antiaéreos dispararon casi una hora.\n\nAl amanecer no había ni un avión, ni una bomba, ni un enemigo.\n\nY para mí, el único enemigo fue el pánico.\n\nMurieron cinco personas: tres en accidentes de coche y dos de un infarto.\n\nSi te gustan estos absurdos, sígueme.",
+  "queries_imagenes": [
+    "Battle of Los Angeles",
+    "Los Angeles 1942",
+    "anti-aircraft gun 1942 United States",
+    "searchlights Los Angeles",
+    "M3 anti-aircraft gun",
+    "Los Angeles Times 1942",
+    "Los Angeles blackout",
+    "90 mm anti-aircraft gun"
+  ],
+  "titulo": "La noche que una ciudad disparó a un enemigo inexistente",
+  "descripcion": "La «batalla de Los Ángeles» (25 de febrero de 1942): tras una falsa alarma, las defensas antiaéreas dispararon unos 1.440 proyectiles contra un ataque que nunca existió.\n\n#batalladelosangeles #segundaguerramundial #historia #shorts",
+  "tags": [
+    "batalla de los angeles",
+    "segunda guerra mundial",
+    "falsa alarma",
+    "historia",
+    "sucesos absurdos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "DISPARARON A LA NADA",
+  "prompt_miniatura": "a 1940s city at night with dozens of searchlight beams crossing in the sky and anti-aircraft bursts",
+  "experimento": "cierre_suscripcion"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_297_mosca_sapos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta mosca pone sus huevos sobre un sapo vivo, y sus larvas se lo comen empezando por la nariz.\n\nLos deja pegados a su piel, casi siempre en la espalda.\n\nAl nacer, las larvas reptan hasta los orificios nasales y se meten dentro.\n\nEn pocos días le devoran la cabeza por dentro.\n\nHe visto muchos parásitos, y este es de los que me quitan el sueño.\n\nLo más extraño: esta mosca no sabe vivir de otra forma. Sin sapos, no tendría crías.\n\nSígueme: hay parásitos aún peores.",
+  "queries_imagenes": [
+    "Lucilia bufonivora",
+    "Lucilia bufonivora toad",
+    "toad myiasis",
+    "Bufo bufo",
+    "common toad",
+    "Lucilia fly",
+    "Bufo bufo adult",
+    "Calliphoridae Lucilia"
+  ],
+  "titulo": "El bicho que se come a los sapos empezando por la nariz",
+  "descripcion": "La mosca Lucilia bufonivora pone sus huevos sobre sapos vivos; las larvas entran por las fosas nasales y se comen al sapo desde dentro.\n\n#luciliabufonivora #parasitos #sapos #shorts",
+  "tags": [
+    "lucilia bufonivora",
+    "mosca de los sapos",
+    "parasitos",
+    "sapo comun",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE LO COMEN POR DENTRO",
+  "prompt_miniatura": "a common toad sitting on moss with a shiny green fly resting on its back, macro photography",
+  "experimento": "cierre_suscripcion"
+}

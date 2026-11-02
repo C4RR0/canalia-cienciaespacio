@@ -1,0 +1,34 @@
+{
+  "id": "short_298_arana_pescadora",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta araña caza peces más grandes que ella, y sin tejer ni una tela.\n\nEs una araña pescadora. Espera con las patas apoyadas sobre el agua, notando cada vibración.\n\nCuando pasa un pez, se lanza, lo abraza y le clava el veneno.\n\nLuego lo arrastra a tierra para comérselo.\n\nConfieso que la primera vez que lo vi pensé que era un montaje.\n\nY no es cosa de un solo sitio: arañas así se han visto pescando en todos los continentes menos la Antártida.",
+  "queries_imagenes": [
+    "Dolomedes fish",
+    "Dolomedes triton",
+    "Dolomedes fimbriatus",
+    "Dolomedes plantarius",
+    "fishing spider",
+    "Dolomedes on water",
+    "Dolomedes tenebrosus",
+    "Pisauridae spider water"
+  ],
+  "titulo": "Esta araña caza peces más grandes que ella sin tejer tela",
+  "descripcion": "Las arañas pescadoras (género Dolomedes) acechan sobre la superficie del agua y capturan peces, a veces más grandes que ellas; se han documentado en todos los continentes salvo la Antártida.\n\n#arañapescadora #dolomedes #animalesraros #shorts",
+  "tags": [
+    "dolomedes",
+    "araña pescadora",
+    "arañas",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "PESCA SIN CAÑA",
+  "prompt_miniatura": "a large brown spider standing on the surface of a pond holding a small fish in its legs",
+  "experimento": "control"
+}

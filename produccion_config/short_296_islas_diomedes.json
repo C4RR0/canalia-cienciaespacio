@@ -1,0 +1,35 @@
+{
+  "id": "short_296_islas_diomedes",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Desde esta isla puedes ver el día de mañana a cuatro kilómetros.\n\nSon las islas Diómedes: la pequeña es de Estados Unidos; la grande, de Rusia.\n\nEntre ellas pasa la línea de cambio de fecha: la grande va casi un día por delante.\n\nEn invierno el mar se congela, pero cruzar está prohibido.\n\nEn 1987, una nadadora cruzó de una a otra en agua helada.\n\nPara mí, eso fue más valiente que cualquier discurso.\n\nMeses después, al firmar un tratado de desarme con Reagan, Gorbachov brindó por ella.",
+  "queries_imagenes": [
+    "Little Diomede Island",
+    "Big Diomede Island",
+    "Diomede Islands",
+    "Diomede Alaska",
+    "Bering Strait",
+    "Little Diomede village",
+    "Diomede Islands aerial",
+    "Bering Strait ice"
+  ],
+  "titulo": "El pueblo desde el que se ve el día de mañana",
+  "descripcion": "Las islas Diómedes (Estados Unidos y Rusia) están a unos 4 km y las separa la línea internacional de cambio de fecha. En 1987 Lynne Cox cruzó a nado entre ellas.\n\n#islasdiomedes #estrechodebering #lugaresincreibles #shorts",
+  "tags": [
+    "islas diomedes",
+    "estrecho de bering",
+    "lynne cox",
+    "guerra fria",
+    "lugares increibles",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "AQUÍ YA ES MAÑANA",
+  "prompt_miniatura": "two rocky islands facing each other across an icy strait under a grey Arctic sky",
+  "experimento": "control"
+}

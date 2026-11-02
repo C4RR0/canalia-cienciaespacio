@@ -1,0 +1,35 @@
+{
+  "id": "short_294_anisakis",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este gusano quiere llegar al estómago de un delfín y, a veces, acaba en el tuyo.\n\nEs el anisakis. Vive enrollado en peces, esperando a que se los coma una ballena o un delfín.\n\nPero si ese pescado llega crudo a tu plato, se equivoca de estómago.\n\nAquí no puede crecer, aunque puede darte un buen dolor.\n\nPor eso, en España, los restaurantes deben congelar el pescado que sirven crudo.\n\nY lo que me parece más traicionero: aunque esté muerto y cocinado, a algunas personas les provoca alergia.",
+  "queries_imagenes": [
+    "Anisakis",
+    "Anisakis simplex",
+    "Anisakis larvae fish",
+    "Anisakis simplex larva",
+    "anisakiasis",
+    "boquerones en vinagre",
+    "krill",
+    "Anisakidae"
+  ],
+  "titulo": "Este gusano busca un delfín y acaba en tu estómago",
+  "descripcion": "El anisakis (Anisakis simplex) es un gusano cuyo destino son ballenas y delfines; si comemos pescado crudo infectado puede causar dolor o alergia, incluso muerto.\n\n#anisakis #parasitos #pescado #shorts",
+  "tags": [
+    "anisakis",
+    "anisakis simplex",
+    "parasitos",
+    "pescado crudo",
+    "salud",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE EQUIVOCA DE ESTÓMAGO",
+  "prompt_miniatura": "a white curled parasitic larva in raw fish flesh, macro photography",
+  "experimento": "control"
+}

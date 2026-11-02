@@ -1,0 +1,34 @@
+{
+  "id": "short_289_ciempies_murcielagos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este ciempiés se cuelga del techo y caza murciélagos en pleno vuelo.\n\nEs el ciempiés gigante del Amazonas, y puede superar los veinte centímetros.\n\nEn una cueva de Venezuela lo vieron colgando del techo, sujeto solo por las patas traseras.\n\nCuando pasaba un murciélago, lo agarraba y le inyectaba veneno.\n\nYo creía que allí los cazadores eran los murciélagos. Ahí arriba, son la presa.\n\nY no se conformaba con uno: cazaba murciélagos de tres especies distintas.\n\nSi te ha dado escalofríos, sígueme: tengo bichos peores.",
+  "queries_imagenes": [
+    "Scolopendra gigantea",
+    "Amazonian giant centipede",
+    "Scolopendra gigantea head",
+    "giant centipede eating",
+    "Scolopendra",
+    "bat cave Venezuela",
+    "Scolopendra gigantea feeding",
+    "Mormoops megalophylla"
+  ],
+  "titulo": "El ciempiés que cuelga del techo y caza murciélagos",
+  "descripcion": "El ciempiés gigante del Amazonas (Scolopendra gigantea) fue observado en una cueva de Venezuela colgando del techo y cazando murciélagos en vuelo.\n\n#ciempies #scolopendra #animalesraros #shorts",
+  "tags": [
+    "scolopendra gigantea",
+    "ciempies gigante",
+    "murcielagos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "CAZA EN EL TECHO",
+  "prompt_miniatura": "a giant orange centipede hanging from a dark cave ceiling grabbing a small bat in flight",
+  "experimento": "cierre_suscripcion"
+}

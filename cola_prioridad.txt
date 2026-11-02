@@ -284,3 +284,16 @@ short_284_lascaux_cueva
 short_285_zorro_nieve
 short_282_mero_morena
 short_287_green_bank
+# 2026-11-02: tanda 288-299 (rutina automática), 2:1
+short_288_mosca_caballo
+short_289_ciempies_murcielagos
+short_290_hallstatt_calaveras
+short_291_mejillon_senuelo
+short_292_tejedor_sociable
+short_293_batalla_los_angeles
+short_294_anisakis
+short_295_leipoa_nido
+short_296_islas_diomedes
+short_297_mosca_sapos
+short_298_arana_pescadora
+short_299_ise_santuario

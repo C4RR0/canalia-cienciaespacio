@@ -1,0 +1,35 @@
+{
+  "id": "short_291_mejillon_senuelo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este molusco finge ser un pececillo, y al pez que lo muerde le llena las branquias de crías.\n\nEs un mejillón de río de Norteamérica. Saca un trozo de su cuerpo con forma de pez, con manchas como ojos.\n\nY lo mueve como si nadara.\n\nCuando un pez ataca, el mejillón le suelta una nube de larvas en la boca.\n\nMe parece una de las trampas más elegantes que existen.\n\nLas larvas se agarran a sus branquias y viajan gratis durante semanas.\n\nSi te gustan estos engaños, sígueme.",
+  "queries_imagenes": [
+    "Lampsilis mantle lure",
+    "Lampsilis",
+    "Lampsilis cardium",
+    "Lampsilis ovata",
+    "freshwater mussel lure",
+    "Lampsilis reeviana",
+    "glochidia fish gills",
+    "freshwater mussel Unionidae"
+  ],
+  "titulo": "Este molusco finge ser un pez para llenar de crías a otro",
+  "descripcion": "Los mejillones de río del género Lampsilis, de Norteamérica, mueven un señuelo con forma de pez; cuando un pez ataca, le sueltan larvas que se enganchan a sus branquias.\n\n#lampsilis #mejillones #animalesraros #shorts",
+  "tags": [
+    "lampsilis",
+    "mejillon de rio",
+    "señuelo",
+    "animales raros",
+    "parasitos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO ES UN PEZ",
+  "prompt_miniatura": "a freshwater mussel half buried in a riverbed displaying a fleshy lure shaped like a small fish with an eyespot",
+  "experimento": "cierre_suscripcion"
+}

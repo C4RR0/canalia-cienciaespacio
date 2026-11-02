@@ -1,0 +1,35 @@
+{
+  "id": "short_299_ise_santuario",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Cada veinte años, Japón derriba su santuario más sagrado y lo vuelve a construir idéntico al lado.\n\nEs el gran santuario de Ise. Lo hacen, con algún parón, desde hace unos mil trescientos años.\n\nLos carpinteros lo levantan con las técnicas de siempre, y así los maestros enseñan el oficio a los jóvenes.\n\nPara mí es la forma más lista de que algo dure: no conservarlo, sino rehacerlo.\n\nY el solar libre nunca queda vacío: una casita protege un poste sagrado.\n\nSi te gustan estos lugares, sígueme.",
+  "queries_imagenes": [
+    "Ise Grand Shrine",
+    "Ise Jingu Naiku",
+    "Ise Jingu Shikinen Sengu",
+    "Ise Jingu Geku",
+    "Naiku Ise",
+    "Ise Jingu Uji Bridge",
+    "Ise Jingu kodenchi",
+    "Shinmei-zukuri Ise"
+  ],
+  "titulo": "El templo que derriban y reconstruyen cada veinte años",
+  "descripcion": "El gran santuario de Ise (Ise Jingū, Japón) se reconstruye cada 20 años en el solar contiguo (Shikinen Sengū), una tradición de unos 1.300 años; la última fue en 2013.\n\n#isejingu #japon #lugaresincreibles #shorts",
+  "tags": [
+    "ise jingu",
+    "santuario de ise",
+    "japon",
+    "sintoismo",
+    "lugares increibles",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "LO DERRIBAN CADA 20 AÑOS",
+  "prompt_miniatura": "an ancient Japanese wooden shrine with thatched roof next to an identical new one under construction in a cedar forest",
+  "experimento": "cierre_suscripcion"
+}

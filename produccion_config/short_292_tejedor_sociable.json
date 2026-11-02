@@ -1,0 +1,35 @@
+{
+  "id": "short_292_tejedor_sociable",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro y sus vecinos hacen nidos tan pesados que pueden partir el árbol.\n\nEs el tejedor sociable, del sur de África.\n\nNo es un nido: es un edificio de paja con decenas de habitaciones.\n\nAhí viven cientos de pájaros juntos, a salvo del calor del día y del frío de la noche.\n\nSinceramente, es el mejor bloque de pisos que he visto.\n\nAlgunos duran más de un siglo.\n\nY tienen un inquilino que no paga: un halcón diminuto que se instala en sus habitaciones.",
+  "queries_imagenes": [
+    "Philetairus socius",
+    "sociable weaver nest",
+    "sociable weaver colony",
+    "Philetairus socius nest",
+    "sociable weaver Kalahari",
+    "Polihierax semitorquatus",
+    "pygmy falcon",
+    "sociable weaver nest tree"
+  ],
+  "titulo": "El pájaro que hace nidos tan pesados que parten el árbol",
+  "descripcion": "El tejedor sociable (Philetairus socius) construye nidos comunales con decenas de cámaras donde viven cientos de pájaros; pueden durar más de un siglo y los usa también el halcón pigmeo.\n\n#tejedorsociable #aves #africa #shorts",
+  "tags": [
+    "tejedor sociable",
+    "philetairus socius",
+    "nidos",
+    "aves de africa",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UN EDIFICIO DE PAJA",
+  "prompt_miniatura": "a gigantic straw nest covering an acacia tree in the Kalahari desert with small birds entering holes underneath",
+  "experimento": "control"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_295_leipoa_nido",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro mete el pico en su nido para tomarle la temperatura, durante meses.\n\nEs la leipoa ocelada, de Australia. El macho amontona arena y hojas hasta formar un montículo enorme.\n\nLas hojas se pudren y dan calor, y ahí la hembra pone los huevos.\n\nÉl cava, añade o quita arena para que no se cuezan ni se enfríen.\n\nMe parece el padre más obsesivo que existe.\n\nPero el pollo sale solo de la tierra y jamás conoce a sus padres.\n\nSígueme: hay padres aún más raros.",
+  "queries_imagenes": [
+    "Leipoa ocellata",
+    "malleefowl",
+    "malleefowl mound",
+    "malleefowl nest",
+    "Leipoa ocellata mound",
+    "malleefowl chick",
+    "megapode mound",
+    "Leipoa"
+  ],
+  "titulo": "El pájaro que mide con el pico la temperatura de su nido",
+  "descripcion": "La leipoa ocelada (Leipoa ocellata), de Australia, incuba sus huevos en un montículo de hojas en descomposición cuya temperatura controla el macho; los pollos nacen sin conocer a sus padres.\n\n#leipoa #avesdeaustralia #animalesraros #shorts",
+  "tags": [
+    "leipoa ocelada",
+    "malleefowl",
+    "aves de australia",
+    "nidos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "PADRE OBSESIVO",
+  "prompt_miniatura": "a spotted ground bird digging into a large mound of sand and leaves in the Australian scrub",
+  "experimento": "cierre_suscripcion"
+}
