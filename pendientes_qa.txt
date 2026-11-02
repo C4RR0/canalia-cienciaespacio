@@ -3,5 +3,4 @@ short_275_suecia_carril
 short_289_ciempies_murcielagos
 short_293_batalla_los_angeles
 short_294_anisakis
-short_298_arana_pescadora
 short_299_ise_santuario
