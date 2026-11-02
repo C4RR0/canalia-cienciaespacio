@@ -1,7 +1,6 @@
 short_269_hashima_isla
 short_275_suecia_carril
 short_289_ciempies_murcielagos
-short_291_mejillon_senuelo
 short_292_tejedor_sociable
 short_293_batalla_los_angeles
 short_294_anisakis
