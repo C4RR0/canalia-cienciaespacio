@@ -18,6 +18,7 @@ Uso:
 import csv
 import glob
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -43,6 +44,20 @@ LISTAS = {
 POR_TEMA_VISUAL = {"naturaleza": "animales", "historia": "historias", "adulto": "historias",
                    "curiosidades": "historias", "espacio": "ciencia", "ciencia": "ciencia",
                    "familiar": "animales"}
+
+# Series (3/11/2026, tarea de Vera en la oficina): listas EXTRA para encadenar visionados de una serie. Un Short
+# puede estar a la vez en su lista temática y en su serie. Entra en la serie el Short cuyo config casa con la
+# expresión, salvo los de NO_SERIE; además se añade al final de su descripción el enlace a la lista de la serie.
+SERIES = {
+    "parasitos": ("Parásitos que controlan a sus víctimas",
+                  "Avispas que convierten cucarachas en zombis, hongos que deciden dónde muere una hormiga, gusanos "
+                  "que obligan a un grillo a tirarse al agua… La serie completa de parásitos del canal, con datos "
+                  "reales en menos de un minuto.",
+                  r"par[aá]sit|zombi|hu[eé]sped",
+                  {"short_154_pez_loro_moco", "short_243_indicador_miel", "short_261_pez_limpiador_espejo",
+                   "short_286_rabihorcado"}),
+}
+ENLACE_SERIE = "▶️ Toda la serie de parásitos, seguida: https://www.youtube.com/playlist?list={}"
 
 
 def youtube():
@@ -116,6 +131,68 @@ def main(maximo: int):
         hechos += 1
         print(f"  + {tema}: {titulo} ({vistas} vistas)")
     print(f"Añadidos {hechos}; quedan {len(pendientes) - hechos} por añadir.")
+    series(yt, estado, videos, maximo)
+
+
+def titulos_de_serie(patron: str, fuera: set) -> set:
+    titulos = set()
+    for ruta in glob.glob(str(BASE / "produccion_config" / "short_*.json")):
+        if Path(ruta).stem in fuera:
+            continue
+        texto = Path(ruta).read_text(encoding="utf-8")
+        if re.search(patron, texto, re.I):
+            titulo = (json.loads(texto).get("titulo") or "").strip()
+            if titulo:
+                titulos.add(titulo)
+    return titulos
+
+
+def series(yt, estado, videos: dict, maximo: int):
+    """Crea las listas de SERIES, mete sus Shorts y pone el enlace a la serie en la descripción de cada uno."""
+    ids = estado.setdefault("series", {})
+    con_enlace = set(estado.setdefault("con_enlace_serie", []))
+    for clave, (titulo, descripcion, patron, fuera) in SERIES.items():
+        if not ids.get(clave):
+            r = yt.playlists().insert(part="snippet,status", body={
+                "snippet": {"title": titulo, "description": descripcion, "defaultLanguage": "es"},
+                "status": {"privacyStatus": "public"}}).execute()
+            ids[clave] = r["id"]
+            print(f"Serie creada: {titulo} ({r['id']})")
+            ESTADO.write_text(json.dumps(estado, ensure_ascii=False, indent=1), encoding="utf-8")
+        pid = ids[clave]
+        dentro, token = set(), None
+        while True:
+            r = yt.playlistItems().list(part="contentDetails", playlistId=pid, maxResults=50, pageToken=token).execute()
+            dentro |= {i["contentDetails"]["videoId"] for i in r["items"]}
+            token = r.get("nextPageToken")
+            if not token:
+                break
+        suyos = titulos_de_serie(patron, fuera)
+        miembros = [vid for vid, (_, dur, t) in videos.items() if t.strip() in suyos and dur <= 70]
+        nuevos = [v for v in miembros if v not in dentro][:maximo]
+        for vid in nuevos:
+            yt.playlistItems().insert(part="snippet", body={"snippet": {
+                "playlistId": pid, "resourceId": {"kind": "youtube#video", "videoId": vid}}}).execute()
+            print(f"  + serie {clave}: {videos[vid][2]}")
+        # Enlace en la descripción (videos.update = 50 unidades: como mucho `maximo` por ejecución)
+        linea = ENLACE_SERIE.format(pid)
+        hechos = 0
+        for vid in miembros:
+            if vid in con_enlace or hechos >= maximo:
+                continue
+            v = yt.videos().list(part="snippet", id=vid).execute()["items"]
+            if not v:
+                continue
+            sn = v[0]["snippet"]
+            if linea not in sn.get("description", ""):
+                cuerpo = {k: sn[k] for k in ("title", "categoryId", "tags", "defaultLanguage") if k in sn}
+                cuerpo["description"] = (sn.get("description", "").rstrip() + "\n\n" + linea).strip()
+                yt.videos().update(part="snippet", body={"id": vid, "snippet": cuerpo}).execute()
+                hechos += 1
+            con_enlace.add(vid)
+        estado["con_enlace_serie"] = sorted(con_enlace)
+        ESTADO.write_text(json.dumps(estado, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"Serie {clave}: {len(miembros)} Shorts, {len(nuevos)} añadidos, {hechos} descripciones con enlace.")
 
 
 if __name__ == "__main__":
