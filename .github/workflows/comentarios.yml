@@ -7,7 +7,7 @@ name: Responder comentarios
 # Aquí no importa que se solape con cron-job.org: solo responde a lo que siga pendiente.
 on:
   schedule:
-    - cron: "30 */3 * * *"
+    - cron: "30 * * * *"  # cada hora desde 4/11: responder en las 2 primeras horas
   workflow_dispatch:
     inputs:
       prueba:
