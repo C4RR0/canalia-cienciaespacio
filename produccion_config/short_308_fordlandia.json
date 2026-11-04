@@ -1,0 +1,35 @@
+{
+  "id": "short_308_fordlandia",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Uno de los hombres más ricos del mundo construyó un pueblo estadounidense en plena selva amazónica.\n\nEra Henry Ford. En 1928 quería su propio caucho para sus coches.\n\nLevantó casas americanas, un hospital y un cine. Y prohibió el alcohol.\n\nPero plantó los árboles demasiado juntos, y una plaga los arrasó.\n\nLos trabajadores, hartos de la comida del comedor, se rebelaron y lo destrozaron.\n\nPara mí, es dinero sin una gota de sentido común.\n\nY Ford nunca llegó a pisarlo. Si te van estos desastres, quédate.",
+  "queries_imagenes": [
+    "Fordlândia",
+    "Fordlandia Brazil",
+    "Fordlândia water tower",
+    "Fordlândia houses",
+    "Hevea brasiliensis",
+    "Tapajós River",
+    "Henry Ford",
+    "rubber tapping Brazil"
+  ],
+  "titulo": "El pueblo americano que un millonario plantó en la selva",
+  "descripcion": "Fordlândia fue el pueblo que Henry Ford mandó construir en 1928 en la Amazonía brasileña para producir caucho; fracasó por las plagas y una revuelta de los trabajadores, y Ford nunca lo visitó.\n\n#fordlandia #henryford #historia #shorts",
+  "tags": [
+    "fordlandia",
+    "henry ford",
+    "amazonia",
+    "pueblos abandonados",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UN PUEBLO EN LA SELVA",
+  "prompt_miniatura": "an abandoned American style town with white wooden houses and a water tower in the middle of the Amazon jungle",
+  "experimento": "cierre_suscripcion"
+}

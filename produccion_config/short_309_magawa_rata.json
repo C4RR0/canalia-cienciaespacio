@@ -1,0 +1,35 @@
+{
+  "id": "short_309_magawa_rata",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta rata encontró más de cien minas y explosivos, y ganó una medalla de oro.\n\nSe llamaba Magawa, una rata gigante africana que trabajó en Camboya.\n\nOlía el explosivo y rascaba el suelo para avisar. Pesaba tan poco que no hacía estallar las minas.\n\nLocalizó setenta y una minas y treinta y ocho bombas sin explotar.\n\nYo le daría más medallas que a muchos generales.\n\nUna persona con detector puede tardar días en revisar un terreno como una pista de tenis. Ella, veinte minutos.",
+  "queries_imagenes": [
+    "Cricetomys ansorgei",
+    "Cricetomys gambianus",
+    "Cricetomys",
+    "giant pouched rat",
+    "APOPO rat",
+    "APOPO HeroRAT",
+    "landmine Cambodia",
+    "demining Cambodia"
+  ],
+  "titulo": "La rata que olía minas y ganó una medalla de oro",
+  "descripcion": "Magawa, una rata gigante africana (Cricetomys) entrenada por APOPO, detectó 71 minas y 38 explosivos sin detonar en Camboya y recibió la medalla de oro de la PDSA en 2020.\n\n#magawa #ratas #animales #shorts",
+  "tags": [
+    "magawa",
+    "rata gigante africana",
+    "cricetomys",
+    "apopo",
+    "minas antipersona",
+    "animales heroes",
+    "shorts"
+  ],
+  "hook_miniatura": "SALVÓ CIENTOS DE VIDAS",
+  "prompt_miniatura": "a large brown rat wearing a small harness sniffing the ground in a red dirt field with a gold medal",
+  "experimento": "control"
+}

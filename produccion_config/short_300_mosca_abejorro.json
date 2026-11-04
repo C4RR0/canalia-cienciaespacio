@@ -1,0 +1,35 @@
+{
+  "id": "short_300_mosca_abejorro",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta mosca obliga a un abejorro a enterrarse vivo antes de morir.\n\nLo caza en pleno vuelo y le mete un huevo en el abdomen.\n\nLa larva se lo come por dentro.\n\nCuando le quedan pocos días, el abejorro se pone a cavar y se entierra.\n\nLo siento, pero esto me parece peor que cualquier película de terror.\n\nLa mosca pasa el invierno dentro de su cadáver y sale al verano siguiente.\n\nSi te ha puesto los pelos de punta, aquí hay parásitos peores.",
+  "queries_imagenes": [
+    "Conopidae",
+    "Sicus ferrugineus",
+    "Physocephala rufipes",
+    "Conops flavipes",
+    "Myopa",
+    "Bombus terrestris",
+    "Bombus pascuorum",
+    "bumblebee on flower"
+  ],
+  "titulo": "Esta mosca obliga a un abejorro a enterrarse vivo",
+  "descripcion": "Las moscas cónopidas (familia Conopidae) ponen un huevo dentro de un abejorro en pleno vuelo; la larva se lo come por dentro y el abejorro parasitado se entierra antes de morir, lo que ayuda a la mosca a pasar el invierno.\n\n#parasitos #abejorros #insectos #shorts",
+  "tags": [
+    "conopidae",
+    "mosca conopida",
+    "abejorro",
+    "parasitos",
+    "control mental",
+    "insectos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE CAVA SU TUMBA",
+  "prompt_miniatura": "a slender wasp-like fly grabbing a fuzzy bumblebee in mid air above flowers, macro photography",
+  "experimento": "cierre_suscripcion"
+}

@@ -297,3 +297,16 @@ short_296_islas_diomedes
 short_297_mosca_sapos
 short_298_arana_pescadora
 short_299_ise_santuario
+# 2026-11-04: tanda 300-311 (rutina automática), 2:1
+short_300_mosca_abejorro
+short_301_beluga_voz
+short_302_oreja_jenkins
+short_303_escarabajo_aceitero
+short_304_erizo_sapos
+short_305_plymouth_capital
+short_306_mosca_alcohol
+short_307_abejero
+short_308_fordlandia
+short_309_magawa_rata
+short_310_guerra_chimpances
+short_311_okunoshima

@@ -1,0 +1,35 @@
+{
+  "id": "short_305_plymouth_capital",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Un volcán sepultó una capital entera bajo la ceniza. Y, sobre el papel, sigue siendo la capital.\n\nEs Plymouth, en la isla caribeña de Montserrat.\n\nEn 1995 el volcán despertó y evacuaron a todos sus vecinos. Dos años después, las nubes ardientes de ceniza y roca la cubrieron.\n\nHoy está en una zona de exclusión: no se puede entrar sin permiso.\n\nA mí me parece de otro planeta: tejados asomando entre la ceniza gris.\n\nY nunca la han sustituido oficialmente. Es la única capital fantasma del mundo.",
+  "queries_imagenes": [
+    "Plymouth Montserrat",
+    "Plymouth Montserrat ash",
+    "Plymouth Montserrat abandoned",
+    "Soufrière Hills",
+    "Soufrière Hills Volcano eruption",
+    "Montserrat exclusion zone",
+    "Montserrat volcano",
+    "Montserrat island"
+  ],
+  "titulo": "La capital que enterró un volcán y sigue siendo la capital",
+  "descripcion": "Plymouth, en la isla de Montserrat, fue evacuada en 1995 y sepultada por las erupciones del volcán Soufrière Hills; abandonada, sigue siendo oficialmente la capital del territorio.\n\n#montserrat #volcanes #lugaresabandonados #shorts",
+  "tags": [
+    "plymouth montserrat",
+    "montserrat",
+    "soufriere hills",
+    "ciudad fantasma",
+    "lugares abandonados",
+    "lugares increibles",
+    "shorts"
+  ],
+  "hook_miniatura": "CAPITAL BAJO CENIZA",
+  "prompt_miniatura": "an abandoned tropical town half buried in grey volcanic ash with roofs sticking out and a smoking volcano behind",
+  "experimento": "control"
+}

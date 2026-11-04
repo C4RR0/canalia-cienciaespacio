@@ -1,0 +1,35 @@
+{
+  "id": "short_307_abejero",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro desentierra nidos de avispas y se come las larvas, mientras las avispas le atacan.\n\nEs el abejero europeo, una rapaz que pasa el verano en España.\n\nSigue el vuelo de las avispas hasta el nido y cava con las patas hasta sacarlo.\n\nSu secreto está en la cara: plumas cortas, duras y apretadas, como escamas, que los aguijones casi no atraviesan.\n\nYo, que huyo de una avispa, le tengo envidia.\n\nY a sus pollos les lleva al nido trozos de panal llenos de larvas.",
+  "queries_imagenes": [
+    "Pernis apivorus",
+    "European honey buzzard",
+    "Pernis apivorus head",
+    "Pernis apivorus flight",
+    "Pernis apivorus wasp nest",
+    "honey buzzard nest",
+    "Vespula vulgaris nest",
+    "Pernis apivorus juvenile"
+  ],
+  "titulo": "El pájaro que asalta nidos de avispas y se come sus larvas",
+  "descripcion": "El abejero europeo (Pernis apivorus) es una rapaz que se alimenta sobre todo de larvas de avispas y abejas: desentierra los nidos con las patas y tiene la cara cubierta de plumas cortas y duras como escamas.\n\n#abejero #aves #rapaces #shorts",
+  "tags": [
+    "abejero europeo",
+    "pernis apivorus",
+    "aves rapaces",
+    "avispas",
+    "aves de españa",
+    "animales",
+    "shorts"
+  ],
+  "hook_miniatura": "NO LE PICAN",
+  "prompt_miniatura": "a bird of prey digging into the ground and pulling out a paper wasp nest while wasps swarm around its head",
+  "experimento": "control"
+}

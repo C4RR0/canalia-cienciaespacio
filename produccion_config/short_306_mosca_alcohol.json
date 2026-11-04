@@ -1,0 +1,35 @@
+{
+  "id": "short_306_mosca_alcohol",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta mosca se emborracha para matar a los parásitos que lleva dentro.\n\nEs la mosca de la fruta. Unas avispas diminutas ponen huevos en sus larvas, y se las comen desde dentro.\n\nPero las larvas infectadas buscan comida con alcohol y se atiborran. Y el alcohol mata a muchas avispas.\n\nY yo que creía que curarse con una copa era una excusa de bar.\n\nLo mejor: si una hembra ve avispas, pone sus huevos en comida con más alcohol.\n\nQuédate: aquí hay bichos aún más listos.",
+  "queries_imagenes": [
+    "Drosophila melanogaster",
+    "Drosophila melanogaster larva",
+    "Leptopilina heterotoma",
+    "Leptopilina boulardi",
+    "Drosophila on fruit",
+    "fruit fly rotting fruit",
+    "Drosophila larvae",
+    "Drosophila melanogaster female"
+  ],
+  "titulo": "Esta mosca se emborracha para matar a sus parásitos",
+  "descripcion": "Las larvas de la mosca de la fruta (Drosophila melanogaster) parasitadas por avispas Leptopilina buscan comida con alcohol, que mata a las larvas de avispa; y las hembras que ven avispas ponen sus huevos en comida con más alcohol.\n\n#moscadelafruta #parasitos #insectos #shorts",
+  "tags": [
+    "mosca de la fruta",
+    "drosophila",
+    "leptopilina",
+    "parasitos",
+    "insectos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE EMBORRACHA PARA VIVIR",
+  "prompt_miniatura": "a tiny fruit fly with red eyes standing on a glass of wine next to rotting fruit, macro photography",
+  "experimento": "cierre_suscripcion"
+}

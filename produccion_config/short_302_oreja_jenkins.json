@@ -1,0 +1,35 @@
+{
+  "id": "short_302_oreja_jenkins",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Un capitán inglés perdió una oreja, y aquello acabó en guerra contra España.\n\nEn 1731, un guardacostas español abordó su barco cerca de Cuba y, según él, se la cortó.\n\nAños después, el caso llegó al Parlamento británico. En 1739 estalló la guerra.\n\nEn 1741 atacaron Cartagena de Indias con casi doscientos barcos. La defendía Blas de Lezo, sin una pierna ni un ojo.\n\nMi parte favorita: los ingleses ya habían acuñado medallas de la victoria. Perdieron.\n\nSi te gustan estas historias, aquí tienes muchas más.",
+  "queries_imagenes": [
+    "Blas de Lezo",
+    "Castillo San Felipe de Barajas",
+    "Cartagena de Indias walls",
+    "Edward Vernon",
+    "Vernon medal Cartagena",
+    "Battle of Cartagena de Indias",
+    "Cartagena de Indias fortress",
+    "Blas de Lezo statue"
+  ],
+  "titulo": "Un capitán perdió una oreja y empezó una guerra con España",
+  "descripcion": "La Guerra de la Oreja de Jenkins (1739-1748) empezó tras el caso del capitán Robert Jenkins; en 1741 Blas de Lezo defendió Cartagena de Indias y los británicos, que ya habían acuñado medallas de victoria, tuvieron que retirarse.\n\n#blasdelezo #historiadeespaña #cartagenadeindias #shorts",
+  "tags": [
+    "guerra de la oreja de jenkins",
+    "blas de lezo",
+    "cartagena de indias",
+    "historia de españa",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "TODO POR UNA OREJA",
+  "prompt_miniatura": "an eighteenth century naval battle with sailing warships firing cannons at a stone fortress in the Caribbean",
+  "experimento": "cierre_suscripcion"
+}

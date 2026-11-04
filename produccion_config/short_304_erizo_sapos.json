@@ -1,0 +1,35 @@
+{
+  "id": "short_304_erizo_sapos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este animal muerde un sapo venenoso, mastica su piel y se unta las púas con la mezcla.\n\nEs el erizo europeo, el que puede aparecer de noche en tu jardín.\n\nMastica cosas de olor fuerte hasta llenarse la boca de espuma, y la extiende por las púas con la lengua.\n\nUn estudio comprobó que las púas con veneno de sapo hacían más daño.\n\nMe parece de una astucia brutal.\n\nY aun así, los científicos siguen discutiendo por qué lo hace.\n\nSi te gustan estos misterios, quédate.",
+  "queries_imagenes": [
+    "Erinaceus europaeus",
+    "European hedgehog",
+    "hedgehog self-anointing",
+    "hedgehog spines",
+    "Erinaceus europaeus night",
+    "hedgehog in garden",
+    "Bufo bufo",
+    "common toad"
+  ],
+  "titulo": "El animal que se unta las púas con veneno de sapo",
+  "descripcion": "El erizo europeo (Erinaceus europaeus) practica la autounción: mastica sustancias de olor fuerte, como la piel de sapos venenosos, y extiende la espuma por sus púas.\n\n#erizo #animalesraros #naturaleza #shorts",
+  "tags": [
+    "erizo europeo",
+    "erizo",
+    "autouncion",
+    "sapos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE UNTA DE VENENO",
+  "prompt_miniatura": "a hedgehog with white foam on its mouth twisting to lick its spines next to a toad at night",
+  "experimento": "cierre_suscripcion"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_310_guerra_chimpances",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Un grupo de chimpancés se partió en dos, y durante cuatro años unos mataron a los otros, uno a uno.\n\nPasó en Gombe, Tanzania, ante el equipo de Jane Goodall.\n\nVarios machos se habían ido al sur. Habían crecido juntos.\n\nDesde 1974, patrullas del norte entraban en silencio y atacaban a los que encontraban solos.\n\nConfieso que esto me quitó la idea de que la guerra es solo cosa nuestra.\n\nEn 1978 no quedaba ni un macho del grupo del sur.\n\nSi quieres más historias así, quédate.",
+  "queries_imagenes": [
+    "Pan troglodytes schweinfurthii",
+    "Gombe Stream National Park",
+    "chimpanzee Gombe",
+    "Gombe chimpanzees",
+    "Jane Goodall",
+    "chimpanzee group",
+    "chimpanzee aggression",
+    "Pan troglodytes"
+  ],
+  "titulo": "Estos simios se partieron en dos bandos y se mataron",
+  "descripcion": "La guerra de los chimpancés de Gombe (Tanzania, 1974-1978) enfrentó a los grupos Kasakela y Kahama; los observó el equipo de Jane Goodall y acabó con la desaparición de todos los machos del grupo del sur.\n\n#chimpances #janegoodall #animales #shorts",
+  "tags": [
+    "chimpances",
+    "guerra de gombe",
+    "jane goodall",
+    "primates",
+    "comportamiento animal",
+    "animales",
+    "shorts"
+  ],
+  "hook_miniatura": "UNA GUERRA REAL",
+  "prompt_miniatura": "two groups of chimpanzees facing each other aggressively in a dense African forest",
+  "experimento": "cierre_suscripcion"
+}

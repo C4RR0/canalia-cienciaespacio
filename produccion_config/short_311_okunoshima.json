@@ -1,0 +1,35 @@
+{
+  "id": "short_311_okunoshima",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Esta isla está llena de conejos que corren hacia ti pidiendo comida. Pero fue una fábrica secreta de gas venenoso.\n\nEs Okunoshima, en Japón. Entre 1929 y 1945, el ejército japonés fabricó allí gas mostaza.\n\nLa isla llegó a desaparecer de los mapas.\n\nHoy tiene un museo del gas venenoso, ruinas de la fábrica y cientos de conejos.\n\nReconozco que no se me ocurre un contraste más siniestro.\n\nMucha gente cree que son descendientes de los conejos del laboratorio. Pero aquellos fueron sacrificados al cerrar la fábrica.",
+  "queries_imagenes": [
+    "Ōkunoshima",
+    "Okunoshima rabbits",
+    "Ōkunoshima rabbit",
+    "Okunoshima Poison Gas Museum",
+    "Okunoshima ruins",
+    "Okunoshima power plant",
+    "Okunoshima island Hiroshima",
+    "rabbit island Japan"
+  ],
+  "titulo": "La isla llena de conejos donde fabricaban gas venenoso",
+  "descripcion": "Okunoshima (Hiroshima, Japón) fue entre 1929 y 1945 una fábrica secreta de gas mostaza del ejército japonés; hoy es conocida por sus cientos de conejos y su museo del gas venenoso.\n\n#okunoshima #japon #lugaresincreibles #shorts",
+  "tags": [
+    "okunoshima",
+    "isla de los conejos",
+    "japon",
+    "gas mostaza",
+    "lugares increibles",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "ISLA DE CONEJOS SECRETA",
+  "prompt_miniatura": "a small Japanese island full of fluffy rabbits in front of crumbling concrete ruins of an old factory",
+  "experimento": "control"
+}

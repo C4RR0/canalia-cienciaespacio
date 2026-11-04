@@ -1,0 +1,34 @@
+{
+  "id": "short_301_beluga_voz",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Una ballena blanca imitó la voz humana tan bien, que un buzo salió del agua preguntando quién le había mandado salir.\n\nPasó en San Diego, en un programa de la Marina estadounidense. Era una beluga llamada Noc.\n\nLos científicos la grabaron: bajaba su voz varias octavas y hablaba con ritmo de conversación.\n\nSi yo fuera ese buzo, no vuelvo a meterme en el agua.\n\nY no usaba la boca: cambiaba la presión dentro de su orificio nasal hasta sonar como una persona.",
+  "queries_imagenes": [
+    "Delphinapterus leucas",
+    "beluga whale",
+    "beluga whale head",
+    "beluga whale melon",
+    "beluga whale aquarium",
+    "beluga whale diver",
+    "Delphinapterus leucas pod",
+    "beluga whale blowhole"
+  ],
+  "titulo": "La ballena que imitó la voz humana y engañó a un buzo",
+  "descripcion": "Noc, una beluga (Delphinapterus leucas) del programa de mamíferos marinos de la Marina de EE. UU. en San Diego, imitaba la voz humana; un buzo llegó a salir del agua creyendo que alguien le hablaba.\n\n#beluga #ballenas #animales #shorts",
+  "tags": [
+    "beluga",
+    "ballena beluga",
+    "noc beluga",
+    "animales que hablan",
+    "mamiferos marinos",
+    "shorts"
+  ],
+  "hook_miniatura": "HABLABA COMO NOSOTROS",
+  "prompt_miniatura": "a white beluga whale with its head out of the water facing a scuba diver, as if talking",
+  "experimento": "control"
+}

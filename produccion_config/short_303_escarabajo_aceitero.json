@@ -1,0 +1,35 @@
+{
+  "id": "short_303_escarabajo_aceitero",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Cientos de larvas de un escarabajo se juntan en una bola y fingen ser una abeja hembra.\n\nPasa en California. Trepan a la punta de una planta y se apiñan, imitando su forma y hasta su olor.\n\nLlega un macho, intenta aparearse, y las larvas se le suben encima.\n\nCuando él encuentra una hembra de verdad, saltan a ella. Y ella las lleva a su nido.\n\nEs el engaño más retorcido que conozco.\n\nAllí, las larvas se comen el polen y el huevo de la abeja.",
+  "queries_imagenes": [
+    "Meloe franciscanus",
+    "Meloe proscarabaeus",
+    "Meloe triungulin",
+    "Meloe violaceus",
+    "Meloidae larva",
+    "Habropoda",
+    "Meloe beetle",
+    "Meloe larvae on bee"
+  ],
+  "titulo": "Estas larvas fingen ser una abeja para colarse en su nido",
+  "descripcion": "Las larvas del escarabajo aceitero Meloe franciscanus se agrupan e imitan la forma y el olor de una abeja hembra (Habropoda pallida); el macho las transporta hasta la hembra y esta, a su nido, donde se comen el polen y el huevo.\n\n#escarabajos #parasitos #insectos #shorts",
+  "tags": [
+    "meloe franciscanus",
+    "escarabajo aceitero",
+    "meloe",
+    "parasitos",
+    "insectos",
+    "animales raros",
+    "shorts"
+  ],
+  "hook_miniatura": "UNA ABEJA FALSA",
+  "prompt_miniatura": "a cluster of tiny orange beetle larvae on top of a grass stem forming the shape of a bee, macro photography",
+  "experimento": "control"
+}
