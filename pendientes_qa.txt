@@ -2,7 +2,6 @@ short_269_hashima_isla
 short_275_suecia_carril
 short_289_ciempies_murcielagos
 short_306_mosca_alcohol
-short_308_fordlandia
 short_309_magawa_rata
 short_310_guerra_chimpances
 short_311_okunoshima
