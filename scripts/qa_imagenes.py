@@ -52,6 +52,10 @@ animales o crías demasiado perfectos y esponjosos, como de peluche). Si dudas, 
 - No es otra cosa con el mismo nombre (otra especie, otro pueblo, una persona homónima, un \
 producto comercial, un logotipo).
 - No está muy borrosa, minúscula o casi toda vacía.
+- No es una imagen médica o sangrienta: NO heridas abiertas, carne o piel con larvas o gusanos \
+dentro, lesiones, pies o miembros infestados, órganos o vísceras, cirugías, endoscopias, sangre ni \
+cadáveres. YouTube deja de repartir los Shorts con ese tipo de fotos (4/11/2026: dos se quedaron \
+en 22 y 66 vistas). Muestra el bicho o el lugar, no el daño que hace.
 
 Además puntúa de 0 a 10 lo buena que sería como MINIATURA: impactante, sujeto grande y \
 reconocible, sin texto."""

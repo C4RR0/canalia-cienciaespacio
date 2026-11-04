@@ -1409,3 +1409,9 @@ Datos: canal.csv, videos.csv y videos_enganche.csv (26/10).
 - Arreglado el 26/10: títulos de los 31 Shorts en cola (216-248) reescritos con «Este/Esta + tipo genérico + acción»,
   «El/La … que/donde …» o arranque narrativo con sujeto; regla de la rutina corregida. MEDIR a partir del 27/10
   (y sobre todo desde el 29/10, cuando salgan los de 225 en adelante): enganche medio ≥ 42 % y ≥ 20 % de escapados.
+
+## 2026-11-04 — Fotos médicas = Short sin reparto
+
+- Dos Shorts de la semana se quedaron sin reparto: short_252 gusano barrenador («Esta mosca pone huevos en heridas…», 66 vistas) y short_268 nigua («La pulga que se mete en tu pie…», 22). Sus queries_imagenes pedían la LESIÓN (`screwworm myiasis cattle`, `tungiasis foot`, `Tunga penetrans foot`) y la miniatura hablaba de carne viva. Otros parásitos de humanos con fotos del bicho (ácaros de la cara, gusano del ojo, chinche besucona) salieron normales (~1.000-1.350): el problema son las FOTOS, no el tema.
+- short_294 anisakis (en cola) tenía 3 fotos de estómagos/vísceras llenos de gusanos (query `anisakiasis`): cambiadas a mano por delfín, sashimi y ballena.
+- REGLAS: (1) queries_imagenes, hook y prompt_miniatura muestran al bicho, al huésped entero o el lugar, nunca la lesión; nada de términos como myiasis, tungiasis, anisakiasis, wound, lesion, infestation, infected foot/skin, surgery, endoscopy, organ, corpse. (2) qa_imagenes.py rechaza ahora las fotos médicas o sangrientas (heridas, larvas en carne o piel, miembros infestados, órganos, cirugía, sangre, cadáveres). (3) Parásitos de humanos: como mucho 1 por tanda de 12.

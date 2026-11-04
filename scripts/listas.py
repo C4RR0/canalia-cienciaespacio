@@ -20,11 +20,13 @@ import glob
 import json
 import re
 import sys
+import time
 from pathlib import Path
 
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
+from googleapiclient.errors import HttpError
 
 BASE = Path(__file__).resolve().parent.parent
 ESTADO = BASE / "listas.json"
@@ -55,9 +57,19 @@ SERIES = {
                   "reales en menos de un minuto.",
                   r"par[aá]sit|zombi|hu[eé]sped",
                   {"short_154_pez_loro_moco", "short_243_indicador_miel", "short_261_pez_limpiador_espejo",
-                   "short_286_rabihorcado"}),
+                   "short_286_rabihorcado"},
+                  "▶️ Toda la serie de parásitos, seguida: https://www.youtube.com/playlist?list={}"),
+    # 4/11/2026: segundo tema que más rinde (lugares, 1.783 de media). "titulo:" = la expresión se busca solo en
+    # el título del config (en el texto entero casaría con cualquier guion que diga «pueblo» o «isla»).
+    "lugares": ("Lugares imposibles que existen de verdad",
+                "Pueblos que arden bajo tierra, lagos que convierten animales en piedra, islas donde está "
+                "prohibido desembarcar… Todos los lugares insólitos del canal, seguidos y en menos de un minuto.",
+                r"titulo:^(El|La|Esta|Este) (pueblo|aldea|isla|ciudad|lago|templo|capital|cueva|volcán|faro|bosque|"
+                r"desierto|mina|valle|país|playa|río|cementerio|carretera|montaña|calle|casa|hotel|cráter|puerto|"
+                r"torre|catedral|santuario|iglesia)\b",
+                set(),
+                "▶️ Más lugares imposibles, seguidos: https://www.youtube.com/playlist?list={}"),
 }
-ENLACE_SERIE = "▶️ Toda la serie de parásitos, seguida: https://www.youtube.com/playlist?list={}"
 
 
 def youtube():
@@ -140,18 +152,23 @@ def titulos_de_serie(patron: str, fuera: set) -> set:
         if Path(ruta).stem in fuera:
             continue
         texto = Path(ruta).read_text(encoding="utf-8")
-        if re.search(patron, texto, re.I):
-            titulo = (json.loads(texto).get("titulo") or "").strip()
-            if titulo:
-                titulos.add(titulo)
+        titulo = (json.loads(texto).get("titulo") or "").strip()
+        if patron.startswith("titulo:"):
+            casa = re.search(patron[len("titulo:"):], titulo, re.I)
+        else:
+            casa = re.search(patron, texto, re.I)
+        if casa and titulo:
+            titulos.add(titulo)
     return titulos
 
 
 def series(yt, estado, videos: dict, maximo: int):
     """Crea las listas de SERIES, mete sus Shorts y pone el enlace a la serie en la descripción de cada uno."""
     ids = estado.setdefault("series", {})
-    con_enlace = set(estado.setdefault("con_enlace_serie", []))
-    for clave, (titulo, descripcion, patron, fuera) in SERIES.items():
+    for clave, (titulo, descripcion, patron, fuera, enlace) in SERIES.items():
+        # Cada serie lleva su propio registro de descripciones ya enlazadas (la de parásitos conserva el nombre antiguo)
+        campo = "con_enlace_serie" if clave == "parasitos" else f"con_enlace_serie_{clave}"
+        con_enlace = set(estado.setdefault(campo, []))
         if not ids.get(clave):
             r = yt.playlists().insert(part="snippet,status", body={
                 "snippet": {"title": titulo, "description": descripcion, "defaultLanguage": "es"},
@@ -162,7 +179,16 @@ def series(yt, estado, videos: dict, maximo: int):
         pid = ids[clave]
         dentro, token = set(), None
         while True:
-            r = yt.playlistItems().list(part="contentDetails", playlistId=pid, maxResults=50, pageToken=token).execute()
+            # Una lista recién creada puede tardar en aparecer para la API (404 playlistNotFound, 4/11/2026)
+            for intento in range(6):
+                try:
+                    r = yt.playlistItems().list(part="contentDetails", playlistId=pid, maxResults=50,
+                                                pageToken=token).execute()
+                    break
+                except HttpError as e:
+                    if e.resp.status != 404 or intento == 5:
+                        raise
+                    time.sleep(20)
             dentro |= {i["contentDetails"]["videoId"] for i in r["items"]}
             token = r.get("nextPageToken")
             if not token:
@@ -175,7 +201,7 @@ def series(yt, estado, videos: dict, maximo: int):
                 "playlistId": pid, "resourceId": {"kind": "youtube#video", "videoId": vid}}}).execute()
             print(f"  + serie {clave}: {videos[vid][2]}")
         # Enlace en la descripción (videos.update = 50 unidades: como mucho `maximo` por ejecución)
-        linea = ENLACE_SERIE.format(pid)
+        linea = enlace.format(pid)
         hechos = 0
         for vid in miembros:
             if vid in con_enlace or hechos >= maximo:
@@ -190,7 +216,7 @@ def series(yt, estado, videos: dict, maximo: int):
                 yt.videos().update(part="snippet", body={"id": vid, "snippet": cuerpo}).execute()
                 hechos += 1
             con_enlace.add(vid)
-        estado["con_enlace_serie"] = sorted(con_enlace)
+        estado[campo] = sorted(con_enlace)
         ESTADO.write_text(json.dumps(estado, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"Serie {clave}: {len(miembros)} Shorts, {len(nuevos)} añadidos, {hechos} descripciones con enlace.")
 
