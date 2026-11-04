@@ -1,7 +1,6 @@
 short_269_hashima_isla
 short_275_suecia_carril
 short_289_ciempies_murcielagos
-short_303_escarabajo_aceitero
 short_304_erizo_sapos
 short_305_plymouth_capital
 short_306_mosca_alcohol
