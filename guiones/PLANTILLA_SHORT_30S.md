@@ -22,6 +22,32 @@ Reglas rápidas
 - Datos comprobados (fuente en el config); sin cifras inventadas.
 - Queries de imagen: 8, con sujeto reconocible (ver aprendizajes: revisión visual).
 
+## Reglas de enganche (5/11/2026; métrica: metricas/enganche.md)
+Métrica norte de cada Short: % de vistas comprometidas (se quedan / ven). Canal el
+4/11: 47 %. Objetivo: ≥55 %. Antes de escribir, leer metricas/enganche.md (top y
+bottom 10). Entre temas apenas hay diferencia (45-49 %); la diferencia está en el
+ÁNGULO del gancho de cada vídeo (los mejores 57-64 %, los peores 22-33 %).
+
+1. **Tema claro en la primera frase.** El espectador debe saber de qué va en 1-2 s.
+   Prohibido el gancho vago («Esto es lo más loco que verás»).
+2. **Contraste.** La primera o segunda frase enfrenta lo que todos creen con el dato
+   real, dicho o implícito: «El organismo vivo más grande del planeta no es una
+   ballena azul». Récords, superlativos, «el único», «sin ningún…» retienen más.
+3. **Ángulo de asombro, no de violencia.** Los 10 que menos retienen abren con muerte
+   o violencia gráfica («se la come viva», «le arranca la cabeza», «mata a la reina»).
+   Un parásito o depredador se cuenta por lo increíble que logra (controla, engaña,
+   sobrevive), no por la escena sangrienta. La imagen de los 2 primeros segundos,
+   igual: sin sangre ni heridas.
+4. **Fácil de entender.** Palabras sencillas, voz activa, frases cortas. Leer el
+   gancho solo: si se puede entender de dos formas, reescribirlo.
+5. **«Tú» cuando encaje** («Si cortas este gusano…» retiene 61 %).
+6. **Causalidad, no lista.** Unir los bloques con «pero» / «por eso», nunca con «y
+   además»: cada frase debe abrir la pregunta que responde la siguiente.
+7. **Final en seco.** Tras la pregunta final no va nada más: ni «suscríbete», ni
+   «gracias», ni «hasta el próximo». La pregunta, de 8 palabras como mucho.
+8. **Originalidad (YouTube, 3/11/2026).** La voz no describe lo que se ve; aporta el
+   dato, la causa o el contexto que la imagen no da.
+
 Prueba (5 Shorts)
 1. Escribir con esta estructura los próximos 5 guiones nuevos y anotar sus ids aquí:
    _(pendiente)_
@@ -33,5 +59,5 @@ Prueba (5 Shorts)
 Ejemplo de esqueleto (no reutilizar el texto):
 > [Gancho] Este gusano convierte a su víctima en un zombi suicida.
 > [Dato] El hongo/parásito X manda al insecto a lo alto de una hoja… (cifra).
-> [Giro] Y lo peor: …
-> [Pregunta] ¿Qué animal te parece más inquietante que este?
+> [Giro] Pero lo más raro es por qué lo hace: … (causa)
+> [Pregunta] ¿Qué animal te parece más inquietante?
