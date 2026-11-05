@@ -1,6 +1,9 @@
 # 17/10: REORDENADA según el análisis de aprendizajes.md (2026-10-17). Va arriba porque manda la primera aparición.
 # Primero la tanda de prueba 183-188 (parásitos / lugares imposibles; sale en cuanto tenga medios), luego los
 # temas fuertes ya listos (2 animales : 1 historia) y al final los antiguos largos de espacio y geología.
+short_312_charran_dos_veranos
+short_313_ganso_himalaya
+short_314_zifio_cuvier_apnea
 short_183_mariquita_guardaespaldas
 short_185_toxoplasma_ratas
 short_184_kolmanskop_arena

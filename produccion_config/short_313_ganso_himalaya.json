@@ -1,0 +1,34 @@
+{
+  "id": "short_313_ganso_himalaya",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este ganso cruza el Himalaya sin botellas de oxígeno.\n\nEs el ganso de cabeza barrada. En sus migraciones se han medido vuelos a más de siete mil metros, donde hay menos de la mitad del oxígeno que a nivel del mar.\n\nPero su sangre se aferra al oxígeno mejor que la de otros gansos, y eso le permite seguir batiendo las alas.\n\nUn alpinista necesita días para aclimatarse a esa altura.\n\n¿Subirías tú sin oxígeno?",
+  "queries_imagenes": [
+    "Anser indicus",
+    "Bar-headed goose",
+    "Bar-headed goose flight",
+    "Himalayas",
+    "Himalaya geese",
+    "Bar-headed goose flock",
+    "Mount Everest",
+    "Bar-headed goose Ladakh"
+  ],
+  "titulo": "El ganso que cruza el Himalaya sin oxígeno",
+  "descripcion": "El ganso de cabeza barrada (Anser indicus) migra sobre el Himalaya; estudios con GPS lo midieron a más de 7.000 m. Su hemoglobina tiene alta afinidad por el oxígeno.\n\n#himalaya #aves #animales #shorts",
+  "tags": [
+    "ganso de cabeza barrada",
+    "himalaya",
+    "aves",
+    "animales",
+    "records",
+    "shorts"
+  ],
+  "hook_miniatura": "CRUZA EL HIMALAYA",
+  "prompt_miniatura": "a bar-headed goose flying above snowy Himalayan peaks",
+  "experimento": "cierre_suscripcion"
+}

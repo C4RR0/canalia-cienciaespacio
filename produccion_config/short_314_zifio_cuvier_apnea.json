@@ -1,0 +1,34 @@
+{
+  "id": "short_314_zifio_cuvier_apnea",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Hay un mamífero que aguanta casi cuatro horas sin respirar.\n\nEs el zifio de Cuvier. En un estudio de 2014, uno bajó a casi tres kilómetros de profundidad. Otra inmersión duró tres horas y cuarenta y dos minutos.\n\nPero no lo hace por presumir: baja a cazar calamares en plena oscuridad.\n\nSu truco es guardar muchísimo oxígeno en la sangre y los músculos, no en los pulmones.\n\n¿Cuánto aguantas tú bajo el agua?",
+  "queries_imagenes": [
+    "Ziphius cavirostris",
+    "Cuvier's beaked whale",
+    "Ziphius cavirostris diving",
+    "Beaked whale",
+    "Cuvier beaked whale surface",
+    "Deep sea squid",
+    "Beaked whale skull",
+    "deep ocean"
+  ],
+  "titulo": "El mamífero que aguanta casi 4 horas sin respirar",
+  "descripcion": "Un estudio de 2014 (Schorr et al.) registró en zifios de Cuvier una inmersión de 2.992 m y otra de 3 h 42 min, récords entre mamíferos.\n\n#zifio #ballenas #animales #shorts",
+  "tags": [
+    "zifio de cuvier",
+    "apnea",
+    "ballenas",
+    "animales",
+    "records",
+    "shorts"
+  ],
+  "hook_miniatura": "4 HORAS SIN AIRE",
+  "prompt_miniatura": "a Cuvier's beaked whale diving into deep dark blue water",
+  "experimento": "cierre_suscripcion"
+}

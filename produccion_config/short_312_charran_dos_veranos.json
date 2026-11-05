@@ -1,0 +1,34 @@
+{
+  "id": "short_312_charran_dos_veranos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta ave ve dos veranos al año y nunca conoce el invierno.\n\nEs el charrán ártico: cría en el Ártico y pasa el otro verano en la Antártida. Cada año recorre unos setenta mil kilómetros, según geolocalizadores que se le pusieron en 2010.\n\nPero no vuela en línea recta: zigzaguea para aprovechar los vientos que más le empujan.\n\nPor eso, en sus treinta años de vida suma distancia para ir a la Luna y volver casi tres veces.\n\n¿Tú aguantarías un solo año así?",
+  "queries_imagenes": [
+    "Sterna paradisaea",
+    "Arctic tern",
+    "Arctic tern flight",
+    "Arctic tern colony",
+    "Arctic tern chick",
+    "Antarctic ice",
+    "Arctic tern migration",
+    "Sterna paradisaea nest"
+  ],
+  "titulo": "El ave que nunca ve el invierno",
+  "descripcion": "El charrán ártico migra cada año del Ártico a la Antártida, unos 70.000 km de media según un estudio con geolocalizadores (2010). Vive unos 30 años.\n\n#charranartico #aves #animales #shorts",
+  "tags": [
+    "charran artico",
+    "migracion",
+    "aves",
+    "animales",
+    "records",
+    "shorts"
+  ],
+  "hook_miniatura": "AVE SIN INVIERNO",
+  "prompt_miniatura": "an Arctic tern flying over icebergs under bright sun",
+  "experimento": "cierre_suscripcion"
+}
