@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:05,540
+Este roedor tiene un grito de alarma distinto para cada enemigo, alcón, coyote, perro humano.
+
+2
+00:00:05,799 --> 00:00:08,380
+Es el perrito de las praderas de Gunnison, en Arizona.
+
+3
+00:00:08,759 --> 00:00:12,699
+Se pensaba que solo chillaba para avisar de un peligro, pero un biólogo grabó sus
+
+4
+00:00:12,699 --> 00:00:16,039
+avisos y vio que cambian según el depredador, su tamaño y su forma.
+
+5
+00:00:16,300 --> 00:00:19,140
+Y yo que pensaba que los más listos del campo eran los cuervos.
+
+6
+00:00:19,359 --> 00:00:22,839
+Luego hizo pasar a las mismas personas con camisetas de colores distintos.
+
+7
+00:00:23,260 --> 00:00:24,940
+Y el aviso cambiaba según el color.
+
