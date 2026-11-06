@@ -2,7 +2,6 @@ short_275_suecia_carril
 short_289_ciempies_murcielagos
 short_319_polilla_oido
 short_320_rjukan_espejos
-short_323_wieliczka_sal
 short_324_rata_canguro
 short_325_salangana_nido
 short_326_casa_winchester
