@@ -1,0 +1,34 @@
+{
+  "id": "short_325_salangana_nido",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro hace su nido solo con saliva, y la gente lo compra para cocinarlo.\n\nEs la salangana, del sudeste asiático. El macho pega hilos de saliva en la pared de una cueva, y al secarse se ponen duros.\n\nEsos nidos son la base de la sopa de nido de pájaro, de las más caras del mundo.\n\nA mí se me quitan las ganas de probarla.\n\nPor eso en Indonesia hay edificios enteros que ponen grabaciones de su canto para atraerlas. Si te ha sorprendido, quédate.",
+  "queries_imagenes": [
+    "Aerodramus fuciphagus",
+    "edible-nest swiftlet",
+    "edible bird's nest",
+    "swiftlet nest cave",
+    "bird's nest soup",
+    "swiftlet house Indonesia",
+    "Aerodramus nest",
+    "swiftlet colony cave"
+  ],
+  "titulo": "Este pájaro hace su nido con saliva y acaba en una sopa",
+  "descripcion": "La salangana de nido blanco (Aerodramus fuciphagus) construye su nido con saliva, y esos nidos son la base de la sopa de nido de pájaro. En Indonesia hay edificios que atraen a estas aves con grabaciones.\n\n#salangana #aves #animalesraros #shorts",
+  "tags": [
+    "salangana",
+    "aerodramus fuciphagus",
+    "sopa de nido de pajaro",
+    "aves",
+    "animales raros",
+    "shorts"
+  ],
+  "hook_miniatura": "NIDO DE SALIVA",
+  "prompt_miniatura": "a small dark swift clinging to a white translucent cup-shaped nest on a cave wall",
+  "experimento": "cierre_suscripcion"
+}

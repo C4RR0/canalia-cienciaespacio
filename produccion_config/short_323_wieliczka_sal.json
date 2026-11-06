@@ -1,0 +1,34 @@
+{
+  "id": "short_323_wieliczka_sal",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Esta iglesia está a cien metros bajo tierra y es toda de sal.\n\nEstá en la mina de Wieliczka, junto a Cracovia, en Polonia. Allí se sacó sal durante más de setecientos años.\n\nEn 1896, unos mineros empezaron a tallar una capilla en la roca. Les llevó décadas: altar, suelo, relieves y estatuas.\n\nSinceramente, no me imagino tanta paciencia a oscuras.\n\nHoy se celebran bodas allí.\n\nY hasta las lámparas del techo son de cristales de sal. Sígueme si quieres más sitios así.",
+  "queries_imagenes": [
+    "Wieliczka Salt Mine",
+    "Chapel of St. Kinga Wieliczka",
+    "Wieliczka salt chandelier",
+    "Wieliczka salt sculpture",
+    "Kaplica św. Kingi",
+    "Wieliczka underground lake",
+    "Wieliczka mine corridor",
+    "Wieliczka salt carving"
+  ],
+  "titulo": "El templo excavado en sal a cien metros bajo tierra",
+  "descripcion": "La capilla de Santa Kinga, en la mina de sal de Wieliczka (Polonia), está a unos cien metros bajo tierra y la tallaron los mineros en sal, lámparas incluidas.\n\n#wieliczka #polonia #lugaresincreibles #shorts",
+  "tags": [
+    "mina de sal de wieliczka",
+    "capilla santa kinga",
+    "polonia",
+    "lugares increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "TODO ES DE SAL",
+  "prompt_miniatura": "a vast underground chapel carved from salt with glittering crystal chandeliers, warm light",
+  "experimento": "cierre_suscripcion"
+}

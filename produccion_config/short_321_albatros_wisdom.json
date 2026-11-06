@@ -1,0 +1,34 @@
+{
+  "id": "short_321_albatros_wisdom",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro tiene más de setenta años y sigue poniendo huevos. Es el ave salvaje más vieja que se conoce.\n\nSe llama Wisdom, una albatros de Laysan del atolón de Midway, en el Pacífico.\n\nLos albatros son fieles a su pareja. Pero ella ha sobrevivido a varias, y en 2024 puso otro huevo con un macho nuevo.\n\nMe parece una lección de vida.\n\nLa anilló un científico en 1956. Él murió en 2017, con noventa y ocho años.\n\nSíguenos para más historias así.",
+  "queries_imagenes": [
+    "Wisdom Laysan albatross",
+    "Phoebastria immutabilis",
+    "Laysan albatross Midway",
+    "Laysan albatross chick",
+    "Laysan albatross pair courtship",
+    "Midway Atoll albatross",
+    "Laysan albatross flight",
+    "Chandler Robbins"
+  ],
+  "titulo": "Este pájaro tiene más de 70 años y sigue poniendo huevos",
+  "descripcion": "Wisdom, una albatros de Laysan (Phoebastria immutabilis) del atolón de Midway, es el ave salvaje más vieja conocida: fue anillada en 1956 y a finales de 2024 volvió a poner un huevo.\n\n#albatros #aves #records #shorts",
+  "tags": [
+    "albatros wisdom",
+    "albatros de laysan",
+    "ave mas vieja",
+    "record animal",
+    "aves",
+    "shorts"
+  ],
+  "hook_miniatura": "MÁS DE 70 AÑOS",
+  "prompt_miniatura": "an old albatross sitting on its nest on a sandy island with the ocean behind, soft light",
+  "experimento": "cierre_suscripcion"
+}

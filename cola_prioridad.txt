@@ -336,3 +336,16 @@ short_308_fordlandia
 short_309_magawa_rata
 short_310_guerra_chimpances
 short_311_okunoshima
+# 2026-11-06: tanda 315-326 (rutina automática), 2:1
+short_316_cocodrilo_mordida
+short_315_osa_polar_nado
+short_317_tristan_acuna
+short_319_polilla_oido
+short_318_salivazo_salto
+short_320_rjukan_espejos
+short_321_albatros_wisdom
+short_322_perrito_praderas
+short_323_wieliczka_sal
+short_325_salangana_nido
+short_324_rata_canguro
+short_326_casa_winchester

@@ -1,0 +1,34 @@
+{
+  "id": "short_317_tristan_acuna",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "El pueblo más aislado del mundo tuvo que huir entero cuando el volcán despertó a su lado.\n\nEs Tristán de Acuña, en mitad del Atlántico Sur. La isla habitada más cercana está a más de dos mil kilómetros.\n\nEn 1961 se abrió una grieta junto a las casas. Evacuaron a todos los vecinos y acabaron en Inglaterra, con tiendas, coches y televisión.\n\nYo me habría quedado allí, la verdad.\n\nPero ellos no. En 1963 casi todos volvieron a su isla.\n\nSígueme para más lugares así.",
+  "queries_imagenes": [
+    "Tristan da Cunha",
+    "Edinburgh of the Seven Seas",
+    "Tristan da Cunha island aerial",
+    "Tristan da Cunha volcano",
+    "Tristan da Cunha harbour",
+    "Queen Mary's Peak Tristan",
+    "Tristan da Cunha settlement",
+    "Tristan da Cunha coast"
+  ],
+  "titulo": "El pueblo más aislado del mundo huyó a Inglaterra y volvió",
+  "descripcion": "Tristán de Acuña, en el Atlántico Sur, es la isla habitada más remota del mundo. En 1961 un volcán obligó a evacuar a toda la población a Inglaterra, y en 1963 casi todos decidieron volver.\n\n#tristandeacuna #lugaresincreibles #historia #shorts",
+  "tags": [
+    "tristan de acuña",
+    "isla mas remota",
+    "lugares increibles",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NADIE VIVE MÁS LEJOS",
+  "prompt_miniatura": "a tiny village of white houses on a green strip of land below a huge cloud-capped volcano in the middle of the ocean",
+  "experimento": "cierre_suscripcion"
+}

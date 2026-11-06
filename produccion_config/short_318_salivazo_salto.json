@@ -1,0 +1,34 @@
+{
+  "id": "short_318_salivazo_salto",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este insecto mide seis milímetros y salta setenta centímetros hacia arriba. Más que una pulga.\n\nEs el salivazo. Carga los músculos de las patas como quien tensa un arco, y los suelta de golpe.\n\nAl despegar soporta unas cuatrocientas veces la gravedad. Un astronauta, en el despegue, aguanta tres.\n\nY nadie se fija en él. Me parece injustísimo.\n\nPorque seguro que lo has visto sin saberlo.\n\nEsa espuma blanca que aparece en primavera en las hierbas, como un escupitajo, es su cría escondida dentro.",
+  "queries_imagenes": [
+    "Philaenus spumarius",
+    "meadow spittlebug",
+    "froghopper insect",
+    "spittlebug foam plant",
+    "cuckoo spit",
+    "Philaenus spumarius nymph",
+    "froghopper jumping",
+    "Cercopidae"
+  ],
+  "titulo": "Este insecto de seis milímetros salta más que una pulga",
+  "descripcion": "El salivazo o espumadora (Philaenus spumarius) mide unos 6 mm y salta hasta 70 cm de altura, soportando unas 400 veces la gravedad. Sus crías viven dentro de la espuma blanca que aparece en las hierbas en primavera.\n\n#insectos #animales #records #shorts",
+  "tags": [
+    "salivazo",
+    "philaenus spumarius",
+    "insecto saltador",
+    "record animal",
+    "insectos",
+    "shorts"
+  ],
+  "hook_miniatura": "SALTA MÁS QUE UNA PULGA",
+  "prompt_miniatura": "a tiny brown froghopper insect on a green grass blade next to a blob of white foam, macro photography",
+  "experimento": "control"
+}

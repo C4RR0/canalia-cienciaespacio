@@ -1,0 +1,34 @@
+{
+  "id": "short_326_casa_winchester",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Esta mansión se amplió sin parar durante treinta y ocho años, y tiene escaleras que acaban en el techo.\n\nEs la casa Winchester, en California. Sarah Winchester, viuda del heredero de los famosos rifles, la compró en 1886.\n\nY empezó a añadir habitaciones sin un plano claro, hasta su muerte en 1922.\n\nLa leyenda dice que lo hacía por los espíritus de los muertos por esos rifles. Yo creo que simplemente le encantaba construir.\n\nHay una puerta en el segundo piso que da directamente al vacío.",
+  "queries_imagenes": [
+    "Winchester Mystery House",
+    "Winchester House San Jose",
+    "Sarah Winchester",
+    "Winchester Mystery House staircase",
+    "Winchester Mystery House door to nowhere",
+    "Winchester Mystery House tower",
+    "Winchester Mystery House garden",
+    "Winchester House interior"
+  ],
+  "titulo": "Esta mansión tiene escaleras que acaban en el techo",
+  "descripcion": "La mansión Winchester, en San José (California), fue ampliada sin parar por Sarah Winchester desde 1886 hasta su muerte en 1922: tiene escaleras que acaban en el techo y una puerta que da al vacío.\n\n#winchester #casasencantadas #historia #shorts",
+  "tags": [
+    "mansion winchester",
+    "sarah winchester",
+    "winchester mystery house",
+    "lugares increibles",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "LA ESCALERA AL TECHO",
+  "prompt_miniatura": "a sprawling Victorian mansion with towers and odd windows at dusk, a staircase ending in the ceiling",
+  "experimento": "control"
+}

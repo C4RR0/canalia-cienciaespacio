@@ -1,0 +1,34 @@
+{
+  "id": "short_319_polilla_oido",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta polilla oye sonidos quince veces más agudos que tú. Es el récord de todo el reino animal.\n\nEs la polilla de la cera. Tú dejas de oír hacia los veinte mil hercios; ella llega a trescientos mil.\n\nY tiene motivo. Su peor enemigo, el murciélago, caza a oscuras con chillidos agudísimos.\n\nElla los oye antes de que la encuentre.\n\nYo esperaba ese oído en un delfín, no en una polilla.\n\nY sus larvas pueden comer plástico. Si quieres más bichos así, sígueme.",
+  "queries_imagenes": [
+    "Galleria mellonella",
+    "greater wax moth",
+    "Galleria mellonella larvae",
+    "wax moth adult",
+    "Galleria mellonella moth",
+    "bat echolocation flight",
+    "wax worm",
+    "Galleria mellonella beehive"
+  ],
+  "titulo": "Esta polilla oye sonidos 15 veces más agudos que tú",
+  "descripcion": "La polilla de la cera (Galleria mellonella) oye frecuencias de hasta 300.000 hercios, el oído más agudo medido en un animal, probablemente para detectar a los murciélagos. Sus larvas pueden comer plástico.\n\n#polilla #insectos #records #shorts",
+  "tags": [
+    "polilla de la cera",
+    "galleria mellonella",
+    "oido animal",
+    "record animal",
+    "insectos",
+    "shorts"
+  ],
+  "hook_miniatura": "OYE LO QUE TÚ NO",
+  "prompt_miniatura": "a pale brown moth on a dark background with sound waves around it, macro photography",
+  "experimento": "cierre_suscripcion"
+}

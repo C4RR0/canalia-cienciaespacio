@@ -1,0 +1,34 @@
+{
+  "id": "short_324_rata_canguro",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este roedor puede pasar toda su vida en el desierto sin beber ni una gota de agua.\n\nEs la rata canguro de Merriam, de Norteamérica. Come semillas secas, y su cuerpo saca el agua de ellas al digerirlas.\n\nSu orina es tan concentrada que apenas pierde nada. Y su nariz recupera la humedad del aliento.\n\nYo no aguanto ni una tarde de agosto sin botella.\n\nPero su mejor truco es otro. Cuando una serpiente de cascabel la ataca, salta en el aire y le da una patada.",
+  "queries_imagenes": [
+    "Dipodomys merriami",
+    "Merriam's kangaroo rat",
+    "kangaroo rat desert",
+    "Dipodomys jumping",
+    "kangaroo rat seeds",
+    "kangaroo rat night",
+    "Dipodomys burrow",
+    "Sonoran Desert"
+  ],
+  "titulo": "Este roedor puede pasar toda su vida sin beber agua",
+  "descripcion": "La rata canguro de Merriam (Dipodomys merriami) puede vivir sin beber agua, porque la obtiene de las semillas secas que come. Además, esquiva a las serpientes de cascabel saltando y dándoles patadas.\n\n#ratacanguro #desierto #animales #shorts",
+  "tags": [
+    "rata canguro",
+    "dipodomys merriami",
+    "animales del desierto",
+    "animales increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NUNCA BEBE AGUA",
+  "prompt_miniatura": "a small kangaroo rat with huge hind legs and a long tufted tail on desert sand at night",
+  "experimento": "control"
+}

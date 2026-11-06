@@ -1,0 +1,34 @@
+{
+  "id": "short_322_perrito_praderas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este roedor tiene un grito de alarma distinto para cada enemigo: halcón, coyote, perro o humano.\n\nEs el perrito de las praderas de Gunnison, en Arizona. Se pensaba que solo chillaba para avisar de un peligro.\n\nPero un biólogo grabó sus avisos y vio que cambian según el depredador, su tamaño y su forma.\n\nY yo que pensaba que los más listos del campo eran los cuervos.\n\nLuego hizo pasar a las mismas personas con camisetas de colores distintos.\n\nY el aviso cambiaba según el color.",
+  "queries_imagenes": [
+    "Cynomys gunnisoni",
+    "Gunnison's prairie dog",
+    "prairie dog alarm call",
+    "prairie dog standing",
+    "Cynomys burrow",
+    "prairie dog colony",
+    "Cynomys ludovicianus",
+    "prairie dog Arizona"
+  ],
+  "titulo": "Este roedor avisa a los suyos hasta del color de tu ropa",
+  "descripcion": "El perrito de las praderas de Gunnison (Cynomys gunnisoni) usa avisos distintos para cada depredador, y los estudios de Con Slobodchikoff muestran que el aviso cambia incluso según el color de la ropa de una persona.\n\n#perritodelaspraderas #animales #ciencia #shorts",
+  "tags": [
+    "perrito de las praderas",
+    "cynomys gunnisoni",
+    "lenguaje animal",
+    "animales inteligentes",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "TE DESCRIBE AL DETALLE",
+  "prompt_miniatura": "a prairie dog standing upright on its burrow with its mouth open, calling out, desert grassland behind",
+  "experimento": "control"
+}

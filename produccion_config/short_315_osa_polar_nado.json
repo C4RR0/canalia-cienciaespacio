@@ -1,0 +1,34 @@
+{
+  "id": "short_315_osa_polar_nado",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta osa nadó seiscientos ochenta y siete kilómetros sin parar. Nueve días seguidos en agua helada.\n\nPasó en 2008, al norte de Alaska. Llevaba un collar con GPS.\n\nLos osos polares cazan focas desde el hielo. Pero ese verano el hielo se había alejado muchísimo de la costa.\n\nAsí que fue a buscarlo nadando. Y a mí me cuesta cruzar una piscina.\n\nLo consiguió. Pero llegó con una quinta parte de su peso menos.\n\nSi te gustan los animales al límite, aquí tienes más.",
+  "queries_imagenes": [
+    "Ursus maritimus swimming",
+    "polar bear swimming",
+    "polar bear sea ice",
+    "Ursus maritimus Beaufort Sea",
+    "polar bear radio collar",
+    "polar bear seal hunting ice",
+    "Beaufort Sea ice",
+    "polar bear female Alaska"
+  ],
+  "titulo": "Esta osa nadó 687 kilómetros sin parar durante 9 días",
+  "descripcion": "En 2008, una osa polar (Ursus maritimus) con collar GPS nadó 687 kilómetros seguidos durante 9 días en el mar de Beaufort buscando el hielo, y perdió más de una quinta parte de su peso.\n\n#osopolar #animales #records #shorts",
+  "tags": [
+    "oso polar",
+    "ursus maritimus",
+    "record animal",
+    "animales increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "9 DÍAS SIN PARAR",
+  "prompt_miniatura": "a polar bear swimming alone in a vast icy grey ocean, head above water, tiny ice floes far on the horizon",
+  "experimento": "cierre_suscripcion"
+}

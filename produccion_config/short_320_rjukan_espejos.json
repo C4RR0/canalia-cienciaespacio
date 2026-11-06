@@ -1,0 +1,34 @@
+{
+  "id": "short_320_rjukan_espejos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "El pueblo donde el sol no llega durante medio año colgó espejos gigantes en la montaña.\n\nEs Rjukan, en Noruega. Su valle es tan hondo que, desde el otoño hasta marzo, el sol no toca sus calles.\n\nEn 1928 construyeron un teleférico solo para que los vecinos subieran a ver el sol.\n\nMe parece más triste que pasar frío.\n\nEn 2013 por fin instalaron tres espejos que siguen al sol y lo reflejan sobre la plaza.\n\nY la idea ya se había propuesto cien años antes.",
+  "queries_imagenes": [
+    "Rjukan",
+    "Rjukan sun mirror",
+    "Solspeilet Rjukan",
+    "Rjukan valley winter",
+    "Krossobanen",
+    "Rjukan town square",
+    "Vestfjorddalen",
+    "Rjukan Norway"
+  ],
+  "titulo": "El pueblo que usa espejos gigantes para tener sol",
+  "descripcion": "Rjukan, en Noruega, pasa medio año sin sol directo por lo hondo de su valle. En 2013 instaló tres espejos en la montaña que reflejan el sol sobre su plaza, una idea propuesta cien años antes.\n\n#rjukan #noruega #lugaresincreibles #shorts",
+  "tags": [
+    "rjukan",
+    "noruega",
+    "espejos sol",
+    "lugares increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MEDIO AÑO SIN SOL",
+  "prompt_miniatura": "a small town in a deep dark snowy valley with a bright beam of sunlight falling only on its central square",
+  "experimento": "control"
+}

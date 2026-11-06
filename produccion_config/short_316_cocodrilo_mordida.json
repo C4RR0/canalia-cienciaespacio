@@ -1,0 +1,34 @@
+{
+  "id": "short_316_cocodrilo_mordida",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este reptil tiene la mordida más fuerte que se ha medido jamás en un animal vivo.\n\nEs el cocodrilo marino. Unos científicos le pusieron un medidor acolchado entre los dientes.\n\nEl resultado: más de dieciséis mil newtons. Es el récord de todos los animales medidos.\n\nSinceramente, el que sujetó ese aparato tiene todo mi respeto.\n\nPero hay un truco. Los músculos que cierran su boca son brutales; los que la abren, débiles.\n\nTanto, que una persona puede mantenerle la boca cerrada con las manos.",
+  "queries_imagenes": [
+    "Crocodylus porosus",
+    "saltwater crocodile jaws",
+    "saltwater crocodile head",
+    "Crocodylus porosus Australia",
+    "saltwater crocodile teeth",
+    "saltwater crocodile basking",
+    "Crocodylus porosus mouth open",
+    "saltwater crocodile river"
+  ],
+  "titulo": "El reptil que tiene la mordida más fuerte jamás medida",
+  "descripcion": "El cocodrilo marino (Crocodylus porosus) tiene la mordida más fuerte medida en un animal vivo: más de 16.000 newtons según un estudio de 2012. Pero los músculos que abren su boca son tan débiles que se puede sujetar cerrada con las manos.\n\n#cocodrilo #animales #records #shorts",
+  "tags": [
+    "cocodrilo marino",
+    "crocodylus porosus",
+    "mordida mas fuerte",
+    "record animal",
+    "animales increibles",
+    "shorts"
+  ],
+  "hook_miniatura": "NADIE MUERDE MÁS FUERTE",
+  "prompt_miniatura": "a huge saltwater crocodile with its jaws wide open at the edge of a muddy tropical river",
+  "experimento": "control"
+}
