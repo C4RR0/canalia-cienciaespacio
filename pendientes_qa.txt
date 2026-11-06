@@ -1,6 +1,5 @@
 short_275_suecia_carril
 short_289_ciempies_murcielagos
-short_315_osa_polar_nado
 short_316_cocodrilo_mordida
 short_317_tristan_acuna
 short_318_salivazo_salto
