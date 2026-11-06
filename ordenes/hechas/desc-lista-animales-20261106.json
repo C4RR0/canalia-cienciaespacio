@@ -1,0 +1,19 @@
+{
+ "accion": "descripcion_anadir",
+ "agente": "vera",
+ "tarea": "wul4f6dn11eujtardilx",
+ "ok_de_sergio": true,
+ "parametros": {
+  "texto": "▶️ Más animales brutales, seguidos: https://www.youtube.com/playlist?list=PLXKAJv_n6OHQ",
+  "videos": [
+   "0buh6R4HmMI",
+   "Tn-Yj5fDIgw",
+   "bkth_oOwbWs"
+  ],
+  "marca": "list=PLXKAJv_n6OHQ"
+ },
+ "motivo": "Tarea con OK de Sergio: enlazar la lista de su serie en los vídeos más vistos (6/11, Claude en el PC)",
+ "resultado": "Texto añadido a 3 vídeos (0 ya lo tenían).",
+ "estado": "hecha",
+ "ejecutada": "2026-11-06T16:28:31+00:00"
+}
