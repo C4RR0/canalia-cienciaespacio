@@ -1,5 +1,4 @@
 short_329_aeropuerto_barra
-short_330_buitre_ruppell
 short_331_ardilla_artica
 short_332_pino_prometeo
 short_333_kiwi_huevo
