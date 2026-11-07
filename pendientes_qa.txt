@@ -1,4 +1,3 @@
-short_327_tortuga_laud
 short_328_escarabajo_pelotero
 short_329_aeropuerto_barra
 short_330_buitre_ruppell
