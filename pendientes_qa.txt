@@ -1,3 +1,2 @@
 short_329_aeropuerto_barra
-short_337_geco_techo
 short_338_supai_mula
