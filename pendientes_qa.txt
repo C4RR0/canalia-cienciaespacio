@@ -1,5 +1,4 @@
 short_329_aeropuerto_barra
-short_333_kiwi_huevo
 short_334_anguila_europea
 short_335_son_doong
 short_336_mariposa_monarca
