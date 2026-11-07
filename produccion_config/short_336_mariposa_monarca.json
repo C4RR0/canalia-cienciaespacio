@@ -1,0 +1,34 @@
+{
+  "id": "short_336_mariposa_monarca",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Esta mariposa vuela unos cuatro mil kilómetros hasta un bosque de México donde nunca ha estado.\n\nEs la mariposa monarca. Cada otoño, millones salen de Canadá y Estados Unidos.\n\nNinguna ha hecho antes ese viaje: las últimas que lo hicieron fueron sus bisabuelas o tatarabuelas.\n\nAun así, llegan a los mismos bosques.\n\nA mí esto me parece más difícil que cualquier hazaña humana.\n\nY lo mejor: la ciencia no encontró ese refugio hasta 1975. Los vecinos lo conocían de siempre.\n\nSíguenos para más viajes imposibles.",
+  "queries_imagenes": [
+    "Danaus plexippus",
+    "monarch butterfly",
+    "monarch butterflies Michoacan",
+    "monarch butterfly sanctuary Mexico",
+    "monarch butterflies cluster tree",
+    "El Rosario monarch",
+    "monarch butterfly migration",
+    "monarch butterfly wings"
+  ],
+  "titulo": "La mariposa que vuela 4.000 km a un bosque que nunca vio",
+  "descripcion": "Las mariposas monarca (Danaus plexippus) migran unos 4.000 km hasta los bosques de Michoacán y el Estado de México sin haber estado nunca allí. La ciencia no localizó el refugio hasta 1975.\n\n#mariposamonarca #mexico #animales #shorts",
+  "tags": [
+    "mariposa monarca",
+    "danaus plexippus",
+    "michoacan",
+    "migracion",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NUNCA HA ESTADO AHÍ",
+  "prompt_miniatura": "millions of orange butterflies covering the trunks of fir trees in a misty mountain forest"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_334_anguila_europea",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este pez cruza el Atlántico para reproducirse, y nadie ha visto nunca cómo lo hace.\n\nEs la anguila europea. Vive años en ríos de toda Europa, también en España.\n\nLuego nada miles de kilómetros hasta el mar de los Sargazos, cerca del Caribe. Allí aparecen sus larvas más diminutas, pero nunca adultos reproduciéndose.\n\nQue esto siga sin resolverse me parece increíble.\n\nEn 1876, un estudiante diseccionó unas cuatrocientas anguilas buscando sus testículos. No encontró ninguno. Se llamaba Sigmund Freud.\n\nSígueme si te gustan los misterios de verdad.",
+  "queries_imagenes": [
+    "Anguilla anguilla",
+    "European eel",
+    "glass eels",
+    "European eel swimming",
+    "Anguilla anguilla aquarium",
+    "elver eel",
+    "Sargasso Sea",
+    "eel river"
+  ],
+  "titulo": "El pez que cruza el océano para algo que nadie ha visto",
+  "descripcion": "La anguila europea (Anguilla anguilla) viaja hasta el mar de los Sargazos para reproducirse, pero nunca se ha observado en libertad. Sigmund Freud diseccionó unas 400 en 1876 buscando sus testículos.\n\n#anguila #misterios #peces #shorts",
+  "tags": [
+    "anguila europea",
+    "anguilla anguilla",
+    "sigmund freud",
+    "peces",
+    "misterios",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NADIE LO HA VISTO",
+  "prompt_miniatura": "a long silver eel swimming alone in the dark open ocean with floating golden seaweed above"
+}

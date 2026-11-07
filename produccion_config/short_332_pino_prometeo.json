@@ -1,0 +1,35 @@
+{
+  "id": "short_332_pino_prometeo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "cierre_suscripcion",
+  "guion": "En 1964, un estudiante taló un árbol para estudiarlo, sin saber que era el más viejo conocido.\n\nSe llamaba Donald Currey y buscaba el clima del pasado en los anillos de los pinos de Nevada.\n\nPidió permiso para cortar aquel pino retorcido, y el Servicio Forestal se lo dio.\n\nPara mí, es la metedura de pata más dolorosa de la ciencia.\n\nContó más de cuatro mil ochocientos anillos: ya estaba vivo cuando se construyeron las pirámides de Egipto.\n\nSi te gustan estas historias, quédate: hay muchas más.",
+  "queries_imagenes": [
+    "Pinus longaeva",
+    "Great Basin bristlecone pine",
+    "Prometheus tree stump",
+    "Wheeler Peak bristlecone",
+    "Great Basin National Park",
+    "bristlecone pine grove",
+    "bristlecone pine rings",
+    "Wheeler Peak Nevada"
+  ],
+  "titulo": "Un estudiante taló un árbol y era el más viejo conocido",
+  "descripcion": "En 1964 se taló en Wheeler Peak (Nevada) el pino longevo conocido como Prometeo, de casi 4.900 años, entonces el árbol más viejo conocido.\n\n#prometeo #arboles #historia #shorts",
+  "tags": [
+    "pino prometeo",
+    "pino longevo",
+    "great basin",
+    "arboles",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "5.000 AÑOS Y LO TALARON",
+  "prompt_miniatura": "an ancient twisted pine tree on a rocky mountain at sunset next to a freshly cut stump"
+}

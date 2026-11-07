@@ -1,0 +1,34 @@
+{
+  "id": "short_330_buitre_ruppell",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este buitre chocó contra un avión de pasajeros a once mil trescientos metros de altura.\n\nPasó en 1973, sobre Costa de Marfil. El motor quedó dañado, pero el avión pudo aterrizar.\n\nUnos expertos analizaron las plumas que quedaron dentro. Eran de un buitre de Rüppell.\n\nYo, sinceramente, no me lo creería si no estuviera documentado.\n\nNingún otro pájaro se ha registrado nunca tan alto. Lo consigue gracias a una sangre que atrapa el oxígeno mucho mejor que la nuestra.\n\nSígueme si quieres más récords imposibles como este.",
+  "queries_imagenes": [
+    "Gyps rueppelli",
+    "Ruppell's vulture",
+    "Ruppell's griffon vulture flying",
+    "Gyps rueppelli flight",
+    "Ruppell's vulture Kenya",
+    "Ruppell's vulture group",
+    "vulture soaring sky",
+    "Gyps rueppelli portrait"
+  ],
+  "titulo": "Este buitre chocó con un avión a 11.300 metros de altura",
+  "descripcion": "En 1973, un buitre moteado o de Rüppell (Gyps rueppelli) chocó con un avión a 11.300 metros sobre Costa de Marfil: es el vuelo de ave más alto registrado.\n\n#buitre #aves #records #shorts",
+  "tags": [
+    "buitre de ruppell",
+    "buitre moteado",
+    "aves",
+    "records animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MÁS ALTO QUE EL EVEREST",
+  "prompt_miniatura": "a large vulture soaring above the clouds with a passenger jet in the distance"
+}

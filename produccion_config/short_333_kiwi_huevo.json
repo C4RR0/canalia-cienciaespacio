@@ -1,0 +1,35 @@
+{
+  "id": "short_333_kiwi_huevo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Este pájaro pone un huevo que puede pesar hasta una quinta parte de su cuerpo.\n\nEs el kiwi, de Nueva Zelanda.\n\nAl final, el huevo ocupa tanto espacio que a la hembra apenas le queda sitio para comer.\n\nY con todo el respeto, a mí esto me parece una locura de diseño.\n\nLuego es el macho quien lo incuba, durante más de dos meses.\n\nPero el esfuerzo tiene premio: el polluelo nace ya con plumas y con tanta yema que pasa sus primeros días sin comer.",
+  "queries_imagenes": [
+    "Apteryx",
+    "kiwi bird",
+    "Apteryx mantelli",
+    "kiwi egg",
+    "brown kiwi",
+    "kiwi bird New Zealand",
+    "kiwi chick",
+    "Apteryx australis"
+  ],
+  "titulo": "Este pájaro pone un huevo de una quinta parte de su peso",
+  "descripcion": "El kiwi (Apteryx) de Nueva Zelanda pone un huevo que puede pesar hasta un 20 % del peso de la hembra, uno de los más grandes en proporción de todas las aves.\n\n#kiwi #aves #nuevazelanda #shorts",
+  "tags": [
+    "kiwi",
+    "ave kiwi",
+    "nueva zelanda",
+    "aves",
+    "records animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UN HUEVO GIGANTE",
+  "prompt_miniatura": "a small round flightless brown bird next to an enormous egg almost its own size in a forest at night"
+}

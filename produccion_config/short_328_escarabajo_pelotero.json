@@ -1,0 +1,34 @@
+{
+  "id": "short_328_escarabajo_pelotero",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este escarabajo puede arrastrar mil ciento cuarenta y una veces su propio peso. Es el insecto más fuerte que se conoce.\n\nPara una persona, sería como tirar de ochenta toneladas.\n\nY sinceramente, me parece una fuerza ridícula para algo tan pequeño.\n\nLa usa para pelear bajo tierra: los machos con cuernos se empujan en el túnel donde espera la hembra.\n\nPero los machos sin cuernos no pelean. Cavan otro túnel y llegan a ella por un lado.\n\nSi te gustan estas trampas, sígueme: tengo muchas más.",
+  "queries_imagenes": [
+    "Onthophagus taurus",
+    "dung beetle",
+    "dung beetle rolling ball",
+    "Onthophagus horns",
+    "dung beetle tunnel",
+    "Scarabaeinae",
+    "dung beetle male horns",
+    "Onthophagus"
+  ],
+  "titulo": "Este escarabajo arrastra 1.141 veces su propio peso",
+  "descripcion": "El escarabajo pelotero Onthophagus taurus puede arrastrar 1.141 veces su propio peso: es el insecto más fuerte que se conoce. Los machos sin cuernos ganan con astucia.\n\n#escarabajopelotero #insectos #records #shorts",
+  "tags": [
+    "escarabajo pelotero",
+    "onthophagus taurus",
+    "insectos",
+    "animal mas fuerte",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MÁS FUERTE QUE UN CAMIÓN",
+  "prompt_miniatura": "a tiny horned dung beetle pulling an enormous ball of dirt, dramatic macro shot"
+}

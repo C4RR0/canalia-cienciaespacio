@@ -1,0 +1,35 @@
+{
+  "id": "short_338_supai_mula",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "cierre_suscripcion",
+  "guion": "En el fondo del Gran Cañón hay un pueblo donde el correo todavía llega en mula.\n\nEs Supai, en Arizona. No tiene carreteras: solo se llega a pie, a caballo o en helicóptero.\n\nLas cartas y los paquetes bajan en recuas de mulas. Es la última ruta de correo en mula de Estados Unidos.\n\nA mí me parece el código postal más bonito del mundo.\n\nAllí vive la tribu havasupai. Su nombre significa «la gente del agua azul verdosa».\n\nSígueme para más lugares que parecen inventados.",
+  "queries_imagenes": [
+    "Supai Arizona",
+    "Supai village",
+    "Havasupai",
+    "Havasu Falls",
+    "Havasu Canyon",
+    "Havasupai mule train",
+    "Supai post office",
+    "Mooney Falls"
+  ],
+  "titulo": "El pueblo donde el correo todavía llega a lomos de mula",
+  "descripcion": "Supai (Arizona), en el fondo de un cañón lateral del Gran Cañón, solo es accesible a pie, a caballo o en helicóptero, y recibe el correo en mula: la última ruta así de Estados Unidos.\n\n#supai #grancanon #lugaresincreibles #shorts",
+  "tags": [
+    "supai",
+    "havasupai",
+    "gran canon",
+    "arizona",
+    "lugares increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "CORREO EN MULA",
+  "prompt_miniatura": "a line of pack mules carrying mail bags down a red rock canyon trail toward a turquoise waterfall"
+}

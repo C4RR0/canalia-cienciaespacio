@@ -1,0 +1,34 @@
+{
+  "id": "short_331_ardilla_artica",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Esta ardilla pasa el invierno con el cuerpo a casi tres grados bajo cero. Es la temperatura más baja medida en un mamífero.\n\nEs la ardilla terrestre ártica, de Alaska. Hiberna hasta ocho meses bajo tierra.\n\nSus fluidos se quedan por debajo del punto de congelación, pero sin llegar a formar hielo.\n\nY aquí viene lo que me parece más absurdo.\n\nCada pocas semanas, tiembla hasta subir a treinta y siete grados durante unas horas.\n\n¿Para qué? Los científicos creen que es para dormir de verdad.",
+  "queries_imagenes": [
+    "Urocitellus parryii",
+    "Arctic ground squirrel",
+    "Arctic ground squirrel Alaska",
+    "Spermophilus parryii",
+    "Arctic ground squirrel burrow",
+    "Arctic ground squirrel Denali",
+    "ground squirrel tundra",
+    "Urocitellus parryii standing"
+  ],
+  "titulo": "El mamífero que hiberna con el cuerpo bajo cero",
+  "descripcion": "La ardilla terrestre ártica (Urocitellus parryii) de Alaska baja su temperatura corporal hasta unos -2,9 °C al hibernar, la más baja medida en un mamífero.\n\n#ardillaartica #animales #records #shorts",
+  "tags": [
+    "ardilla terrestre artica",
+    "urocitellus parryii",
+    "hibernacion",
+    "records animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "BAJO CERO Y VIVA",
+  "prompt_miniatura": "a small ground squirrel curled up asleep in a frosty underground burrow covered in ice crystals"
+}

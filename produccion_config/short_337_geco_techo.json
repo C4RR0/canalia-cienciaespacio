@@ -1,0 +1,34 @@
+{
+  "id": "short_337_geco_techo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Este lagarto camina boca abajo por el techo sin pegamento y sin ventosas.\n\nEs el geco. En los dedos tiene millones de pelos microscópicos, y cada pelo se divide en cientos de puntas aún más finas.\n\nEsas puntas se acercan tanto a la superficie que se quedan unidas por pura atracción entre moléculas.\n\nSus patas se limpian solas mientras camina.\n\nConfieso que le tengo envidia: yo me resbalo en la ducha.\n\nPero hay un material en el que él también resbala sin remedio: el teflón de tus sartenes.",
+  "queries_imagenes": [
+    "Gekko gecko",
+    "tokay gecko",
+    "gecko foot",
+    "gecko toe pads",
+    "gecko on glass",
+    "gecko climbing wall",
+    "gecko setae",
+    "house gecko ceiling"
+  ],
+  "titulo": "Este lagarto camina por el techo sin pegamento ni ventosas",
+  "descripcion": "Los gecos se pegan a casi cualquier superficie gracias a millones de pelos microscópicos en los dedos y a la atracción entre moléculas (fuerzas de van der Waals). En el teflón, en cambio, resbalan.\n\n#geco #reptiles #animales #shorts",
+  "tags": [
+    "geco",
+    "gekko gecko",
+    "reptiles",
+    "habilidades animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SIN PEGAMENTO",
+  "prompt_miniatura": "a colorful gecko walking upside down on a glass ceiling, close-up of its toe pads"
+}

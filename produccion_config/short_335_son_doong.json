@@ -1,0 +1,34 @@
+{
+  "id": "short_335_son_doong",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "control",
+  "guion": "La cueva más grande del mundo tiene dentro su propia selva, y hasta sus propias nubes.\n\nEs Son Doong, en Vietnam. Un vecino, Ho Khanh, encontró la entrada en 1990, mientras se refugiaba de una tormenta.\n\nOyó un río y notó un viento frío que salía de la roca. Pero le dio miedo entrar.\n\nY después no fue capaz de volver a encontrarla. Pasaron más de quince años.\n\nYo me habría vuelto loco buscándola.\n\nCuando entraron los espeleólogos, descubrieron tramos donde cabría un edificio de cuarenta pisos.",
+  "queries_imagenes": [
+    "Hang Son Doong",
+    "Son Doong cave",
+    "Son Doong cave jungle",
+    "Phong Nha-Ke Bang National Park",
+    "Hang En cave",
+    "Phong Nha cave",
+    "Son Doong doline",
+    "Quang Binh cave"
+  ],
+  "titulo": "La cueva más grande del mundo tiene su propia selva dentro",
+  "descripcion": "Son Doong (Phong Nha-Kẻ Bàng, Vietnam) es la cueva más grande del mundo, con selva y nubes propias. Ho Khanh encontró la entrada en 1990 y tardó años en volver a dar con ella.\n\n#sondoong #vietnam #lugaresincreibles #shorts",
+  "tags": [
+    "son doong",
+    "cueva mas grande del mundo",
+    "vietnam",
+    "lugares increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UNA SELVA BAJO TIERRA",
+  "prompt_miniatura": "a gigantic cave with a jungle growing inside, sunbeams falling through a hole in the ceiling and clouds"
+}

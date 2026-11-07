@@ -1,0 +1,34 @@
+{
+  "id": "short_327_tortuga_laud",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "La tortuga más grande del mundo puede pasar de quinientos kilos, y bucea a más de mil doscientos metros de profundidad.\n\nEs la tortuga laúd.\n\nY todo ese esfuerzo es por una comida que casi no alimenta: medusas.\n\nPara comer suficientes, recorre miles de kilómetros y llega a aguas casi heladas, donde cualquier otro reptil moriría de frío.\n\nSinceramente, me parece el animal más terco del océano.\n\nSu truco está en la garganta: cientos de pinchos que apuntan hacia dentro, para que ninguna medusa se escape.",
+  "queries_imagenes": [
+    "Dermochelys coriacea",
+    "leatherback sea turtle",
+    "leatherback turtle nesting beach",
+    "leatherback turtle swimming",
+    "leatherback turtle hatchling",
+    "Dermochelys coriacea nesting",
+    "leatherback sea turtle ocean",
+    "jellyfish Atlantic ocean"
+  ],
+  "titulo": "La tortuga más grande del mundo baja a más de 1.200 metros",
+  "descripcion": "La tortuga laúd (Dermochelys coriacea) es la tortuga más grande del mundo y el reptil que bucea más hondo: más de 1.200 metros. Se alimenta casi solo de medusas.\n\n#tortugalaud #animalesmarinos #records #shorts",
+  "tags": [
+    "tortuga laud",
+    "tortuga marina",
+    "animales marinos",
+    "records animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "BAJA MÁS QUE UN SUBMARINO",
+  "prompt_miniatura": "a huge leatherback sea turtle diving into the deep blue ocean among glowing jellyfish"
+}
