@@ -1,4 +1,3 @@
-short_341_meteora_monasterios
 short_342_tiburon_ballena
 short_343_kakapo_loro
 short_344_shibam_barro
