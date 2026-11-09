@@ -1,0 +1,35 @@
+{
+  "id": "short_341_meteora_monasterios",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "cierre_suscripcion",
+  "guion": "Durante siglos, para entrar en este monasterio tenías que dejarte subir en una red, colgando sobre el vacío.\n\nEstá en Meteora, en Grecia, encima de columnas de roca de cientos de metros.\n\nLos monjes buscaban un sitio donde nadie los molestara. Y lo encontraron.\n\nSubían comida y personas con cuerdas y un torno, o por escaleras que retiraban.\n\nYo no me habría subido ni loco.\n\nHasta los años veinte no tallaron escalones, y hoy siguen habitados seis monasterios.\n\nSi te gustan los sitios imposibles, quédate.",
+  "queries_imagenes": [
+    "Meteora monastery",
+    "Meteora",
+    "Great Meteoron monastery",
+    "Varlaam monastery Meteora",
+    "Roussanou monastery",
+    "Holy Trinity Monastery Meteora",
+    "Meteora rocks",
+    "Meteora monks"
+  ],
+  "titulo": "El monasterio al que solo se subía colgado de una red",
+  "descripcion": "Los monasterios de Meteora (Grecia) se construyeron sobre columnas de roca; hasta los años veinte solo se accedía con redes, cuerdas y escaleras retirables.\n\n#meteora #grecia #lugaresincreibles #shorts",
+  "tags": [
+    "meteora",
+    "monasterios de meteora",
+    "grecia",
+    "lugares increibles",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SUBÍAN EN UNA RED",
+  "prompt_miniatura": "a monastery perched on top of a giant rock pillar above a valley, a rope net hanging over the cliff"
+}

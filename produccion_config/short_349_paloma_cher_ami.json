@@ -1,0 +1,35 @@
+{
+  "id": "short_349_paloma_cher_ami",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "En 1918, casi doscientos soldados estaban atrapados en un bosque de Francia, y su propia artillería les disparaba por error.\n\nLes quedaba una paloma mensajera: Cher Ami.\n\nDespegó entre disparos, la alcanzaron, cayó... y volvió a volar.\n\nLlegó herida, pero con el mensaje. El fuego paró y se salvaron ciento noventa y cuatro hombres.\n\nYo me quito el sombrero.\n\nHoy está en el Smithsonian. Y en 2021 se confirmó que la famosa heroína era, en realidad, un macho.\n\nSi quieres más animales héroes, sígueme.",
+  "queries_imagenes": [
+    "Cher Ami pigeon",
+    "Cher Ami Smithsonian",
+    "homing pigeon",
+    "carrier pigeon World War I",
+    "Lost Battalion 1918",
+    "Charles Whittlesey",
+    "pigeon loft World War I",
+    "Argonne Forest 1918"
+  ],
+  "titulo": "Esta paloma atravesó una batalla y salvó a 194 soldados",
+  "descripcion": "Cher Ami, una paloma mensajera del ejército de EE. UU., llevó en 1918 el mensaje que salvó a 194 soldados del Batallón Perdido. En 2021 el Smithsonian confirmó que era macho.\n\n#cherami #primeraguerramundial #animalesheroes #shorts",
+  "tags": [
+    "cher ami",
+    "paloma mensajera",
+    "batallon perdido",
+    "primera guerra mundial",
+    "animales heroes",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LA ÚLTIMA QUE QUEDABA",
+  "prompt_miniatura": "a wounded carrier pigeon flying through smoke over a World War I battlefield"
+}

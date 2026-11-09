@@ -1,0 +1,35 @@
+{
+  "id": "short_348_arenque_burbujas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Este pez se comunica soltando burbujas de aire por el ano. Pedos, vamos.\n\nEs el arenque. Unos científicos oyeron en sus tanques unos chasquidos agudos que salían de su trasero, junto a un hilo de burbujas.\n\nMe cuesta imaginar un idioma más ridículo.\n\nPero lo hacen sobre todo de noche, y cuantos más arenques hay juntos, más suena.\n\nCreen que así no se pierden del grupo en la oscuridad.\n\nEl estudio ganó un Ig Nobel en 2004: los premios que primero hacen reír y luego pensar.",
+  "queries_imagenes": [
+    "Clupea harengus",
+    "Atlantic herring",
+    "herring school",
+    "Clupea pallasii",
+    "herring shoal",
+    "Atlantic herring swimming",
+    "herring fish",
+    "Pacific herring"
+  ],
+  "titulo": "Este pez se comunica con sus pedos durante la noche",
+  "descripcion": "El arenque (Clupea harengus y Clupea pallasii) emite chasquidos al soltar aire por el ano, sobre todo de noche y en grupo. El estudio ganó un Ig Nobel en 2004.\n\n#arenque #animalesraros #peces #shorts",
+  "tags": [
+    "arenque",
+    "clupea harengus",
+    "peces raros",
+    "ig nobel",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "HABLAN CON BURBUJAS",
+  "prompt_miniatura": "a silvery school of fish at night with a trail of tiny bubbles behind one fish"
+}

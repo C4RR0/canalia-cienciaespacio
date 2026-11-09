@@ -1,0 +1,35 @@
+{
+  "id": "short_340_castor_presa",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "La presa más larga construida por animales mide unos ochocientos cincuenta metros.\n\nEstá en un parque nacional de Canadá, rodeada de pantanos imposibles.\n\nEn 2007, un investigador revisaba imágenes de satélite y vio una línea extraña en el bosque. Era una presa de castores.\n\nVarias generaciones la levantan desde los años setenta, rama a rama.\n\nLo que más me fascina es lo escondida que estaba: el primer humano que llegó hasta ella a pie, que se sepa, lo hizo en 2014, tras nueve días de pantano.",
+  "queries_imagenes": [
+    "Castor canadensis",
+    "beaver dam",
+    "beaver dam Canada",
+    "North American beaver",
+    "beaver lodge",
+    "Wood Buffalo National Park",
+    "beaver carrying branch",
+    "beaver pond"
+  ],
+  "titulo": "La presa más larga hecha por animales mide 850 metros",
+  "descripcion": "La presa de castores más larga conocida mide unos 850 metros y está en el Parque Nacional Wood Buffalo (Canadá). Se descubrió en 2007 con imágenes de satélite.\n\n#castor #animalesincreibles #records #shorts",
+  "tags": [
+    "castor",
+    "presa de castores",
+    "wood buffalo",
+    "records animales",
+    "animales increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NADIE LA HABÍA PISADO",
+  "prompt_miniatura": "a huge beaver dam stretching across a wild wetland forest, seen from above, with a beaver in the foreground"
+}

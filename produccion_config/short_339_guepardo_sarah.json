@@ -1,0 +1,34 @@
+{
+  "id": "short_339_guepardo_sarah",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este felino corrió cien metros en cinco segundos y noventa y cinco centésimas. Usain Bolt tardó más de nueve y medio.\n\nSe llamaba Sarah, vivía en el zoo de Cincinnati, y en 2012 persiguió un señuelo ante las cámaras de National Geographic.\n\nLlegó a unos noventa y ocho kilómetros por hora.\n\nVerla a cámara lenta me parece hipnótico.\n\nPero lo mejor es esto: Sarah tenía once años, una edad que muchos guepardos salvajes nunca alcanzan.\n\nSi te van los récords animales, sígueme.",
+  "queries_imagenes": [
+    "Acinonyx jubatus running",
+    "cheetah running",
+    "Cincinnati Zoo cheetah",
+    "Acinonyx jubatus",
+    "cheetah sprint",
+    "cheetah portrait",
+    "cheetah Masai Mara",
+    "cheetah chasing"
+  ],
+  "titulo": "Este felino corrió 100 metros en menos de 6 segundos",
+  "descripcion": "Sarah, una guepardo del zoo de Cincinnati, corrió 100 metros en 5,95 segundos en 2012, alcanzando unos 98 km/h con once años.\n\n#guepardo #animalesrapidos #records #shorts",
+  "tags": [
+    "guepardo",
+    "guepardo sarah",
+    "animal mas rapido",
+    "records animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MÁS RÁPIDO QUE BOLT",
+  "prompt_miniatura": "a cheetah sprinting at full speed with its body stretched out, dust flying, golden savanna"
+}

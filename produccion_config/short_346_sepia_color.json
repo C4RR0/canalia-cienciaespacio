@@ -1,0 +1,35 @@
+{
+  "id": "short_346_sepia_color",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Este animal cambia de color en menos de un segundo. Y, por lo que sabemos, no ve los colores.\n\nEs la sepia. Su piel tiene millones de células de pigmento que abre y cierra con músculos.\n\nAsí copia la arena, las rocas o las algas.\n\nPero sus ojos tienen un solo tipo de receptor de luz.\n\nCómo acierta con el color sigue siendo un misterio, y a mí eso me vuelve loco.\n\nUna teoría: sus pupilas en forma de U separarían la luz como un prisma.",
+  "queries_imagenes": [
+    "Sepia officinalis",
+    "common cuttlefish",
+    "cuttlefish camouflage",
+    "cuttlefish eye",
+    "Sepia apama",
+    "cuttlefish color change",
+    "cuttlefish pupil",
+    "Sepia officinalis swimming"
+  ],
+  "titulo": "Este animal cambia de color en un instante y es daltónico",
+  "descripcion": "La sepia (Sepia officinalis) cambia de color en menos de un segundo gracias a millones de células de pigmento, aunque sus ojos tienen un solo tipo de fotorreceptor.\n\n#sepia #camuflaje #animalesmarinos #shorts",
+  "tags": [
+    "sepia",
+    "sepia officinalis",
+    "camuflaje animal",
+    "animales marinos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO VE LOS COLORES",
+  "prompt_miniatura": "a cuttlefish changing colour over a rocky seabed, with its strange W-shaped pupil in close-up"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_343_kakapo_loro",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "El loro más pesado del mundo no sabe volar. Puede pesar cuatro kilos.\n\nEs el kakapo, de Nueva Zelanda.\n\nDurante milenios, su defensa fue quedarse inmóvil. Contra las águilas funcionaba. Contra los gatos y armiños que trajeron los humanos, no.\n\nLlegaron a quedar unos cincuenta. Hoy cada uno tiene nombre propio.\n\nEs de mis animales favoritos del canal.\n\nPorque uno de ellos, Sirocco, se hizo famoso por intentar aparearse con la cabeza de un zoólogo delante de las cámaras.\n\nSi te ha sacado una sonrisa, sígueme.",
+  "queries_imagenes": [
+    "Strigops habroptilus",
+    "kakapo",
+    "kakapo Sirocco",
+    "kakapo Codfish Island",
+    "kakapo chick",
+    "kakapo New Zealand",
+    "Strigops habroptilus walking",
+    "kakapo face"
+  ],
+  "titulo": "Este loro no sabe volar y es el más pesado del mundo",
+  "descripcion": "El kakapo (Strigops habroptilus) de Nueva Zelanda es el loro más pesado del mundo y no puede volar. Llegó a quedar una cincuentena y hoy cada ejemplar tiene nombre.\n\n#kakapo #nuevazelanda #avesraras #shorts",
+  "tags": [
+    "kakapo",
+    "strigops habroptilus",
+    "loro que no vuela",
+    "aves raras",
+    "nueva zelanda",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO VUELA Y PESA 4 KG",
+  "prompt_miniatura": "a chubby green flightless parrot with an owl-like face walking on the forest floor at night"
+}

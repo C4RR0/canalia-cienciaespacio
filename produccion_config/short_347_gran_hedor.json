@@ -1,0 +1,35 @@
+{
+  "id": "short_347_gran_hedor",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "cierre_suscripcion",
+  "guion": "En el verano de 1858, el Támesis olía tan mal que en el Parlamento empapaban las cortinas en cloruro de cal.\n\nLas aguas sucias de Londres iban al río, y con el calor apestaba. Lo llamaron el Gran Hedor.\n\nCon el olor en las narices, aprobaron la ley para arreglarlo en dieciocho días.\n\nLondres aún usa aquellas alcantarillas.\n\nLo irónico: creían que el cólera se contagiaba por el mal olor. Se equivocaban, pero las alcantarillas lo frenaron.\n\nMe encanta acertar de chiripa. Aquí hay más historias así.",
+  "queries_imagenes": [
+    "Joseph Bazalgette",
+    "Crossness Pumping Station",
+    "Abbey Mills Pumping Station",
+    "Victoria Embankment construction",
+    "River Thames Westminster",
+    "Palace of Westminster",
+    "Great Stink 1858",
+    "London sewer construction"
+  ],
+  "titulo": "El río que olía tan mal que cambió Londres para siempre",
+  "descripcion": "El Gran Hedor de 1858: el olor del Támesis obligó al Parlamento británico a aprobar en 18 días las alcantarillas de Joseph Bazalgette, que acabaron frenando el cólera.\n\n#londres #historia #granhedor #shorts",
+  "tags": [
+    "gran hedor",
+    "londres",
+    "joseph bazalgette",
+    "tamesis",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "EL OLOR LO CAMBIÓ TODO",
+  "prompt_miniatura": "Victorian London gentlemen covering their noses beside a murky river in front of the Houses of Parliament"
+}

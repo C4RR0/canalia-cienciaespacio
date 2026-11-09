@@ -1,0 +1,35 @@
+{
+  "id": "short_342_tiburon_ballena",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "El pez más grande del mundo tiene los ojos cubiertos de dientes.\n\nEs el tiburón ballena. Supera los doce metros, pero come plancton, y en México la gente nada a su lado.\n\nSus ojos no tienen párpados, y nadie sabía cómo los protegía.\n\nEn 2020, un equipo japonés lo descubrió: cada ojo lleva unos tres mil dentículos, escamas diminutas con forma de diente.\n\nUna armadura en el globo ocular. Me parece rarísimo.\n\nY aún hay más: puede hundir el ojo dentro de la cabeza.",
+  "queries_imagenes": [
+    "Rhincodon typus",
+    "whale shark",
+    "whale shark eye",
+    "whale shark swimming",
+    "whale shark Isla Holbox",
+    "whale shark diver",
+    "whale shark feeding",
+    "Rhincodon typus head"
+  ],
+  "titulo": "El pez más grande del mundo tiene dientes en los ojos",
+  "descripcion": "El tiburón ballena (Rhincodon typus) tiene cada ojo cubierto por unos 3.000 dentículos dérmicos y puede retraerlo hacia la cuenca, según un estudio de 2020.\n\n#tiburonballena #animalesmarinos #animalesraros #shorts",
+  "tags": [
+    "tiburon ballena",
+    "rhincodon typus",
+    "pez mas grande",
+    "animales marinos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "DIENTES EN LOS OJOS",
+  "prompt_miniatura": "close-up of a giant spotted shark's eye in blue water, a diver small in the background"
+}

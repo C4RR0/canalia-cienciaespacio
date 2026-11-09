@@ -1,0 +1,35 @@
+{
+  "id": "short_350_civita_bagnoregio",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "control",
+  "guion": "Este pueblo italiano se está cayendo a trozos, y aun así cobra entrada.\n\nEs Civita di Bagnoregio. Lo fundaron los etruscos hace unos dos mil quinientos años, sobre una colina de roca blanda.\n\nLa erosión la desgasta y el borde cede. Casas enteras han caído al barranco.\n\nSolo se llega a pie, por un puente largo y estrecho.\n\nLo llaman la ciudad que muere, y para mí es el pueblo más bonito y triste de Italia.\n\nEn invierno, apenas duermen allí una decena de personas.",
+  "queries_imagenes": [
+    "Civita di Bagnoregio",
+    "Civita di Bagnoregio bridge",
+    "Bagnoregio",
+    "Civita di Bagnoregio street",
+    "Civita di Bagnoregio panorama",
+    "Valle dei Calanchi",
+    "Civita di Bagnoregio houses",
+    "Civita di Bagnoregio gate"
+  ],
+  "titulo": "El pueblo que se cae a pedazos y aun así cobra entrada",
+  "descripcion": "Civita di Bagnoregio (Italia), fundada por los etruscos, se asienta sobre una colina de toba que se erosiona. Solo se llega por un puente peatonal y apenas tiene una decena de vecinos.\n\n#civitadibagnoregio #italia #lugaresincreibles #shorts",
+  "tags": [
+    "civita di bagnoregio",
+    "italia",
+    "la ciudad que muere",
+    "lugares increibles",
+    "pueblos abandonados",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE CAE A PEDAZOS",
+  "prompt_miniatura": "a medieval hilltop village on a crumbling clay cliff, reachable only by a long narrow footbridge, misty valley"
+}

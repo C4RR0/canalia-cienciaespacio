@@ -1,0 +1,35 @@
+{
+  "id": "short_345_oveja_chris",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Esta oveja llevaba encima cuarenta y un kilos de lana. Lo que pesa un niño de doce años.\n\nSe llamaba Chris, y en 2015 apareció vagando cerca de Canberra, en Australia, sin esquilar desde hacía años.\n\nLas merinas no mudan: su lana crece hasta que alguien la corta.\n\nApenas podía andar, y temían que no aguantara el esquilado.\n\nMe agobio solo de imaginar el calor que pasaba.\n\nLo aguantó y batió un récord mundial: el mayor vellón esquilado jamás.\n\nSi te ha dejado boquiabierto, sígueme.",
+  "queries_imagenes": [
+    "Chris the sheep",
+    "merino sheep",
+    "merino sheep unshorn",
+    "sheep shearing",
+    "merino wool fleece",
+    "sheep Australia",
+    "merino ram",
+    "sheep shearing Australia"
+  ],
+  "titulo": "Esta oveja llevaba encima 41 kilos de lana sin esquilar",
+  "descripcion": "Chris, una oveja merina hallada en 2015 cerca de Canberra (Australia), tenía 41,1 kg de lana: el mayor vellón esquilado de la historia según el récord Guinness.\n\n#oveja #records #australia #shorts",
+  "tags": [
+    "oveja chris",
+    "oveja merina",
+    "record lana",
+    "records animales",
+    "australia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "41 KILOS ENCIMA",
+  "prompt_miniatura": "an enormously woolly sheep, so fluffy its face is almost hidden, standing in an Australian field"
+}

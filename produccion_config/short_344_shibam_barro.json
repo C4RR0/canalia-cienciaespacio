@@ -1,0 +1,35 @@
+{
+  "id": "short_344_shibam_barro",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "control",
+  "guion": "En mitad del desierto de Yemen hay una ciudad de rascacielos. Y son de barro.\n\nEs Shibam: unos quinientos edificios de entre cinco y once pisos, pegados unos a otros dentro de una muralla.\n\nLa mayoría se levantó en el siglo dieciséis, tras una riada que destrozó la ciudad.\n\nCrecer hacia arriba la hacía más fácil de defender.\n\nMe parece increíble que casi nadie la conozca.\n\nPero el barro tiene un precio: cada pocos años hay que revestir las fachadas, o la lluvia se las lleva.",
+  "queries_imagenes": [
+    "Shibam",
+    "Shibam Hadramawt",
+    "Shibam mud skyscrapers",
+    "Old Walled City of Shibam",
+    "Shibam Yemen",
+    "Hadhramaut mud brick houses",
+    "Shibam street",
+    "Wadi Hadhramaut"
+  ],
+  "titulo": "La ciudad de rascacielos de barro que sigue en pie",
+  "descripcion": "Shibam (Yemen) tiene unos 500 edificios de barro de entre cinco y once pisos, la mayoría del siglo XVI. Es Patrimonio de la Humanidad.\n\n#shibam #yemen #lugaresincreibles #shorts",
+  "tags": [
+    "shibam",
+    "yemen",
+    "rascacielos de barro",
+    "lugares increibles",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "RASCACIELOS DE BARRO",
+  "prompt_miniatura": "a cluster of tall mud-brick tower houses rising from a desert valley at sunset"
+}
