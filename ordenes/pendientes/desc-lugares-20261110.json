@@ -1,0 +1,14 @@
+{
+ "accion": "descripcion_anadir",
+ "agente": "vera",
+ "tarea": "7q0vyhec727px154auma",
+ "ok_de_sergio": true,
+ "parametros": {
+  "texto": "▶️ Más lugares imposibles, seguidos: https://www.youtube.com/playlist?list=PLXxBstxwNDTI",
+  "videos": [
+   "ckLCtsjLiww"
+  ],
+  "marca": "list=PLXxBstxwNDTI"
+ },
+ "motivo": "Tarea con OK de Sergio: enlazar la lista de su serie en los siguientes vídeos más vistos sin enlace (10/11)"
+}
