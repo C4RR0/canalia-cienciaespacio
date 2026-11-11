@@ -1,22 +1,22 @@
-# Enganche de los Shorts (datos del 2026-11-10)
+# Enganche de los Shorts (datos del 2026-11-11)
 
 Enganche = vistas comprometidas / vistas (quien se queda frente a quien desliza). Objetivo ≥ 55 %.
 
-- Canal (últimos 200 vídeos con datos): **47 %** (174.837 de 371.098).
-- Publicados en los últimos 7 días (17): **44 %**.
+- Canal (últimos 200 vídeos con datos): **47 %** (176.729 de 373.891).
+- Publicados en los últimos 7 días (16): **47 %**.
 
 ## Por tema
 
 | Tema | Enganche | Vistas | Vídeos |
 |---|---|---|---|
-| historia | 49 % | 15704 | 10 |
+| historia | 49 % | 15706 | 10 |
+| lugares | 48 % | 82603 | 41 |
 | cuerpo_ciencia | 48 % | 4016 | 3 |
-| lugares | 47 % | 77590 | 38 |
-| animales | 47 % | 145027 | 73 |
-| otros | 47 % | 77576 | 46 |
+| otros | 47 % | 75606 | 44 |
+| animales | 47 % | 145824 | 73 |
 | espacio | 46 % | 3667 | 3 |
-| habilidades | 45 % | 21850 | 14 |
-| parasitos | 45 % | 25668 | 13 |
+| habilidades | 45 % | 21857 | 14 |
+| parasitos | 45 % | 24612 | 12 |
 
 ## Los 10 que MÁS retienen (≥800 vistas): copiar su tipo de tema y gancho
 
@@ -29,7 +29,7 @@ Enganche = vistas comprometidas / vistas (quien se queda frente a quien desliza)
 | 60 % | 1163 | 39 s | historia | El árbol más solo del mundo terminó siendo testigo de la Guerra Fría |
 | 59 % | 1133 | 25 s | animales | El animal que puede convertirse en más de 15 criaturas distintas |
 | 59 % | 1889 | 19 s | animales | Esta rana esconde su sangre cuando duerme |
-| 58 % | 3307 | 20 s | animales | Este pájaro guía a los humanos hasta la miel |
+| 58 % | 3308 | 20 s | animales | Este pájaro guía a los humanos hasta la miel |
 | 57 % | 1244 | 40 s | lugares | El Sahara no siempre fue un desierto |
 | 57 % | 5202 | 25 s | otros | Esta hembra tuvo crías sin ningún macho |
 
@@ -41,9 +41,9 @@ Enganche = vistas comprometidas / vistas (quien se queda frente a quien desliza)
 | 27 % | 1102 | 13 s | animales | Las crías de este pez se comen a las de otra madre |
 | 31 % | 1107 | 24 s | habilidades | Este pájaro sobrevive bebiendo sangre de otras aves |
 | 31 % | 1147 | 19 s | otros | Echa pan al agua para pescar como un humano |
-| 32 % | 1082 | 13 s | otros | Le mete un huevo y semanas después le arranca la cabeza |
-| 32 % | 1157 | 13 s | habilidades | El gusano que vive bajo tu piel y a veces cruza por tu ojo |
+| 32 % | 1163 | 13 s | habilidades | El gusano que vive bajo tu piel y a veces cruza por tu ojo |
 | 33 % | 1443 | 20 s | otros | Para el macho de esta especie, aparearse puede ser lo último que haga |
 | 34 % | 1129 | 17 s | cuerpo_ciencia | La mujer que no puede sentir miedo (y lo único que la asustó) |
 | 34 % | 1165 | 14 s | animales | Estas hormigas usan a sus crías como pegamento |
 | 35 % | 1091 | 9 s | animales | Este hongo sale de la cabeza de una oruga y vale una fortuna |
+| 35 % | 1229 | 20 s | animales | El pulpo tiene 3 corazones y 9 cerebros (y sangre azul) |

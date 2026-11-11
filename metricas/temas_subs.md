@@ -1,31 +1,31 @@
-# Suscriptores ganados por tema (foto del 2026-11-10)
+# Suscriptores ganados por tema (foto del 2026-11-11)
 
 Ordenado por suscriptores por cada 1.000 vistas: arriba los temas que mejor convierten.
 
-## Últimos 7 días (2026-11-03 → 2026-11-10)
+## Últimos 7 días (2026-11-04 → 2026-11-11)
 
 | tema | vídeos | vistas | subs | subs por 1.000 vistas |
 |---|---|---|---|---|
-| habilidades | 14 | 1.182 | 2 | 1.69 |
-| historia | 10 | 634 | 1 | 1.58 |
-| parasitos | 13 | 2.808 | 4 | 1.42 |
-| otros | 46 | 9.493 | 11 | 1.16 |
-| lugares | 38 | 12.664 | 14 | 1.11 |
-| animales | 73 | 27.772 | 27 | 0.97 |
+| historia | 10 | 235 | 1 | 4.26 |
+| habilidades | 14 | 1.187 | 2 | 1.68 |
+| parasitos | 12 | 2.755 | 4 | 1.45 |
+| lugares | 41 | 14.287 | 19 | 1.33 |
+| otros | 44 | 9.350 | 11 | 1.18 |
+| animales | 73 | 23.424 | 23 | 0.98 |
 | cuerpo_ciencia | 3 | 4 | 0 | 0.00 |
-| espacio | 3 | 2 | 0 | 0.00 |
-| **total** | 200 | 54.559 | 59 | 1.08 |
+| espacio | 3 | 0 | 0 | - |
+| **total** | 200 | 51.242 | 60 | 1.17 |
 
 ## Acumulado desde el 1/9
 
 | tema | vídeos | vistas | subs | subs por 1.000 vistas |
 |---|---|---|---|---|
-| parasitos | 13 | 25.668 | 59 | 2.30 |
-| habilidades | 14 | 21.850 | 47 | 2.15 |
+| parasitos | 12 | 24.612 | 58 | 2.36 |
+| habilidades | 14 | 21.857 | 47 | 2.15 |
 | espacio | 3 | 3.667 | 6 | 1.64 |
+| animales | 73 | 145.824 | 218 | 1.49 |
 | cuerpo_ciencia | 3 | 4.016 | 6 | 1.49 |
-| animales | 73 | 145.027 | 216 | 1.49 |
-| historia | 10 | 15.704 | 22 | 1.40 |
-| otros | 46 | 77.576 | 90 | 1.16 |
-| lugares | 38 | 77.590 | 76 | 0.98 |
-| **total** | 200 | 371.098 | 522 | 1.41 |
+| historia | 10 | 15.706 | 22 | 1.40 |
+| otros | 44 | 75.606 | 87 | 1.15 |
+| lugares | 41 | 82.603 | 84 | 1.02 |
+| **total** | 200 | 373.891 | 528 | 1.41 |
