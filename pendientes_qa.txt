@@ -1,5 +1,4 @@
 short_351_taipan_interior
-short_352_tortuga_jonathan
 short_353_la_rinconada
 short_354_tarantula_goliat
 short_355_libelula_oceano
