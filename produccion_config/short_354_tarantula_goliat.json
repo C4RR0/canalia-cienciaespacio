@@ -1,0 +1,35 @@
+{
+  "id": "short_354_tarantula_goliat",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "La araña más pesada del mundo puede pesar ciento setenta y cinco gramos, como una manzana.\n\nEs la tarántula Goliat, de las selvas de Sudamérica. Con las patas abiertas, es casi tan grande como un plato.\n\nSi la molestas, sisea y suelta pelos que pican.\n\nEn inglés la llaman comepájaros. Pero casi nunca come aves: lo normal son gusanos, insectos y ranas.\n\nSinceramente, me parece un nombre injustísimo.\n\nLa culpa es de un grabado de 1705 que mostraba a una araña así comiéndose un colibrí.",
+  "queries_imagenes": [
+    "Theraphosa blondi",
+    "Goliath birdeater",
+    "Goliath birdeater spider",
+    "Theraphosa blondi size",
+    "Theraphosa blondi hand",
+    "Goliath tarantula",
+    "Theraphosa blondi female",
+    "Maria Sibylla Merian spider hummingbird"
+  ],
+  "titulo": "Esta araña pesa como una manzana y casi nunca come pájaros",
+  "descripcion": "La tarántula Goliat (Theraphosa blondi), de Sudamérica, es la araña más pesada del mundo: hasta 175 gramos. A pesar de su nombre en inglés, casi nunca come aves.\n\n#tarantula #aranas #animalesraros #shorts",
+  "tags": [
+    "tarantula goliat",
+    "theraphosa blondi",
+    "arana mas grande del mundo",
+    "aranas",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "PESA COMO UNA MANZANA",
+  "prompt_miniatura": "a huge hairy brown tarantula on the rainforest floor next to an apple for scale",
+  "experimento": "control"
+}

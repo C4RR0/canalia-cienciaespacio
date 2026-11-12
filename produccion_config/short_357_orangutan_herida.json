@@ -1,0 +1,35 @@
+{
+  "id": "short_357_orangutan_herida",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este orangután se curó una herida con una planta medicinal, y los científicos lo vieron todo.\n\nRakus vive en Sumatra. En 2022 apareció con un corte en la cara, probablemente de una pelea.\n\nDías después masticó hojas de una liana medicinal y se puso el jugo en la herida.\n\nEn cinco días, el corte estaba cerrado.\n\nEso es más de lo que hago yo con un corte.\n\nNunca se había visto a un animal salvaje curarse así.\n\nSígueme si quieres más animales listos.",
+  "queries_imagenes": [
+    "Pongo abelii",
+    "Sumatran orangutan",
+    "Sumatran orangutan male",
+    "Fibraurea tinctoria",
+    "Gunung Leuser National Park",
+    "Pongo abelii flanged male",
+    "orangutan eating leaves",
+    "Sumatra rainforest"
+  ],
+  "titulo": "Este simio se curó una herida con una planta medicinal",
+  "descripcion": "Rakus, un orangután de Sumatra, se curó en 2022 una herida en la cara masticando hojas de la liana Fibraurea tinctoria y aplicándose el jugo. Fue la primera vez que se vio a un animal salvaje tratar así una herida.\n\n#orangutan #sumatra #animalesinteligentes #shorts",
+  "tags": [
+    "orangutan rakus",
+    "orangutan",
+    "sumatra",
+    "animales inteligentes",
+    "plantas medicinales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE CURÓ ÉL SOLO",
+  "prompt_miniatura": "a large male orangutan with cheek pads chewing green leaves in a dense rainforest",
+  "experimento": "cierre_suscripcion"
+}

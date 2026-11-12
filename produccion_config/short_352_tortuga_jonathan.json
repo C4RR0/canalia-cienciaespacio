@@ -1,0 +1,35 @@
+{
+  "id": "short_352_tortuga_jonathan",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta tortuga ya era adulta cuando se inventó la bombilla, y sigue viva.\n\nSe llama Jonathan. En 1882 la llevaron de las Seychelles a Santa Elena, en mitad del Atlántico.\n\nLlegó ya madura, así que se calcula que nació hacia 1832.\n\nHay una foto suya de aquella época, en el mismo jardín donde vive hoy.\n\nEstá casi ciega y no huele, así que su veterinario le da de comer a mano.\n\nA mí me parece la jubilación perfecta.\n\nEs el animal terrestre vivo más viejo que se conoce.",
+  "queries_imagenes": [
+    "Jonathan (tortoise)",
+    "Jonathan tortoise Saint Helena",
+    "Plantation House Saint Helena",
+    "Aldabrachelys gigantea",
+    "Seychelles giant tortoise",
+    "Saint Helena island",
+    "giant tortoise eating",
+    "Aldabra giant tortoise head"
+  ],
+  "titulo": "El animal terrestre más viejo nació antes que la bombilla",
+  "descripcion": "Jonathan, una tortuga gigante de las Seychelles que vive en la isla de Santa Elena desde 1882, nació hacia 1832 y es el animal terrestre vivo más viejo que se conoce.\n\n#jonathan #tortugagigante #santaelena #shorts",
+  "tags": [
+    "jonathan tortuga",
+    "tortuga gigante",
+    "santa elena",
+    "animal mas viejo",
+    "records animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NACIÓ EN 1832",
+  "prompt_miniatura": "an ancient giant tortoise grazing on a green lawn in front of a colonial house on a remote island",
+  "experimento": "control"
+}

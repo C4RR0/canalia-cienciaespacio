@@ -1,0 +1,35 @@
+{
+  "id": "short_351_taipan_interior",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "La serpiente terrestre más venenosa del mundo casi nunca muerde a nadie.\n\nEs el taipán del interior, de Australia. En el laboratorio, su veneno es el más tóxico de las serpientes de tierra.\n\nPero vive en llanuras secas casi sin gente, y es tímida: si te nota, huye.\n\nCasi todas las mordeduras conocidas fueron a personas que la manipulaban.\n\nYo le tengo más respeto que miedo.\n\nY tiene un truco: en invierno su piel se oscurece para calentarse antes.\n\nSi te gustan los animales engañosos, quédate.",
+  "queries_imagenes": [
+    "Oxyuranus microlepidotus",
+    "inland taipan",
+    "inland taipan snake",
+    "Oxyuranus microlepidotus head",
+    "inland taipan Australia zoo",
+    "Channel Country Queensland",
+    "Oxyuranus microlepidotus dark",
+    "Sturt Stony Desert"
+  ],
+  "titulo": "Esta serpiente es la más venenosa y casi nunca muerde",
+  "descripcion": "El taipán del interior (Oxyuranus microlepidotus), de Australia, tiene el veneno más tóxico de las serpientes terrestres en pruebas de laboratorio, pero es tímido y casi todas las mordeduras conocidas fueron a personas que lo manipulaban.\n\n#taipan #serpientes #animalesdeaustralia #shorts",
+  "tags": [
+    "taipan del interior",
+    "taipan",
+    "serpiente mas venenosa",
+    "serpientes",
+    "animales de australia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LA MÁS VENENOSA… Y TÍMIDA",
+  "prompt_miniatura": "an inland taipan snake coiled on red desert soil in central Australia, calm, close-up of its head",
+  "experimento": "cierre_suscripcion"
+}

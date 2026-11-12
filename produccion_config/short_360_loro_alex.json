@@ -1,0 +1,35 @@
+{
+  "id": "short_360_loro_alex",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro aprendió a contar, a distinguir colores y a pedir cosas con palabras.\n\nEra Alex, un loro gris africano comprado en una tienda en 1977.\n\nLa científica Irene Pepperberg quería demostrar que los loros no solo repiten: entienden.\n\nMuchos no se lo creían. Pero Alex reconocía decenas de objetos, siete colores y cantidades hasta seis.\n\nMurió en 2007, con treinta y un años.\n\nY lo que a mí me rompe es lo último que le dijo la noche antes: Pórtate bien. Te veo mañana. Te quiero.",
+  "queries_imagenes": [
+    "Psittacus erithacus",
+    "African grey parrot",
+    "grey parrot portrait",
+    "Psittacus erithacus close-up",
+    "African grey parrot flying",
+    "grey parrot red tail",
+    "Psittacus erithacus pair",
+    "African grey parrot head"
+  ],
+  "titulo": "El pájaro que sabía contar y se despidió con un te quiero",
+  "descripcion": "Alex, un loro gris africano estudiado por Irene Pepperberg, reconocía objetos, colores, formas y cantidades. Murió en 2007 y lo último que le dijo fue: «Pórtate bien. Te veo mañana. Te quiero».\n\n#loro #lorogris #animalesinteligentes #shorts",
+  "tags": [
+    "loro alex",
+    "loro gris africano",
+    "irene pepperberg",
+    "animales inteligentes",
+    "aves",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SUS ÚLTIMAS PALABRAS",
+  "prompt_miniatura": "a grey parrot with a red tail looking at colorful wooden blocks on a lab table",
+  "experimento": "control"
+}

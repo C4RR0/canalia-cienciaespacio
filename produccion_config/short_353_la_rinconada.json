@@ -1,0 +1,35 @@
+{
+  "id": "short_353_la_rinconada",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En la ciudad más alta del mundo, muchos mineros trabajan un mes sin cobrar.\n\nEs La Rinconada, en los Andes de Perú, a unos cinco mil cien metros. Allí viven decenas de miles de personas bajo un glaciar.\n\nRespiran la mitad de oxígeno que a nivel del mar, y no hay agua corriente.\n\nTodos han ido por el oro.\n\nY me parece una lotería cruel: tras treinta días sin sueldo, cada minero se queda con el mineral que pueda cargar.\n\nSi te gustan los lugares imposibles, sígueme.",
+  "queries_imagenes": [
+    "La Rinconada Peru",
+    "La Rinconada Puno",
+    "La Rinconada mining town",
+    "Ananea Peru",
+    "Nevado Ananea glacier",
+    "gold mine Peru Andes",
+    "Andes miners Peru",
+    "Puno region Andes snow"
+  ],
+  "titulo": "El pueblo más alto del mundo trabaja un mes sin cobrar",
+  "descripcion": "La Rinconada (Perú), a unos 5.100 metros, es la ciudad más alta del mundo. Sus mineros de oro trabajan con el sistema del cachorreo: un mes sin sueldo y, el último día, se quedan con el mineral que puedan cargar.\n\n#larinconada #peru #lugaresincreibles #shorts",
+  "tags": [
+    "la rinconada",
+    "ciudad mas alta del mundo",
+    "peru",
+    "mineros de oro",
+    "lugares increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UN MES SIN COBRAR",
+  "prompt_miniatura": "a chaotic mining town of tin-roofed houses below a glacier high in the Andes, thin cold air, snowy peaks",
+  "experimento": "cierre_suscripcion"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_361_macacos_termales",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este mono vive más al norte que ningún otro primate, salvo nosotros, y aguanta la nieve en aguas termales.\n\nEs el macaco japonés, del valle de Jigokudani, donde nieva durante meses.\n\nEn los años sesenta, una hembra joven se metió en un balneario. Las demás la imitaron.\n\nAl final les hicieron una piscina solo para ellos.\n\nY sinceramente, yo haría exactamente lo mismo.\n\nLo curioso: un estudio midió sus hormonas, y en invierno las hembras que se bañan tienen menos estrés.\n\nSígueme para más animales así de humanos.",
+  "queries_imagenes": [
+    "Jigokudani Monkey Park",
+    "Macaca fuscata hot spring",
+    "snow monkey onsen",
+    "Japanese macaque snow",
+    "Macaca fuscata",
+    "Jigokudani",
+    "Japanese macaque bathing",
+    "snow monkey Nagano"
+  ],
+  "titulo": "El mono que vive en la nieve y se baña en aguas termales",
+  "descripcion": "Los macacos japoneses de Jigokudani (Nagano) se bañan en aguas termales en invierno desde los años sesenta; un estudio comprobó que las hembras que se bañan tienen menos hormonas de estrés.\n\n#macacojapones #japon #animales #shorts",
+  "tags": [
+    "macaco japones",
+    "jigokudani",
+    "monos de las nieves",
+    "japon",
+    "animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SU SPA PRIVADO",
+  "prompt_miniatura": "a red-faced snow monkey relaxing in a steaming hot spring with snow on its head",
+  "experimento": "cierre_suscripcion"
+}

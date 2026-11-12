@@ -1,0 +1,35 @@
+{
+  "id": "short_355_libelula_oceano",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta libélula hace la migración más larga de cualquier insecto: hasta dieciocho mil kilómetros, cruzando un océano.\n\nEn las Maldivas aparecían cada año nubes de libélulas, y un biólogo no entendía por qué: allí casi no hay agua dulce para criar.\n\nInvestigó y vio que llegan desde la India con el viento, y siguen hasta África. Luego vuelven.\n\nA mí me impresiona más que cualquier ave.\n\nPorque ninguna hace el viaje entero: hacen falta unas cuatro generaciones.\n\nSi te ha volado la cabeza, aquí hay más.",
+  "queries_imagenes": [
+    "Pantala flavescens",
+    "globe skimmer dragonfly",
+    "wandering glider dragonfly",
+    "Pantala flavescens flight",
+    "Pantala flavescens male",
+    "Maldives island aerial",
+    "Pantala flavescens swarm",
+    "Pantala flavescens female"
+  ],
+  "titulo": "El insecto que hace el viaje más largo cruzando un océano",
+  "descripcion": "La libélula Pantala flavescens hace la migración más larga conocida de un insecto: hasta 18.000 kilómetros entre la India y África cruzando el océano Índico, en unas cuatro generaciones.\n\n#libelula #migracion #insectos #shorts",
+  "tags": [
+    "pantala flavescens",
+    "libelula",
+    "migracion",
+    "insectos",
+    "records animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "CRUZA UN OCÉANO",
+  "prompt_miniatura": "a golden dragonfly flying over a turquoise ocean with a small tropical island below",
+  "experimento": "cierre_suscripcion"
+}

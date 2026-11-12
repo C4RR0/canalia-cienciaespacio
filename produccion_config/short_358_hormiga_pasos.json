@@ -1,0 +1,35 @@
+{
+  "id": "short_358_hormiga_pasos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta hormiga del desierto vuelve a casa contando sus pasos.\n\nSale del nido y da vueltas buscando insectos muertos por el calor. Pero cuando encuentra uno, regresa en línea recta.\n\nLa dirección la saca del sol. ¿Y la distancia? Unos científicos sospecharon que contaba pasos.\n\nAsí que a algunas les pegaron zancos diminutos en las patas.\n\nMe parece el experimento más tierno e ingenioso que he leído nunca.\n\nY funcionó: con zancos daban pasos más largos, y se pasaban de largo la entrada del nido.",
+  "queries_imagenes": [
+    "Cataglyphis fortis",
+    "Cataglyphis bicolor",
+    "Cataglyphis desert ant",
+    "Cataglyphis",
+    "Cataglyphis bombycina",
+    "desert ant Sahara",
+    "Cataglyphis nest entrance",
+    "Tunisia salt pan Chott"
+  ],
+  "titulo": "Esta hormiga cuenta sus pasos para volver a casa",
+  "descripcion": "Las hormigas del desierto Cataglyphis calculan la distancia al nido contando pasos: en un experimento, a las que les pusieron zancos se pasaban de largo la entrada.\n\n#hormigas #insectos #animalesinteligentes #shorts",
+  "tags": [
+    "cataglyphis",
+    "hormiga del desierto",
+    "hormigas",
+    "insectos",
+    "animales inteligentes",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LE PUSIERON ZANCOS",
+  "prompt_miniatura": "a slender silver desert ant walking on hot sand under a bright sun, macro photo",
+  "experimento": "control"
+}

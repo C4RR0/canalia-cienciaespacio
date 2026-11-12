@@ -375,3 +375,16 @@ short_347_gran_hedor
 short_348_arenque_burbujas
 short_349_paloma_cher_ami
 short_350_civita_bagnoregio
+# 2026-11-12: tanda 351-362 (rutina automática), 2:1
+short_351_taipan_interior
+short_352_tortuga_jonathan
+short_353_la_rinconada
+short_354_tarantula_goliat
+short_355_libelula_oceano
+short_356_hombre_aeropuerto
+short_357_orangutan_herida
+short_360_loro_alex
+short_359_isla_pitcairn
+short_358_hormiga_pasos
+short_361_macacos_termales
+short_362_guerra_toledo

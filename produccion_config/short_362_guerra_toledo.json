@@ -1,0 +1,35 @@
+{
+  "id": "short_362_guerra_toledo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Dos estados de Estados Unidos casi van a la guerra por una franja de tierra, y el perdedor salió ganando.\n\nEn 1835, Ohio y Michigan querían la zona de Toledo, y mandaron milicias a la frontera.\n\nHubo disparos, pero nadie murió. El único herido fue un ayudante del sheriff, con una navaja.\n\nEl Congreso dio Toledo a Ohio. A Michigan, como consolación, un trozo de tierra helada en el norte.\n\nMe parece el peor trato que acabó siendo el mejor.\n\nAllí aparecieron enormes minas de cobre y hierro.",
+  "queries_imagenes": [
+    "Toledo Ohio skyline",
+    "Maumee River Toledo",
+    "Upper Peninsula of Michigan",
+    "Quincy Mine",
+    "Keweenaw Peninsula",
+    "native copper Keweenaw",
+    "Lake Superior shore Michigan",
+    "Marquette Iron Range"
+  ],
+  "titulo": "El estado que perdió una guerra absurda y salió ganando",
+  "descripcion": "En la Guerra de Toledo (1835-1836), Ohio y Michigan se disputaron la franja de Toledo. Michigan la perdió y recibió a cambio la Península Superior, donde después se descubrieron grandes minas de cobre y hierro.\n\n#historia #estadosunidos #guerrasabsurdas #shorts",
+  "tags": [
+    "guerra de toledo",
+    "ohio",
+    "michigan",
+    "guerras absurdas",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "PERDIÓ Y GANÓ",
+  "prompt_miniatura": "two groups of 19th-century militia facing each other across a muddy frontier field with a small river town behind",
+  "experimento": "control"
+}

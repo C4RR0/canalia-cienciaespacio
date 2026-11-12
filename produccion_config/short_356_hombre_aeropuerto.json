@@ -1,0 +1,35 @@
+{
+  "id": "short_356_hombre_aeropuerto",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Un hombre vivió dieciocho años en un banco del aeropuerto de París.\n\nEra Mehran Karimi Nasseri, un refugiado iraní. En 1988 se quedó sin papeles, y ningún país lo dejaba entrar.\n\nSe instaló en la terminal uno del Charles de Gaulle, con sus maletas, sus libros y su diario.\n\nAños después le ofrecieron papeles, pero se negó a firmarlos.\n\nSu historia inspiró la película La terminal.\n\nPero el final me parece más de película que la película: en 2022 volvió al aeropuerto, y murió allí semanas después.",
+  "queries_imagenes": [
+    "Mehran Karimi Nasseri",
+    "Charles de Gaulle Airport Terminal 1",
+    "Aéroport Paris-Charles-de-Gaulle Terminal 1",
+    "Terminal 1 CDG interior",
+    "Charles de Gaulle airport",
+    "Roissy terminal 1 tubes",
+    "airport bench waiting",
+    "Charles de Gaulle Airport Terminal 2F"
+  ],
+  "titulo": "El hombre que vivió 18 años dentro de un aeropuerto",
+  "descripcion": "Mehran Karimi Nasseri, refugiado iraní, vivió de 1988 a 2006 en la terminal 1 del aeropuerto Charles de Gaulle de París. Su historia inspiró la película La terminal.\n\n#historiasreales #aeropuerto #paris #shorts",
+  "tags": [
+    "mehran karimi nasseri",
+    "la terminal",
+    "aeropuerto charles de gaulle",
+    "historias reales",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "18 AÑOS SIN SALIR",
+  "prompt_miniatura": "a lonely man with luggage sitting on a red bench inside a futuristic round airport terminal at night",
+  "experimento": "control"
+}

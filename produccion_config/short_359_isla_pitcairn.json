@@ -1,0 +1,35 @@
+{
+  "id": "short_359_isla_pitcairn",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Unos amotinados se escondieron en una isla mal situada en los mapas, y nadie los encontró en dieciocho años.\n\nEn 1789, la tripulación del Bounty se rebeló contra su capitán. Fletcher Christian, ocho marineros y varios tahitianos buscaron dónde desaparecer.\n\nEligieron Pitcairn, en pleno Pacífico, y quemaron el barco.\n\nCuando los encontraron en 1808, solo quedaba vivo un amotinado.\n\nY esto me fascina: hoy viven allí unas cuarenta personas, y muchas descienden de ellos.\n\nSi te van las islas con secretos, sígueme.",
+  "queries_imagenes": [
+    "Pitcairn Island",
+    "Adamstown Pitcairn",
+    "Bounty Bay Pitcairn",
+    "HMS Bounty replica",
+    "Pitcairn Islands coast",
+    "Bounty anchor Pitcairn",
+    "Pitcairn Island aerial",
+    "Fletcher Christian"
+  ],
+  "titulo": "El motín que se escondió 18 años en una isla mal dibujada",
+  "descripcion": "Los amotinados del Bounty se escondieron en 1790 en la isla Pitcairn, mal situada en las cartas de la época, y no fueron encontrados hasta 1808. Hoy viven allí unas cuarenta personas, muchas descendientes de ellos.\n\n#pitcairn #bounty #historia #shorts",
+  "tags": [
+    "isla pitcairn",
+    "motin del bounty",
+    "fletcher christian",
+    "islas remotas",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NADIE LOS ENCONTRÓ",
+  "prompt_miniatura": "a tiny volcanic island with steep green cliffs in the middle of the Pacific, an old wooden sailing ship burning in the bay",
+  "experimento": "cierre_suscripcion"
+}
