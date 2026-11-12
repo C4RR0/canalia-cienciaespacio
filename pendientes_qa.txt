@@ -1,5 +1,4 @@
 short_351_taipan_interior
 short_353_la_rinconada
 short_354_tarantula_goliat
-short_361_macacos_termales
 short_362_guerra_toledo
