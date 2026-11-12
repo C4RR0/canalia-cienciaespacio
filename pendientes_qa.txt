@@ -1,7 +1,6 @@
 short_351_taipan_interior
 short_353_la_rinconada
 short_354_tarantula_goliat
-short_357_orangutan_herida
 short_359_isla_pitcairn
 short_360_loro_alex
 short_361_macacos_termales
