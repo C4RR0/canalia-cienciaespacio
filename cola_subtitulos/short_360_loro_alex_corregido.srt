@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:04,219
+Este pájaro aprendió a contar, a distinguir colores y a pedir cosas con palabras.
+
+2
+00:00:04,559 --> 00:00:08,400
+Era Alex, un loro gris africano comprado en una tienda en 1977.
+
+3
+00:00:09,339 --> 00:00:13,800
+La científica Irene Pepperberg quería demostrar que los loros no solo repiten, entienden.
+
+4
+00:00:14,060 --> 00:00:18,859
+Muchos no se lo creían, pero Alex reconocía decenas de objetos, siete colores y cantidades
+
+5
+00:00:18,859 --> 00:00:19,460
+hasta seis.
+
+6
+00:00:19,760 --> 00:00:21,879
+Murió en 2007, con 31 años.
+
+7
+00:00:22,239 --> 00:00:25,820
+Y lo que a mí me rompe es lo último que le dijo la noche antes, portate bien,
+
+8
+00:00:25,820 --> 00:00:27,300
+te veo mañana. ¿Te quiero?
+
