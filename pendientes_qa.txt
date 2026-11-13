@@ -1,7 +1,6 @@
 short_351_taipan_interior
 short_353_la_rinconada
 short_354_tarantula_goliat
-short_363_pez_luna
 short_364_zunzuncito
 short_365_nordlingen_crater
 short_366_condor_planeo
