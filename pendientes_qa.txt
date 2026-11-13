@@ -2,7 +2,6 @@ short_351_taipan_interior
 short_353_la_rinconada
 short_354_tarantula_goliat
 short_367_pinguino_emperador
-short_369_pez_volador
 short_370_escarabajo_tigre
 short_371_isla_hans
 short_372_ibice_presa
