@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:03,919
+Este escarabajo corre tan rápido que se queda ciego en plena persecución.
+
+2
+00:00:04,120 --> 00:00:07,719
+Es el escarabajo tigre de los insectos más veloces para su tamaño.
+
+3
+00:00:07,919 --> 00:00:11,019
+Una especie australiana recorre dos metros y medio por segundo,
+
+4
+00:00:11,259 --> 00:00:15,640
+pero a esa velocidad sus ojos no captan suficiente luz y todo se vuelve borroso.
+
+5
+00:00:15,720 --> 00:00:18,600
+Así que hace algo que me parece brillante, frena en seco,
+
+6
+00:00:18,879 --> 00:00:21,539
+vuelve a localizar a su presa y sale disparado otra vez.
+
+7
+00:00:21,760 --> 00:00:26,679
+Y mientras corre a ciegas, lleva las antenas rectas hacia adelante, como bastones, para no chocar.
+

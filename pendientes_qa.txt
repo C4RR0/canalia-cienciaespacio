@@ -1,3 +1,15 @@
 short_351_taipan_interior
 short_353_la_rinconada
 short_354_tarantula_goliat
+short_363_pez_luna
+short_364_zunzuncito
+short_365_nordlingen_crater
+short_366_condor_planeo
+short_367_pinguino_emperador
+short_368_guerra_cubo
+short_369_pez_volador
+short_370_escarabajo_tigre
+short_371_isla_hans
+short_372_ibice_presa
+short_373_berrendo
+short_374_juzcar_azul
