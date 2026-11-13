@@ -388,3 +388,16 @@ short_359_isla_pitcairn
 short_358_hormiga_pasos
 short_361_macacos_termales
 short_362_guerra_toledo
+# 2026-11-13: tanda 363-374 (rutina automática), 2:1
+short_363_pez_luna
+short_364_zunzuncito
+short_365_nordlingen_crater
+short_366_condor_planeo
+short_367_pinguino_emperador
+short_368_guerra_cubo
+short_369_pez_volador
+short_370_escarabajo_tigre
+short_371_isla_hans
+short_372_ibice_presa
+short_373_berrendo
+short_374_juzcar_azul

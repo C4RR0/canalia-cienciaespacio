@@ -1,0 +1,35 @@
+{
+  "id": "short_372_ibice_presa",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Esta cabra escala una presa de casi cincuenta metros, prácticamente vertical, solo para lamer sus piedras.\n\nPasa en la presa de Cingino, en los Alpes italianos. Los íbices trepan por la pared buscando las sales minerales de la roca.\n\nSus pezuñas tienen un borde duro y un centro blando que se agarra como una goma.\n\nYo me mareo solo de ver las fotos.\n\nY lo más increíble es que casi desaparecieron: hace dos siglos apenas quedaba un centenar, en un rincón de Italia.",
+  "queries_imagenes": [
+    "Capra ibex",
+    "Alpine ibex dam",
+    "Lago di Cingino",
+    "Cingino dam ibex",
+    "Alpine ibex climbing",
+    "Capra ibex cliff",
+    "Alpine ibex Gran Paradiso",
+    "Capra ibex female kid"
+  ],
+  "titulo": "Esta cabra escala una presa casi vertical para lamer sal",
+  "descripcion": "Los íbices alpinos (Capra ibex) trepan por la pared casi vertical de la presa de Cingino, en Italia, para lamer sales minerales. A principios del siglo XIX la especie estuvo a punto de extinguirse.\n\n#ibice #cabramontes #alpes #shorts",
+  "tags": [
+    "íbice alpino",
+    "capra ibex",
+    "presa de cingino",
+    "animales increíbles",
+    "alpes",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO SE CAEN",
+  "prompt_miniatura": "mountain goats with curved horns standing on an almost vertical stone dam wall high above a lake"
+}

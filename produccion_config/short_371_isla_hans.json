@@ -1,0 +1,35 @@
+{
+  "id": "short_371_isla_hans",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "cierre_suscripcion",
+  "guion": "Dos países se disputaron una isla casi cuarenta años a base de dejarse botellas.\n\nLa isla Hans, entre Groenlandia y Canadá, es una roca helada y sin vecinos.\n\nEn mil novecientos ochenta y cuatro, soldados canadienses dejaron allí su bandera y whisky.\n\nPoco después, un ministro danés puso la bandera de Dinamarca y un licor danés.\n\nY así, durante décadas.\n\nEs la única guerra a la que me apuntaría.\n\nEn dos mil veintidós se la repartieron, y Canadá y Dinamarca estrenaron frontera por tierra. ¿Más historias absurdas? Sígueme.",
+  "queries_imagenes": [
+    "Hans Island",
+    "Hans Island Nares Strait",
+    "Nares Strait",
+    "Kennedy Channel",
+    "Hans Island Greenland",
+    "Ellesmere Island coast",
+    "Canadian Club whisky bottle",
+    "Hans Ø"
+  ],
+  "titulo": "Dos países se disputaron 40 años una isla dejando whisky",
+  "descripcion": "La isla Hans, entre Groenlandia y Canadá, fue disputada por Dinamarca y Canadá durante décadas en la llamada «guerra del whisky»: ambos dejaban banderas y botellas. En 2022 se la repartieron.\n\n#islahans #historiaabsurda #artico #shorts",
+  "tags": [
+    "isla hans",
+    "guerra del whisky",
+    "canadá",
+    "dinamarca",
+    "historia absurda",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UNA GUERRA DE BOTELLAS",
+  "prompt_miniatura": "a tiny rocky arctic island in an icy strait with a flag and a whisky bottle on the rocks"
+}

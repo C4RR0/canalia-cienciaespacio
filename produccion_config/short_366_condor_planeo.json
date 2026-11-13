@@ -1,0 +1,35 @@
+{
+  "id": "short_366_condor_planeo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Este pájaro voló ciento setenta y dos kilómetros sin batir las alas ni una sola vez.\n\nEs el cóndor andino, que puede rozar los quince kilos.\n\nAletear le cuesta muchísimo, así que casi no lo hace.\n\nCon sensores, unos científicos vieron que solo aletea el uno por ciento del tiempo que vuela.\n\nEl resto, sube con aire caliente y planea horas.\n\nPara mí es el mayor vago del cielo, y lo digo con admiración.\n\nPorque lo más duro para él es despegar: ahí gasta casi todo su esfuerzo.",
+  "queries_imagenes": [
+    "Vultur gryphus",
+    "Andean condor flying",
+    "Andean condor soaring",
+    "Vultur gryphus male",
+    "Andean condor Colca Canyon",
+    "Andean condor wings spread",
+    "Vultur gryphus head",
+    "Andean condor Patagonia"
+  ],
+  "titulo": "Este pájaro voló 172 kilómetros sin batir las alas",
+  "descripcion": "El cóndor andino (Vultur gryphus) solo bate las alas el 1 % del tiempo que vuela: un ejemplar recorrió 172 km en más de cinco horas sin aletear, según un estudio de 2020.\n\n#condorandino #aves #andes #shorts",
+  "tags": [
+    "cóndor andino",
+    "vultur gryphus",
+    "aves",
+    "récords animales",
+    "andes",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NI UN ALETEO",
+  "prompt_miniatura": "a huge Andean condor soaring with fully spread wings over a deep mountain canyon"
+}

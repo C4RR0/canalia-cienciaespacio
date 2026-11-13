@@ -1,0 +1,35 @@
+{
+  "id": "short_365_nordlingen_crater",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "cierre_suscripcion",
+  "guion": "Hay un pueblo alemán construido dentro del cráter de un meteorito, y sus vecinos no lo sabían.\n\nEs Nördlingen, en Baviera. Creían vivir sobre un volcán apagado.\n\nEn mil novecientos sesenta, dos científicos hallaron en sus piedras la huella de un impacto brutal.\n\nFue hace unos quince millones de años; el cráter mide más de veinte kilómetros.\n\nMe encanta: pasean sobre aquel choque.\n\nY su iglesia está hecha con esa roca: lleva diamantes tan diminutos que no se ven. Si te gustan los pueblos imposibles, sígueme.",
+  "queries_imagenes": [
+    "Nördlingen",
+    "Nördlingen aerial view",
+    "Nördlingen city wall",
+    "St. Georg Nördlingen",
+    "Daniel tower Nördlingen",
+    "Nördlinger Ries",
+    "Suevit",
+    "Nördlingen old town"
+  ],
+  "titulo": "El pueblo alemán construido dentro de un cráter",
+  "descripcion": "Nördlingen (Baviera, Alemania) está dentro del cráter de Ries, formado por el impacto de un meteorito hace unos 15 millones de años. Su iglesia de San Jorge está construida con suevita, una roca de impacto con diamantes microscópicos.\n\n#nordlingen #crater #alemania #shorts",
+  "tags": [
+    "nördlingen",
+    "cráter de ries",
+    "pueblos increíbles",
+    "alemania",
+    "lugares increíbles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "VIVEN EN UN CRÁTER",
+  "prompt_miniatura": "a perfectly round medieval walled town with red roofs seen from above, inside a wide green circular valley"
+}

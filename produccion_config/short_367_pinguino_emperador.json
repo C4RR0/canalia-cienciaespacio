@@ -1,0 +1,35 @@
+{
+  "id": "short_367_pinguino_emperador",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "El pájaro que bucea más hondo baja a más de quinientos metros sin respirar.\n\nEs el pingüino emperador. Su récord: quinientos sesenta y cuatro metros, casi el doble de la torre Eiffel.\n\nAllí apenas hay luz, y la presión es cincuenta veces la de la superficie.\n\nPero él sube como si nada, tras más de veinte minutos.\n\nYo no aguanto ni un largo de piscina.\n\nY antes, el macho ha pasado unos cuatro meses sin comer, con el huevo sobre las patas. Si te ha sorprendido, sígueme.",
+  "queries_imagenes": [
+    "Aptenodytes forsteri",
+    "emperor penguin swimming",
+    "emperor penguin underwater",
+    "emperor penguin colony",
+    "emperor penguin egg feet",
+    "emperor penguin diving",
+    "Aptenodytes forsteri chick",
+    "emperor penguin ice hole"
+  ],
+  "titulo": "El pájaro que bucea más hondo baja a 564 metros",
+  "descripcion": "El pingüino emperador (Aptenodytes forsteri) es el ave que bucea a más profundidad: se ha registrado una inmersión de 564 metros.\n\n#pinguinoemperador #pinguinos #antartida #shorts",
+  "tags": [
+    "pingüino emperador",
+    "aptenodytes forsteri",
+    "pingüinos",
+    "récords animales",
+    "antártida",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MÁS HONDO QUE NADIE",
+  "prompt_miniatura": "an emperor penguin diving into deep dark blue water below the Antarctic ice"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_370_escarabajo_tigre",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Este escarabajo corre tan rápido que se queda ciego en plena persecución.\n\nEs el escarabajo tigre, de los insectos más veloces para su tamaño. Una especie australiana recorre dos metros y medio por segundo.\n\nPero a esa velocidad sus ojos no captan suficiente luz, y todo se vuelve borroso.\n\nAsí que hace algo que me parece brillante: frena en seco, vuelve a localizar a su presa y sale disparado otra vez.\n\nY mientras corre a ciegas, lleva las antenas rectas hacia delante, como bastones, para no chocar.",
+  "queries_imagenes": [
+    "Cicindela",
+    "tiger beetle",
+    "Cicindela campestris",
+    "tiger beetle running",
+    "Cicindela hybrida",
+    "tiger beetle sand",
+    "Cicindela sexguttata",
+    "Cicindelinae"
+  ],
+  "titulo": "Este escarabajo corre tan rápido que se queda ciego",
+  "descripcion": "Los escarabajos tigre (Cicindelinae) corren tan rápido que su vista no capta bien a su presa: se paran un instante para volver a localizarla y usan las antenas como guía para no chocar.\n\n#escarabajotigre #insectos #animalesincreibles #shorts",
+  "tags": [
+    "escarabajo tigre",
+    "cicindela",
+    "insectos",
+    "animales increíbles",
+    "récords animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "DEMASIADO RÁPIDO",
+  "prompt_miniatura": "a metallic green tiger beetle sprinting across sand with antennae held straight forward"
+}

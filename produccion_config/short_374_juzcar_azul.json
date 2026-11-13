@@ -1,0 +1,35 @@
+{
+  "id": "short_374_juzcar_azul",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "control",
+  "guion": "Un pueblo blanco de Andalucía se pintó de azul para una película, y no quiso volver atrás.\n\nEs Júzcar, en la serranía de Ronda, en Málaga.\n\nEn dos mil once, una productora lo pintó de arriba abajo, iglesia incluida, para estrenar la película de los Pitufos.\n\nIban a devolverle el blanco, pero llegaron miles de turistas. Así que votaron quedarse azules.\n\nMe encanta, aunque mi abuela pondría el grito en el cielo.\n\nAños después perdieron el derecho a usar a los Pitufos. Y el pueblo sigue azul.",
+  "queries_imagenes": [
+    "Júzcar",
+    "Juzcar blue village",
+    "Júzcar Málaga",
+    "Júzcar iglesia",
+    "Serranía de Ronda",
+    "Júzcar calles",
+    "Juzcar Smurf village",
+    "Valle del Genal"
+  ],
+  "titulo": "El pueblo blanco que pintaron de azul y ya no quiso volver",
+  "descripcion": "Júzcar (Málaga) era un pueblo blanco hasta que en 2011 lo pintaron de azul para el estreno de la película de los Pitufos. Los vecinos votaron mantenerlo así.\n\n#juzcar #pueblosdeespaña #malaga #shorts",
+  "tags": [
+    "júzcar",
+    "pueblo azul",
+    "pueblos de españa",
+    "málaga",
+    "lugares increíbles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UN PUEBLO PITUFO",
+  "prompt_miniatura": "a small Andalusian mountain village with every house painted bright blue on a green hillside"
+}

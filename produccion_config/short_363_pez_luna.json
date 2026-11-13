@@ -1,0 +1,34 @@
+{
+  "id": "short_363_pez_luna",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Una sola hembra de este pez llevaba dentro unos trescientos millones de huevos. Ningún vertebrado pone más.\n\nEs el pez luna, el pez óseo más pesado: puede superar las dos toneladas.\n\nSus crías son diminutas y casi ninguna llega a adulta. Así que juega a la lotería con millones de boletos.\n\nMe parece la estrategia más desesperada y genial del océano.\n\nY sus crías ni se le parecen: son bolitas con pinchos, más pequeñas que un grano de arroz. Si te gustan los récords, aquí hay más.",
+  "queries_imagenes": [
+    "Mola mola",
+    "ocean sunfish",
+    "Mola mola swimming",
+    "ocean sunfish surface",
+    "Mola mola aquarium",
+    "sunfish Mola diver",
+    "Mola alexandrini",
+    "Mola mola Monterey Bay Aquarium"
+  ],
+  "titulo": "Este pez lleva dentro 300 millones de huevos a la vez",
+  "descripcion": "El pez luna (Mola mola) es el pez óseo más pesado del mundo y el vertebrado que más huevos produce: en una hembra se estimaron unos 300 millones.\n\n#pezluna #molamola #animalesmarinos #shorts",
+  "tags": [
+    "pez luna",
+    "mola mola",
+    "récords animales",
+    "animales marinos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "300 MILLONES DE HUEVOS",
+  "prompt_miniatura": "a gigantic round flat ocean sunfish swimming near the sea surface with a diver for scale"
+}

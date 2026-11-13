@@ -1,0 +1,35 @@
+{
+  "id": "short_369_pez_volador",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Un pez aguantó cuarenta y cinco segundos volando sobre el mar.\n\nLo grabó la televisión japonesa en dos mil ocho.\n\nEl pez volador abre unas aletas enormes, como alas, y planea sobre las olas.\n\nCuando pierde velocidad, golpea el agua con la cola y vuelve a despegar sin sumergirse.\n\nAsí escapa de atunes y delfines.\n\nYo pensaba que era un cuento de marineros.\n\nPero arriba le esperan otros cazadores: aves marinas que lo atrapan en el aire. Si te gustan estos rebeldes, quédate.",
+  "queries_imagenes": [
+    "Exocoetidae",
+    "flying fish",
+    "flying fish gliding",
+    "flying fish wings",
+    "Cheilopogon",
+    "Exocoetus volitans",
+    "flying fish over water",
+    "Hirundichthys"
+  ],
+  "titulo": "El pez que aguantó 45 segundos volando sobre el mar",
+  "descripcion": "Los peces voladores (familia Exocoetidae) planean sobre el agua con sus aletas pectorales; en 2008 la televisión japonesa NHK grabó a uno en el aire durante 45 segundos.\n\n#pezvolador #animalesmarinos #oceano #shorts",
+  "tags": [
+    "pez volador",
+    "exocoetidae",
+    "animales marinos",
+    "récords animales",
+    "océano",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UN PEZ QUE VUELA",
+  "prompt_miniatura": "a flying fish gliding above ocean waves with wide transparent wing-like fins spread"
+}

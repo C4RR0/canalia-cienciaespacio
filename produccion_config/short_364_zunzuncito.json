@@ -1,0 +1,35 @@
+{
+  "id": "short_364_zunzuncito",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "El pájaro más pequeño del mundo pesa unos dos gramos: menos que un folio.\n\nVive en Cuba, se llama zunzuncito y mide unos cinco o seis centímetros, con pico incluido.\n\nEs un colibrí que muchos confunden con un abejorro.\n\nPero ese tamaño tiene un precio: gasta tanta energía que debe comer néctar casi sin parar.\n\nYo lo vi y pensé que era un insecto, lo confieso.\n\nAunque lo que más me gusta es su huevo: no es más grande que un grano de café.",
+  "queries_imagenes": [
+    "Mellisuga helenae",
+    "bee hummingbird",
+    "bee hummingbird male",
+    "Mellisuga helenae female",
+    "bee hummingbird Cuba",
+    "Mellisuga helenae flower",
+    "bee hummingbird perched",
+    "Zunzuncito"
+  ],
+  "titulo": "El pájaro más pequeño del mundo pesa menos que un folio",
+  "descripcion": "El zunzuncito o colibrí abeja (Mellisuga helenae), de Cuba, es el pájaro más pequeño del mundo: mide unos 5-6 cm y pesa alrededor de 2 gramos.\n\n#zunzuncito #colibri #avesdecuba #shorts",
+  "tags": [
+    "zunzuncito",
+    "colibrí abeja",
+    "pájaro más pequeño del mundo",
+    "aves de cuba",
+    "récords animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "¿PÁJARO O INSECTO?",
+  "prompt_miniatura": "a tiny iridescent bee hummingbird hovering next to a flower, compared with a coffee bean"
+}

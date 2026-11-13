@@ -1,0 +1,35 @@
+{
+  "id": "short_373_berrendo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este animal corre a más de ochenta kilómetros por hora, huyendo de un depredador que ya no existe.\n\nEs el berrendo, de Norteamérica, y aguanta ese ritmo kilómetros.\n\nPero ningún cazador actual se le acerca: ni lobos, ni pumas.\n\n¿Para qué? Muchos científicos creen que es herencia de un guepardo americano extinguido hace unos doce mil años.\n\nA mí me fascina: sigue escapando de un fantasma.\n\nY aunque lo llamen antílope, no lo es: sus parientes vivos más cercanos son las jirafas. Si te gustan estos misterios, sígueme.",
+  "queries_imagenes": [
+    "Antilocapra americana",
+    "pronghorn running",
+    "pronghorn buck",
+    "pronghorn herd",
+    "Antilocapra americana Yellowstone",
+    "pronghorn doe",
+    "Miracinonyx",
+    "pronghorn prairie"
+  ],
+  "titulo": "El animal que huye de un depredador extinguido",
+  "descripcion": "El berrendo (Antilocapra americana) es el mamífero terrestre más rápido de América. Una hipótesis muy aceptada dice que su velocidad es herencia del guepardo americano (Miracinonyx), extinguido hace unos 12.000 años.\n\n#berrendo #animalesincreibles #norteamerica #shorts",
+  "tags": [
+    "berrendo",
+    "antilocapra americana",
+    "pronghorn",
+    "animales increíbles",
+    "récords animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "HUYE DE UN FANTASMA",
+  "prompt_miniatura": "a pronghorn running at full speed across a golden prairie, with a ghostly cheetah silhouette behind it"
+}

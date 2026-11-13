@@ -1,0 +1,35 @@
+{
+  "id": "short_368_guerra_cubo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "control",
+  "guion": "Una ciudad italiana venció a un ejército mucho mayor y se llevó como trofeo un cubo de madera.\n\nFue en mil trescientos veinticinco: Módena contra Bolonia.\n\nBolonia tenía muchos más soldados, pero perdió.\n\nLos de Módena persiguieron a los derrotados hasta sus murallas, sacaron un cubo de un pozo y se lo llevaron.\n\nSiglos después, un poeta contó que la guerra empezó por ese cubo, y muchos lo creyeron.\n\nMe parece la humillación más barata de la historia.\n\nY el cubo sigue en Módena, casi setecientos años después.",
+  "queries_imagenes": [
+    "Secchia rapita",
+    "Secchia rapita Modena",
+    "Ghirlandina Modena",
+    "Palazzo Comunale Modena",
+    "Battle of Zappolino",
+    "Alessandro Tassoni",
+    "Modena Piazza Grande",
+    "Bologna Porta San Felice"
+  ],
+  "titulo": "Esta ciudad ganó una batalla y solo se llevó un cubo",
+  "descripcion": "En la batalla de Zappolino (1325), Módena venció a Bolonia y se llevó como trofeo un cubo de madera de un pozo, la «Secchia rapita», que aún se conserva en Módena.\n\n#modena #historiaabsurda #italia #shorts",
+  "tags": [
+    "secchia rapita",
+    "batalla de zappolino",
+    "módena",
+    "historia absurda",
+    "italia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "TODO POR UN CUBO",
+  "prompt_miniatura": "a medieval Italian soldier proudly carrying an old wooden bucket in front of a stone bell tower"
+}
