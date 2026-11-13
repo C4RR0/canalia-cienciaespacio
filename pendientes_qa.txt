@@ -1,7 +1,6 @@
 short_351_taipan_interior
 short_353_la_rinconada
 short_354_tarantula_goliat
-short_366_condor_planeo
 short_367_pinguino_emperador
 short_368_guerra_cubo
 short_369_pez_volador
