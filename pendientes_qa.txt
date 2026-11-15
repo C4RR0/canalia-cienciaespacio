@@ -1,4 +1,3 @@
-short_379_cueva_murcielagos
 short_380_gibraltar_pista
 short_381_cangrejo_rojo
 short_382_frailecillo_peces
