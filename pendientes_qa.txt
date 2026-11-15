@@ -1,4 +1,3 @@
-short_378_avestruz_cabeza
 short_379_cueva_murcielagos
 short_380_gibraltar_pista
 short_381_cangrejo_rojo
