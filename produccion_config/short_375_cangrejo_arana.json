@@ -1,0 +1,34 @@
+{
+  "id": "short_375_cangrejo_arana",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Este cangrejo mide casi cuatro metros de punta a punta de sus patas.\n\nEs el cangrejo araña japonés, el artrópodo vivo con las patas más largas que existen.\n\nPero tanta pata tiene un precio. Para crecer, tiene que salir entero de su caparazón viejo, patas incluidas.\n\nEsa muda le lleva horas, y mientras dura se queda blando e indefenso.\n\nY sinceramente, verlo caminar a cámara lenta me parece cosa de otro planeta.\n\nLo mejor es que, para esconderse, se pega esponjas y algas al caparazón.",
+  "queries_imagenes": [
+    "Macrocheira kaempferi",
+    "Japanese spider crab",
+    "Japanese spider crab aquarium",
+    "Macrocheira kaempferi aquarium",
+    "giant spider crab legs",
+    "Japanese spider crab Kaiyukan",
+    "Macrocheira kaempferi molting",
+    "Macrocheira kaempferi museum"
+  ],
+  "titulo": "Este cangrejo mide casi cuatro metros de pata a pata",
+  "descripcion": "El cangrejo araña japonés (Macrocheira kaempferi) puede medir casi cuatro metros de punta a punta de sus patas, el mayor de todos los artrópodos vivos.\n\n#cangrejoarana #animalesmarinos #japon #shorts",
+  "tags": [
+    "cangrejo araña japonés",
+    "macrocheira kaempferi",
+    "animales marinos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "CUATRO METROS DE PATAS",
+  "prompt_miniatura": "a giant Japanese spider crab with extremely long thin legs walking on the dark sea floor, blue underwater light"
+}

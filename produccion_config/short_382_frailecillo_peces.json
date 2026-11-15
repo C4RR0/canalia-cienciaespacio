@@ -1,0 +1,34 @@
+{
+  "id": "short_382_frailecillo_peces",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este pájaro puede volver al nido con más de diez peces en el pico, sin que se le caiga ninguno.\n\nEs el frailecillo atlántico. ¿El truco? Su lengua aprieta cada pez contra unas espinitas del paladar.\n\nAsí puede abrir el pico y seguir pescando sin soltar lo que ya lleva.\n\nY verlo bucear batiendo las alas me parece puro talento.\n\nPero lo mejor es su pico de colores: en invierno se le cae la capa exterior.\n\nSi esto te ha sorprendido, hay más animales así en el canal.",
+  "queries_imagenes": [
+    "Fratercula arctica",
+    "Atlantic puffin fish beak",
+    "puffin sand eels",
+    "Atlantic puffin colony",
+    "puffin flying",
+    "Fratercula arctica winter plumage",
+    "puffin burrow",
+    "Atlantic puffin Iceland"
+  ],
+  "titulo": "Este pájaro lleva más de diez peces en el pico a la vez",
+  "descripcion": "El frailecillo atlántico (Fratercula arctica) sujeta muchos peces a la vez con la lengua contra unas espinas del paladar. Su pico de colores muda en invierno.\n\n#frailecillo #aves #animales #shorts",
+  "tags": [
+    "frailecillo atlántico",
+    "fratercula arctica",
+    "aves marinas",
+    "animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO SE LE CAE NINGUNO",
+  "prompt_miniatura": "an Atlantic puffin standing on a cliff with a beak full of small silver fish hanging crosswise"
+}

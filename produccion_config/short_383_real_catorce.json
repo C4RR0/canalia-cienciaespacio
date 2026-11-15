@@ -1,0 +1,35 @@
+{
+  "id": "short_383_real_catorce",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "control",
+  "guion": "Para llegar a este pueblo de México, lo normal es meterse con el coche en un túnel de más de dos kilómetros con un solo carril.\n\nEs Real de Catorce, a unos dos mil setecientos metros de altura.\n\nFue rico por la plata. Luego las minas cerraron y casi todos se fueron.\n\nPero el pueblo se negó a morir: hoy lo visitan turistas y peregrinos huicholes.\n\nA mí me parece de película.\n\nY lo fue: allí rodaron Brad Pitt y Julia Roberts.",
+  "queries_imagenes": [
+    "Real de Catorce",
+    "Real de Catorce street",
+    "Ogarrio tunnel Real de Catorce",
+    "Real de Catorce church",
+    "Real de Catorce San Luis Potosí",
+    "Real de Catorce ruins",
+    "Real de Catorce panorama",
+    "Real de Catorce mine"
+  ],
+  "titulo": "El pueblo de plata al que se entra por un túnel de minas",
+  "descripcion": "Real de Catorce (San Luis Potosí, México) es un antiguo pueblo minero de plata a unos 2.700 metros; su entrada principal es el túnel Ogarrio, de unos 2,3 km y un solo carril. Allí se rodó «The Mexican».\n\n#realdecatorce #mexico #pueblosmagicos #shorts",
+  "tags": [
+    "real de catorce",
+    "túnel ogarrio",
+    "san luis potosí",
+    "pueblos de méxico",
+    "lugares increibles",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "SOLO UN CARRIL",
+  "prompt_miniatura": "a narrow old stone mining tunnel entrance in dry Mexican mountains, an old colonial town behind"
+}

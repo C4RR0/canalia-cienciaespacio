@@ -1,0 +1,35 @@
+{
+  "id": "short_386_ano_sin_verano",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "cierre_suscripcion",
+  "guion": "En mil ochocientos dieciséis nevó en pleno junio en Estados Unidos, y la culpa fue de un volcán al otro lado del mundo.\n\nUn año antes estalló el Tambora, en Indonesia: la mayor erupción jamás registrada.\n\nSus gases enfriaron el planeta. Hubo hambre en Europa y América.\n\nEn Suiza, unos escritores encerrados por la lluvia se retaron a escribir historias de miedo.\n\nPara mí, lo mejor que ha dejado nunca una catástrofe.\n\nAllí, Mary Shelley, de dieciocho años, empezó Frankenstein.\n\nSi te gusta la historia rara, sígueme.",
+  "queries_imagenes": [
+    "Mount Tambora caldera",
+    "Tambora volcano",
+    "Villa Diodati",
+    "Mary Shelley portrait",
+    "Frankenstein 1831 frontispiece",
+    "Lake Geneva 19th century",
+    "Tambora crater Sumbawa",
+    "Mary Wollstonecraft Shelley Rothwell"
+  ],
+  "titulo": "El verano que nunca llegó acabó creando a Frankenstein",
+  "descripcion": "La erupción del Tambora (Indonesia, 1815), la mayor de la historia registrada, provocó el «año sin verano» de 1816. Ese junio, en Villa Diodati (Ginebra), Mary Shelley empezó Frankenstein.\n\n#tambora #frankenstein #historia #shorts",
+  "tags": [
+    "año sin verano",
+    "tambora",
+    "frankenstein",
+    "mary shelley",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NEVÓ EN JUNIO",
+  "prompt_miniatura": "a dark stormy summer sky over a lake villa at night, candlelight in a window, snow falling on green trees"
+}

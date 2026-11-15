@@ -1,0 +1,34 @@
+{
+  "id": "short_380_gibraltar_pista",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "cierre_suscripcion",
+  "guion": "En este aeropuerto, la gente cruza la pista andando, entre avión y avión.\n\nEs Gibraltar, y no había otro sitio: el Peñón lo ocupa casi todo.\n\nPor eso la pista se hizo en el istmo, de mar a mar, cortando la avenida principal.\n\nDurante décadas, con cada avión bajaban barreras y los coches esperaban.\n\nMe parece la solución más británica y más loca posible.\n\nDesde dos mil veintitrés los coches van por un túnel, pero peatones y ciclistas siguen cruzando.\n\nSi te gustan los lugares imposibles, sígueme.",
+  "queries_imagenes": [
+    "Gibraltar International Airport",
+    "Gibraltar airport runway road",
+    "Winston Churchill Avenue Gibraltar",
+    "Gibraltar runway crossing",
+    "Rock of Gibraltar airport",
+    "Gibraltar airport aerial",
+    "Gibraltar runway pedestrians",
+    "Gibraltar airport barrier"
+  ],
+  "titulo": "El aeropuerto donde la gente cruza la pista andando",
+  "descripcion": "El aeropuerto de Gibraltar tiene una pista que cruzaba la avenida Winston Churchill: barreras cerraban el paso con cada avión. Desde 2023 los coches usan un túnel, pero peatones y ciclistas siguen cruzando.\n\n#gibraltar #aeropuerto #lugaresincreibles #shorts",
+  "tags": [
+    "aeropuerto de gibraltar",
+    "gibraltar",
+    "aeropuertos",
+    "lugares increibles",
+    "curiosidades",
+    "shorts"
+  ],
+  "hook_miniatura": "CRUZAN LA PISTA A PIE",
+  "prompt_miniatura": "pedestrians crossing an airport runway behind a barrier while a plane waits, a huge limestone rock behind"
+}

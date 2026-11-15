@@ -1,0 +1,35 @@
+{
+  "id": "short_378_avestruz_cabeza",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este pájaro pesa cien kilos, corre a setenta por hora y nunca ha escondido la cabeza bajo tierra.\n\nEs el avestruz, el ave más grande que existe.\n\nEl mito sale de su nido, un hoyo en el suelo donde mete la cabeza para girar los huevos.\n\nDesde lejos parece que la entierra.\n\nMe fastidia que el ave más rápida en tierra tenga fama de cobarde.\n\nY otra: cada uno de sus ojos es más grande que su cerebro.\n\nSi te gustan los mitos desmontados, aquí hay muchos más.",
+  "queries_imagenes": [
+    "Struthio camelus",
+    "ostrich running",
+    "ostrich nest eggs",
+    "ostrich head close up",
+    "Struthio camelus male",
+    "ostrich eye",
+    "ostrich savanna",
+    "ostrich egg"
+  ],
+  "titulo": "Este pájaro pesa cien kilos y corre a setenta por hora",
+  "descripcion": "El avestruz (Struthio camelus) es el ave más grande del mundo: supera los 100 kilos y corre a unos 70 km/h. No esconde la cabeza bajo tierra: gira sus huevos en un nido excavado en el suelo.\n\n#avestruz #aves #mitos #shorts",
+  "tags": [
+    "avestruz",
+    "struthio camelus",
+    "aves",
+    "mitos",
+    "animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO ES LO QUE CREES",
+  "prompt_miniatura": "a large ostrich bending its head down into a sandy nest with huge white eggs in the savanna"
+}

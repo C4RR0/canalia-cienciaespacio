@@ -1,0 +1,35 @@
+{
+  "id": "short_381_cangrejo_rojo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Cada año, en una isla del Índico, decenas de millones de cangrejos rojos obligan a cortar las carreteras.\n\nEs la Isla de Navidad. Con las primeras lluvias, los cangrejos bajan del bosque al mar para reproducirse.\n\nPero en medio hay asfalto y coches.\n\nPor eso la isla les ha construido túneles y hasta un puente solo para cangrejos.\n\nA mí esto me reconcilia un poco con la humanidad.\n\nY lo más asombroso es que las hembras sueltan los huevos al mar según la fase de la luna.",
+  "queries_imagenes": [
+    "Gecarcoidea natalis",
+    "Christmas Island red crab",
+    "red crab migration",
+    "Christmas Island crab bridge",
+    "red crabs road Christmas Island",
+    "Gecarcoidea natalis migration",
+    "Christmas Island red crab beach",
+    "Christmas Island crab crossing"
+  ],
+  "titulo": "Este cangrejo obliga a cortar carreteras cada año",
+  "descripcion": "Los cangrejos rojos de la Isla de Navidad (Gecarcoidea natalis) migran por decenas de millones del bosque al mar para reproducirse; la isla cierra carreteras y les ha construido túneles y un puente.\n\n#cangrejorojo #islanavidad #migracion #shorts",
+  "tags": [
+    "cangrejo rojo",
+    "gecarcoidea natalis",
+    "isla de navidad",
+    "migración animal",
+    "animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MILLONES CRUZANDO",
+  "prompt_miniatura": "a road completely covered by thousands of bright red crabs crossing towards the sea, tropical forest"
+}

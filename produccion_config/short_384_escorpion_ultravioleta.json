@@ -1,0 +1,35 @@
+{
+  "id": "short_384_escorpion_ultravioleta",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Si apuntas con una linterna ultravioleta a este bicho por la noche, brilla de color verde azulado.\n\nEs el escorpión. Todas las especies conocidas lo hacen, y así los biólogos los buscan de noche.\n\nLa causa está en una capa del caparazón. Nadie tiene claro para qué le sirve.\n\nY que algo tan antiguo siga siendo un misterio me encanta.\n\nLo más raro es que, recién mudado, no brilla: empieza cuando el caparazón nuevo se endurece.\n\nSi te gustan los misterios de la naturaleza, quédate.",
+  "queries_imagenes": [
+    "scorpion ultraviolet",
+    "scorpion fluorescence",
+    "scorpion UV light",
+    "Hottentotta UV",
+    "scorpion black light",
+    "Buthus occitanus",
+    "scorpion night",
+    "scorpion glowing"
+  ],
+  "titulo": "Este bicho brilla con luz UV y nadie sabe por qué",
+  "descripcion": "Los escorpiones brillan de color verde azulado bajo luz ultravioleta por compuestos de su cutícula. Para qué les sirve sigue sin estar claro.\n\n#escorpion #animales #misterios #shorts",
+  "tags": [
+    "escorpión",
+    "escorpión ultravioleta",
+    "fluorescencia",
+    "animales",
+    "misterios",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "BRILLA EN LA NOCHE",
+  "prompt_miniatura": "a scorpion glowing bright cyan under ultraviolet light on dark rocks at night"
+}

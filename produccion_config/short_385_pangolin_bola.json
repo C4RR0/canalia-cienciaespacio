@@ -1,0 +1,34 @@
+{
+  "id": "short_385_pangolin_bola",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Este animal se enrolla en una bola tan dura que ni un león consigue abrirla.\n\nEs el pangolín, el único mamífero cubierto entero de escamas.\n\nAnte el peligro esconde la cabeza y la tripa, y espera quieto a que el león se canse.\n\nPero esa defensa no le sirve contra nosotros: basta con cogerlo del suelo.\n\nPor eso es el mamífero más traficado del mundo, y me parece una vergüenza.\n\nLo absurdo es que sus escamas valen una fortuna y son de lo mismo que tus uñas.",
+  "queries_imagenes": [
+    "pangolin",
+    "Manis temminckii",
+    "pangolin curled ball",
+    "Manis javanica",
+    "pangolin walking",
+    "Phataginus tricuspis",
+    "ground pangolin",
+    "pangolin scales"
+  ],
+  "titulo": "Este animal se hace una bola que ni un león puede abrir",
+  "descripcion": "El pangolín es el único mamífero cubierto de escamas: se enrolla en una bola que ni un león puede abrir. Es el mamífero más traficado del mundo, aunque sus escamas son de queratina, como las uñas.\n\n#pangolin #animalesenpeligro #animales #shorts",
+  "tags": [
+    "pangolín",
+    "manis",
+    "animales en peligro",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NI UN LEÓN PUEDE",
+  "prompt_miniatura": "a pangolin curled into a tight armored ball of scales on dry grass, a lion's paw nearby"
+}

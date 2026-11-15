@@ -1,0 +1,35 @@
+{
+  "id": "short_376_salamandra_gigante",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "El anfibio más grande del mundo mide casi dos metros.\n\nEs la salamandra gigante china, y apenas ha cambiado en millones de años.\n\nVive en ríos de montaña y respira sobre todo por la piel, llena de pliegues.\n\nPero hoy hay millones en granjas, y en libertad casi no quedan.\n\nA mí me parece una tragedia a cámara lenta.\n\nEn China la llaman pez bebé, porque dicen que su grito suena como el llanto de un niño.\n\nSi te gustan los animales de otra época, quédate.",
+  "queries_imagenes": [
+    "Andrias davidianus",
+    "Chinese giant salamander",
+    "Chinese giant salamander zoo",
+    "Andrias davidianus head",
+    "giant salamander river",
+    "Andrias davidianus aquarium",
+    "Chinese giant salamander skin",
+    "Andrias sligoi"
+  ],
+  "titulo": "El anfibio más grande del mundo mide casi dos metros",
+  "descripcion": "La salamandra gigante china (Andrias davidianus) es el anfibio más grande del mundo: puede medir casi dos metros. En libertad está en peligro crítico.\n\n#salamandragigante #anfibios #animalesraros #shorts",
+  "tags": [
+    "salamandra gigante china",
+    "andrias davidianus",
+    "anfibios",
+    "animales raros",
+    "animales en peligro",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LLORA COMO UN BEBÉ",
+  "prompt_miniatura": "a huge brown wrinkled giant salamander resting on stones in a clear mountain river"
+}

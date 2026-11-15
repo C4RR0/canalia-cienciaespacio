@@ -1,0 +1,35 @@
+{
+  "id": "short_379_cueva_murcielagos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Cada noche de verano salen de una sola cueva de Texas unos quince millones de murciélagos.\n\nEs Bracken Cave, la mayor colonia de murciélagos conocida del mundo.\n\nCasi todas son hembras de murciélago cola de ratón que suben desde México en primavera para tener a sus crías.\n\nAl atardecer forman un río negro que tarda horas en vaciar la cueva.\n\nY yo, que les tengo cierta manía, confieso que me encantaría verlo.\n\nLa nube es tan grande que aparece en los radares meteorológicos como si fuera una tormenta.",
+  "queries_imagenes": [
+    "Tadarida brasiliensis",
+    "Bracken Cave bats",
+    "Mexican free-tailed bat",
+    "bats emerging cave Texas",
+    "Tadarida brasiliensis flight",
+    "Mexican free-tailed bat colony",
+    "bat emergence dusk",
+    "Bracken Cave"
+  ],
+  "titulo": "La cueva de la que salen quince millones de murciélagos",
+  "descripcion": "Bracken Cave (Texas) alberga unos 15 millones de murciélagos cola de ratón (Tadarida brasiliensis), la mayor colonia de murciélagos conocida. Su salida al atardecer se ve en el radar.\n\n#murcielagos #bracken #animales #shorts",
+  "tags": [
+    "murciélago cola de ratón",
+    "bracken cave",
+    "tadarida brasiliensis",
+    "murciélagos",
+    "animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE VEN EN EL RADAR",
+  "prompt_miniatura": "a dense river of millions of bats flying out of a cave entrance into an orange dusk sky"
+}

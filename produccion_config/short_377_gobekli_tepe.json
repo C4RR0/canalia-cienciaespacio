@@ -1,0 +1,35 @@
+{
+  "id": "short_377_gobekli_tepe",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "control",
+  "guion": "Seis mil años antes de Stonehenge, alguien ya tallaba pilares de piedra de cinco metros en la actual Turquía.\n\nEs Göbekli Tepe, y tiene unos once mil quinientos años.\n\nLo levantaron cazadores y recolectores, antes de que existieran la agricultura, la rueda o la escritura.\n\nEn los pilares grabaron zorros, jabalíes, serpientes y buitres.\n\nY te soy sincero: esto me descoloca más que cualquier pirámide.\n\nLo increíble es que en mil novecientos sesenta y tres unos investigadores lo vieron y lo tomaron por un cementerio medieval.",
+  "queries_imagenes": [
+    "Gobekli Tepe",
+    "Göbekli Tepe pillar",
+    "Göbekli Tepe enclosure",
+    "Gobekli Tepe carving fox",
+    "Göbekli Tepe excavation",
+    "Gobekli Tepe T-shaped pillar",
+    "Göbekli Tepe relief",
+    "Sanliurfa Gobekli Tepe"
+  ],
+  "titulo": "El templo tallado seis mil años antes que Stonehenge",
+  "descripcion": "Göbekli Tepe (Şanlıurfa, Turquía) tiene unos 11.500 años: sus pilares tallados son miles de años anteriores a Stonehenge y a la agricultura.\n\n#gobeklitepe #historia #arqueologia #shorts",
+  "tags": [
+    "göbekli tepe",
+    "templo más antiguo",
+    "arqueología",
+    "historia",
+    "turquía",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MÁS VIEJO QUE TODO",
+  "prompt_miniatura": "massive carved T-shaped stone pillars in an ancient circular enclosure on a hill in Turkey at sunset"
+}

@@ -401,3 +401,16 @@ short_371_isla_hans
 short_372_ibice_presa
 short_373_berrendo
 short_374_juzcar_azul
+# 2026-11-15: tanda 375-386 (rutina automática), 2:1
+short_375_cangrejo_arana
+short_376_salamandra_gigante
+short_377_gobekli_tepe
+short_378_avestruz_cabeza
+short_379_cueva_murcielagos
+short_380_gibraltar_pista
+short_381_cangrejo_rojo
+short_385_pangolin_bola
+short_383_real_catorce
+short_382_frailecillo_peces
+short_384_escorpion_ultravioleta
+short_386_ano_sin_verano
