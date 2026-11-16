@@ -1,5 +1,4 @@
 short_390_aguila_arpia
-short_388_polilla_atlas
 short_389_rana_dorada
 short_397_mercado_tren
 short_391_arapaima_aire
