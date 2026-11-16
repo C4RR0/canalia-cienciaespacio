@@ -1,5 +1,4 @@
 short_390_aguila_arpia
-short_396_puentes_raices
 short_393_cuervo_ganchos
 short_394_arrendajo_bellotas
 short_398_ejercito_fantasma
