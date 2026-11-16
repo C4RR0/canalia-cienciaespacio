@@ -1,4 +1,3 @@
-short_387_mono_aullador
 short_390_aguila_arpia
 short_395_uros_islas
 short_388_polilla_atlas
