@@ -1,0 +1,34 @@
+{
+  "id": "short_395_uros_islas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Hay un pueblo que vive sobre islas de paja flotantes, en un lago a casi cuatro mil metros.\n\nSon los uros, del lago Titicaca, en Perú. Según la tradición, huyeron al agua de sus vecinos y fabricaron el suelo con totora, una caña del lago.\n\nPero la base se pudre. Por eso añaden capas nuevas cada pocas semanas, o el suelo se hunde bajo sus pies.\n\nYo no dormiría tranquilo.\n\nY lo mejor: esa misma caña también se la comen. Si te gustan los lugares imposibles, sígueme.",
+  "queries_imagenes": [
+    "Uros islands",
+    "Uros floating islands Titicaca",
+    "Islas flotantes de los Uros",
+    "totora reed boat Titicaca",
+    "Uros Puno",
+    "Lake Titicaca Uros houses",
+    "Schoenoplectus californicus subsp. tatora",
+    "Uros island reed"
+  ],
+  "titulo": "El pueblo que vive sobre islas de paja que flotan",
+  "descripcion": "Los uros viven en islas flotantes hechas de totora en el lago Titicaca (Perú), a unos 3.800 metros de altitud. Deben añadir capas de caña constantemente porque la base se pudre, y también comen la parte tierna de la totora.\n\n#uros #titicaca #lugaresincreibles #shorts",
+  "tags": [
+    "uros",
+    "islas flotantes",
+    "lago titicaca",
+    "peru",
+    "lugares increibles",
+    "shorts"
+  ],
+  "hook_miniatura": "SU SUELO FLOTA",
+  "prompt_miniatura": "colorful reed houses on a floating straw island on a deep blue high-altitude lake, reed boats moored at the edge",
+  "experimento": "cierre_suscripcion"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "short_398_ejercito_fantasma",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En la Segunda Guerra Mundial, Estados Unidos engañó a los nazis con tanques de goma hinchables.\n\nEra una unidad secreta de unos mil cien hombres, y muchos eran artistas y diseñadores. Inflaban tanques y cañones falsos, ponían grabaciones de motores con altavoces y emitían mensajes de radio inventados.\n\nAsí hacían creer al enemigo que había un ejército donde no había nadie.\n\nMe parece lo más ingenioso de toda la guerra.\n\nFue secreto hasta 1996. Y uno de aquellos soldados acabó siendo el diseñador de moda Bill Blass.",
+  "queries_imagenes": [
+    "Ghost Army",
+    "23rd Headquarters Special Troops",
+    "inflatable tank World War II",
+    "dummy tank decoy",
+    "Ghost Army inflatable Sherman",
+    "decoy tank 1944",
+    "Bill Blass",
+    "inflatable dummy tank"
+  ],
+  "titulo": "El ejército de tanques hinchables que engañó a los nazis",
+  "descripcion": "La Ghost Army (23rd Headquarters Special Troops) fue una unidad estadounidense de unos 1.100 hombres que engañó a los alemanes con tanques hinchables, sonidos grabados y radio falsa. Fue secreta hasta 1996; entre sus miembros estaba Bill Blass.\n\n#ghostarmy #segundaguerramundial #historia #shorts",
+  "tags": [
+    "ghost army",
+    "ejercito fantasma",
+    "segunda guerra mundial",
+    "tanques hinchables",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "TANQUES DE GOMA",
+  "prompt_miniatura": "soldiers in WWII uniforms lifting a full-size inflatable rubber tank in a French field",
+  "experimento": "control"
+}

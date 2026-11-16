@@ -1,0 +1,34 @@
+{
+  "id": "short_393_cuervo_ganchos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro fabrica ganchos con ramitas para sacar larvas de los troncos.\n\nEs el cuervo de Nueva Caledonia. Corta una ramita con horquilla y talla un gancho en la punta. Aparte de nosotros, es el único animal que fabrica ganchos en libertad.\n\nSinceramente, me parece más mañoso que muchos humanos.\n\nEn 2002, en Oxford, una hembra llamada Betty quería sacar comida del fondo de un tubo y solo tenía un alambre recto. Lo dobló hasta hacer un gancho.\n\nSígueme: hay animales aún más listos.",
+  "queries_imagenes": [
+    "Corvus moneduloides",
+    "New Caledonian crow",
+    "New Caledonian crow tool",
+    "Corvus moneduloides tool use",
+    "New Caledonian crow hook",
+    "crow using stick tool",
+    "Corvus moneduloides portrait",
+    "New Caledonia forest"
+  ],
+  "titulo": "Este pájaro fabrica ganchos con ramitas para pescar larvas",
+  "descripcion": "El cuervo de Nueva Caledonia (Corvus moneduloides) fabrica herramientas con forma de gancho a partir de ramitas. En 2002, en Oxford, una hembra llamada Betty dobló un alambre para sacar comida de un tubo.\n\n#cuervo #animalesinteligentes #datoscuriosos #shorts",
+  "tags": [
+    "cuervo de nueva caledonia",
+    "corvus moneduloides",
+    "animales inteligentes",
+    "uso de herramientas",
+    "aves",
+    "shorts"
+  ],
+  "hook_miniatura": "MÁS LISTO QUE TÚ",
+  "prompt_miniatura": "a black crow holding a small hooked twig in its beak, probing a hole in a tree trunk",
+  "experimento": "cierre_suscripcion"
+}

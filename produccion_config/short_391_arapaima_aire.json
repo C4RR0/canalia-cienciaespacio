@@ -1,0 +1,34 @@
+{
+  "id": "short_391_arapaima_aire",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pez puede medir más de dos metros, y se ahoga si no sale a respirar.\n\nEs el arapaima, del Amazonas. Respira aire como nosotros, y cada pocos minutos sube a tragar una bocanada.\n\nSu problema es que comparte río con las pirañas. En la estación seca, puede quedar atrapado en charcas llenas de ellas.\n\nY aquí viene lo que me encanta: sus escamas son tan duras que los dientes de las pirañas no consiguen atravesarlas.\n\nSi quieres más bichos imposibles como este, sígueme.",
+  "queries_imagenes": [
+    "Arapaima gigas",
+    "arapaima",
+    "pirarucu",
+    "Arapaima gigas aquarium",
+    "arapaima scales",
+    "pirarucu Amazon",
+    "Arapaima gigas head",
+    "red-bellied piranha"
+  ],
+  "titulo": "Este pez gigante se ahoga si no sale a respirar aire",
+  "descripcion": "El arapaima o pirarucú (Arapaima gigas) del Amazonas respira aire y debe subir a la superficie cada pocos minutos. Sus escamas son tan duras que las pirañas no pueden atravesarlas.\n\n#arapaima #pecesgigantes #amazonas #shorts",
+  "tags": [
+    "arapaima",
+    "pirarucu",
+    "peces gigantes",
+    "amazonas",
+    "animales raros",
+    "shorts"
+  ],
+  "hook_miniatura": "SE AHOGA EN EL AGUA",
+  "prompt_miniatura": "a giant arapaima fish with red-edged scales rising to the water surface to gulp air in a murky Amazon river",
+  "experimento": "cierre_suscripcion"
+}

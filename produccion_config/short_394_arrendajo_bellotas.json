@@ -1,0 +1,34 @@
+{
+  "id": "short_394_arrendajo_bellotas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro entierra miles de bellotas cada otoño, y sin querer planta bosques enteros.\n\nEs el arrendajo, y seguro que lo has visto en el campo. Carga varias bellotas a la vez en la garganta y en el pico, y las esconde una a una bajo tierra, lejos del árbol.\n\nEn invierno vuelve a por ellas y recuerda dónde dejó la mayoría, cosa que a mí ya me parece increíble.\n\nPero no todas. Las que olvida germinan, y muchos robledales de Europa deben su existencia a sus despistes.",
+  "queries_imagenes": [
+    "Garrulus glandarius",
+    "Eurasian jay",
+    "Eurasian jay acorn",
+    "Garrulus glandarius acorn",
+    "jay burying acorn",
+    "Garrulus glandarius flight",
+    "oak seedling acorn",
+    "Eurasian jay oak"
+  ],
+  "titulo": "Este pájaro entierra miles de bellotas y planta bosques",
+  "descripcion": "El arrendajo (Garrulus glandarius) entierra miles de bellotas cada otoño para el invierno. Las que olvida germinan, y es uno de los grandes dispersores de los robles en Europa.\n\n#arrendajo #avesdeespaña #naturaleza #shorts",
+  "tags": [
+    "arrendajo",
+    "garrulus glandarius",
+    "aves de españa",
+    "bellotas",
+    "naturaleza",
+    "shorts"
+  ],
+  "hook_miniatura": "PLANTA BOSQUES SIN QUERER",
+  "prompt_miniatura": "a colorful jay bird with blue wing patch holding an acorn in its beak on an autumn forest floor",
+  "experimento": "control"
+}

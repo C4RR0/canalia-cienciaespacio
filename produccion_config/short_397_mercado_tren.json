@@ -1,0 +1,34 @@
+{
+  "id": "short_397_mercado_tren",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Este mercado tiene una vía de tren en medio, y el tren pasa ocho veces al día.\n\nEstá en Tailandia, cerca de Bangkok. Los puestos de fruta y pescado ocupan los raíles. Cuando suena el aviso, los vendedores recogen los toldos en segundos.\n\nEl tren pasa a centímetros de la gente.\n\nNo sé si es caos o la organización más perfecta del mundo.\n\nLo más increíble: muchos dejan la fruta en el suelo, y el tren pasa por encima sin tocarla. Sígueme para más lugares así.",
+  "queries_imagenes": [
+    "Maeklong Railway Market",
+    "Mae Klong railway market train",
+    "Maeklong market",
+    "Talad Rom Hub",
+    "Samut Songkhram market train",
+    "Mae Klong railway",
+    "Maeklong market vendors",
+    "Maeklong railway station"
+  ],
+  "titulo": "El mercado por el que pasa un tren ocho veces al día",
+  "descripcion": "El mercado de Maeklong, en Samut Songkhram (Tailandia), está montado sobre una vía de tren: los vendedores recogen los toldos cada vez que pasa el tren, y muchos productos se quedan en el suelo mientras el tren pasa por encima.\n\n#maeklong #tailandia #lugaresincreibles #shorts",
+  "tags": [
+    "mercado de maeklong",
+    "tailandia",
+    "mercado del tren",
+    "lugares increibles",
+    "viajes",
+    "shorts"
+  ],
+  "hook_miniatura": "EL TREN PASA POR AQUÍ",
+  "prompt_miniatura": "a yellow train slowly passing through a crowded street market in Thailand, vendors pulling back awnings, fruit on the ground beside the rails",
+  "experimento": "cierre_suscripcion"
+}

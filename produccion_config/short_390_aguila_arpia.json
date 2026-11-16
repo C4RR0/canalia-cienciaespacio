@@ -1,0 +1,34 @@
+{
+  "id": "short_390_aguila_arpia",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta águila tiene garras más largas que tus dedos y caza monos en lo alto de la selva.\n\nEs el águila arpía, de Centroamérica y Sudamérica. Sus garras traseras pueden medir doce centímetros.\n\nVuela entre las ramas y atrapa perezosos y monos.\n\nPara mí es el ave más impresionante del planeta.\n\nPero cada pareja cría un solo pollo cada dos o tres años.\n\nY la gran cazadora es la hembra: pesa casi el doble que el macho.",
+  "queries_imagenes": [
+    "Harpia harpyja",
+    "harpy eagle",
+    "harpy eagle talons",
+    "Harpia harpyja flight",
+    "harpy eagle chick nest",
+    "harpy eagle portrait",
+    "Harpia harpyja female",
+    "harpy eagle Panama"
+  ],
+  "titulo": "Esta águila tiene garras de 12 centímetros y caza monos",
+  "descripcion": "El águila arpía (Harpia harpyja) tiene garras traseras de hasta 12 cm y caza perezosos y monos en la selva. La hembra pesa casi el doble que el macho.\n\n#aguilaarpia #aves #animalessalvajes #shorts",
+  "tags": [
+    "aguila arpia",
+    "harpia harpyja",
+    "aves rapaces",
+    "aves",
+    "animales salvajes",
+    "shorts"
+  ],
+  "hook_miniatura": "GARRAS DE OSO",
+  "prompt_miniatura": "a huge harpy eagle with a grey crest perched in the rainforest canopy, showing enormous yellow talons",
+  "experimento": "control"
+}

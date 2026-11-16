@@ -1,0 +1,34 @@
+{
+  "id": "short_388_polilla_atlas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta polilla puede medir casi veinticinco centímetros con las alas abiertas, y no tiene boca.\n\nEs la polilla atlas, de los bosques del sudeste asiático. De oruga se pasa semanas comiendo hojas sin parar, y ahí guarda toda la energía de su vida.\n\nPorque cuando sale del capullo ya no puede comer. Vive una o dos semanas, lo justo para encontrar pareja. Me parece una vida tristísima.\n\nY en ese poco tiempo, mira las puntas de sus alas: parecen cabezas de serpiente.",
+  "queries_imagenes": [
+    "Attacus atlas",
+    "Attacus atlas moth",
+    "atlas moth wings",
+    "Attacus atlas caterpillar",
+    "Attacus atlas cocoon",
+    "atlas moth hand",
+    "Attacus atlas female",
+    "atlas moth wing tip"
+  ],
+  "titulo": "Esta polilla gigante nace sin boca y nunca llega a comer",
+  "descripcion": "La polilla atlas (Attacus atlas) es una de las polillas más grandes del mundo, con casi 25 cm de envergadura. El adulto no tiene boca funcional y vive solo una o dos semanas.\n\n#polillaatlas #insectos #animalesraros #shorts",
+  "tags": [
+    "polilla atlas",
+    "attacus atlas",
+    "polilla gigante",
+    "insectos",
+    "animales raros",
+    "shorts"
+  ],
+  "hook_miniatura": "NACE SIN BOCA",
+  "prompt_miniatura": "a giant atlas moth with orange and brown wings spread wide, wing tips shaped like snake heads, resting on a branch",
+  "experimento": "control"
+}

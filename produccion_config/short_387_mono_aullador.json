@@ -1,0 +1,34 @@
+{
+  "id": "short_387_mono_aullador",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este mono grita tan fuerte que se le oye a casi cinco kilómetros.\n\nEs el mono aullador, de América. Su secreto es un hueso hueco en la garganta que funciona como un altavoz.\n\nCada amanecer, los machos aúllan para avisar a los vecinos de que esa selva ya tiene dueño. Así se ahorran peleas.\n\nPero la evolución les pasó factura, y me parece cruel: las especies con el altavoz más grande tienen los testículos más pequeños.\n\nSi te ha hecho gracia, quédate: aquí hay animales más raros.",
+  "queries_imagenes": [
+    "Alouatta",
+    "Alouatta palliata",
+    "howler monkey howling",
+    "Alouatta caraya",
+    "Alouatta seniculus",
+    "howler monkey tree",
+    "Alouatta pigra",
+    "howler monkey male"
+  ],
+  "titulo": "Este mono grita tan fuerte que se le oye a casi 5 km",
+  "descripcion": "El mono aullador (género Alouatta) tiene un hueso hioides hueco y enorme que amplifica sus aullidos, audibles a varios kilómetros. Un estudio de 2015 halló que las especies con el hioides más grande tienen testículos más pequeños.\n\n#monoaullador #animalesraros #datoscuriosos #shorts",
+  "tags": [
+    "mono aullador",
+    "alouatta",
+    "animales ruidosos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE OYE A 5 KM",
+  "prompt_miniatura": "a howler monkey high in a rainforest tree, mouth wide open howling at dawn, mist in the jungle",
+  "experimento": "cierre_suscripcion"
+}

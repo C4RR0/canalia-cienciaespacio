@@ -1,0 +1,34 @@
+{
+  "id": "short_392_mangosta_cobras",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este animal pelea con cobras y su veneno casi no le hace efecto.\n\nEs la mangosta. Es rápida y de pelo espeso, pero tarde o temprano la cobra acierta.\n\nEl truco está dentro: el veneno de la cobra se engancha a una pieza que une nervios y músculos, y en la mangosta esa pieza tiene otra forma. El veneno resbala.\n\nY lo que me deja sin palabras: el erizo, el tejón melero y hasta el cerdo tienen el mismo truco, y cada uno lo desarrolló por su cuenta.",
+  "queries_imagenes": [
+    "Herpestes edwardsii",
+    "Indian grey mongoose",
+    "Herpestes ichneumon",
+    "Egyptian mongoose",
+    "mongoose cobra",
+    "Naja naja",
+    "mongoose standing",
+    "Herpestes"
+  ],
+  "titulo": "Este animal pelea con cobras y su veneno casi no le afecta",
+  "descripcion": "Las mangostas resisten el veneno de las cobras gracias a una mutación en el receptor al que se une la toxina. El erizo, el tejón melero y el cerdo desarrollaron por separado mutaciones parecidas.\n\n#mangosta #cobra #animalessalvajes #shorts",
+  "tags": [
+    "mangosta",
+    "mangosta contra cobra",
+    "inmunidad al veneno",
+    "cobra",
+    "animales salvajes",
+    "shorts"
+  ],
+  "hook_miniatura": "EL VENENO LE RESBALA",
+  "prompt_miniatura": "a mongoose standing alert in front of a cobra with its hood spread, dry grass background",
+  "experimento": "control"
+}

@@ -414,3 +414,16 @@ short_383_real_catorce
 short_382_frailecillo_peces
 short_384_escorpion_ultravioleta
 short_386_ano_sin_verano
+# 2026-11-16: tanda 387-398 (rutina automática), 2:1
+short_387_mono_aullador
+short_390_aguila_arpia
+short_395_uros_islas
+short_388_polilla_atlas
+short_389_rana_dorada
+short_397_mercado_tren
+short_391_arapaima_aire
+short_392_mangosta_cobras
+short_396_puentes_raices
+short_393_cuervo_ganchos
+short_394_arrendajo_bellotas
+short_398_ejercito_fantasma

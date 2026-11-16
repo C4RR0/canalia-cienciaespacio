@@ -1,0 +1,34 @@
+{
+  "id": "short_389_rana_dorada",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta rana del tamaño de un pulgar es la más venenosa del mundo.\n\nVive en la selva de Colombia. Su piel amarilla lleva veneno suficiente para acabar con unas diez personas, y los indígenas emberá frotaban sus dardos en ella para cazar.\n\nY esto me parece fascinante: en los zoológicos, esta misma rana es inofensiva.\n\nEl veneno no lo fabrica ella: lo saca de lo que come en la selva. Sin esa comida, se queda sin arma.\n\nSi te gustan los giros así, sígueme.",
+  "queries_imagenes": [
+    "Phyllobates terribilis",
+    "golden poison frog",
+    "Phyllobates terribilis yellow",
+    "Phyllobates terribilis orange",
+    "poison dart frog Colombia",
+    "Phyllobates terribilis zoo",
+    "golden dart frog leaf",
+    "Phyllobates"
+  ],
+  "titulo": "Esta rana es la más venenosa y su veneno no es suyo",
+  "descripcion": "La rana dorada venenosa (Phyllobates terribilis) de Colombia es la rana más venenosa del mundo, pero en cautividad pierde su toxicidad porque el veneno procede de su dieta en la selva.\n\n#ranadorada #animalesvenenosos #datoscuriosos #shorts",
+  "tags": [
+    "rana dorada venenosa",
+    "phyllobates terribilis",
+    "rana dardo",
+    "animales venenosos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO TOCAR NUNCA",
+  "prompt_miniatura": "a tiny bright golden yellow poison frog sitting on a green rainforest leaf, close-up",
+  "experimento": "cierre_suscripcion"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "short_396_puentes_raices",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En una de las zonas más lluviosas del mundo, los puentes no se construyen: se cultivan.\n\nEs Meghalaya, en la India. Allí la madera se pudre enseguida con tanta lluvia, así que el pueblo khasi guía las raíces de una higuera de una orilla a otra.\n\nTardan unos quince años en poder usarse. Quien empieza uno sabe que lo cruzarán otros, y me parece lo más bonito que ha hecho el ser humano.\n\nY el truco: con los años, en vez de gastarse, se hacen más fuertes.",
+  "queries_imagenes": [
+    "living root bridge Meghalaya",
+    "living root bridge",
+    "double decker living root bridge Nongriat",
+    "Meghalaya root bridge",
+    "Ficus elastica roots",
+    "Cherrapunji",
+    "Khasi hills",
+    "Mawlynnong root bridge"
+  ],
+  "titulo": "El pueblo donde los puentes no se construyen, se cultivan",
+  "descripcion": "En Meghalaya (India), el pueblo khasi guía las raíces de la higuera del caucho (Ficus elastica) para formar puentes vivos que tardan unos quince años en poder usarse y se fortalecen con el tiempo.\n\n#meghalaya #puentesvivos #lugaresincreibles #shorts",
+  "tags": [
+    "puentes de raices vivas",
+    "meghalaya",
+    "india",
+    "lugares increibles",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "ESTE PUENTE ESTÁ VIVO",
+  "prompt_miniatura": "a bridge made of living tangled tree roots crossing a jungle stream, moss and ferns, misty rainforest",
+  "experimento": "control"
+}
