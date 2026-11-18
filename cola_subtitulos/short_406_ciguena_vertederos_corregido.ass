@@ -1,0 +1,69 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,40,108,422,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.40,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MILES{\r} DE CIGÜEÑAS HAN
+Dialogue: 0,0:00:00.40,0:00:01.04,Default,,0,0,0,,MILES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIGÜEÑAS{\r} HAN
+Dialogue: 0,0:00:01.04,0:00:01.20,Default,,0,0,0,,MILES DE CIGÜEÑAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HAN{\r}
+Dialogue: 0,0:00:01.20,0:00:01.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEJADO{\r} DE VIAJAR A
+Dialogue: 0,0:00:01.58,0:00:02.04,Default,,0,0,0,,DEJADO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIAJAR{\r} A
+Dialogue: 0,0:00:02.04,0:00:02.16,Default,,0,0,0,,DEJADO DE VIAJAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
+Dialogue: 0,0:00:02.16,0:00:02.64,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÁFRICA.{\r}
+Dialogue: 0,0:00:02.78,0:00:03.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}YA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LES{\r} COMPENSA.
+Dialogue: 0,0:00:03.24,0:00:04.00,Default,,0,0,0,,YA NO LES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMPENSA.{\r}
+Dialogue: 0,0:00:04.08,0:00:05.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DURANTE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIGLOS,{\r} LAS
+Dialogue: 0,0:00:05.04,0:00:05.16,Default,,0,0,0,,DURANTE SIGLOS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r}
+Dialogue: 0,0:00:05.16,0:00:05.60,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIGÜEÑAS{\r} BLANCAS DE
+Dialogue: 0,0:00:05.60,0:00:06.00,Default,,0,0,0,,CIGÜEÑAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BLANCAS{\r} DE
+Dialogue: 0,0:00:06.00,0:00:06.10,Default,,0,0,0,,CIGÜEÑAS BLANCAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:06.10,0:00:06.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESPAÑA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CRUZABAN{\r} EL
+Dialogue: 0,0:00:06.90,0:00:07.06,Default,,0,0,0,,ESPAÑA CRUZABAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
+Dialogue: 0,0:00:07.06,0:00:07.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ESTRECHO{\r} CADA OTOÑO PARA
+Dialogue: 0,0:00:07.48,0:00:08.10,Default,,0,0,0,,ESTRECHO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CADA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}OTOÑO{\r} PARA
+Dialogue: 0,0:00:08.10,0:00:08.34,Default,,0,0,0,,ESTRECHO CADA OTOÑO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
+Dialogue: 0,0:00:08.34,0:00:08.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INVERNAR{\r} AL SUR DEL
+Dialogue: 0,0:00:08.76,0:00:09.12,Default,,0,0,0,,INVERNAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SUR{\r} DEL
+Dialogue: 0,0:00:09.12,0:00:09.28,Default,,0,0,0,,INVERNAR AL SUR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r}
+Dialogue: 0,0:00:09.28,0:00:09.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SAHARA.{\r}
+Dialogue: 0,0:00:09.94,0:00:10.68,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENCONTRARON{\r} ALGO
+Dialogue: 0,0:00:10.68,0:00:10.86,Default,,0,0,0,,PERO ENCONTRARON {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ALGO{\r}
+Dialogue: 0,0:00:10.86,0:00:11.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MEJOR:{\r} LOS VERTEDEROS.
+Dialogue: 0,0:00:11.54,0:00:12.50,Default,,0,0,0,,MEJOR: {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VERTEDEROS.{\r}
+Dialogue: 0,0:00:12.50,0:00:12.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMIDA{\r} FÁCIL TODO EL
+Dialogue: 0,0:00:12.82,0:00:13.38,Default,,0,0,0,,COMIDA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FÁCIL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TODO{\r} EL
+Dialogue: 0,0:00:13.38,0:00:13.58,Default,,0,0,0,,COMIDA FÁCIL TODO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r}
+Dialogue: 0,0:00:13.58,0:00:14.04,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑO,{\r} SIN JUGARSE LA
+Dialogue: 0,0:00:14.04,0:00:14.66,Default,,0,0,0,,AÑO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}JUGARSE{\r} LA
+Dialogue: 0,0:00:14.66,0:00:14.76,Default,,0,0,0,,AÑO, SIN JUGARSE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
+Dialogue: 0,0:00:14.76,0:00:15.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIDA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} EL VIAJE.
+Dialogue: 0,0:00:15.08,0:00:15.68,Default,,0,0,0,,VIDA EN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VIAJE.{\r}
+Dialogue: 0,0:00:15.80,0:00:16.22,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HOY{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUCHAS{\r} PASAN AQUÍ
+Dialogue: 0,0:00:16.22,0:00:16.64,Default,,0,0,0,,HOY MUCHAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PASAN{\r} AQUÍ
+Dialogue: 0,0:00:16.64,0:00:16.84,Default,,0,0,0,,HOY MUCHAS PASAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AQUÍ{\r}
+Dialogue: 0,0:00:16.84,0:00:17.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INVIERNO,{\r} PEGADAS A
+Dialogue: 0,0:00:17.66,0:00:18.00,Default,,0,0,0,,EL INVIERNO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PEGADAS{\r} A
+Dialogue: 0,0:00:18.00,0:00:18.14,Default,,0,0,0,,EL INVIERNO, PEGADAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
+Dialogue: 0,0:00:18.14,0:00:18.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BASURERO.{\r}
+Dialogue: 0,0:00:18.92,0:00:19.26,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ME{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HACE{\r} GRACIA Y
+Dialogue: 0,0:00:19.26,0:00:19.66,Default,,0,0,0,,ME HACE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GRACIA{\r} Y
+Dialogue: 0,0:00:19.66,0:00:19.76,Default,,0,0,0,,ME HACE GRACIA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r}
+Dialogue: 0,0:00:19.76,0:00:20.18,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ME{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PENA{\r} A
+Dialogue: 0,0:00:20.18,0:00:20.36,Default,,0,0,0,,ME DA PENA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}A{\r}
+Dialogue: 0,0:00:20.36,0:00:20.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VEZ.{\r}
+Dialogue: 0,0:00:20.82,0:00:21.34,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PORQUE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EUROPA{\r} QUIERE
+Dialogue: 0,0:00:21.34,0:00:21.62,Default,,0,0,0,,PORQUE EUROPA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUIERE{\r}
+Dialogue: 0,0:00:21.62,0:00:22.10,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}REDUCIR{\r} LOS VERTEDEROS
+Dialogue: 0,0:00:22.10,0:00:22.78,Default,,0,0,0,,REDUCIR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VERTEDEROS{\r}
+Dialogue: 0,0:00:22.78,0:00:23.46,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÍNIMO,{\r} Y NADIE
+Dialogue: 0,0:00:23.46,0:00:23.76,Default,,0,0,0,,AL MÍNIMO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}NADIE{\r}
+Dialogue: 0,0:00:23.76,0:00:24.24,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SABE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUÉ{\r} HARÁN ENTONCES.
+Dialogue: 0,0:00:24.24,0:00:25.04,Default,,0,0,0,,SABE QUÉ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}HARÁN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENTONCES.{\r}

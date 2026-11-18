@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:03,600
+En esta biblioteca, una línea negra en el suelo separa dos países.
+
+2
+00:00:03,980 --> 00:00:09,140
+Es la biblioteca Haskell, entre Estados Unidos y Canadá, y se construyó sobre la frontera a propósito.
+
+3
+00:00:09,380 --> 00:00:14,759
+En 1904, la puerta está en Estados Unidos, pero casi todos los libros están en Canadá.
+
+4
+00:00:14,939 --> 00:00:19,660
+Arriba hay un teatro, casi todo el público se sienta en un país, y el escenario está en el otro.
+
+5
+00:00:19,980 --> 00:00:22,839
+Me parece la forma más elegante de reírse de una frontera.
+
+6
+00:00:23,179 --> 00:00:25,420
+Si te gustan los lugares imposibles, sígueme.
+
