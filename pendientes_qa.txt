@@ -1,3 +1,2 @@
 short_401_ballena_gris
-short_409_hum_ciudad
 short_410_lijar_guerra
