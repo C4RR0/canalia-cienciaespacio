@@ -1,4 +1,3 @@
 short_401_ballena_gris
-short_408_cementerio_alegre
 short_409_hum_ciudad
 short_410_lijar_guerra
