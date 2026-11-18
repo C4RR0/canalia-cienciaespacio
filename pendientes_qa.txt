@@ -1,5 +1,4 @@
 short_401_ballena_gris
-short_404_monstruo_gila
 short_405_ciervo_volante
 short_406_ciguena_vertederos
 short_407_biblioteca_frontera
