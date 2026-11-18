@@ -1,0 +1,34 @@
+{
+  "id": "short_405_ciervo_volante",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "El escarabajo más grande de Europa pasa años escondido en madera podrida. Y luego vive solo unas semanas.\n\nEs el ciervo volante. Los machos tienen unas mandíbulas enormes, como cuernos de ciervo.\n\nPero no son para comer. Son para pelear con otros machos y tirarlos de las ramas.\n\nDe adulto apenas se alimenta: vive de lo que guardó siendo larva.\n\nA mí me parece la vida más injusta del bosque: años de espera para un solo verano.\n\nSi quieres más bichos así de raros, sígueme.",
+  "queries_imagenes": [
+    "Lucanus cervus",
+    "stag beetle male",
+    "Lucanus cervus fight",
+    "stag beetle mandibles",
+    "Lucanus cervus female",
+    "stag beetle larva",
+    "stag beetle flying",
+    "Lucanus cervus oak"
+  ],
+  "titulo": "El escarabajo más grande de Europa vive solo unas semanas",
+  "descripcion": "El ciervo volante (Lucanus cervus), el escarabajo más grande de Europa, pasa varios años como larva en madera muerta y vive solo unas semanas de adulto.\n\n#ciervovolante #escarabajos #insectos #shorts",
+  "tags": [
+    "ciervo volante",
+    "lucanus cervus",
+    "escarabajos",
+    "insectos de europa",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "AÑOS DE ESPERA",
+  "prompt_miniatura": "two male stag beetles wrestling with giant antler-like jaws on an oak branch",
+  "experimento": "cierre_suscripcion"
+}

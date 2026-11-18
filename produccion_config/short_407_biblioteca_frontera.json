@@ -1,0 +1,35 @@
+{
+  "id": "short_407_biblioteca_frontera",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En esta biblioteca, una línea negra en el suelo separa dos países.\n\nEs la biblioteca Haskell, entre Estados Unidos y Canadá, y se construyó sobre la frontera a propósito, en mil novecientos cuatro.\n\nLa puerta está en Estados Unidos. Pero casi todos los libros están en Canadá.\n\nArriba hay un teatro: casi todo el público se sienta en un país, y el escenario está en el otro.\n\nMe parece la forma más elegante de reírse de una frontera.\n\nSi te gustan los lugares imposibles, sígueme.",
+  "queries_imagenes": [
+    "Haskell Free Library and Opera House",
+    "Haskell Free Library",
+    "Haskell Opera House",
+    "Derby Line Vermont",
+    "Stanstead Quebec",
+    "Haskell Library border line",
+    "Haskell Free Library interior",
+    "Derby Line Stanstead border"
+  ],
+  "titulo": "La biblioteca que tiene una frontera pintada en el suelo",
+  "descripcion": "La biblioteca y teatro Haskell (Derby Line, EE. UU. / Stanstead, Canadá) se construyó a propósito sobre la frontera en 1904: la entrada está en EE. UU. y la mayoría de los libros en Canadá.\n\n#haskell #fronteras #lugaresincreibles #shorts",
+  "tags": [
+    "biblioteca haskell",
+    "haskell free library",
+    "frontera",
+    "lugares increibles",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "DOS PAÍSES, UNA SALA",
+  "prompt_miniatura": "an old wooden library reading room with a black line painted across the floor marking an international border",
+  "experimento": "cierre_suscripcion"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_409_hum_ciudad",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Tiene murallas, puerta de ciudad, iglesia y alcalde. Y viven en ella unas veinte o treinta personas.\n\nEs Hum, en lo alto de una colina de Croacia. Presume de ser la ciudad más pequeña del mundo, y se recorre entera en unos minutos.\n\nPero lo mejor es cómo elige a su alcalde. Cada año, los vecinos votan a la antigua: marcando muescas en un palo de madera.\n\nReconozco que me encantaría votar así, sin campañas ni carteles.\n\nSi te gustan estos sitios, sígueme: tengo pueblos aún más extraños.",
+  "queries_imagenes": [
+    "Hum Istria",
+    "Hum Croatia town",
+    "Hum Istria gate",
+    "Hum Istria church",
+    "Hum Croatia aerial",
+    "Hum Istria walls",
+    "Istria hill town",
+    "Hum Croatia street"
+  ],
+  "titulo": "El pueblo que dice ser la ciudad más pequeña del mundo",
+  "descripcion": "Hum, en Istria (Croacia), se presenta como la ciudad más pequeña del mundo: tiene murallas, iglesia y unas veinte o treinta personas. Su alcalde se elige cada año con muescas en un palo.\n\n#hum #croacia #lugaresincreibles #shorts",
+  "tags": [
+    "hum",
+    "hum croacia",
+    "istria",
+    "lugares increibles",
+    "pueblos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SOLO 30 VECINOS",
+  "prompt_miniatura": "a tiny walled medieval stone town on a green hilltop with a church bell tower",
+  "experimento": "cierre_suscripcion"
+}

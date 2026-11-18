@@ -1,0 +1,34 @@
+{
+  "id": "short_406_ciguena_vertederos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Miles de cigüeñas han dejado de viajar a África. Ya no les compensa.\n\nDurante siglos, las cigüeñas blancas de España cruzaban el estrecho cada otoño para invernar al sur del Sahara.\n\nPero encontraron algo mejor: los vertederos. Comida fácil todo el año, sin jugarse la vida en el viaje.\n\nHoy muchas pasan aquí el invierno, pegadas a un basurero.\n\nMe hace gracia y me da pena a la vez.\n\nPorque Europa quiere reducir los vertederos al mínimo, y nadie sabe qué harán entonces.",
+  "queries_imagenes": [
+    "Ciconia ciconia landfill",
+    "white stork landfill Spain",
+    "Ciconia ciconia",
+    "white stork nest",
+    "white stork flock",
+    "white stork migration Gibraltar",
+    "white stork Spain church nest",
+    "white storks rubbish dump"
+  ],
+  "titulo": "Esta ave dejó de viajar a África gracias a nuestra basura",
+  "descripcion": "Muchas cigüeñas blancas (Ciconia ciconia) de la península ibérica ya no migran a África: pasan el invierno aquí alimentándose en vertederos.\n\n#cigueña #avesdeespaña #naturaleza #shorts",
+  "tags": [
+    "cigüeña blanca",
+    "ciconia ciconia",
+    "aves de españa",
+    "migracion",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "YA NO SE VAN",
+  "prompt_miniatura": "dozens of white storks standing on a huge rubbish dump under a grey winter sky",
+  "experimento": "control"
+}

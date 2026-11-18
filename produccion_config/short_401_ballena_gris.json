@@ -1,0 +1,35 @@
+{
+  "id": "short_401_ballena_gris",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Una ballena nadó veintidós mil quinientos kilómetros en ciento setenta y dos días. Es una de las migraciones más largas medidas en un mamífero.\n\nEra una ballena gris llamada Varvara. Salió de Rusia, cruzó el Pacífico hasta México y volvió.\n\nAllí, en Baja California, los balleneros llamaban a las grises peces diablo, porque las madres atacaban sus barcas.\n\nHoy, y me parece un perdón que no merecemos, se acercan solas a las lanchas para que las acaricien.\n\nSi te ha gustado, sígueme: el mar guarda historias aún mejores.",
+  "queries_imagenes": [
+    "Eschrichtius robustus",
+    "gray whale Baja California",
+    "gray whale San Ignacio lagoon",
+    "gray whale breaching",
+    "gray whale tourists boat",
+    "gray whale calf",
+    "Laguna San Ignacio",
+    "gray whale spyhopping"
+  ],
+  "titulo": "La ballena que nadó 22.511 kilómetros en solo 172 días",
+  "descripcion": "En 2011, una ballena gris llamada Varvara recorrió 22.511 km en 172 días entre Rusia y México, una de las migraciones más largas medidas en un mamífero. En Baja California se acercan a las lanchas.\n\n#ballenagris #bajacalifornia #animalesincreibles #shorts",
+  "tags": [
+    "ballena gris",
+    "eschrichtius robustus",
+    "baja california",
+    "migracion",
+    "animales record",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "EL VIAJE MÁS LARGO",
+  "prompt_miniatura": "a gray whale surfacing next to a small tourist boat in a calm Mexican lagoon, people reaching out to touch it",
+  "experimento": "cierre_suscripcion"
+}

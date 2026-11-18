@@ -1,0 +1,34 @@
+{
+  "id": "short_400_pez_bufalo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pez de lago puede vivir ciento doce años.\n\nEs el búfalo boquigrande, de Estados Unidos y Canadá. Se creía que vivía poco más de veinte.\n\nY como tiene mala fama, mucha gente lo caza con arco por diversión.\n\nEn dos mil diecinueve, unos científicos contaron los anillos de unas piedrecitas de su oído, como en un árbol. Muchos pasaban de ochenta años.\n\nSinceramente, me indigna que tratemos así a los abuelos del lago.\n\nY en algunos lagos, casi todos habían nacido antes de mil novecientos cuarenta.",
+  "queries_imagenes": [
+    "Ictiobus cyprinellus",
+    "bigmouth buffalo fish",
+    "bigmouth buffalo",
+    "Ictiobus",
+    "buffalo fish Minnesota",
+    "bowfishing",
+    "fish otolith",
+    "Minnesota lake"
+  ],
+  "titulo": "Este pez de lago vive 112 años y lo cazaban por diversión",
+  "descripcion": "El búfalo boquigrande (Ictiobus cyprinellus) puede vivir 112 años, según un estudio de 2019 que contó los anillos de sus otolitos. Antes se creía que vivía poco más de 20.\n\n#pezbufalo #peces #animalesincreibles #shorts",
+  "tags": [
+    "bufalo boquigrande",
+    "ictiobus cyprinellus",
+    "peces longevos",
+    "animales record",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "112 AÑOS BAJO EL AGUA",
+  "prompt_miniatura": "a large old bronze freshwater fish with a big mouth swimming slowly in a murky green lake",
+  "experimento": "control"
+}

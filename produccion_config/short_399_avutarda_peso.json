@@ -1,0 +1,34 @@
+{
+  "id": "short_399_avutarda_peso",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta ave pesa hasta dieciséis kilos y, aun así, vuela. Es de las aves voladoras más pesadas del planeta.\n\nEs la avutarda, y más de la mitad de las que quedan viven en España.\n\nEn primavera, el macho se hincha como una bola blanca de plumas. Para mí, el desfile más ridículo del campo.\n\nPero lo más raro es su dieta: los machos comen escarabajos venenosos a propósito. Los científicos creen que así se quitan parásitos.\n\nSi te ha sorprendido, sígueme: aquí hay cosas aún más raras.",
+  "queries_imagenes": [
+    "Otis tarda",
+    "great bustard male display",
+    "great bustard flight",
+    "great bustard Spain",
+    "Otis tarda flying",
+    "great bustard female",
+    "Otis tarda Extremadura",
+    "Meloidae beetle"
+  ],
+  "titulo": "Esta ave pesa 16 kilos y es de las más pesadas que vuelan",
+  "descripcion": "La avutarda común (Otis tarda) es una de las aves voladoras más pesadas del mundo: los machos llegan a unos 16 kilos. España alberga más de la mitad de la población mundial.\n\n#avutarda #avesdeespaña #animalesincreibles #shorts",
+  "tags": [
+    "avutarda",
+    "otis tarda",
+    "aves de españa",
+    "animales record",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "16 KILOS Y VUELA",
+  "prompt_miniatura": "a huge great bustard male in full courtship display, puffed into a white ball of feathers, in a Spanish wheat field at sunrise",
+  "experimento": "cierre_suscripcion"
+}

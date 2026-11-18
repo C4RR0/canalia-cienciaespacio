@@ -1,0 +1,34 @@
+{
+  "id": "short_402_pez_piedra",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "El pez más venenoso del mundo no tiene colores de aviso. Parece una piedra cubierta de algas.\n\nEs el pez piedra, de los arrecifes del Índico y el Pacífico. Pasa horas inmóvil, y casi nadie lo distingue.\n\nEn el lomo lleva trece espinas. Si lo pisas, inyectan un veneno que causa un dolor terrible.\n\nPor eso en muchas playas tropicales se recomienda caminar con escarpines.\n\nY lo que me deja sin palabras es el primer remedio: agua muy caliente, porque el calor destruye parte del veneno.",
+  "queries_imagenes": [
+    "Synanceia verrucosa",
+    "stonefish",
+    "reef stonefish camouflage",
+    "Synanceia",
+    "stonefish Red Sea",
+    "Synanceia horrida",
+    "stonefish reef",
+    "stonefish dorsal spines"
+  ],
+  "titulo": "Este pez es el más venenoso del mundo y parece una piedra",
+  "descripcion": "El pez piedra (Synanceia verrucosa) está considerado el pez más venenoso del mundo. Se camufla como una roca y tiene trece espinas en el lomo.\n\n#pezpiedra #animalesvenenosos #oceano #shorts",
+  "tags": [
+    "pez piedra",
+    "synanceia verrucosa",
+    "animales venenosos",
+    "animales record",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO ES UNA PIEDRA",
+  "prompt_miniatura": "a perfectly camouflaged stonefish resting on a coral reef, looking exactly like a rock covered in algae",
+  "experimento": "control"
+}

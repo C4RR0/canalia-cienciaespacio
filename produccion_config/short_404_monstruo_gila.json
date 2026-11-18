@@ -1,0 +1,34 @@
+{
+  "id": "short_404_monstruo_gila",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Un medicamento para la diabetes salió de la saliva de un lagarto venenoso.\n\nEs el monstruo de Gila, del desierto entre México y Estados Unidos. Vive casi siempre bajo tierra y come muy pocas veces al año.\n\nEn los noventa, un médico analizó su saliva y encontró una sustancia que ayuda a controlar el azúcar.\n\nEn dos mil cinco se aprobó un fármaco copiado de ella.\n\nYo jamás habría apostado por este bicho.\n\nPero abrió el camino a los medicamentos que hoy incluyen a Ozempic.",
+  "queries_imagenes": [
+    "Heloderma suspectum",
+    "Gila monster",
+    "Gila monster desert",
+    "Gila monster close up",
+    "Heloderma suspectum cinctum",
+    "Gila monster burrow",
+    "Sonoran Desert",
+    "Gila monster tongue"
+  ],
+  "titulo": "Este lagarto venenoso abrió el camino a Ozempic",
+  "descripcion": "De la saliva del monstruo de Gila (Heloderma suspectum) salió la exendina-4, base de la exenatida (2005), el primer fármaco de la familia GLP-1 a la que hoy pertenece Ozempic.\n\n#monstruodegila #reptiles #ciencia #shorts",
+  "tags": [
+    "monstruo de gila",
+    "heloderma suspectum",
+    "reptiles",
+    "medicina",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SU SALIVA ES UN FÁRMACO",
+  "prompt_miniatura": "a beaded orange and black venomous lizard crawling over desert rocks next to a medicine vial",
+  "experimento": "control"
+}

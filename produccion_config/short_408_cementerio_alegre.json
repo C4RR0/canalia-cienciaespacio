@@ -1,0 +1,35 @@
+{
+  "id": "short_408_cementerio_alegre",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En este cementerio, las tumbas cuentan chistes sobre sus muertos.\n\nEstá en Sapanta, un pueblo del norte de Rumanía. Cientos de cruces de madera azul llevan un dibujo de la vida de cada difunto y un poema.\n\nUno habla del vecino que bebía demasiado. Otro, de una suegra insoportable.\n\nLo empezó un artesano del pueblo, Stan Ioan Patrash, en los años treinta.\n\nPara mí, es la despedida más sana que he visto nunca.\n\nY antes de morir, talló su propia cruz, con su propio poema.",
+  "queries_imagenes": [
+    "Merry Cemetery Sapanta",
+    "Cimitirul Vesel",
+    "Săpânța cemetery crosses",
+    "Merry Cemetery Romania",
+    "Săpânța",
+    "Stan Ioan Pătraș",
+    "Maramureș wooden church",
+    "Merry Cemetery cross painting"
+  ],
+  "titulo": "El cementerio donde las lápidas hacen chistes",
+  "descripcion": "El Cementerio Alegre de Săpânța (Maramureș, Rumanía) tiene cientos de cruces de madera azules con dibujos y poemas humorísticos sobre los difuntos. Lo empezó el artesano Stan Ioan Pătraș en los años treinta.\n\n#cementerioalegre #rumania #lugaresincreibles #shorts",
+  "tags": [
+    "cementerio alegre",
+    "sapanta",
+    "rumania",
+    "lugares increibles",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "TUMBAS QUE HACEN REÍR",
+  "prompt_miniatura": "rows of bright blue carved wooden crosses with naive colorful paintings in a village cemetery",
+  "experimento": "control"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "short_403_lince_iberico",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "En dos mil dos quedaban solo noventa y cuatro. Hoy son más de dos mil cuatrocientos.\n\nEs el lince ibérico, que llegó a ser el felino más amenazado del planeta.\n\nCasi solo come conejos, y las enfermedades los hundieron.\n\nSe criaron linces en cautividad y se soltaron donde había conejos. Muchos murieron atropellados, pero la población creció.\n\nConfieso que es de las pocas noticias que me alegran el día.\n\nEn dos mil veinticuatro pasó de en peligro a vulnerable.\n\nSi te gustan los finales felices, quédate por aquí.",
+  "queries_imagenes": [
+    "Lynx pardinus",
+    "Iberian lynx",
+    "Iberian lynx cub",
+    "Iberian lynx Doñana",
+    "Lynx pardinus release",
+    "European rabbit",
+    "Iberian lynx walking",
+    "Sierra de Andújar"
+  ],
+  "titulo": "Este felino pasó de 94 ejemplares a más de 2.000 en España",
+  "descripcion": "El lince ibérico (Lynx pardinus) pasó de 94 ejemplares en 2002 a más de 2.400 en 2024, cuando la UICN lo bajó de «en peligro» a «vulnerable».\n\n#linceiberico #fauna #españa #shorts",
+  "tags": [
+    "lince iberico",
+    "lynx pardinus",
+    "animales de españa",
+    "conservacion",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "DE 94 A 2.400",
+  "prompt_miniatura": "an Iberian lynx with tufted ears walking through Mediterranean scrubland at golden hour",
+  "experimento": "cierre_suscripcion"
+}

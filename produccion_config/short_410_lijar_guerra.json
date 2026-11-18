@@ -1,0 +1,35 @@
+{
+  "id": "short_410_lijar_guerra",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Un pueblo de Almería pasó cien años en guerra con Francia. Sin disparar ni una bala.\n\nEs Líjar. En mil ochocientos ochenta y tres, el rey Alfonso doce visitó París, y una multitud lo abucheó.\n\nEl alcalde se lo tomó como algo personal, y el pueblo declaró la guerra a Francia.\n\nEn París, que se sepa, nadie se enteró.\n\nA mí este alcalde me cae fenomenal: orgullo infinito y cero recursos.\n\nY en mil novecientos ochenta y tres, cien años después, Líjar firmó por fin la paz.",
+  "queries_imagenes": [
+    "Líjar",
+    "Lijar Almeria",
+    "Líjar Almería village",
+    "Alfonso XII of Spain",
+    "Sierra de los Filabres",
+    "Almería province village",
+    "Paris 1880s",
+    "Líjar church"
+  ],
+  "titulo": "El pueblo español que pasó cien años en guerra con Francia",
+  "descripcion": "En 1883, el pueblo de Líjar (Almería) declaró la guerra a Francia tras los abucheos a Alfonso XII en París. La paz se firmó en 1983, cien años después y sin un solo disparo.\n\n#lijar #historiadeespaña #almeria #shorts",
+  "tags": [
+    "lijar",
+    "guerra de lijar",
+    "almeria",
+    "historia de españa",
+    "historias increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "100 AÑOS EN GUERRA",
+  "prompt_miniatura": "a small whitewashed Andalusian mountain village with an old mayor reading a declaration of war, 19th century style",
+  "experimento": "control"
+}

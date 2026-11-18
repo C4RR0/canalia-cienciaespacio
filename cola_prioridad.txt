@@ -427,3 +427,16 @@ short_396_puentes_raices
 short_393_cuervo_ganchos
 short_394_arrendajo_bellotas
 short_398_ejercito_fantasma
+# 2026-11-18: tanda 399-410 (rutina automática), 2:1
+short_401_ballena_gris
+short_399_avutarda_peso
+short_407_biblioteca_frontera
+short_400_pez_bufalo
+short_405_ciervo_volante
+short_410_lijar_guerra
+short_402_pez_piedra
+short_403_lince_iberico
+short_408_cementerio_alegre
+short_404_monstruo_gila
+short_406_ciguena_vertederos
+short_409_hum_ciudad
