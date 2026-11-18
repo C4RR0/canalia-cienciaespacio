@@ -1,5 +1,4 @@
 short_401_ballena_gris
-short_402_pez_piedra
 short_403_lince_iberico
 short_404_monstruo_gila
 short_405_ciervo_volante
