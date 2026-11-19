@@ -1,9 +1,9 @@
-# Proyección al YPP (datos de 18/11/2026)
+# Proyección al YPP (datos de 19/11/2026)
 
-- Suscriptores: 614/500, faltan 0.
-- Ritmo últimos 7 días: 6.4 subs/día y 8.495 vistas/día.
-- Vistas de los últimos 55 días (los datos empiezan el 24/09): 508.940.
-- Objetivo: 3.000.000 en 90 días = 33.333/día. Ritmo actual = 25 % del necesario.
-- Con 8.495 vistas/día se acumularían en 90 días: 764.537 vistas (25 % del objetivo).
+- Suscriptores: 624/500, faltan 0.
+- Ritmo últimos 7 días: 7.1 subs/día y 7.864 vistas/día.
+- Vistas de los últimos 56 días (los datos empiezan el 24/09): 515.751.
+- Objetivo: 3.000.000 en 90 días = 33.333/día. Ritmo actual = 24 % del necesario.
+- Con 7.864 vistas/día se acumularían en 90 días: 707.747 vistas (24 % del objetivo).
 
 Nota: las vistas del canal incluyen largos; es una aproximación. Alternativa de YouTube: 3.000 h de reproducción en 12 meses.
