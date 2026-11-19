@@ -213,6 +213,7 @@ def series(yt, estado, videos: dict, maximo: int):
             if linea not in sn.get("description", ""):
                 cuerpo = {k: sn[k] for k in ("title", "categoryId", "tags", "defaultLanguage") if k in sn}
                 cuerpo["description"] = (sn.get("description", "").rstrip() + "\n\n" + linea).strip()
+                cuerpo["defaultAudioLanguage"] = "es"  # si no se manda, YouTube pierde el idioma del audio (salía en-US)
                 yt.videos().update(part="snippet", body={"id": vid, "snippet": cuerpo}).execute()
                 hechos += 1
             con_enlace.add(vid)

@@ -45,6 +45,8 @@ if __name__ == "__main__":
                 "title": titulo,
                 "description": descripcion,
                 "categoryId": categoria_id,
+                "defaultLanguage": "es",
+                "defaultAudioLanguage": "es",  # si no se manda, YouTube pierde el idioma del audio
             },
         },
     ).execute()

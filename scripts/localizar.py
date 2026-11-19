@@ -91,7 +91,8 @@ def main(maximo: int):
                 cuerpo = {"id": v["id"], "localizations": locs, "snippet": {
                     "title": sn["title"], "description": sn.get("description", ""),
                     "categoryId": sn["categoryId"], "tags": sn.get("tags", []),
-                    "defaultLanguage": sn.get("defaultLanguage") or "es"}}
+                    "defaultLanguage": sn.get("defaultLanguage") or "es",
+                    "defaultAudioLanguage": "es"}}  # si no se manda, YouTube pierde el idioma del audio (salía en-US)
                 yt.videos().update(part="snippet,localizations", body=cuerpo).execute()
                 hechos += 1
                 print(f"  ok {v['id']}: {sn['title']} -> {locs['en']['title']}")

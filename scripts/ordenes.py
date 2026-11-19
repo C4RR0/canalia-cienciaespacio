@@ -95,6 +95,7 @@ def descripcion_anadir(yt, p):
                 break
             cuerpo = {k: sn[k] for k in ("title", "categoryId", "tags", "defaultLanguage") if k in sn}
             cuerpo["description"] = (sn.get("description", "").rstrip() + "\n\n" + texto)[:5000]
+            cuerpo["defaultAudioLanguage"] = "es"  # si no se manda, YouTube pierde el idioma del audio (salía en-US)
             yt.videos().update(part="snippet", body={"id": item["id"], "snippet": cuerpo}).execute()
             cambiados += 1
     return f"Texto añadido a {cambiados} vídeos ({ya} ya lo tenían)."
