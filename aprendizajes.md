@@ -1422,3 +1422,10 @@ Datos: canal.csv, videos.csv y videos_enganche.csv (26/10).
 - Por tema apenas cambia (45-49 %). Por vídeo, sí: mejores 57-64 % (récords, superlativos, «el único», contraste con lo que todos creen: «El organismo vivo más grande del planeta no es una ballena azul»); peores 22-33 % (gancho de violencia gráfica: «se la come viva», «le arranca la cabeza», «mata a la reina»).
 - REGLAS en `guiones/PLANTILLA_SHORT_30S.md` («Reglas de enganche»): tema claro en la 1.ª frase, contraste, ángulo de asombro y no de violencia, palabras sencillas, «tú» cuando encaje, unir con «pero/por eso», final en seco sin «suscríbete», la voz aporta lo que la imagen no da (YouTube anunció el 3/11 menos alcance para Shorts no originales).
 - MEDIR: enganche de los publicados en los últimos 7 días (línea 2 de enganche.md; 4/11 = 46 %). Si en 2 semanas no sube a ≥ 50 %, revisar.
+
+## 2026-11-19 — Diagnóstico: vistas a la baja y Shorts «muertos»
+- Vistas/día del canal: ~11-15k a finales de octubre → 7.864/día (últimos 7 días) con los mismos 7 Shorts/día. Subs/día 10 → 7.
+- Mediana por Short al día siguiente estable (~1.000), pero suben los MUERTOS (<300 vistas a 2 días, se quedan en 20-240 en total): 4-8 % en oct-nov → 11 % semana del 9/11 → 29 % la del 16/11 (parcial). Historia/lugares mueren el doble que naturaleza (12 % frente a 6 %). No son temas repetidos, ni horizontales, ni hora, ni «para niños», ni restricciones.
+- Enganche MEJORA: 46 % (principios de nov) → 52-53 % (últimos 7 días). Las reglas de gancho funcionan.
+- FALLO encontrado: TODOS los vídeos tenían el idioma del audio en en-US. La subida lo pone en «es», pero localizar.py (traducciones), listas.py, ordenes.py y actualizar_youtube.py reescribían el snippet sin defaultAudioLanguage y YouTube lo dejaba en inglés → posible siembra inicial a público que no entiende el audio. Arreglado (commit 5cdb519) + scripts/arreglar_idioma_audio.py sobre los 120 últimos.
+- MEDIR el 26/11 (una sola variable cambiada): % de muertos y vistas/día. Si los muertos siguen >10 %: bajar a 5 Shorts/día y menos historia/lugares (más animales récord/asombro), que es lo siguiente a probar.
