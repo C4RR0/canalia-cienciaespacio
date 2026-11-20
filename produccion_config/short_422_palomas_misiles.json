@@ -1,0 +1,34 @@
+{
+  "id": "short_422_palomas_misiles",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Durante la Segunda Guerra Mundial, un científico intentó que unas palomas pilotaran bombas.\n\nEra Skinner, uno de los psicólogos más famosos del siglo veinte.\n\nLas bombas de entonces fallaban mucho, y él tuvo una idea absurda.\n\nEntrenó palomas para picotear la imagen de un barco en una pantalla. Si la bomba se desviaba, los picotazos corregían el rumbo.\n\nIrían tres palomas dentro, para decidir por mayoría.\n\nY funcionaba. Me parece tan genial como disparatado.\n\nEl ejército lo canceló. Pero años después, la Marina lo resucitó.",
+  "queries_imagenes": [
+    "B. F. Skinner",
+    "Project Pigeon",
+    "Skinner pigeon",
+    "Burrhus Frederic Skinner",
+    "rock pigeon",
+    "Columba livia flying",
+    "pigeon guided missile nose cone",
+    "World War II glide bomb"
+  ],
+  "titulo": "Un científico entrenó palomas para pilotar bombas",
+  "descripcion": "En la Segunda Guerra Mundial, el psicólogo B. F. Skinner entrenó palomas para guiar bombas (Proyecto Paloma). Se canceló en 1944 y la Marina lo retomó en 1948 como Proyecto Orcon.\n\n#historia #segundaguerramundial #palomas #shorts",
+  "tags": [
+    "proyecto paloma",
+    "b f skinner",
+    "segunda guerra mundial",
+    "palomas",
+    "historia",
+    "shorts"
+  ],
+  "hook_miniatura": "PILOTOS CON PLUMAS",
+  "prompt_miniatura": "three pigeons inside the cramped nose cone of a 1940s missile, pecking at a glowing target screen",
+  "experimento": "control"
+}

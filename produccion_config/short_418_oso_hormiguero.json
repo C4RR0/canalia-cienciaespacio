@@ -1,0 +1,34 @@
+{
+  "id": "short_418_oso_hormiguero",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este animal se traga hasta treinta mil hormigas y termitas en un día, y no tiene ni un diente.\n\nEs el oso hormiguero gigante. Su lengua mide unos sesenta centímetros y entra y sale hasta ciento cincuenta veces por minuto.\n\nPero las hormigas pican y las termitas soldado defienden el nido.\n\nPor eso pasa más o menos un minuto en cada nido y se marcha.\n\nY me parece una jugada brillante.\n\nAsí no lo destruye, y puede volver a comer en él otro día.",
+  "queries_imagenes": [
+    "Myrmecophaga tridactyla",
+    "giant anteater",
+    "giant anteater tongue",
+    "giant anteater termite mound",
+    "giant anteater walking",
+    "giant anteater Pantanal",
+    "Myrmecophaga tridactyla feeding",
+    "giant anteater Brazil"
+  ],
+  "titulo": "Este animal traga 30.000 hormigas al día sin tener dientes",
+  "descripcion": "El oso hormiguero gigante (Myrmecophaga tridactyla) puede comer unas 30.000 hormigas y termitas al día con una lengua de 60 cm, y no tiene dientes.\n\n#osohormiguero #animales #animalesraros #shorts",
+  "tags": [
+    "oso hormiguero",
+    "oso hormiguero gigante",
+    "myrmecophaga tridactyla",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NI UN SOLO DIENTE",
+  "prompt_miniatura": "a giant anteater with its long tongue flicking into a termite mound in golden savanna light",
+  "experimento": "control"
+}

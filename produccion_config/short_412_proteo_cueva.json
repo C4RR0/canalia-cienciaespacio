@@ -1,0 +1,34 @@
+{
+  "id": "short_412_proteo_cueva",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Unos científicos descubrieron que este animal pasó siete años sin moverse del mismo sitio de su cueva.\n\nEs el proteo, un anfibio ciego y blanco de las cuevas de los Balcanes.\n\nAllí, en la oscuridad total, casi no hay comida. Así que no gasta nada.\n\nSe mueve poco, respira despacio y puede pasar años sin comer.\n\nYo no aguanto ni una tarde en el sofá, y lo envidio un poco.\n\nPero esa calma tiene premio: se calcula que supera los cien años, más que ningún otro anfibio.",
+  "queries_imagenes": [
+    "Proteus anguinus",
+    "olm cave salamander",
+    "olm Postojna",
+    "Proteus anguinus head",
+    "olm aquarium",
+    "Postojna cave",
+    "Proteus anguinus Slovenia",
+    "olm salamander white"
+  ],
+  "titulo": "Este anfibio pasó siete años sin moverse del mismo sitio",
+  "descripcion": "El proteo (Proteus anguinus), anfibio ciego de las cuevas de los Balcanes, puede pasar años sin comer y se calcula que supera los cien años de vida.\n\n#proteo #anfibios #animalesraros #shorts",
+  "tags": [
+    "proteo",
+    "proteus anguinus",
+    "olm",
+    "anfibios",
+    "animales raros",
+    "cuevas"
+  ],
+  "hook_miniatura": "7 AÑOS SIN MOVERSE",
+  "prompt_miniatura": "a pale pink blind cave salamander resting on wet rock in a dark cave lit by a soft beam",
+  "experimento": "control"
+}

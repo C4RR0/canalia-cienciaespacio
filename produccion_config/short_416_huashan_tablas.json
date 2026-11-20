@@ -1,0 +1,34 @@
+{
+  "id": "short_416_huashan_tablas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En una montaña sagrada de China hay un camino de tablas clavadas a una pared vertical, y aún se cruza.\n\nEstá en lo alto del monte Hua, de más de dos mil metros.\n\nLo abrieron monjes taoístas hace siglos para llegar a cuevas donde meditar, lejos de todo.\n\nBajo las tablas solo hay vacío.\n\nHoy los visitantes se enganchan con un arnés y avanzan pegados a la roca.\n\nYo me daría la vuelta al primer paso.\n\nLos monjes buscaban soledad. Ahora hay cola para pasar.",
+  "queries_imagenes": [
+    "Huashan plank walk",
+    "Mount Hua plank road",
+    "Huashan cliff path",
+    "Mount Hua South Peak",
+    "Huashan",
+    "Mount Hua Shaanxi",
+    "Huashan chain path",
+    "Mount Hua Taoist temple"
+  ],
+  "titulo": "El camino de tablas en un acantilado que todavía se cruza",
+  "descripcion": "En el monte Hua (Huashan), en China, un camino de tablas clavadas a un acantilado, abierto por monjes taoístas, se sigue cruzando hoy con arnés.\n\n#huashan #china #lugaresincreibles #shorts",
+  "tags": [
+    "monte hua",
+    "huashan",
+    "camino de tablas",
+    "china",
+    "lugares increibles",
+    "shorts"
+  ],
+  "hook_miniatura": "SOLO HAY VACÍO DEBAJO",
+  "prompt_miniatura": "a narrow wooden plank path bolted to a sheer granite cliff high above clouds, a hiker in a red harness clinging to a chain",
+  "experimento": "control"
+}

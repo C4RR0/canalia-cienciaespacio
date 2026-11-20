@@ -1,0 +1,34 @@
+{
+  "id": "short_419_cacatua_tambor",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este loro corta una rama, la talla con el pico y la usa como baqueta para tocar el tambor en un tronco hueco.\n\nEs la cacatúa enlutada, de Australia y Nueva Guinea, y casi ningún animal fabrica herramientas para hacer música.\n\nLo hace el macho para conquistar a la hembra.\n\nUnos científicos lo grabaron durante años: no toca al azar, mantiene el ritmo.\n\nConozco humanos con menos ritmo que este pájaro.\n\nY cada macho tiene su propio estilo.\n\nSi te ha gustado, sígueme para más.",
+  "queries_imagenes": [
+    "Probosciger aterrimus",
+    "palm cockatoo",
+    "palm cockatoo Cape York",
+    "palm cockatoo red cheek",
+    "Probosciger aterrimus crest",
+    "palm cockatoo tree",
+    "palm cockatoo New Guinea",
+    "palm cockatoo portrait"
+  ],
+  "titulo": "Este loro fabrica sus propias baquetas y toca el tambor",
+  "descripcion": "La cacatúa enlutada (Probosciger aterrimus) talla palos y vainas para tamborilear en troncos huecos con un ritmo regular y un estilo propio de cada macho.\n\n#cacatua #loros #avesdeaustralia #shorts",
+  "tags": [
+    "cacatua enlutada",
+    "probosciger aterrimus",
+    "palm cockatoo",
+    "loros",
+    "aves de australia",
+    "animales con talento"
+  ],
+  "hook_miniatura": "TIENE MÁS RITMO QUE TÚ",
+  "prompt_miniatura": "a black cockatoo with red cheeks holding a stick in its foot and drumming on a hollow tree trunk",
+  "experimento": "cierre_suscripcion"
+}

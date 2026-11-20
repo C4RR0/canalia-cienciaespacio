@@ -1,0 +1,34 @@
+{
+  "id": "short_421_calao_nido",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Esta hembra se encierra semanas dentro de un árbol, tapa la entrada y deja solo una rendija.\n\nEs el cálao bicorne, de Asia, con un enorme casco sobre el pico.\n\nDentro cría a sus polluelos, a salvo de depredadores.\n\nPero no puede salir, así que el macho le pasa fruta por la rendija.\n\nA mí me parece la mayor prueba de confianza del mundo animal.\n\nY el cemento de esa pared lo fabrica ella, con barro, restos de fruta y sus propios excrementos.\n\nSi te ha sorprendido, sígueme.",
+  "queries_imagenes": [
+    "Buceros bicornis",
+    "great hornbill",
+    "great hornbill nest",
+    "great hornbill male feeding",
+    "great hornbill flying",
+    "Buceros bicornis casque",
+    "great hornbill tree cavity",
+    "great hornbill India"
+  ],
+  "titulo": "Esta hembra se tapia dentro de un árbol durante semanas",
+  "descripcion": "La hembra del cálao bicorne (Buceros bicornis) se encierra en el hueco de un árbol sellándolo con barro, y el macho la alimenta por una rendija mientras cría.\n\n#calao #aves #animalesincreibles #shorts",
+  "tags": [
+    "calao bicorne",
+    "buceros bicornis",
+    "great hornbill",
+    "calaos",
+    "aves de asia",
+    "animales increibles"
+  ],
+  "hook_miniatura": "ENCERRADA POR AMOR",
+  "prompt_miniatura": "a large hornbill with a yellow casque passing a fig through a narrow slit in a mud-sealed tree hollow",
+  "experimento": "cierre_suscripcion"
+}

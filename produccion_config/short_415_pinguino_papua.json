@@ -1,0 +1,34 @@
+{
+  "id": "short_415_pinguino_papua",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Ningún ave nada tan rápido como este pingüino: hasta treinta y seis kilómetros por hora bajo el agua.\n\nEs el pingüino papúa, el de la mancha blanca sobre los ojos.\n\nEn tierra camina torpe y despacio. En el mar es otro animal.\n\nY lo necesita: allí le esperan focas leopardo y orcas.\n\nSinceramente, pocos animales pasan de torpes a atletas tan rápido.\n\nY a esa velocidad puede bajar a unos doscientos metros de profundidad.\n\nSi te gustan los récords animales, quédate.",
+  "queries_imagenes": [
+    "Pygoscelis papua",
+    "gentoo penguin swimming",
+    "gentoo penguin underwater",
+    "gentoo penguin porpoising",
+    "gentoo penguin colony",
+    "gentoo penguin Antarctica",
+    "Pygoscelis papua walking",
+    "gentoo penguin jumping"
+  ],
+  "titulo": "El ave que nada más rápido alcanza 36 km/h bajo el agua",
+  "descripcion": "El pingüino papúa (Pygoscelis papua) es el ave que nada más rápido: hasta 36 km/h bajo el agua.\n\n#pinguino #pinguinopapua #antartida #shorts",
+  "tags": [
+    "pinguino papua",
+    "pygoscelis papua",
+    "pinguinos",
+    "antartida",
+    "records animales",
+    "shorts"
+  ],
+  "hook_miniatura": "NINGÚN AVE NADA ASÍ",
+  "prompt_miniatura": "a penguin torpedoing through clear blue water trailing bubbles, seen from below",
+  "experimento": "cierre_suscripcion"
+}

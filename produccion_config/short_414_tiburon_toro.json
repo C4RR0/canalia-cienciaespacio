@@ -1,0 +1,34 @@
+{
+  "id": "short_414_tiburon_toro",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Han visto a este tiburón a cuatro mil kilómetros del mar, en pleno río Amazonas.\n\nEs el tiburón toro, y soporta algo que casi ningún tiburón aguanta: el agua dulce.\n\nPara los demás, un río es una trampa: su cuerpo no sabe manejar tanta agua sin sal.\n\nÉl ajusta sus riñones y aguanta meses.\n\nHa subido por el Misisipi y hasta Perú.\n\nY desde que lo sé, miro los ríos con otros ojos.\n\nLo más astuto: sus crías crecen en ríos, lejos de los tiburones grandes.",
+  "queries_imagenes": [
+    "Carcharhinus leucas",
+    "bull shark",
+    "bull shark underwater",
+    "bull shark Bahamas",
+    "Carcharhinus leucas swimming",
+    "Amazon River Iquitos",
+    "bull shark Fiji",
+    "Carcharhinus leucas juvenile"
+  ],
+  "titulo": "Este tiburón apareció a 4.000 kilómetros del mar",
+  "descripcion": "El tiburón toro (Carcharhinus leucas) soporta el agua dulce y se ha registrado a unos 4.000 km del mar, en el Amazonas, cerca de Iquitos.\n\n#tiburontoro #tiburones #rioamazonas #shorts",
+  "tags": [
+    "tiburon toro",
+    "bull shark",
+    "tiburones",
+    "rio amazonas",
+    "animales increibles",
+    "shorts"
+  ],
+  "hook_miniatura": "EN UN RÍO, NO EN EL MAR",
+  "prompt_miniatura": "a large grey shark swimming in murky brown river water under a jungle canopy",
+  "experimento": "control"
+}

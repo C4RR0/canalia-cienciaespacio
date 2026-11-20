@@ -1,0 +1,34 @@
+{
+  "id": "short_411_camaleon_lengua",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Un camaleón diminuto dispara la lengua de cero a noventa y siete kilómetros por hora en una centésima de segundo.\n\nNingún deportivo acelera así.\n\nY lo necesita, porque es lentísimo. Persiguiendo a un insecto, nunca lo alcanzaría.\n\nAsí que se queda quieto, apunta con sus ojos, que giran cada uno por su lado, y dispara.\n\nSinceramente, para una mosca es como ver venir un rayo.\n\nY lo más curioso: cuanto más pequeño es el camaleón, más rápido dispara.\n\nSi te ha sorprendido, aquí tengo más récords.",
+  "queries_imagenes": [
+    "chameleon tongue",
+    "chameleon catching insect",
+    "Chamaeleo calyptratus",
+    "Furcifer pardalis",
+    "Rhampholeon",
+    "chameleon eye",
+    "chameleon on branch",
+    "pygmy chameleon"
+  ],
+  "titulo": "Este reptil dispara la lengua más rápido que un deportivo",
+  "descripcion": "Un camaleón pigmeo (Rhampholeon spinosus) lanza la lengua de 0 a 97 km/h en una centésima de segundo: la aceleración de lengua más alta medida en un reptil.\n\n#camaleon #reptiles #animalesincreibles #shorts",
+  "tags": [
+    "camaleon",
+    "lengua de camaleon",
+    "camaleon pigmeo",
+    "reptiles",
+    "animales increibles",
+    "shorts"
+  ],
+  "hook_miniatura": "MÁS RÁPIDO QUE UN DEPORTIVO",
+  "prompt_miniatura": "a chameleon shooting its long sticky tongue at a cricket, frozen in mid-air, macro photo",
+  "experimento": "cierre_suscripcion"
+}

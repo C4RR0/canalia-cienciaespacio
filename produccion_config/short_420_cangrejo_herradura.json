@@ -1,0 +1,34 @@
+{
+  "id": "short_420_cangrejo_herradura",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Muchas de las vacunas que te han puesto se comprobaron gracias a este animal.\n\nEs el cangrejo herradura, que en realidad es pariente de las arañas.\n\nSu sangre es azul y, si toca restos de bacterias, se convierte en gel.\n\nAsí se sabe si una vacuna o una inyección está contaminada.\n\nMe parece increíble que algo más viejo que los dinosaurios cuide de nosotros.\n\nPor eso cada año capturan cientos de miles, les sacan parte de la sangre y los devuelven vivos al mar.",
+  "queries_imagenes": [
+    "Limulus polyphemus",
+    "horseshoe crab",
+    "horseshoe crab beach",
+    "horseshoe crab spawning Delaware Bay",
+    "Limulus polyphemus underside",
+    "horseshoe crab blue blood",
+    "horseshoe crab underwater",
+    "Atlantic horseshoe crab"
+  ],
+  "titulo": "Este animal más viejo que los dinosaurios cuida tu salud",
+  "descripcion": "El cangrejo herradura (Limulus polyphemus) tiene sangre azul que coagula ante restos de bacterias: se usa para comprobar que vacunas e inyecciones no están contaminadas.\n\n#cangrejoherradura #vacunas #fosilviviente #shorts",
+  "tags": [
+    "cangrejo herradura",
+    "limulus polyphemus",
+    "horseshoe crab",
+    "sangre azul",
+    "fosil viviente",
+    "shorts"
+  ],
+  "hook_miniatura": "MÁS VIEJO QUE LOS DINOSAURIOS",
+  "prompt_miniatura": "an ancient-looking horseshoe crab crawling on wet sand at dusk, waves behind",
+  "experimento": "control"
+}

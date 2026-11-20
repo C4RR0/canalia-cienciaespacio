@@ -1,0 +1,34 @@
+{
+  "id": "short_417_capuchinos_piedra",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Estos monos llevan al menos tres mil años usando herramientas de piedra, y los arqueólogos las han desenterrado.\n\nSon capuchinos de Brasil.\n\nPara abrir frutos duros, ponen la nuez sobre una roca y la golpean con otra piedra.\n\nUnos científicos excavaron donde lo hacen y hallaron piedras gastadas, capa sobre capa, como en un yacimiento humano.\n\nA mí esto me pone los pelos de punta.\n\nY el tamaño de las piedras fue cambiando con los siglos.\n\nSi te ha gustado, aquí hay más animales listos.",
+  "queries_imagenes": [
+    "Sapajus libidinosus",
+    "capuchin monkey stone tool",
+    "bearded capuchin nut cracking",
+    "capuchin monkey cracking nuts",
+    "Serra da Capivara",
+    "Sapajus libidinosus tool use",
+    "capuchin monkey hammer stone",
+    "bearded capuchin Brazil"
+  ],
+  "titulo": "Estos monos llevan 3.000 años usando piedras como martillo",
+  "descripcion": "Los capuchinos barbudos (Sapajus libidinosus) de la Serra da Capivara, en Brasil, usan piedras para abrir frutos desde hace al menos 3.000 años, según excavaciones arqueológicas.\n\n#capuchino #monos #arqueologia #shorts",
+  "tags": [
+    "mono capuchino",
+    "sapajus libidinosus",
+    "serra da capivara",
+    "monos",
+    "arqueologia",
+    "animales inteligentes"
+  ],
+  "hook_miniatura": "SU EDAD DE PIEDRA",
+  "prompt_miniatura": "a capuchin monkey lifting a heavy stone above its head to crack a nut on a flat rock",
+  "experimento": "cierre_suscripcion"
+}

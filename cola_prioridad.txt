@@ -440,3 +440,16 @@ short_408_cementerio_alegre
 short_404_monstruo_gila
 short_406_ciguena_vertederos
 short_409_hum_ciudad
+# 2026-11-20: tanda 411-422 (rutina automática), 5:1
+short_411_camaleon_lengua
+short_415_pinguino_papua
+short_412_proteo_cueva
+short_414_tiburon_toro
+short_413_reinita_oceano
+short_416_huashan_tablas
+short_417_capuchinos_piedra
+short_418_oso_hormiguero
+short_420_cangrejo_herradura
+short_419_cacatua_tambor
+short_421_calao_nido
+short_422_palomas_misiles

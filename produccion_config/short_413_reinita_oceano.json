@@ -1,0 +1,34 @@
+{
+  "id": "short_413_reinita_oceano",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pajarillo pesa menos que dos monedas de un euro y cruza el océano sin parar durante casi tres días.\n\nEs la reinita estriada. En otoño sale de Canadá y Estados Unidos rumbo al Caribe.\n\nSobre el Atlántico no hay dónde posarse. Si se agota, cae al agua.\n\nPor eso antes engorda hasta casi doblar su peso.\n\nA mí me agotaría solo pensarlo.\n\nY nadie lo pudo demostrar hasta que le pusieron una mochila de medio gramo.\n\nSi te gustan estos viajes, sígueme.",
+  "queries_imagenes": [
+    "Setophaga striata",
+    "blackpoll warbler",
+    "Dendroica striata",
+    "blackpoll warbler male",
+    "blackpoll warbler fall",
+    "Setophaga striata migration",
+    "warbler Atlantic coast",
+    "Setophaga striata female"
+  ],
+  "titulo": "Este pájaro de doce gramos cruza el océano sin posarse",
+  "descripcion": "La reinita estriada (Setophaga striata), de unos 12 gramos, vuela hasta 2.500 km sin parar sobre el Atlántico en su migración de otoño.\n\n#reinitaestriada #aves #migracion #shorts",
+  "tags": [
+    "reinita estriada",
+    "blackpoll warbler",
+    "migracion de aves",
+    "aves",
+    "animales increibles",
+    "shorts"
+  ],
+  "hook_miniatura": "3 DÍAS SIN PARAR",
+  "prompt_miniatura": "a tiny black and white striped songbird flying alone over a vast stormy ocean at dawn",
+  "experimento": "cierre_suscripcion"
+}
