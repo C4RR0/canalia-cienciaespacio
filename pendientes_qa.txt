@@ -1,5 +1,4 @@
 short_412_proteo_cueva
-short_414_tiburon_toro
 short_415_pinguino_papua
 short_416_huashan_tablas
 short_417_capuchinos_piedra
