@@ -1,0 +1,73 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,72,&H00FFFFFF&,&H00FFFFFF&,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,40,108,422,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.50,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DURANTE{\r} LA SEGUNDA
+Dialogue: 0,0:00:00.50,0:00:00.96,Default,,0,0,0,,DURANTE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SEGUNDA{\r}
+Dialogue: 0,0:00:00.96,0:00:02.00,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GUERRA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUNDIAL,{\r} UN
+Dialogue: 0,0:00:02.00,0:00:02.10,Default,,0,0,0,,GUERRA MUNDIAL, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r}
+Dialogue: 0,0:00:02.10,0:00:02.66,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CIENTÍFICO{\r} INTENTÓ QUE
+Dialogue: 0,0:00:02.66,0:00:03.06,Default,,0,0,0,,CIENTÍFICO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}INTENTÓ{\r} QUE
+Dialogue: 0,0:00:03.06,0:00:03.20,Default,,0,0,0,,CIENTÍFICO INTENTÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}QUE{\r}
+Dialogue: 0,0:00:03.20,0:00:03.76,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PALOMAS{\r} PILOTARAN
+Dialogue: 0,0:00:03.76,0:00:04.32,Default,,0,0,0,,UNAS PALOMAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PILOTARAN{\r}
+Dialogue: 0,0:00:04.32,0:00:04.96,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BOMBAS.{\r}
+Dialogue: 0,0:00:04.96,0:00:05.88,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ERA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SKINNER,{\r} UNO DE
+Dialogue: 0,0:00:05.88,0:00:06.12,Default,,0,0,0,,ERA SKINNER, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:06.12,0:00:06.80,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PSICÓLOGOS{\r} MÁS
+Dialogue: 0,0:00:06.80,0:00:06.96,Default,,0,0,0,,LOS PSICÓLOGOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MÁS{\r}
+Dialogue: 0,0:00:06.96,0:00:07.36,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FAMOSOS{\r} DEL SIGLO
+Dialogue: 0,0:00:07.36,0:00:07.82,Default,,0,0,0,,FAMOSOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DEL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SIGLO{\r}
+Dialogue: 0,0:00:07.82,0:00:08.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}VEINTE.{\r}
+Dialogue: 0,0:00:08.44,0:00:08.94,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LAS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BOMBAS{\r} DE ENTONCES
+Dialogue: 0,0:00:08.94,0:00:09.36,Default,,0,0,0,,LAS BOMBAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENTONCES{\r}
+Dialogue: 0,0:00:09.36,0:00:09.90,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FALLABAN{\r} MUCHO, Y ÉL
+Dialogue: 0,0:00:09.90,0:00:10.24,Default,,0,0,0,,FALLABAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MUCHO,{\r} Y ÉL
+Dialogue: 0,0:00:10.24,0:00:10.64,Default,,0,0,0,,FALLABAN MUCHO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} ÉL
+Dialogue: 0,0:00:10.64,0:00:10.76,Default,,0,0,0,,FALLABAN MUCHO, Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ÉL{\r}
+Dialogue: 0,0:00:10.76,0:00:11.14,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TUVO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r} IDEA ABSURDA.
+Dialogue: 0,0:00:11.14,0:00:12.00,Default,,0,0,0,,TUVO UNA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}IDEA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ABSURDA.{\r}
+Dialogue: 0,0:00:12.00,0:00:12.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ENTRENÓ{\r} PALOMAS PARA
+Dialogue: 0,0:00:12.42,0:00:12.76,Default,,0,0,0,,ENTRENÓ {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PALOMAS{\r} PARA
+Dialogue: 0,0:00:12.76,0:00:13.02,Default,,0,0,0,,ENTRENÓ PALOMAS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r}
+Dialogue: 0,0:00:13.02,0:00:13.54,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PICOTEAR{\r} LA IMAGEN DE
+Dialogue: 0,0:00:13.54,0:00:13.90,Default,,0,0,0,,PICOTEAR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}IMAGEN{\r} DE
+Dialogue: 0,0:00:13.90,0:00:14.16,Default,,0,0,0,,PICOTEAR LA IMAGEN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DE{\r}
+Dialogue: 0,0:00:14.16,0:00:14.58,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BARCO{\r} EN UNA
+Dialogue: 0,0:00:14.58,0:00:14.88,Default,,0,0,0,,UN BARCO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}UNA{\r}
+Dialogue: 0,0:00:14.88,0:00:15.42,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PANTALLA.{\r}
+Dialogue: 0,0:00:15.66,0:00:16.16,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SI{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}BOMBA{\r} SE
+Dialogue: 0,0:00:16.16,0:00:16.30,Default,,0,0,0,,SI LA BOMBA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}SE{\r}
+Dialogue: 0,0:00:16.30,0:00:17.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESVIABA,{\r} LOS PICOTAZOS
+Dialogue: 0,0:00:17.08,0:00:17.74,Default,,0,0,0,,DESVIABA, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LOS{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PICOTAZOS{\r}
+Dialogue: 0,0:00:17.74,0:00:18.28,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CORREGÍAN{\r} EL RUMBO.
+Dialogue: 0,0:00:18.28,0:00:18.96,Default,,0,0,0,,CORREGÍAN {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RUMBO.{\r}
+Dialogue: 0,0:00:19.02,0:00:19.48,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}IRÍAN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TRES{\r} PALOMAS
+Dialogue: 0,0:00:19.48,0:00:19.88,Default,,0,0,0,,IRÍAN TRES {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PALOMAS{\r}
+Dialogue: 0,0:00:19.88,0:00:20.20,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DENTRO,{\r} PARA DECIDIR POR
+Dialogue: 0,0:00:20.20,0:00:20.66,Default,,0,0,0,,DENTRO, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARA{\r} DECIDIR POR
+Dialogue: 0,0:00:20.66,0:00:21.10,Default,,0,0,0,,DENTRO, PARA {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DECIDIR{\r} POR
+Dialogue: 0,0:00:21.10,0:00:21.28,Default,,0,0,0,,DENTRO, PARA DECIDIR {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}POR{\r}
+Dialogue: 0,0:00:21.28,0:00:21.62,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MAYORÍA.{\r}
+Dialogue: 0,0:00:21.62,0:00:22.06,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}Y{\r} FUNCIONABA.
+Dialogue: 0,0:00:22.06,0:00:22.80,Default,,0,0,0,,Y {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}FUNCIONABA.{\r}
+Dialogue: 0,0:00:22.86,0:00:23.32,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}ME{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PARECE{\r} TAN GENIAL
+Dialogue: 0,0:00:23.32,0:00:23.88,Default,,0,0,0,,ME PARECE {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}TAN{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}GENIAL{\r}
+Dialogue: 0,0:00:23.88,0:00:24.74,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}COMO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DISPARATADO.{\r}
+Dialogue: 0,0:00:24.74,0:00:25.12,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EL{\r} EJÉRCITO LO CANCELÓ.
+Dialogue: 0,0:00:25.12,0:00:25.60,Default,,0,0,0,,EL {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}EJÉRCITO{\r} LO CANCELÓ.
+Dialogue: 0,0:00:25.60,0:00:26.38,Default,,0,0,0,,EL EJÉRCITO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}CANCELÓ.{\r}
+Dialogue: 0,0:00:26.38,0:00:26.82,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}PERO{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}AÑOS{\r} DESPUÉS, LA
+Dialogue: 0,0:00:26.82,0:00:27.54,Default,,0,0,0,,PERO AÑOS {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}DESPUÉS,{\r} LA
+Dialogue: 0,0:00:27.54,0:00:27.66,Default,,0,0,0,,PERO AÑOS DESPUÉS, {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LA{\r}
+Dialogue: 0,0:00:27.66,0:00:28.08,Default,,0,0,0,,{\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}MARINA{\r} {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}LO{\r} RESUCITÓ.
+Dialogue: 0,0:00:28.08,0:00:28.78,Default,,0,0,0,,MARINA LO {\c&H0000FFFF&\t(0,90,\fscx116\fscy116)\t(90,200,\fscx100\fscy100)}RESUCITÓ.{\r}
