@@ -2,5 +2,4 @@ short_412_proteo_cueva
 short_416_huashan_tablas
 short_417_capuchinos_piedra
 short_419_cacatua_tambor
-short_421_calao_nido
 short_422_palomas_misiles
