@@ -1,6 +1,5 @@
 short_416_huashan_tablas
 short_426_hormiga_argentina
-short_427_lapa_dientes
 short_428_nauru_fosfato
 short_429_reno_ojos
 short_430_martin_pescador_tren
