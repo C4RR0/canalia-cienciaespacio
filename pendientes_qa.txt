@@ -1,4 +1,3 @@
 short_416_huashan_tablas
 short_426_hormiga_argentina
 short_432_cormoran_pesca
-short_434_suiza_invade
