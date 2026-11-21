@@ -1,6 +1,5 @@
 short_416_huashan_tablas
 short_426_hormiga_argentina
-short_429_reno_ojos
 short_430_martin_pescador_tren
 short_431_petirrojo_brujula
 short_432_cormoran_pesca
