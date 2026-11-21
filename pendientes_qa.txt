@@ -1,5 +1,4 @@
 short_416_huashan_tablas
-short_423_medusa_melena
 short_425_alce_coche
 short_424_erizo_rojo
 short_426_hormiga_argentina
