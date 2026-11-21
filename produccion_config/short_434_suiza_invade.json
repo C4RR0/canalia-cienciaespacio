@@ -1,0 +1,35 @@
+{
+  "id": "short_434_suiza_invade",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "control",
+  "guion": "En 2007, unos ciento setenta soldados suizos invadieron Liechtenstein. Por error.\n\nEra una noche de marzo, con lluvia. Estaban de maniobras, se perdieron y cruzaron la frontera sin darse cuenta.\n\nAvanzaron más de un kilómetro dentro de otro país, con sus fusiles, antes de dar media vuelta.\n\nSuiza pidió disculpas. Y Liechtenstein contestó que no pasaba nada, que tampoco habían llegado en helicópteros de ataque.\n\nY sinceramente, tampoco tenían con quién responder: Liechtenstein no tiene ejército desde 1868.",
+  "queries_imagenes": [
+    "Swiss Armed Forces infantry",
+    "Swiss Army soldiers exercise",
+    "Liechtenstein Switzerland border",
+    "Liechtenstein landscape",
+    "Vaduz Castle",
+    "Swiss Army soldiers night",
+    "Rhine valley Liechtenstein",
+    "Liechtenstein Alps"
+  ],
+  "titulo": "El ejército que invadió otro país por error en 2007",
+  "descripcion": "En marzo de 2007, unos 170 soldados suizos se perdieron de noche durante unas maniobras y entraron más de un kilómetro en Liechtenstein, un país sin ejército desde 1868. Suiza pidió disculpas y Liechtenstein le quitó importancia.\n\n#suiza #liechtenstein #historiaabsurda #shorts",
+  "tags": [
+    "liechtenstein",
+    "suiza",
+    "invasion por error",
+    "ejercito suizo",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UNA INVASIÓN SIN QUERER",
+  "prompt_miniatura": "soldiers with rifles lost in a dark rainy alpine forest at night, a small border stone at their feet"
+}

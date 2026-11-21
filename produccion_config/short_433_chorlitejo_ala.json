@@ -1,0 +1,35 @@
+{
+  "id": "short_433_chorlitejo_ala",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este pájaro finge tener un ala rota para salvar a sus crías.\n\nEs el chorlo tildío, de América. Pone los huevos en el suelo, entre piedras, sin nido que los esconda.\n\nCuando se acerca un zorro, se aleja arrastrando un ala y chillando, como si estuviera herido. El zorro lo sigue y, cuando ya está lejos, sale volando.\n\nYo caería en la trampa seguro.\n\nPero ante las vacas, que pisarían los huevos, cambia de táctica: se hincha y corre hacia ellas.\n\nSígueme si te gustan los animales tramposos.",
+  "queries_imagenes": [
+    "Charadrius vociferus",
+    "killdeer broken wing display",
+    "killdeer nest eggs",
+    "killdeer chicks",
+    "killdeer distraction display",
+    "Charadrius vociferus nest",
+    "killdeer running",
+    "killdeer bird"
+  ],
+  "titulo": "Este pájaro finge un ala rota para salvar a sus crías",
+  "descripcion": "El chorlo tildío o chorlitejo culirrojo (Charadrius vociferus) finge tener un ala rota para alejar a los depredadores de su nido en el suelo; ante el ganado, se hincha y corre hacia él para que no pise los huevos.\n\n#aves #chorlotildio #naturaleza #shorts",
+  "tags": [
+    "chorlo tildio",
+    "chorlitejo culirrojo",
+    "charadrius vociferus",
+    "aves",
+    "naturaleza",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "FINGE ESTAR HERIDO",
+  "prompt_miniatura": "a small brown and white plover dragging one wing on gravel to lure a fox away from four speckled eggs"
+}

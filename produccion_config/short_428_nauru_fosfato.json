@@ -1,0 +1,35 @@
+{
+  "id": "short_428_nauru_fosfato",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "control",
+  "guion": "Este país vendió el suelo de su isla hasta quedarse sin él.\n\nEs Nauru, una isla del Pacífico de veintiún kilómetros cuadrados. Debajo tenía fosfato, un mineral muy valioso para abonos.\n\nLo excavaron durante décadas, y en los años setenta sus habitantes estaban entre los más ricos del planeta.\n\nPero se acabó, y casi el ochenta por ciento de la isla quedó como un campo de piedras afiladas.\n\nEl dinero se perdió en malas inversiones. Una me parece de chiste: un musical en Londres que fracasó.",
+  "queries_imagenes": [
+    "Nauru",
+    "Nauru phosphate mining",
+    "Nauru pinnacles",
+    "Nauru topside",
+    "Nauru coastline",
+    "Nauru aerial",
+    "Nauru phosphate",
+    "Yaren Nauru"
+  ],
+  "titulo": "El país que vendió el suelo de su propia isla",
+  "descripcion": "Nauru, una isla del Pacífico de 21 km², vivió de exportar fosfato y fue uno de los países más ricos per cápita en los años setenta. La minería dejó inhabitable cerca del 80 % de la isla.\n\n#nauru #historia #lugaresincreibles #shorts",
+  "tags": [
+    "nauru",
+    "fosfato",
+    "islas del pacifico",
+    "lugares increibles",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SE VENDIÓ EL SUELO",
+  "prompt_miniatura": "a tropical island whose interior is a moonscape of sharp grey limestone pinnacles, with a thin green ring of coast"
+}

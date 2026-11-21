@@ -1,0 +1,35 @@
+{
+  "id": "short_426_hormiga_argentina",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Esta hormiga ha formado una colonia de seis mil kilómetros. Y llega hasta España.\n\nEs la hormiga argentina. Viajó desde Sudamérica escondida en barcos y se extendió por medio mundo.\n\nEn su tierra, los hormigueros vecinos se pelean. Pero en Europa, millones de nidos, desde Italia hasta la costa atlántica de España, se tratan como una sola familia.\n\nA mí esto me parece más inquietante que cualquier invasión de película.\n\nPorque los científicos juntaron hormigas de Europa, California y Japón. Y no se atacaron. Se reconocieron como hermanas.",
+  "queries_imagenes": [
+    "Linepithema humile",
+    "Argentine ant",
+    "Argentine ants trail",
+    "Linepithema humile workers",
+    "Argentine ant colony",
+    "Linepithema humile queen",
+    "Argentine ants feeding",
+    "ant trail kitchen"
+  ],
+  "titulo": "Esta hormiga ha formado una colonia de 6.000 kilómetros",
+  "descripcion": "La hormiga argentina (Linepithema humile) forma en Europa una supercolonia de unos 6.000 km, de Italia a la costa atlántica de España. Hormigas de Europa, California y Japón no se atacan entre sí.\n\n#hormigas #hormigaargentina #insectos #shorts",
+  "tags": [
+    "hormiga argentina",
+    "linepithema humile",
+    "supercolonia",
+    "hormigas",
+    "insectos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UNA SOLA FAMILIA GIGANTE",
+  "prompt_miniatura": "a dense trail of thousands of tiny brown ants crossing a stone wall, macro close-up"
+}

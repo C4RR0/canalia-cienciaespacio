@@ -1,0 +1,35 @@
+{
+  "id": "short_429_reno_ojos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este ciervo del Ártico cambia el color de sus ojos cada invierno. Del dorado al azul.\n\nEs el reno, y en su invierno el sol casi no sale.\n\nPor eso el fondo de su ojo cambia y capta más luz.\n\nA mí me parece un truco genial.\n\nAdemás, ve la luz ultravioleta: la nieve la refleja y el pelaje del lobo la absorbe.\n\nAsí que, para un reno, un lobo blanco sobre la nieve es una mancha oscura. Sígueme para ver el mundo con otros ojos.",
+  "queries_imagenes": [
+    "Rangifer tarandus",
+    "reindeer winter",
+    "reindeer snow",
+    "reindeer eye",
+    "reindeer herd Norway",
+    "reindeer Lapland",
+    "reindeer close-up",
+    "Rangifer tarandus tarandus"
+  ],
+  "titulo": "Este ciervo del Ártico cambia el color de sus ojos",
+  "descripcion": "El reno (Rangifer tarandus) cambia el color del fondo de sus ojos del dorado en verano al azul en invierno para captar más luz, y ve la luz ultravioleta, con la que distingue lobos y líquenes sobre la nieve.\n\n#reno #artico #animales #shorts",
+  "tags": [
+    "reno",
+    "rangifer tarandus",
+    "artico",
+    "ojos de animales",
+    "animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SUS OJOS SE VUELVEN AZULES",
+  "prompt_miniatura": "close-up of a reindeer's face in a snowy arctic twilight, its eyes glowing deep blue"
+}

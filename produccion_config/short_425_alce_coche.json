@@ -1,0 +1,35 @@
+{
+  "id": "short_425_alce_coche",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "El ciervo más grande del mundo puede pesar setecientos kilos. Y un día obligó a cambiar un coche.\n\nEs el alce. En Suecia cruza las carreteras, y chocar con él es como chocar con un muro. Yo no querría encontrármelo de noche.\n\nPor eso allí existe la prueba del alce: un volantazo para esquivarlo.\n\nEn 1997, una revista sueca se la hizo al nuevo Mercedes Clase A. Y volcó.\n\nMercedes retrasó las ventas y le puso control de estabilidad. Sígueme para más animales que cambiaron la historia.",
+  "queries_imagenes": [
+    "Alces alces",
+    "moose bull",
+    "moose crossing road",
+    "moose Sweden",
+    "moose warning sign Sweden",
+    "Mercedes-Benz A-Class W168",
+    "moose in water",
+    "moose antlers"
+  ],
+  "titulo": "El ciervo más grande del mundo obligó a cambiar un coche",
+  "descripcion": "El alce (Alces alces), el ciervo más grande del mundo, dio nombre a la prueba del alce sueca. En 1997 el Mercedes Clase A volcó en ella y Mercedes acabó montándole control de estabilidad de serie.\n\n#alce #pruebadelalce #animales #shorts",
+  "tags": [
+    "alce",
+    "prueba del alce",
+    "alces alces",
+    "mercedes clase a",
+    "animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "TUMBÓ A UN MERCEDES",
+  "prompt_miniatura": "a giant bull moose standing on a wet road at dusk in front of a small car's headlights"
+}

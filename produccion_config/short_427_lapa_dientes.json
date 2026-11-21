@@ -1,0 +1,35 @@
+{
+  "id": "short_427_lapa_dientes",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este molusco tiene los dientes más resistentes de la naturaleza. Más que la seda de araña.\n\nEs la lapa, ese pequeño cono pegado a las rocas de la playa.\n\nY me parece humillante que el récord no sea de un tiburón, sino de esto.\n\nSu lengua es una cinta llena de dientes diminutos. Raspa las algas con tanta fuerza que desgasta la roca.\n\nEn 2015, unos ingenieros británicos descubrieron por qué: son fibras de un mineral de hierro.\n\nSi te ha sorprendido, aquí hay rarezas aún mejores.",
+  "queries_imagenes": [
+    "Patella vulgata",
+    "common limpet",
+    "limpets on rock",
+    "Patella vulgata rocky shore",
+    "limpet shell",
+    "limpets low tide",
+    "Patella limpet",
+    "limpet radula"
+  ],
+  "titulo": "Este molusco tiene los dientes más resistentes del planeta",
+  "descripcion": "La lapa común (Patella vulgata) tiene los dientes más resistentes medidos en un material biológico, por encima de la seda de araña, según un estudio de 2015 de la Universidad de Portsmouth. Están hechos de fibras de goethita, un mineral de hierro.\n\n#lapa #moluscos #biologiamarina #shorts",
+  "tags": [
+    "lapa",
+    "patella vulgata",
+    "moluscos",
+    "biologia marina",
+    "records animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MÁS DURO QUE LA SEDA",
+  "prompt_miniatura": "close-up of a cone-shaped limpet clinging to a wet rock at low tide on a rocky beach"
+}

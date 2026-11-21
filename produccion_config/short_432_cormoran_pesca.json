@@ -1,0 +1,35 @@
+{
+  "id": "short_432_cormoran_pesca",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Este pájaro lleva más de mil años pescando para los humanos. Y casi nunca se queda lo que pesca.\n\nEs el cormorán. En el río Nagara, en Japón, los pescadores salen de noche en barcas con fuego.\n\nCada maestro guía a varios cormoranes atados con cuerdas, que bucean y atrapan peces.\n\nPero llevan un aro en el cuello: los peces pequeños pasan, los grandes no.\n\nMe parece una alianza preciosa y un poco tramposa.\n\nY lo más curioso: estos pescadores tienen un cargo de la Casa Imperial japonesa.",
+  "queries_imagenes": [
+    "Ukai Nagara River",
+    "cormorant fishing Gifu",
+    "cormorant fishing Japan",
+    "Phalacrocorax capillatus",
+    "Japanese cormorant",
+    "cormorant fishing boat fire",
+    "Nagara River Gifu night",
+    "cormorant fisherman"
+  ],
+  "titulo": "El pájaro que lleva más de mil años pescando para humanos",
+  "descripcion": "La pesca con cormoranes (ukai) del río Nagara, en Gifu (Japón), tiene más de mil años de tradición. Un aro en el cuello impide al ave tragar los peces grandes, y los maestros pescadores tienen un título de la Casa Imperial.\n\n#cormoran #japon #tradiciones #shorts",
+  "tags": [
+    "cormoran",
+    "ukai",
+    "pesca con cormoranes",
+    "rio nagara",
+    "japon",
+    "aves",
+    "shorts"
+  ],
+  "hook_miniatura": "PESCA PARA OTROS",
+  "prompt_miniatura": "at night on a Japanese river, a wooden boat with a burning fire basket and cormorants on ropes diving for fish"
+}

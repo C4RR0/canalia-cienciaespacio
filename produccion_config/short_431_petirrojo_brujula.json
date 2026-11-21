@@ -1,0 +1,35 @@
+{
+  "id": "short_431_petirrojo_brujula",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este pájaro lleva una brújula dentro de los ojos. Y la usa para viajar de noche.\n\nEs el petirrojo. Muchos de los que ves en invierno en España vienen del norte de Europa.\n\nTodo indica que sus ojos tienen una proteína que reacciona al campo magnético de la Tierra.\n\nSinceramente, eso es un superpoder.\n\nPero en una universidad alemana se desorientaban sin motivo. Era el ruido eléctrico de la ciudad. Al forrar sus casetas con aluminio, recuperaron el rumbo.\n\nSi te gustan los superpoderes reales, sígueme.",
+  "queries_imagenes": [
+    "Erithacus rubecula",
+    "European robin",
+    "European robin singing",
+    "robin in snow",
+    "Erithacus rubecula winter",
+    "robin bird Spain",
+    "European robin close-up",
+    "robin migration night"
+  ],
+  "titulo": "Este pájaro lleva una brújula magnética dentro de los ojos",
+  "descripcion": "El petirrojo (Erithacus rubecula) se orienta en sus migraciones nocturnas con una brújula magnética que depende de la luz y de sus ojos. En Oldemburgo (Alemania) se comprobó que el ruido electromagnético urbano la desorientaba.\n\n#petirrojo #aves #migracion #shorts",
+  "tags": [
+    "petirrojo",
+    "erithacus rubecula",
+    "migracion de aves",
+    "campo magnetico",
+    "aves",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "VE EL NORTE",
+  "prompt_miniatura": "a small red-breasted robin perched at night with faint glowing magnetic field lines around it"
+}

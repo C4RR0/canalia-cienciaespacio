@@ -1,0 +1,35 @@
+{
+  "id": "short_430_martin_pescador_tren",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Un tren bala japonés daba un estallido cada vez que salía de un túnel. Y lo arregló un pájaro.\n\nEl tren empujaba el aire como un pistón, y al salir sonaba una explosión que molestaba a los vecinos.\n\nEl ingeniero Eiji Nakatsu era aficionado a las aves, y pensó en el martín pescador, que entra en el agua casi sin salpicar.\n\nMe encanta que la solución saliera de mirar pájaros.\n\nLe dieron al tren un morro largo como su pico. El ruido bajó, y encima gastaba menos electricidad.",
+  "queries_imagenes": [
+    "Alcedo atthis",
+    "common kingfisher diving",
+    "kingfisher catching fish",
+    "Shinkansen 500 series",
+    "500 Series Shinkansen nose",
+    "kingfisher beak",
+    "Alcedo atthis perched",
+    "Shinkansen tunnel"
+  ],
+  "titulo": "El tren bala que copió el pico de un pájaro",
+  "descripcion": "El morro del tren bala Shinkansen Serie 500 se diseñó imitando el pico del martín pescador (Alcedo atthis), idea del ingeniero Eiji Nakatsu, para reducir el estallido al salir de los túneles.\n\n#martinpescador #biomimetica #japon #shorts",
+  "tags": [
+    "martin pescador",
+    "shinkansen",
+    "biomimetica",
+    "tren bala",
+    "aves",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LO ARREGLÓ UN PÁJARO",
+  "prompt_miniatura": "a blue and orange kingfisher diving into water next to the long pointed nose of a white bullet train"
+}

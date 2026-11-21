@@ -1,0 +1,35 @@
+{
+  "id": "short_423_medusa_melena",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "La medusa más larga jamás medida tenía tentáculos de treinta y seis metros. Más que una ballena azul.\n\nApareció en 1870 en Massachusetts. Es la medusa melena de león, de los mares fríos del norte.\n\nNo persigue a nadie. Flota y despliega cientos de tentáculos, como una red casi invisible.\n\nYo, desde luego, no me bañaría cerca.\n\nSu picadura inspiró a Conan Doyle, que la convirtió en la culpable de un caso de Sherlock Holmes.\n\nSi te gustan estos misterios, aquí tienes muchos más.",
+  "queries_imagenes": [
+    "Cyanea capillata",
+    "lion's mane jellyfish",
+    "lion's mane jellyfish tentacles",
+    "Cyanea capillata swimming",
+    "lion's mane jellyfish underwater",
+    "Cyanea capillata Norway",
+    "giant jellyfish Cyanea",
+    "Cyanea capillata bell"
+  ],
+  "titulo": "Esta medusa es más larga que una ballena azul",
+  "descripcion": "La medusa melena de león (Cyanea capillata) es la medusa más larga conocida: un ejemplar hallado en 1870 en Massachusetts tenía tentáculos de unos 36 metros, más que una ballena azul.\n\n#medusa #melenadeleon #animalesmarinos #shorts",
+  "tags": [
+    "medusa melena de leon",
+    "cyanea capillata",
+    "medusas",
+    "animales marinos",
+    "records animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MÁS LARGA QUE UNA BALLENA",
+  "prompt_miniatura": "a huge red-orange jellyfish with an enormous curtain of long trailing tentacles in dark cold water"
+}

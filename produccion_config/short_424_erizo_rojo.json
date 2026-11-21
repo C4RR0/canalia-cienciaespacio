@@ -1,0 +1,35 @@
+{
+  "id": "short_424_erizo_rojo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Este erizo de mar puede vivir doscientos años. Y a esa edad sigue teniendo crías.\n\nEs el erizo rojo, del Pacífico de Norteamérica. Pasa la vida en el fondo, raspando algas.\n\nEl problema era demostrar su edad, porque no tiene anillos como un árbol.\n\nY la solución me parece de lo más retorcido de la ciencia.\n\nLas pruebas nucleares de los años cincuenta llenaron el mar de carbono radiactivo, que quedó grabado en sus caparazones como una fecha.\n\nFueron las bombas las que revelaron su edad.",
+  "queries_imagenes": [
+    "Mesocentrotus franciscanus",
+    "red sea urchin",
+    "red sea urchin kelp forest",
+    "Strongylocentrotus franciscanus",
+    "red sea urchin California",
+    "red sea urchin underwater",
+    "sea urchin spines red",
+    "kelp forest sea urchins"
+  ],
+  "titulo": "Este erizo de mar vive 200 años y sigue teniendo crías",
+  "descripcion": "El erizo rojo (Mesocentrotus franciscanus) del Pacífico norteamericano puede superar los 100 años y se estima que llega a 200 sin perder la capacidad de reproducirse. Su edad se confirmó con el carbono de las pruebas nucleares.\n\n#erizodemar #animaleslongevos #oceano #shorts",
+  "tags": [
+    "erizo rojo",
+    "erizo de mar",
+    "mesocentrotus franciscanus",
+    "animales longevos",
+    "oceano",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "200 AÑOS Y NO ENVEJECE",
+  "prompt_miniatura": "a spiny red sea urchin on rocks in a kelp forest, sunlight filtering through the water"
+}
