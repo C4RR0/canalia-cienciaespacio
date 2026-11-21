@@ -1,6 +1,5 @@
 short_416_huashan_tablas
 short_426_hormiga_argentina
-short_431_petirrojo_brujula
 short_432_cormoran_pesca
 short_433_chorlitejo_ala
 short_434_suiza_invade
