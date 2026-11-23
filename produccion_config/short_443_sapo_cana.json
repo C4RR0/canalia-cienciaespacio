@@ -1,0 +1,34 @@
+{
+  "id": "short_443_sapo_cana",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "En mil novecientos treinta y cinco, Australia soltó ciento dos sapos para salvar sus campos de caña. Hoy se calcula que hay más de doscientos millones.\n\nEran sapos de caña, traídos de Hawái contra un escarabajo de la plaga.\n\nPero el escarabajo vivía en lo alto de la caña, y los sapos no llegaban.\n\nAsí que se dedicaron a criar y avanzar.\n\nY esto me fascina: los que van en cabeza de la invasión han desarrollado patas más largas. Sígueme, que hay más planes que salieron fatal.",
+  "queries_imagenes": [
+    "Rhinella marina",
+    "cane toad Australia",
+    "cane toad",
+    "Rhinella marina Queensland",
+    "cane toad tadpoles",
+    "cane toad night road",
+    "Rhinella marina adult",
+    "sugar cane field Queensland"
+  ],
+  "titulo": "Este sapo llegó siendo 102 y ya son más de 200 millones",
+  "descripcion": "En 1935 se llevaron 102 sapos de caña (Rhinella marina) a Australia para controlar un escarabajo de la caña de azúcar. No funcionó, y hoy se calcula que hay más de 200 millones.\n\n#sapodecana #especiesinvasoras #australia #shorts",
+  "tags": [
+    "sapo de caña",
+    "rhinella marina",
+    "especies invasoras",
+    "australia",
+    "animales increibles",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "ERAN SOLO 102",
+  "prompt_miniatura": "hundreds of large brown toads covering a road at night in Australia under car headlights"
+}

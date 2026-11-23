@@ -1,0 +1,34 @@
+{
+  "id": "short_445_cebra_rayas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Según los estudios más recientes, las rayas de la cebra no son para esconderse: sirven contra las moscas.\n\nEn dos mil diecinueve, unos científicos grabaron tábanos acercándose a cebras y a caballos.\n\nSobre las cebras no conseguían frenar bien, y chocaban o pasaban de largo.\n\nLuego pusieron a unos caballos mantas con rayas.\n\nMe parece genial: los tábanos dejaron de posarse en su cuerpo, pero no en su cabeza, que no llevaba rayas. Si no lo sabías, suscríbete: hay muchas más como esta.",
+  "queries_imagenes": [
+    "Equus quagga",
+    "plains zebra",
+    "zebra stripes close up",
+    "Grevy's zebra",
+    "zebra herd savanna",
+    "horse fly Tabanidae",
+    "zebra Serengeti",
+    "Equus grevyi"
+  ],
+  "titulo": "Este animal tiene rayas para que las moscas no se posen",
+  "descripcion": "Un estudio de 2019 grabó a tábanos acercándose a cebras y caballos: las rayas de la cebra les impiden frenar y posarse bien. Los caballos con mantas de rayas también recibieron muchas menos moscas.\n\n#cebra #rayasdelacebra #animales #shorts",
+  "tags": [
+    "cebra",
+    "rayas de la cebra",
+    "tabanos",
+    "animales de africa",
+    "ciencia",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "NO SON PARA ESCONDERSE",
+  "prompt_miniatura": "close-up of zebra stripes with a large horse fly hovering in front, African savanna background"
+}

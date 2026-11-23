@@ -1,0 +1,34 @@
+{
+  "id": "short_437_salmon_yukon",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este pez nada casi tres mil kilómetros río arriba sin probar bocado.\n\nEs el salmón real del río Yukón, y vuelve desde el océano al arroyo exacto donde nació.\n\nPor el camino gasta toda su grasa y cambia de color.\n\nLlega, deja sus huevos y muere. Sinceramente, no conozco un viaje más épico.\n\nPero no se pierde nada: los osos llevan sus restos al bosque, y los árboles de la orilla crecen con nitrógeno del mar. Sígueme si te gustan los viajes imposibles.",
+  "queries_imagenes": [
+    "Oncorhynchus tshawytscha",
+    "chinook salmon spawning",
+    "Yukon River",
+    "salmon swimming upstream",
+    "bear catching salmon",
+    "chinook salmon",
+    "salmon run river",
+    "spawning salmon red"
+  ],
+  "titulo": "Este pez nada casi 3.000 km río arriba sin probar bocado",
+  "descripcion": "El salmón real o chinook (Oncorhynchus tshawytscha) del río Yukón recorre casi 3.000 km río arriba sin alimentarse para reproducirse donde nació. Sus restos fertilizan el bosque con nitrógeno del océano.\n\n#salmon #rioyukon #migracion #shorts",
+  "tags": [
+    "salmon real",
+    "salmon chinook",
+    "rio yukon",
+    "migracion animal",
+    "animales increibles",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "3.000 KM SIN COMER",
+  "prompt_miniatura": "a red chinook salmon leaping up a waterfall in a wild northern river surrounded by forest"
+}

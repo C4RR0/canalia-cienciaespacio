@@ -1,0 +1,34 @@
+{
+  "id": "short_440_point_roberts",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "control",
+  "guion": "Hay un pueblo de Estados Unidos al que, por tierra, solo se llega atravesando Canadá.\n\nEs Point Roberts. En mil ochocientos cuarenta y seis, la frontera se trazó en línea recta, y la punta de esta península quedó al sur, del lado estadounidense.\n\nLos alumnos mayores van al instituto en autobús y cruzan la frontera cuatro veces al día.\n\nYo me volvería loco con tanto pasaporte.\n\nY cuando Canadá cerró la frontera en la pandemia, el pueblo quedó casi dos años aislado, como una isla.",
+  "queries_imagenes": [
+    "Point Roberts, Washington",
+    "Point Roberts border crossing",
+    "Point Roberts",
+    "Lily Point Point Roberts",
+    "Point Roberts marina",
+    "Tsawwassen",
+    "Boundary Bay",
+    "Point Roberts beach"
+  ],
+  "titulo": "El pueblo de EE. UU. al que solo se llega por Canadá",
+  "descripcion": "Point Roberts (Washington) es un pueblo de Estados Unidos que quedó al sur del paralelo 49 en 1846: por tierra, solo se llega cruzando Canadá, y sus estudiantes cruzan la frontera cuatro veces al día.\n\n#pointroberts #fronteras #lugaresincreibles #shorts",
+  "tags": [
+    "point roberts",
+    "fronteras raras",
+    "estados unidos",
+    "canada",
+    "lugares increibles",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "ATRAPADOS POR UNA LÍNEA",
+  "prompt_miniatura": "a small peninsula town cut off by a straight border line on the water, border crossing gate with two flags"
+}

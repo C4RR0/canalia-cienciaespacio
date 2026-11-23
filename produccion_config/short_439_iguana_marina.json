@@ -1,0 +1,34 @@
+{
+  "id": "short_439_iguana_marina",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este lagarto puede encoger su cuerpo hasta un veinte por ciento cuando se queda sin comida.\n\nEs la iguana marina de las Galápagos, el único lagarto del mundo que se alimenta en el mar, de algas.\n\nPero con El Niño el agua se calienta y las algas desaparecen.\n\nEntonces encoge. No solo pierde grasa: se le acortan hasta los huesos.\n\nPara mí, es lo más parecido a un superpoder.\n\nY cuando vuelven las algas, crece otra vez. Quédate: hay animales con poderes aún más raros.",
+  "queries_imagenes": [
+    "Amblyrhynchus cristatus",
+    "marine iguana swimming",
+    "marine iguana underwater",
+    "marine iguana Galapagos colony",
+    "marine iguana eating algae",
+    "Amblyrhynchus cristatus basking",
+    "marine iguana sneezing salt",
+    "Galapagos marine iguana"
+  ],
+  "titulo": "Este lagarto encoge sus huesos cuando no hay comida",
+  "descripcion": "La iguana marina de las Galápagos (Amblyrhynchus cristatus), el único lagarto que se alimenta en el mar, puede encoger su longitud hasta un 20 % durante El Niño, cuando faltan las algas, y luego volver a crecer.\n\n#iguanamarina #galapagos #reptiles #shorts",
+  "tags": [
+    "iguana marina",
+    "amblyrhynchus cristatus",
+    "galapagos",
+    "reptiles",
+    "animales increibles",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "SE ENCOGE PARA VIVIR",
+  "prompt_miniatura": "a black marine iguana swimming underwater grazing green algae on volcanic rocks"
+}

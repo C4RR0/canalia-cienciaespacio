@@ -1,0 +1,34 @@
+{
+  "id": "short_436_mosquito_mortal",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "El animal más mortal para el ser humano no es el tiburón. Es un mosquito más ligero que un grano de arroz.\n\nSolo por la malaria que transmite mueren más de medio millón de personas al año.\n\nY ni lo busca. La hembra solo quiere sangre para sus huevos.\n\nEl verdadero culpable es un parásito diminuto que viaja dentro de ella.\n\nY eso me inquieta más que cualquier tiburón.\n\nDe unas tres mil quinientas especies de mosquito, solo unas cuarenta transmiten la malaria.",
+  "queries_imagenes": [
+    "Anopheles mosquito",
+    "Anopheles gambiae",
+    "Anopheles stephensi",
+    "mosquito feeding human skin",
+    "Anopheles female blood meal",
+    "mosquito macro",
+    "Plasmodium falciparum",
+    "mosquito net Africa"
+  ],
+  "titulo": "El animal más mortal del mundo pesa menos que un arroz",
+  "descripcion": "Los mosquitos Anopheles transmiten la malaria, que según la OMS mata a más de medio millón de personas al año. De unas 3.500 especies de mosquito, solo unas 40 la transmiten.\n\n#mosquito #malaria #animalespeligrosos #shorts",
+  "tags": [
+    "mosquito",
+    "anopheles",
+    "malaria",
+    "animales peligrosos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MÁS PELIGROSO QUE UN TIBURÓN",
+  "prompt_miniatura": "extreme close-up of a mosquito on human skin next to a shark silhouette in the background"
+}

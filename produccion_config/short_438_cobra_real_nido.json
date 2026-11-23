@@ -1,0 +1,34 @@
+{
+  "id": "short_438_cobra_real_nido",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Esta serpiente puede superar los cinco metros y es la única del mundo que construye un nido.\n\nEs la cobra real, la serpiente venenosa más larga que existe, y se alimenta sobre todo de otras serpientes.\n\nPara poner los huevos, la hembra arrastra hojas con su cuerpo y levanta un montículo.\n\nLuego lo vigila durante semanas.\n\nYo pensaba que las serpientes no cuidaban de nada. Me equivocaba.\n\nPero justo antes de que nazcan, se marcha. Las crías salen solas, y ya con veneno.",
+  "queries_imagenes": [
+    "Ophiophagus hannah",
+    "king cobra",
+    "king cobra hood",
+    "Ophiophagus hannah nest",
+    "king cobra India",
+    "king cobra juvenile",
+    "Ophiophagus hannah raised",
+    "king cobra forest"
+  ],
+  "titulo": "La única serpiente que hace nido mide hasta cinco metros",
+  "descripcion": "La cobra real (Ophiophagus hannah) es la serpiente venenosa más larga del mundo, puede superar los 5 metros, y es la única serpiente que construye un nido de hojas para sus huevos.\n\n#cobrareal #serpientes #reptiles #shorts",
+  "tags": [
+    "cobra real",
+    "ophiophagus hannah",
+    "serpientes",
+    "reptiles",
+    "animales increibles",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "UNA MADRE DE 5 METROS",
+  "prompt_miniatura": "a huge king cobra with its hood raised guarding a mound of dry leaves in a tropical forest"
+}

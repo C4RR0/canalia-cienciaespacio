@@ -1,0 +1,34 @@
+{
+  "id": "short_446_guerra_futbol",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "control",
+  "guion": "En mil novecientos sesenta y nueve, dos países fueron a la guerra semanas después de un partido de fútbol.\n\nEl Salvador y Honduras se jugaban ir al Mundial de México.\n\nGanó cada uno en su casa. El desempate fue en el Estadio Azteca, y ganó El Salvador.\n\nLa tensión venía de antes, por tierras y emigrantes, pero el fútbol encendió la mecha: llegó una guerra de cien horas.\n\nLo más absurdo, para mí, es el final: en el Mundial, El Salvador no marcó ni un gol.",
+  "queries_imagenes": [
+    "Estadio Azteca",
+    "Football War 1969",
+    "El Salvador national football team",
+    "Honduras 1969",
+    "Estadio Azteca 1970",
+    "San Salvador",
+    "Tegucigalpa",
+    "1970 FIFA World Cup"
+  ],
+  "titulo": "El partido de fútbol que acabó en una guerra de cien horas",
+  "descripcion": "La Guerra del Fútbol de 1969 entre El Salvador y Honduras estalló semanas después de la eliminatoria para el Mundial de México 1970, cuyo desempate se jugó en el Estadio Azteca. Duró unas 100 horas.\n\n#guerradelfutbol #historia #mundial #shorts",
+  "tags": [
+    "guerra del futbol",
+    "el salvador",
+    "honduras",
+    "estadio azteca",
+    "historia",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "UN PARTIDO, UNA GUERRA",
+  "prompt_miniatura": "a 1960s football stadium packed with fans at night, with military aircraft silhouettes in the sky above"
+}

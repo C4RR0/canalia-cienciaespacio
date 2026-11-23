@@ -1,0 +1,34 @@
+{
+  "id": "short_442_pez_ciego_cueva",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Este pez de México pierde los ojos al poco de nacer y duerme hasta un ochenta por ciento menos que sus parientes.\n\nVive en cuevas totalmente oscuras de San Luis Potosí y Tamaulipas, donde apenas hay alimento.\n\nEl ojo de la cría empieza a formarse, se deshace, y la piel lo tapa.\n\nAsí ahorra energía en ver y en dormir, y la gasta en buscar comida.\n\nYo no aguantaría ni una semana así.\n\nY en los ríos de fuera vive la misma especie, con ojos.",
+  "queries_imagenes": [
+    "Astyanax mexicanus",
+    "Mexican tetra cave form",
+    "blind cave fish",
+    "Astyanax mexicanus cavefish",
+    "Astyanax mexicanus surface form",
+    "blind cave tetra aquarium",
+    "Astyanax jordani",
+    "Sierra de El Abra"
+  ],
+  "titulo": "El pez de México que pierde los ojos y casi no duerme",
+  "descripcion": "El tetra mexicano (Astyanax mexicanus) de las cuevas de San Luis Potosí y Tamaulipas pierde los ojos durante su desarrollo y duerme hasta un 80 % menos que la forma que vive en los ríos, que es la misma especie.\n\n#pezciego #mexico #peces #shorts",
+  "tags": [
+    "pez ciego mexicano",
+    "astyanax mexicanus",
+    "tetra mexicano",
+    "peces de cueva",
+    "animales raros",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "SIN OJOS Y SIN SUEÑO",
+  "prompt_miniatura": "a pale pink eyeless fish swimming in a dark cave pool lit by a single beam of light"
+}

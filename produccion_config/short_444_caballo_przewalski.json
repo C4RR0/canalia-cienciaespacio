@@ -1,0 +1,34 @@
+{
+  "id": "short_444_caballo_przewalski",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "El último ejemplar salvaje de este caballo se vio en mil novecientos sesenta y nueve. Hoy corre libre por Chernóbil.\n\nEs el caballo de Przewalski, de las estepas de Mongolia. La caza y la pérdida de pastos lo borraron de la naturaleza.\n\nSobrevivió en zoológicos, a partir de una docena de ejemplares, y en los años noventa volvió a Mongolia.\n\nPero unos cuantos acabaron en la zona de exclusión de Chernóbil, sin humanos. Allí prosperan.\n\nY no me lo esperaba: usan las casas abandonadas como refugio.",
+  "queries_imagenes": [
+    "Equus ferus przewalskii",
+    "Przewalski's horse",
+    "Przewalski horse Chernobyl",
+    "Przewalski horses Hustai National Park",
+    "Przewalski's horse herd",
+    "Przewalski's horse foal",
+    "Chernobyl exclusion zone",
+    "Przewalski horse Mongolia steppe"
+  ],
+  "titulo": "El caballo extinto en libertad que hoy corre por Chernóbil",
+  "descripcion": "El caballo de Przewalski se extinguió en libertad hacia 1969 y sobrevivió en zoológicos a partir de una docena de ejemplares. Se reintrodujo en Mongolia y hoy también vive libre en la zona de exclusión de Chernóbil.\n\n#caballodeprzewalski #chernobil #animales #shorts",
+  "tags": [
+    "caballo de przewalski",
+    "chernobil",
+    "mongolia",
+    "especies en peligro",
+    "animales increibles",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "VOLVIÓ EN CHERNÓBIL",
+  "prompt_miniatura": "a herd of stocky wild horses standing next to an abandoned building in an overgrown deserted town"
+}

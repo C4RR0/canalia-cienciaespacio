@@ -466,3 +466,16 @@ short_431_petirrojo_brujula
 short_432_cormoran_pesca
 short_433_chorlitejo_ala
 short_434_suiza_invade
+# 2026-11-23: tanda 435-446 (rutina automática), 5:1
+short_435_langosta_plaga
+short_436_mosquito_mortal
+short_437_salmon_yukon
+short_438_cobra_real_nido
+short_439_iguana_marina
+short_440_point_roberts
+short_441_kea_risa
+short_442_pez_ciego_cueva
+short_443_sapo_cana
+short_444_caballo_przewalski
+short_445_cebra_rayas
+short_446_guerra_futbol

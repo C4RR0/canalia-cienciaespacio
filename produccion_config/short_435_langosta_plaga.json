@@ -1,0 +1,34 @@
+{
+  "id": "short_435_langosta_plaga",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Un enjambre de estos saltamontes, de un kilómetro, necesita al día la comida de treinta y cinco mil personas.\n\nEs la langosta del desierto. Normalmente es un saltamontes tímido y solitario.\n\nPero si se juntan demasiados, el roce de sus patas traseras dispara serotonina en su cerebro.\n\nEn pocas horas cambian de conducta y forman la plaga.\n\nQue un simple roce haga esto me parece de película de terror.\n\nEn mil novecientos ochenta y ocho, un enjambre cruzó el Atlántico. Sígueme, que hay bichos aún más raros.",
+  "queries_imagenes": [
+    "Schistocerca gregaria",
+    "desert locust swarm",
+    "locust swarm sky",
+    "Schistocerca gregaria gregarious nymphs",
+    "desert locust hopper band",
+    "Schistocerca gregaria adult",
+    "locust swarm Madagascar",
+    "locust plague crops"
+  ],
+  "titulo": "Este insecto forma nubes que comen como 35.000 personas",
+  "descripcion": "La langosta del desierto (Schistocerca gregaria) pasa de saltamontes solitario a plaga cuando se juntan demasiados: un enjambre de 1 km² consume al día lo mismo que 35.000 personas, según la FAO.\n\n#langostadeldesierto #plagas #insectos #shorts",
+  "tags": [
+    "langosta del desierto",
+    "plaga de langosta",
+    "schistocerca gregaria",
+    "insectos",
+    "animales increibles",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "UNA NUBE QUE LO ARRASA",
+  "prompt_miniatura": "a huge swarm of desert locusts darkening the sky over green fields, one locust in sharp focus in the foreground"
+}

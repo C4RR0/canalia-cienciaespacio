@@ -1,0 +1,34 @@
+{
+  "id": "short_441_kea_risa",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este loro tiene una especie de risa contagiosa, la primera demostrada en un animal que no es mamífero.\n\nEs el kea, de Nueva Zelanda, el único loro del mundo que vive en la alta montaña.\n\nCuando juegan, lanzan un trino especial. Unos científicos lo pusieron por un altavoz.\n\nY los keas que lo oían se ponían a jugar, persiguiéndose y dando volteretas en el aire.\n\nConfieso que quiero ese altavoz para la oficina. Si te ha sacado una sonrisa, sígueme.",
+  "queries_imagenes": [
+    "Nestor notabilis",
+    "kea parrot",
+    "kea flying",
+    "kea playing",
+    "kea Arthur's Pass",
+    "kea parrot snow",
+    "Nestor notabilis Southern Alps",
+    "kea on car"
+  ],
+  "titulo": "Este loro tiene una risa que contagia las ganas de jugar",
+  "descripcion": "El kea (Nestor notabilis) de Nueva Zelanda, el único loro alpino del mundo, tiene una llamada de juego que hace que otros keas se pongan a jugar: la primera vocalización emocionalmente contagiosa demostrada en un animal no mamífero.\n\n#kea #loros #nuevazelanda #shorts",
+  "tags": [
+    "kea",
+    "nestor notabilis",
+    "loros",
+    "nueva zelanda",
+    "aves increibles",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "SU RISA SE CONTAGIA",
+  "prompt_miniatura": "two green kea parrots playing and tumbling on a snowy mountain rock"
+}
