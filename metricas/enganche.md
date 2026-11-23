@@ -1,22 +1,22 @@
-# Enganche de los Shorts (datos del 2026-11-22)
+# Enganche de los Shorts (datos del 2026-11-23)
 
 Enganche = vistas comprometidas / vistas (quien se queda frente a quien desliza). Objetivo ≥ 55 %.
 
-- Canal (últimos 200 vídeos con datos): **48 %** (193.576 de 401.734).
-- Publicados en los últimos 7 días (14): **49 %**.
+- Canal (últimos 200 vídeos con datos): **48 %** (195.407 de 404.862).
+- Publicados en los últimos 7 días (12): **49 %**.
 
 ## Por tema
 
 | Tema | Enganche | Vistas | Vídeos |
 |---|---|---|---|
 | cuerpo_ciencia | 53 % | 2902 | 2 |
-| lugares | 49 % | 92027 | 41 |
+| lugares | 49 % | 91424 | 40 |
 | espacio | 49 % | 2562 | 2 |
-| animales | 49 % | 160651 | 76 |
-| otros | 48 % | 83903 | 46 |
-| historia | 48 % | 16179 | 10 |
-| habilidades | 46 % | 20910 | 13 |
-| parasitos | 45 % | 22600 | 10 |
+| historia | 49 % | 15019 | 9 |
+| animales | 49 % | 163114 | 77 |
+| otros | 48 % | 86300 | 47 |
+| habilidades | 46 % | 20917 | 13 |
+| parasitos | 45 % | 22624 | 10 |
 
 ## Los 10 que MÁS retienen (≥800 vistas): copiar su tipo de tema y gancho
 
@@ -28,22 +28,22 @@ Enganche = vistas comprometidas / vistas (quien se queda frente a quien desliza)
 | 60 % | 1270 | 28 s | lugares | La cascada que sangra en la Antártida esconde vida de hace un millón de años |
 | 60 % | 1163 | 39 s | historia | El árbol más solo del mundo terminó siendo testigo de la Guerra Fría |
 | 59 % | 2403 | 26 s | animales | El pez más grande del mundo tiene dientes en los ojos |
-| 59 % | 1891 | 19 s | animales | Esta rana esconde su sangre cuando duerme |
+| 59 % | 1892 | 19 s | animales | Esta rana esconde su sangre cuando duerme |
 | 58 % | 3310 | 20 s | animales | Este pájaro guía a los humanos hasta la miel |
-| 58 % | 1911 | 13 s | animales | Este pájaro hace su nido con saliva y acaba en una sopa |
 | 57 % | 1244 | 40 s | lugares | El Sahara no siempre fue un desierto |
+| 57 % | 1914 | 13 s | animales | Este pájaro hace su nido con saliva y acaba en una sopa |
 
 ## Los 10 que MENOS retienen (≥800 vistas): evitar ese tipo de tema y gancho
 
 | Enganche | Vistas | Media vista | Tema | Título |
 |---|---|---|---|---|
-| 32 % | 1184 | 13 s | habilidades | El gusano que vive bajo tu piel y a veces cruza por tu ojo |
+| 32 % | 1185 | 13 s | habilidades | El gusano que vive bajo tu piel y a veces cruza por tu ojo |
 | 34 % | 1446 | 20 s | otros | Para el macho de esta especie, aparearse puede ser lo último que haga |
 | 34 % | 1170 | 14 s | animales | Estas hormigas usan a sus crías como pegamento |
 | 35 % | 1229 | 20 s | animales | El pulpo tiene 3 corazones y 9 cerebros (y sangre azul) |
-| 36 % | 1229 | 13 s | animales | Esta avispa invade nidos ajenos y ningún aguijón la atraviesa |
+| 36 % | 1231 | 13 s | animales | Esta avispa invade nidos ajenos y ningún aguijón la atraviesa |
 | 36 % | 1420 | 18 s | parasitos | Este parásito obliga a las avispas a abandonar su colonia |
 | 36 % | 1563 | 23 s | animales | Este pájaro casi se muere todas las noches |
-| 36 % | 1332 | 15 s | otros | La muerde una cascabel y se la come sin inmutarse |
+| 36 % | 1333 | 15 s | otros | La muerde una cascabel y se la come sin inmutarse |
 | 37 % | 1444 | 24 s | historia | Siguió en guerra 29 años después de que terminara |
-| 37 % | 1221 | 17 s | otros | Este simio se curó una herida con una planta medicinal |
+| 37 % | 1222 | 17 s | otros | Este simio se curó una herida con una planta medicinal |
