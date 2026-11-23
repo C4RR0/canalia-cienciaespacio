@@ -1,4 +1,3 @@
-short_442_pez_ciego_cueva
 short_444_caballo_przewalski
 short_445_cebra_rayas
 short_446_guerra_futbol
