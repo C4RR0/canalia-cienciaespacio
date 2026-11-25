@@ -1,0 +1,35 @@
+{
+  "id": "short_458_valla_dingo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "La valla más larga del mundo mide unos cinco mil seiscientos kilómetros, y está en Australia.\n\nSe levantó hace más de un siglo para proteger a las ovejas de los dingos, los perros salvajes.\n\nHay que patrullarla sin descanso, porque los canguros, los emús y las riadas la rompen.\n\nMantener algo así me parece una auténtica locura.\n\nPero tiene un efecto que nadie buscaba.\n\nDentro, sin dingos, los canguros se disparan y se comen la hierba. Y la tierra ya no es igual a cada lado.",
+  "queries_imagenes": [
+    "Dingo Fence",
+    "dingo fence Australia",
+    "Dog Fence Australia",
+    "dingo",
+    "Canis dingo",
+    "Australian outback fence",
+    "dingo fence Cameron Corner",
+    "sheep Australia outback"
+  ],
+  "titulo": "La valla más larga del mundo mide 5.600 kilómetros",
+  "descripcion": "La valla del dingo (Dingo Fence), en Australia, mide unos 5.600 kilómetros y protege a las ovejas de los dingos. Ha cambiado la vegetación y el suelo a cada lado.\n\n#australia #dingo #lugaresincreibles #shorts",
+  "tags": [
+    "valla del dingo",
+    "dingo",
+    "australia",
+    "records",
+    "lugares increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "5.600 KM DE VALLA",
+  "prompt_miniatura": "an endless wire fence crossing the red Australian desert to the horizon with a wild dog on one side",
+  "experimento": "control"
+}

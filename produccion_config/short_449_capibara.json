@@ -1,0 +1,34 @@
+{
+  "id": "short_449_capibara",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "El roedor más grande del mundo puede pasar de sesenta kilos, lo mismo que una persona.\n\nEs el capibara, de Sudamérica. En tierra, es presa fácil para jaguares y pumas.\n\nPor eso vive pegado al agua. Tiene los ojos, las orejas y la nariz en lo alto de la cabeza, como un cocodrilo.\n\nLo reconozco: es el roedor con el que me iría de vacaciones.\n\nCuando hay peligro, se sumerge y aguanta hasta cinco minutos sin respirar.\n\nSigue el canal para más animales así.",
+  "queries_imagenes": [
+    "Hydrochoerus hydrochaeris",
+    "capybara swimming",
+    "capybara water",
+    "capybara group",
+    "capybara head",
+    "capybara Pantanal",
+    "capybara with bird",
+    "capybara family"
+  ],
+  "titulo": "El roedor más grande del mundo pesa como una persona",
+  "descripcion": "El capibara (Hydrochoerus hydrochaeris) es el roedor más grande del mundo: puede pasar de 60 kilos. Vive junto al agua y aguanta hasta cinco minutos sumergido.\n\n#capibara #animales #records #shorts",
+  "tags": [
+    "capibara",
+    "roedor mas grande",
+    "animales de sudamerica",
+    "records animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "PESA COMO TÚ",
+  "prompt_miniatura": "a giant rodent half submerged in a river with only its eyes, ears and nose above the water",
+  "experimento": "cierre_suscripcion"
+}

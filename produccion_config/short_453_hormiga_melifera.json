@@ -1,0 +1,35 @@
+{
+  "id": "short_453_hormiga_melifera",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Algunas de estas hormigas pasan su vida colgadas del techo, convertidas en tarros de miel.\n\nSon las hormigas melíferas, de desiertos donde la comida escasea.\n\nPor eso, unas obreras reciben néctar de sus compañeras hasta que el abdomen se les hincha como una uva.\n\nCuando llega la escasez, devuelven la comida a la colonia.\n\nYo lo veo como una despensa con patas.\n\nY es tan valiosa que otras colonias asaltan el nido y se llevan los tarros vivos.\n\nSi te gustan estos bichos, aquí hay muchos más.",
+  "queries_imagenes": [
+    "Myrmecocystus",
+    "honeypot ant",
+    "honeypot ants repletes",
+    "Myrmecocystus mexicanus",
+    "Camponotus inflatus",
+    "honey ant Australia",
+    "honeypot ant colony",
+    "Myrmecocystus mimicus"
+  ],
+  "titulo": "Estas hormigas se convierten en tarros vivos de miel",
+  "descripcion": "Las hormigas melíferas (Myrmecocystus y Camponotus inflatus) tienen obreras que almacenan néctar en el abdomen hasta hincharse como uvas y alimentan a la colonia en épocas de escasez.\n\n#hormigas #insectos #animalesraros #shorts",
+  "tags": [
+    "hormiga melifera",
+    "hormigas",
+    "insectos",
+    "animales del desierto",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "DESPENSAS CON PATAS",
+  "prompt_miniatura": "ants with huge swollen golden translucent abdomens hanging from the ceiling of an underground chamber",
+  "experimento": "cierre_suscripcion"
+}

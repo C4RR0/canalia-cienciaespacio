@@ -1,0 +1,35 @@
+{
+  "id": "short_457_tren_edificio",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En China hay un tren que pasa por dentro de un bloque de pisos.\n\nEstá en Chongqing, una ciudad de montañas sin espacio. Hacía falta una estación justo donde iba a levantarse un edificio de diecinueve plantas.\n\nLa solución fue construir las dos cosas juntas.\n\nEl monorraíl entra en el edificio, para y sale por el otro lado. Arriba y abajo vive gente.\n\nYo no viviría ahí, pero pagaría por verlo.\n\nHoy tiene hasta un mirador para turistas.\n\nSi te gustan los lugares imposibles, sigue el canal.",
+  "queries_imagenes": [
+    "Liziba station",
+    "Liziba Chongqing monorail building",
+    "Chongqing Rail Transit Line 2",
+    "Chongqing monorail",
+    "Chongqing Line 2 Liziba",
+    "Chongqing city",
+    "Chongqing monorail train",
+    "Chongqing skyline"
+  ],
+  "titulo": "El tren que pasa por dentro de un bloque de pisos",
+  "descripcion": "En la estación de Liziba, en Chongqing (China), el monorraíl de la línea 2 atraviesa un edificio de viviendas de 19 plantas. Hoy tiene un mirador para turistas.\n\n#chongqing #china #lugaresincreibles #shorts",
+  "tags": [
+    "liziba",
+    "chongqing",
+    "monorrail",
+    "china",
+    "lugares increibles",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "ATRAVIESA SU CASA",
+  "prompt_miniatura": "a monorail train coming out of the middle of a tall residential apartment building",
+  "experimento": "cierre_suscripcion"
+}

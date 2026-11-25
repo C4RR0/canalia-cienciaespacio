@@ -1,0 +1,34 @@
+{
+  "id": "short_448_liron_gris",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este roedor puede pasar hasta once meses del año hibernando bajo tierra.\n\nEs el lirón gris, de los bosques de Europa.\n\nCuando las hayas no dan semillas, no le compensa criar. Así que se entierra, baja su temperatura y espera al año siguiente.\n\nA mí me parece la forma más elegante de saltarse un año malo.\n\nPero engordar tanto para dormir le salió caro.\n\nLos romanos lo cebaban en tinajas de barro con nueces y bellotas, y se lo comían como un manjar.",
+  "queries_imagenes": [
+    "Glis glis",
+    "edible dormouse",
+    "Glis glis hibernation",
+    "edible dormouse sleeping",
+    "Glis glis tree",
+    "fat dormouse",
+    "glirarium",
+    "Glis glis eating"
+  ],
+  "titulo": "Este roedor puede pasar 11 meses del año hibernando",
+  "descripcion": "El lirón gris (Glis glis) puede hibernar hasta once meses cuando los árboles no dan semillas. Los romanos lo engordaban en tinajas y lo comían como un manjar.\n\n#liron #animales #hibernacion #shorts",
+  "tags": [
+    "liron gris",
+    "liron",
+    "hibernacion",
+    "animales de europa",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "DUERME CASI TODO EL AÑO",
+  "prompt_miniatura": "a chubby grey dormouse curled up asleep in a cozy underground burrow",
+  "experimento": "control"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "short_452_armadillo_cuatrillizos",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este animal tiene siempre cuatro crías, y las cuatro son idénticas.\n\nEs el armadillo de nueve bandas, de América. La hembra produce un solo óvulo, que se divide en cuatro.\n\nCuatrillizos clónicos, camada tras camada.\n\nPero su caparazón tiene un problema: es tan pesado que nadar le cuesta muchísimo.\n\nY sinceramente, su solución me parece genial.\n\nPuede aguantar la respiración unos seis minutos y cruzar el río andando por el fondo. O tragar aire, hincharse como un flotador y atravesarlo nadando.",
+  "queries_imagenes": [
+    "Dasypus novemcinctus",
+    "nine-banded armadillo",
+    "nine-banded armadillo babies",
+    "armadillo young",
+    "Dasypus novemcinctus swimming",
+    "armadillo walking",
+    "nine-banded armadillo Texas",
+    "armadillo shell"
+  ],
+  "titulo": "Este animal siempre tiene cuatrillizos idénticos",
+  "descripcion": "El armadillo de nueve bandas (Dasypus novemcinctus) tiene casi siempre cuatro crías idénticas nacidas de un solo óvulo. Además puede cruzar ríos andando por el fondo o hinchándose de aire.\n\n#armadillo #animales #curiosidades #shorts",
+  "tags": [
+    "armadillo",
+    "armadillo de nueve bandas",
+    "animales de america",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "SIEMPRE SON CUATRO",
+  "prompt_miniatura": "four identical baby armadillos lined up next to their armored mother",
+  "experimento": "control"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "short_454_aligator_hielo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este reptil puede quedarse atrapado en un lago helado y salir vivo.\n\nEs el aligátor americano. Cuando el agua empieza a congelarse, no huye ni se esconde.\n\nSaca la punta del hocico justo antes de que se forme el hielo, y se queda quieto, con todo el cuerpo bajo el agua helada.\n\nHe visto las fotos y parece muerto. Eso me da todavía más miedo.\n\nSu corazón va lentísimo y apenas gasta energía.\n\nY respira por ese agujerito en el hielo hasta que vuelve el calor.",
+  "queries_imagenes": [
+    "Alligator mississippiensis",
+    "American alligator",
+    "alligator frozen ice",
+    "alligator snout ice",
+    "American alligator winter",
+    "alligator head water",
+    "Alligator mississippiensis swamp",
+    "alligator nostrils"
+  ],
+  "titulo": "Este reptil se queda atrapado en el hielo y sobrevive",
+  "descripcion": "El aligátor americano (Alligator mississippiensis) sobrevive a lagos helados sacando el hocico antes de que se forme el hielo y ralentizando su cuerpo hasta que vuelve el calor.\n\n#aligator #reptiles #animales #shorts",
+  "tags": [
+    "aligator americano",
+    "aligator",
+    "reptiles",
+    "animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "ATRAPADO EN EL HIELO",
+  "prompt_miniatura": "only the snout of a large reptile sticking out of a frozen swamp covered in ice",
+  "experimento": "control"
+}

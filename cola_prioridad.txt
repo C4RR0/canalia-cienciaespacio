@@ -479,3 +479,16 @@ short_443_sapo_cana
 short_444_caballo_przewalski
 short_445_cebra_rayas
 short_446_guerra_futbol
+# 2026-11-25: tanda 447-458 (rutina automática), 5:1
+short_447_nido_aguila_calva
+short_450_canguro_rojo
+short_449_capibara
+short_448_liron_gris
+short_452_armadillo_cuatrillizos
+short_457_tren_edificio
+short_451_cochinilla_carmin
+short_455_okapi
+short_453_hormiga_melifera
+short_454_aligator_hielo
+short_456_saltarin_fango
+short_458_valla_dingo

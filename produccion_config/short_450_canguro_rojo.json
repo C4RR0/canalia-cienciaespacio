@@ -1,0 +1,35 @@
+{
+  "id": "short_450_canguro_rojo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "La cría de un animal de noventa kilos nace pesando menos de un gramo.\n\nEs el canguro rojo, el marsupial más grande del mundo. Su cría nace del tamaño de una judía.\n\nY nada más nacer, debe trepar sola por la piel de su madre hasta la bolsa.\n\nMe parece la primera prueba más dura del reino animal.\n\nLa madre puede tener a la vez una cría fuera, otra en la bolsa y un embrión en pausa. Y da dos leches distintas al mismo tiempo.",
+  "queries_imagenes": [
+    "Osphranter rufus",
+    "red kangaroo",
+    "red kangaroo joey pouch",
+    "kangaroo joey in pouch",
+    "red kangaroo male",
+    "kangaroo mother and joey",
+    "red kangaroo jumping",
+    "Macropus rufus"
+  ],
+  "titulo": "Este animal de 90 kilos nace pesando menos de un gramo",
+  "descripcion": "El canguro rojo (Osphranter rufus), el marsupial más grande, nace pesando menos de un gramo y trepa solo hasta la bolsa. Su madre puede dar dos leches distintas a la vez.\n\n#canguro #animales #australia #shorts",
+  "tags": [
+    "canguro rojo",
+    "canguro",
+    "marsupiales",
+    "animales de australia",
+    "records animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MÁS PEQUEÑO QUE UNA JUDÍA",
+  "prompt_miniatura": "a tiny pink newborn joey inside a kangaroo pouch next to the huge mother kangaroo",
+  "experimento": "control"
+}

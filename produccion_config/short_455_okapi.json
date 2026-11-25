@@ -1,0 +1,34 @@
+{
+  "id": "short_455_okapi",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Hasta 1901, la ciencia europea creía que este animal era un mito.\n\nEs el okapi, de las selvas del Congo. Tiene patas de cebra, pero es el único pariente vivo de la jirafa.\n\nEs tan tímido que casi nadie lo veía.\n\nY para mí lo mejor es esto: sus crías no hacen caca en sus primeras semanas. Se cree que es para no atraer a los leopardos con el olor.\n\nSi te ha gustado, aquí hay más animales que parecen inventados.",
+  "queries_imagenes": [
+    "Okapia johnstoni",
+    "okapi",
+    "okapi calf",
+    "okapi tongue",
+    "okapi stripes legs",
+    "okapi zoo",
+    "okapi head",
+    "okapi mother calf"
+  ],
+  "titulo": "El animal que Europa creyó un mito hasta 1901",
+  "descripcion": "El okapi (Okapia johnstoni), del Congo, es el único pariente vivo de la jirafa y la ciencia europea no lo describió hasta 1901. Sus crías no defecan durante sus primeras semanas.\n\n#okapi #animalesraros #africa #shorts",
+  "tags": [
+    "okapi",
+    "animales raros",
+    "animales de africa",
+    "jirafa",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "CREÍAN QUE ERA UN MITO",
+  "prompt_miniatura": "a shy animal with zebra-striped legs and a brown body peeking out of dense rainforest",
+  "experimento": "cierre_suscripcion"
+}

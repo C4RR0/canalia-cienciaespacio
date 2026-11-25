@@ -1,0 +1,35 @@
+{
+  "id": "short_451_cochinilla_carmin",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Es muy posible que hoy te hayas comido un insecto sin saberlo.\n\nEs la cochinilla, un bichito que vive pegado a los nopales. Para defenderse de las hormigas, fabrica un ácido de color rojo intenso.\n\nLos aztecas ya teñían con él.\n\nHoy se sigue criando en Perú, México y Canarias.\n\nYo no he vuelto a mirar igual un yogur de fresa.\n\nPorque en la etiqueta aparece como E ciento veinte.\n\nSi te ha sorprendido, aquí hay más cosas raras de lo que comes.",
+  "queries_imagenes": [
+    "Dactylopius coccus",
+    "cochineal insects cactus",
+    "cochineal Opuntia",
+    "cochineal carmine dye",
+    "cochineal farm Lanzarote",
+    "crushed cochineal",
+    "Dactylopius coccus Opuntia",
+    "carmine pigment"
+  ],
+  "titulo": "Este bicho tiñe de rojo yogures, caramelos y pintalabios",
+  "descripcion": "La cochinilla (Dactylopius coccus) vive en los nopales y produce ácido carmínico, el colorante rojo E120 que se usa en alimentos y cosméticos. Se cría en Perú, México y Canarias.\n\n#cochinilla #insectos #curiosidades #shorts",
+  "tags": [
+    "cochinilla",
+    "carmin",
+    "E120",
+    "insectos",
+    "colorantes",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "ESTÁ EN TU YOGUR",
+  "prompt_miniatura": "close-up of tiny white fluffy insects on a green cactus pad, one crushed leaving a bright crimson red stain",
+  "experimento": "cierre_suscripcion"
+}

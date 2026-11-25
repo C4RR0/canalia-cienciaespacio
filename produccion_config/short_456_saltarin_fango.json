@@ -1,0 +1,34 @@
+{
+  "id": "short_456_saltarin_fango",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pez pasa la mayor parte del día fuera del agua, andando por el barro.\n\nEs el saltarín del fango, de los manglares. Respira por la piel y la boca, mientras estén mojadas.\n\nA mí me parece un pez que se cansó de serlo.\n\nPero tiene un problema: sus huevos necesitan aire, y el fondo de su madriguera de barro no tiene.\n\nAsí que el macho sube, traga aire, baja y lo suelta dentro.\n\nBocado a bocado, llena de aire la cámara donde están los huevos.",
+  "queries_imagenes": [
+    "Periophthalmus",
+    "mudskipper",
+    "mudskipper mud",
+    "Periophthalmodon schlosseri",
+    "mudskipper mangrove",
+    "Boleophthalmus",
+    "mudskipper jumping",
+    "Periophthalmus barbarus"
+  ],
+  "titulo": "Este pez vive fuera del agua y respira por la piel",
+  "descripcion": "El saltarín del fango (Periophthalmus y Periophthalmodon) pasa gran parte del día fuera del agua respirando por la piel. El macho llena de aire su madriguera, bocado a bocado, para los huevos.\n\n#saltarindelfango #peces #animalesraros #shorts",
+  "tags": [
+    "saltarin del fango",
+    "peces raros",
+    "manglares",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "UN PEZ QUE ANDA",
+  "prompt_miniatura": "a goggle-eyed fish standing on wet mud with its fins like little arms in a mangrove",
+  "experimento": "control"
+}

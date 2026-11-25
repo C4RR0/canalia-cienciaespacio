@@ -1,0 +1,34 @@
+{
+  "id": "short_447_nido_aguila_calva",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "El nido de pájaro más grande jamás medido pesaba más de dos toneladas.\n\nLo construyó una pareja de águilas calvas en Florida. Medía casi tres metros de ancho y seis de profundidad.\n\nPero no lo hicieron en un año. Estas águilas vuelven al mismo nido cada temporada y le añaden ramas nuevas encima.\n\nSinceramente, yo no subiría ahí ni con arnés.\n\nY tanto peso tiene un precio: algunos nidos acaban rompiendo la rama que los sostiene.\n\nSi te gustan los récords animales, aquí vienen muchos más.",
+  "queries_imagenes": [
+    "Haliaeetus leucocephalus nest",
+    "bald eagle nest",
+    "bald eagle pair nest",
+    "bald eagle carrying stick",
+    "Haliaeetus leucocephalus",
+    "bald eagle chicks nest",
+    "bald eagle Florida",
+    "bald eagle flying"
+  ],
+  "titulo": "El nido más grande jamás medido pesaba dos toneladas",
+  "descripcion": "El nido de pájaro más grande registrado lo construyó una pareja de águilas calvas (Haliaeetus leucocephalus) en Florida: casi tres metros de ancho, seis de profundidad y más de dos toneladas.\n\n#aguilacalva #records #aves #shorts",
+  "tags": [
+    "aguila calva",
+    "nido de aguila",
+    "records animales",
+    "aves",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "DOS TONELADAS DE RAMAS",
+  "prompt_miniatura": "a gigantic bird nest made of branches on top of a tall tree with a huge eagle landing on it",
+  "experimento": "cierre_suscripcion"
+}
