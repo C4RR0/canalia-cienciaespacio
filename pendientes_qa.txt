@@ -1,4 +1,3 @@
-short_448_liron_gris
 short_449_capibara
 short_450_canguro_rojo
 short_451_cochinilla_carmin
