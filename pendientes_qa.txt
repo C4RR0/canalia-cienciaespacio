@@ -1,4 +1,3 @@
-short_450_canguro_rojo
 short_451_cochinilla_carmin
 short_452_armadillo_cuatrillizos
 short_453_hormiga_melifera
