@@ -1,5 +1,4 @@
 short_453_hormiga_melifera
-short_455_okapi
 short_456_saltarin_fango
 short_457_tren_edificio
 short_458_valla_dingo
