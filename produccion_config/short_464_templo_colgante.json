@@ -1,0 +1,35 @@
+{
+  "id": "short_464_templo_colgante",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "Este templo lleva más de mil quinientos años pegado a la pared de un acantilado.\n\nEs el Templo Colgante, en el norte de China: unas cuarenta salas unidas por pasarelas de madera estrechísimas.\n\nLa roca le da sombra y lo protege de la lluvia y de las crecidas.\n\nDebajo hay unos postes finos que parecen sostenerlo todo.\n\nYo no me subiría ni loco.\n\nPero el peso real lo cargan vigas metidas en agujeros de la roca.\n\nSi te gustan los lugares imposibles, aquí tengo muchos más.",
+  "queries_imagenes": [
+    "Hanging Temple Datong",
+    "Xuankong Temple",
+    "Xuankong Si",
+    "Hanging Monastery Hengshan",
+    "Hanging Temple Shanxi",
+    "Xuankong Temple walkway",
+    "Hanging Temple cliff",
+    "Hengshan Shanxi"
+  ],
+  "titulo": "El templo pegado a un acantilado desde hace 1.500 años",
+  "descripcion": "El Templo Colgante o Xuankong Si, cerca de Datong (China), está construido en la pared de un acantilado desde hace más de 1.500 años y se apoya en vigas encajadas en la roca.\n\n#templocolgante #china #lugaresincreibles #shorts",
+  "tags": [
+    "templo colgante",
+    "xuankong si",
+    "china",
+    "lugares increibles",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO LO SUJETAN LOS PALOS",
+  "prompt_miniatura": "an ancient wooden Chinese temple clinging to a sheer cliff face high above a valley, thin wooden stilts below",
+  "experimento": "cierre_suscripcion"
+}

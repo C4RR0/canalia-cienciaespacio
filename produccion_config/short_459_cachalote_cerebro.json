@@ -1,0 +1,34 @@
+{
+  "id": "short_459_cachalote_cerebro",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este animal tiene el cerebro más grande del planeta: unos ocho kilos.\n\nEs el cachalote. Y le hace falta, porque caza a más de mil metros de profundidad, donde no llega la luz.\n\nAllí abajo busca calamares gigantes usando solo el sonido. Sus chasquidos son el sonido más fuerte que produce ningún animal.\n\nSinceramente, no se me ocurre nada más inquietante acercándose en la oscuridad.\n\nY en inglés lo llaman ballena esperma por un error: los balleneros creyeron que su cabeza estaba llena de semen.",
+  "queries_imagenes": [
+    "Physeter macrocephalus",
+    "sperm whale",
+    "sperm whale diving",
+    "sperm whale head",
+    "sperm whale calf",
+    "sperm whale tail fluke",
+    "sperm whale Dominica",
+    "Physeter macrocephalus pod"
+  ],
+  "titulo": "Este animal tiene el cerebro más grande del planeta",
+  "descripcion": "El cachalote (Physeter macrocephalus) tiene el cerebro más grande de cualquier animal vivo, de unos ocho kilos, y caza calamares a más de mil metros de profundidad guiándose por el sonido.\n\n#cachalote #ballenas #animalesmarinos #shorts",
+  "tags": [
+    "cachalote",
+    "ballenas",
+    "animales marinos",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "8 KILOS DE CEREBRO",
+  "prompt_miniatura": "a giant sperm whale swimming in the deep dark blue ocean, a faint beam of light above",
+  "experimento": "control"
+}

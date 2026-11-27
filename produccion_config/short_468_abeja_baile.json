@@ -1,0 +1,34 @@
+{
+  "id": "short_468_abeja_baile",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este insecto explica a sus compañeras dónde hay flores a kilómetros. Y lo hace bailando.\n\nEs la abeja de la miel. Al volver a la colmena, da vueltas en forma de ocho mientras sacude el abdomen.\n\nEl ángulo del baile marca la dirección respecto al sol. Y cuanto más dura la sacudida, más lejos están las flores.\n\nMe parece increíble que algo tan pequeño dibuje un mapa.\n\nAl científico que lo descifró, Karl von Frisch, le dieron el Nobel.\n\nSi esto te ha dejado pensando, aquí hay más.",
+  "queries_imagenes": [
+    "Apis mellifera",
+    "honey bee waggle dance",
+    "honeybee comb",
+    "Apis mellifera flower",
+    "honey bee hive frame",
+    "Karl von Frisch",
+    "honey bee foraging",
+    "Apis mellifera worker"
+  ],
+  "titulo": "Este insecto baila para avisar de dónde hay comida",
+  "descripcion": "La abeja de la miel (Apis mellifera) indica a sus compañeras la dirección y la distancia de las flores con la danza del meneo. Karl von Frisch la descifró y recibió el Premio Nobel en 1973.\n\n#abejas #insectos #naturaleza #shorts",
+  "tags": [
+    "abeja de la miel",
+    "abejas",
+    "danza de las abejas",
+    "insectos",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "BAILA UN MAPA",
+  "prompt_miniatura": "a honey bee dancing in a figure eight on a golden honeycomb surrounded by other bees",
+  "experimento": "cierre_suscripcion"
+}

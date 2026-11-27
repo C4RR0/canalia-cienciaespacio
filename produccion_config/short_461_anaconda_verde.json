@@ -1,0 +1,34 @@
+{
+  "id": "short_461_anaconda_verde",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "La serpiente más pesada del mundo puede rozar los cien kilos.\n\nEs la anaconda verde, de los ríos de Sudamérica. Las hembras son mucho más grandes que los machos: en época de celo, una sola puede arrastrar a una docena de pretendientes enroscados a su alrededor.\n\nDurante siglos se creyó que era una única especie.\n\nA mí me fascina que algo tan enorme se escondiera a plena vista.\n\nPorque en dos mil veinticuatro, al analizar su ADN, descubrieron que en realidad son dos especies distintas.",
+  "queries_imagenes": [
+    "Eunectes murinus",
+    "green anaconda",
+    "green anaconda swimming",
+    "green anaconda Venezuela",
+    "Eunectes murinus head",
+    "anaconda Llanos",
+    "green anaconda river",
+    "Eunectes akayima"
+  ],
+  "titulo": "Esta serpiente de casi cien kilos escondía otra especie",
+  "descripcion": "La anaconda verde (Eunectes murinus) es la serpiente más pesada del mundo. En 2024 un estudio genético reveló que en realidad son dos especies: la del sur y la anaconda verde del norte (Eunectes akayima).\n\n#anaconda #serpientes #amazonas #shorts",
+  "tags": [
+    "anaconda verde",
+    "anaconda",
+    "serpientes",
+    "animales de sudamerica",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "ERAN DOS",
+  "prompt_miniatura": "a huge green anaconda coiled in a muddy river among floating plants",
+  "experimento": "control"
+}

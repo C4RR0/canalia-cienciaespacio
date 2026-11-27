@@ -1,0 +1,34 @@
+{
+  "id": "short_467_estorninos_bandada",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Estos pájaros vuelan en nubes de miles sin chocar entre ellos.\n\nSon los estorninos. Al atardecer, en invierno, forman bandadas enormes que cambian de forma como si fueran un solo animal.\n\nLo hacen para protegerse: a un halcón le cuesta muchísimo elegir presa en medio de ese remolino.\n\nDurante años nadie entendía cómo se coordinaban tan rápido.\n\nY la respuesta me parece preciosa de lo simple que es.\n\nNingún estornino mira a toda la bandada: cada uno solo vigila a sus siete vecinos más cercanos.",
+  "queries_imagenes": [
+    "starling murmuration",
+    "Sturnus vulgaris murmuration",
+    "common starling",
+    "Sturnus vulgaris",
+    "starling flock sunset",
+    "murmuration",
+    "starlings roost",
+    "Sturnus vulgaris winter"
+  ],
+  "titulo": "Estos pájaros vuelan en nubes de miles sin chocar entre sí",
+  "descripcion": "Los estorninos (Sturnus vulgaris) forman bandadas de miles que se mueven como un solo animal. Un estudio de 2008 mostró que cada pájaro solo sigue a sus seis o siete vecinos más cercanos.\n\n#estorninos #aves #naturaleza #shorts",
+  "tags": [
+    "estorninos",
+    "estornino pinto",
+    "aves",
+    "bandadas",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NUNCA CHOCAN",
+  "prompt_miniatura": "a huge swirling cloud of thousands of small birds against an orange sunset sky",
+  "experimento": "control"
+}

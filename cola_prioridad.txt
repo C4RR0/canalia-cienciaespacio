@@ -492,3 +492,16 @@ short_453_hormiga_melifera
 short_454_aligator_hielo
 short_456_saltarin_fango
 short_458_valla_dingo
+# 2026-11-27: tanda 459-470 (rutina automática), 5:1
+short_459_cachalote_cerebro
+short_461_anaconda_verde
+short_460_dromedario_agua
+short_462_foca_weddell
+short_463_colibri_rufo
+short_464_templo_colgante
+short_465_siluro_palomas
+short_467_estorninos_bandada
+short_466_oso_hibernacion
+short_468_abeja_baile
+short_469_tucan_pico
+short_470_tunel_guoliang

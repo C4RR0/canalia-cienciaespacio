@@ -1,0 +1,34 @@
+{
+  "id": "short_462_foca_weddell",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este mamífero vive más al sur que ningún otro del planeta.\n\nEs la foca de Weddell, en la Antártida. Pasa el invierno bajo el hielo y aguanta más de una hora sin respirar.\n\nPero necesita salir a tomar aire, y el hielo se cierra.\n\nAsí que mantiene abiertos sus agujeros raspándolos con los dientes.\n\nMe parece una vida durísima.\n\nCon los años, sus dientes se desgastan tanto que muchas ya no pueden mantener su agujero.\n\nSi esto te ha sorprendido, sígueme: el frío esconde historias aún más locas.",
+  "queries_imagenes": [
+    "Leptonychotes weddellii",
+    "Weddell seal",
+    "Weddell seal ice hole",
+    "Weddell seal Antarctica",
+    "Weddell seal pup",
+    "Weddell seal underwater",
+    "Weddell seal McMurdo",
+    "Leptonychotes weddellii on ice"
+  ],
+  "titulo": "Este mamífero vive más al sur que ningún otro del planeta",
+  "descripcion": "La foca de Weddell (Leptonychotes weddellii) es el mamífero que vive más al sur. Pasa el invierno bajo el hielo antártico y mantiene abiertos sus respiraderos raspándolos con los dientes.\n\n#focadeweddell #antartida #focas #shorts",
+  "tags": [
+    "foca de weddell",
+    "focas",
+    "antartida",
+    "animales polares",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "VIVE BAJO EL HIELO",
+  "prompt_miniatura": "a Weddell seal poking its head out of a breathing hole in thick Antarctic sea ice",
+  "experimento": "cierre_suscripcion"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "short_469_tucan_pico",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro usa su pico enorme como si fuera un radiador.\n\nEs el tucán toco, de Sudamérica. Su pico mide casi un tercio de su cuerpo, y aun así pesa poquísimo porque por dentro es como una esponja.\n\nSiempre se pensó que servía para pelear o para lucirse.\n\nYo jamás habría adivinado lo que mostró una cámara térmica en dos mil nueve.\n\nCuando hace calor, el tucán manda sangre al pico y suelta el calor por ahí.\n\nY cuando duerme, lo esconde bajo las plumas para no enfriarse.",
+  "queries_imagenes": [
+    "Ramphastos toco",
+    "toco toucan",
+    "toco toucan beak",
+    "toco toucan flight",
+    "Ramphastos toco Pantanal",
+    "toco toucan perched",
+    "toucan sleeping",
+    "Ramphastos toco portrait"
+  ],
+  "titulo": "Este pájaro usa su pico enorme como si fuera un radiador",
+  "descripcion": "El tucán toco (Ramphastos toco) usa su enorme pico para regular la temperatura: en 2009 una cámara térmica mostró que manda sangre al pico para soltar calor.\n\n#tucan #aves #sudamerica #shorts",
+  "tags": [
+    "tucan toco",
+    "tucan",
+    "aves",
+    "aves de sudamerica",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO ES PARA PELEAR",
+  "prompt_miniatura": "a toco toucan with its huge orange beak glowing in thermal camera colours",
+  "experimento": "control"
+}

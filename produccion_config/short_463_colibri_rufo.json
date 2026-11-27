@@ -1,0 +1,34 @@
+{
+  "id": "short_463_colibri_rufo",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pájaro pesa la mitad que una moneda de un euro y vuela unos seis mil kilómetros.\n\nEs el colibrí rufo. Cría en Alaska y Canadá, y pasa el invierno en México.\n\nPara algo tan pequeño, el viaje es brutal: tiene que parar a comer sin descanso.\n\nY encima es un matón: persigue a colibríes más grandes que él.\n\nSinceramente, le tengo más respeto que a muchos animales enormes.\n\nMedido en longitudes de su cuerpo, es una de las migraciones más largas de cualquier ave.",
+  "queries_imagenes": [
+    "Selasphorus rufus",
+    "rufous hummingbird",
+    "rufous hummingbird male",
+    "rufous hummingbird female",
+    "rufous hummingbird feeding flower",
+    "Selasphorus rufus flight",
+    "rufous hummingbird Alaska",
+    "rufous hummingbird perched"
+  ],
+  "titulo": "Este pájaro pesa tres gramos y vuela seis mil kilómetros",
+  "descripcion": "El colibrí rufo (Selasphorus rufus) pesa unos tres gramos y migra unos seis mil kilómetros entre Alaska y México: en proporción a su tamaño, una de las migraciones más largas de las aves.\n\n#colibri #aves #migracion #shorts",
+  "tags": [
+    "colibri rufo",
+    "colibri",
+    "aves",
+    "migracion",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "TRES GRAMOS DE VALOR",
+  "prompt_miniatura": "a tiny orange rufous hummingbird hovering in front of a red flower with mountains behind",
+  "experimento": "control"
+}

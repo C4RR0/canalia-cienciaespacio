@@ -1,0 +1,34 @@
+{
+  "id": "short_466_oso_hibernacion",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este animal pasa hasta seis meses en ayunas, sin beber ni hacer sus necesidades.\n\nEs el oso pardo, cuando hiberna. Su corazón se ralentiza muchísimo y vive de la grasa que acumuló en otoño.\n\nUna persona que pasara medio año tumbada perdería músculo y hueso.\n\nÉl apenas pierde nada: recicla sus propios desechos y los convierte en proteína.\n\nPara mí, esto impresiona más que su tamaño.\n\nY las hembras dan a luz en pleno letargo, dentro de la osera.\n\nSi quieres más animales así de extremos, sígueme.",
+  "queries_imagenes": [
+    "Ursus arctos",
+    "brown bear",
+    "brown bear den",
+    "brown bear cubs",
+    "brown bear in snow",
+    "Ursus arctos arctos",
+    "brown bear forest",
+    "brown bear sleeping"
+  ],
+  "titulo": "Este animal pasa meses sin comer, beber ni ir al baño",
+  "descripcion": "El oso pardo (Ursus arctos) puede pasar meses hibernando sin comer, beber ni orinar: recicla sus desechos en proteína y apenas pierde músculo. Las hembras paren dentro de la osera.\n\n#osopardo #hibernacion #animales #shorts",
+  "tags": [
+    "oso pardo",
+    "osos",
+    "hibernacion",
+    "animales",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "MESES SIN COMER",
+  "prompt_miniatura": "a large brown bear sleeping curled up inside a snowy den in the forest",
+  "experimento": "cierre_suscripcion"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "short_470_tunel_guoliang",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "guion": "En los años setenta, trece vecinos de una aldea china excavaron a mano un túnel dentro de un acantilado.\n\nSu pueblo, Guoliang, está en lo alto de una montaña, y para bajar solo había una escalera tallada al borde del vacío.\n\nNadie iba a hacerles una carretera. Así que vendieron cabras y hierbas para comprar herramientas.\n\nTardaron cinco años en abrir más de un kilómetro.\n\nHay que tener valor para algo así.\n\nHoy lo cruzan autobuses de turistas, que miran el precipicio por ventanas abiertas en la roca.",
+  "queries_imagenes": [
+    "Guoliang tunnel",
+    "Guoliang Village",
+    "Guoliang cliff road",
+    "Guoliang Henan",
+    "Taihang Mountains",
+    "Guoliang tunnel windows",
+    "Wanxianshan Guoliang",
+    "Taihang Mountains Henan cliff"
+  ],
+  "titulo": "Trece vecinos excavaron a mano un túnel en un acantilado",
+  "descripcion": "El túnel de Guoliang (Henan, China) lo excavaron a mano trece vecinos de la aldea entre 1972 y 1977: más de un kilómetro dentro del acantilado.\n\n#guoliang #china #lugaresincreibles #shorts",
+  "tags": [
+    "tunel de guoliang",
+    "guoliang",
+    "china",
+    "lugares increibles",
+    "historia",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "LO CAVARON A MANO",
+  "prompt_miniatura": "a narrow road tunnel carved into a sheer red cliff with open window holes, a tiny bus inside",
+  "experimento": "control"
+}

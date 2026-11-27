@@ -1,0 +1,34 @@
+{
+  "id": "short_465_siluro_palomas",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este pez sale del agua para cazar palomas en la orilla.\n\nEs el siluro, uno de los peces de río más grandes de Europa: puede pasar de dos metros y medio.\n\nEn el río Tarn, en Francia, las palomas bajan a beber a la orilla. El siluro se lanza, se queda medio varado fuera del agua y vuelve con la presa.\n\nA mí me parece una película de terror en versión fluvial.\n\nY no está lejos: en España vive en el Ebro desde los años setenta.",
+  "queries_imagenes": [
+    "Silurus glanis",
+    "wels catfish",
+    "wels catfish underwater",
+    "Silurus glanis Ebro",
+    "wels catfish head",
+    "feral pigeon river bank",
+    "Tarn river Albi",
+    "Silurus glanis large"
+  ],
+  "titulo": "Este pez sale del agua para cazar palomas en la orilla",
+  "descripcion": "El siluro (Silurus glanis), uno de los mayores peces de río de Europa, fue grabado en el río Tarn (Francia) saliendo del agua para cazar palomas en la orilla. En España vive en el Ebro desde los años setenta.\n\n#siluro #peces #rioebro #shorts",
+  "tags": [
+    "siluro",
+    "peces de rio",
+    "rio ebro",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "CAZA FUERA DEL AGUA",
+  "prompt_miniatura": "a giant catfish lunging out of a river onto a stony bank where pigeons are drinking",
+  "experimento": "control"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "short_460_dromedario_agua",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "guion": "Este animal puede beberse cien litros de agua en unos pocos minutos.\n\nEs el dromedario. Aguanta días sin beber y puede perder una cuarta parte de su peso en agua sin morir.\n\nCasi todo el mundo cree que la guarda en la joroba. Pero no: la joroba es grasa.\n\nA mí esto me parece ingeniería pura.\n\nEl truco está en su sangre: sus glóbulos rojos son ovalados y se hinchan sin reventar cuando entra tanta agua de golpe.\n\nSi te gustan los animales imposibles, no te vayas lejos.",
+  "queries_imagenes": [
+    "Camelus dromedarius",
+    "dromedary camel",
+    "dromedary drinking water",
+    "dromedary camel desert",
+    "camel caravan Sahara",
+    "dromedary hump",
+    "dromedary camel herd",
+    "camel drinking"
+  ],
+  "titulo": "Este animal bebe cien litros de agua en pocos minutos",
+  "descripcion": "El dromedario (Camelus dromedarius) puede beber unos cien litros de agua en pocos minutos. Su joroba no guarda agua sino grasa; el secreto está en sus glóbulos rojos ovalados.\n\n#dromedario #camello #desierto #shorts",
+  "tags": [
+    "dromedario",
+    "camello",
+    "animales del desierto",
+    "animales raros",
+    "datos curiosos",
+    "shorts"
+  ],
+  "hook_miniatura": "NO ESTÁ EN LA JOROBA",
+  "prompt_miniatura": "a dromedary camel drinking from a water trough in the desert at sunset",
+  "experimento": "cierre_suscripcion"
+}
