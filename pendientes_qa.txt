@@ -1,4 +1,3 @@
-short_459_cachalote_cerebro
 short_460_dromedario_agua
 short_461_anaconda_verde
 short_462_foca_weddell
