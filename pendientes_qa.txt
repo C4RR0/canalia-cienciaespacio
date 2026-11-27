@@ -1,4 +1,3 @@
-short_464_templo_colgante
 short_465_siluro_palomas
 short_466_oso_hibernacion
 short_467_estorninos_bandada
