@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:05,000
+Este pájaro usa su pico enorme como si fuera un radiador. Es el tucán toco, de Sudamérica.
+
+2
+00:00:05,339 --> 00:00:10,640
+Su pico mide casi un tercio de su cuerpo, y aún así pesa poquísimo porque por dentro es como una esponja.
+
+3
+00:00:11,000 --> 00:00:17,339
+Siempre se pensó que servía para pelear o para lucirse. Yo jamás habría adivinado lo que mostró una cámara térmica en 2009.
+
+4
+00:00:17,679 --> 00:00:24,640
+Cuando hace calor, el tucán manda sangre al pico y suelta el calor por ahí, y cuando duerme, lo esconde bajo las plumas para no enfriarse.
+
