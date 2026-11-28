@@ -505,3 +505,16 @@ short_466_oso_hibernacion
 short_468_abeja_baile
 short_469_tucan_pico
 short_470_tunel_guoliang
+# 2026-11-28: tanda 471-482 (rutina automática), 5:1
+short_472_escarabajo_hercules
+short_471_pajaro_campana
+short_474_tuatara_henry
+short_475_bisonte_europeo
+short_473_termitas_brasil
+short_476_lalibela_iglesias
+short_478_alcatraz_picado
+short_479_pajaro_sastre
+short_477_lechuza_oido
+short_481_chotacabras_hiberna
+short_480_pez_tigre
+short_482_catedral_justo

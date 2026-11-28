@@ -1,0 +1,34 @@
+{
+  "id": "short_478_alcatraz_picado",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Este pájaro se tira al mar de cabeza a unos cien kilómetros por hora.\n\nEs el alcatraz atlántico. Ve peces desde treinta metros, pliega las alas y cae como una flecha.\n\nA esa velocidad, el agua golpea como un muro.\n\nYo me rompería el cuello a la primera, y no exagero.\n\nPero está preparado. Su pico no tiene orificios por donde entre el agua, y una membrana le protege los ojos.\n\nY bajo la piel del pecho lleva bolsas de aire que amortiguan el golpe.",
+  "queries_imagenes": [
+    "Morus bassanus",
+    "northern gannet diving",
+    "gannet dive",
+    "northern gannet",
+    "Morus bassanus colony",
+    "gannets Bass Rock",
+    "northern gannet flight",
+    "gannet head"
+  ],
+  "titulo": "Este pájaro se tira al mar de cabeza a 100 km/h",
+  "descripcion": "El alcatraz atlántico (Morus bassanus) se lanza al mar desde unos 30 metros y entra en el agua a unos 100 km/h, protegido por bolsas de aire bajo la piel.\n\n#alcatraz #aves #mar #shorts",
+  "tags": [
+    "alcatraz atlantico",
+    "Morus bassanus",
+    "aves marinas",
+    "alcatraz",
+    "aves",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "COMO UNA FLECHA",
+  "prompt_miniatura": "a white seabird with black wingtips diving straight down into the sea, wings folded back"
+}

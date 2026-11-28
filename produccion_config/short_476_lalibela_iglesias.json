@@ -1,0 +1,34 @@
+{
+  "id": "short_476_lalibela_iglesias",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "historia",
+  "experimento": "control",
+  "guion": "En Etiopía hay once iglesias que no se construyeron: se excavaron hacia abajo, en la roca viva.\n\nLas mandó hacer el rey Lalibela hace unos ochocientos años. Quería una nueva Jerusalén.\n\nSus canteros no ponían piedras. Las quitaban. Cavaban una zanja alrededor de un bloque y lo vaciaban por dentro.\n\nLa más famosa tiene forma de cruz y desde arriba parece un hueco en el suelo.\n\nPara mí, es el lugar más alucinante de África.\n\nY no es un museo: cada Navidad bajan miles de peregrinos a rezar.",
+  "queries_imagenes": [
+    "Lalibela",
+    "Church of Saint George Lalibela",
+    "Bete Giyorgis",
+    "Lalibela rock-hewn church",
+    "Lalibela pilgrims",
+    "Lalibela church interior",
+    "Bete Medhane Alem",
+    "Lalibela priest"
+  ],
+  "titulo": "El pueblo con once iglesias talladas hacia abajo en roca",
+  "descripcion": "En Lalibela (Etiopía) hay once iglesias de hace unos 800 años excavadas hacia abajo en la roca, y todavía se usan: cada Navidad etíope llegan miles de peregrinos.\n\n#lalibela #etiopia #lugaresincreibles #shorts",
+  "tags": [
+    "Lalibela",
+    "iglesias de Lalibela",
+    "Etiopía",
+    "Bete Giyorgis",
+    "lugares increibles",
+    "historia"
+  ],
+  "hook_miniatura": "TALLADA HACIA ABAJO",
+  "prompt_miniatura": "a cross-shaped stone church carved down into the ground seen from above, pilgrims in white on the edge"
+}

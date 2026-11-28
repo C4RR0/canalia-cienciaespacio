@@ -1,0 +1,34 @@
+{
+  "id": "short_481_chotacabras_hiberna",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "El único pájaro que hiberna se esconde en una grieta y pasa semanas sin apenas moverse.\n\nEs el chotacabras pálido, de los desiertos del oeste de Estados Unidos.\n\nSe creía que ningún ave podía hibernar. Pero en mil novecientos cuarenta y seis, un naturalista encontró uno en una roca, frío y quieto. Parecía muerto.\n\nMe encanta cuando un pájaro deja en ridículo a los libros.\n\nLo mejor es que los hopis ya lo sabían: en su lengua se llama «el que duerme».\n\nSi te gustan estos secretos, sígueme.",
+  "queries_imagenes": [
+    "Phalaenoptilus nuttallii",
+    "common poorwill",
+    "common poorwill camouflage",
+    "Phalaenoptilus nuttallii ground",
+    "poorwill desert",
+    "common poorwill eye",
+    "Chuckwalla Mountains",
+    "nightjar camouflage rock"
+  ],
+  "titulo": "El único pájaro que hiberna se esconde semanas en una roca",
+  "descripcion": "El chotacabras pálido (Phalaenoptilus nuttallii) es el único ave conocida que entra en un letargo parecido a la hibernación; en 1946 un naturalista encontró uno en una roca del desierto de California.\n\n#chotacabras #aves #hibernacion #shorts",
+  "tags": [
+    "chotacabras palido",
+    "Phalaenoptilus nuttallii",
+    "ave que hiberna",
+    "hibernacion",
+    "aves",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "PARECÍA MUERTO",
+  "prompt_miniatura": "a camouflaged grey-brown nightjar bird motionless inside a rock crevice in the desert"
+}

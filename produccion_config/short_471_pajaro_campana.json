@@ -1,0 +1,34 @@
+{
+  "id": "short_471_pajaro_campana",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "El pájaro más ruidoso jamás medido grita a ciento veinticinco decibelios. Como un concierto de rock pegado al altavoz.\n\nEs el pájaro campana blanco, de la Amazonia, y grita para conquistar a la hembra.\n\nPero lo increíble es cuándo suelta su grito más fuerte.\n\nCuando ella ya se ha posado a su lado, él se gira y se lo lanza a la cara.\n\nSinceramente, yo saldría volando.\n\nY nadie sabe aún cómo ella no se queda sorda.\n\nSi te gustan los récords absurdos, aquí hay muchos más.",
+  "queries_imagenes": [
+    "Procnias albus",
+    "white bellbird",
+    "white bellbird male",
+    "Procnias albus male wattle",
+    "white bellbird calling",
+    "bellbird Procnias",
+    "Procnias albus Brazil",
+    "white bellbird perched"
+  ],
+  "titulo": "El pájaro más ruidoso del mundo grita a 125 decibelios",
+  "descripcion": "El pájaro campana blanco (Procnias albus) de la Amazonia tiene el canto más fuerte medido en un ave: hasta 125 decibelios, y lo lanza a la cara de la hembra.\n\n#pajarocampana #aves #amazonia #shorts",
+  "tags": [
+    "pajaro campana blanco",
+    "Procnias albus",
+    "ave mas ruidosa",
+    "records animales",
+    "amazonia",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "LE GRITA A LA CARA",
+  "prompt_miniatura": "a white bird with a long fleshy wattle hanging from its beak, beak wide open screaming, on a branch in the Amazon rainforest"
+}

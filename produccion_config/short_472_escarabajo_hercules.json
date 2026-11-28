@@ -1,0 +1,34 @@
+{
+  "id": "short_472_escarabajo_hercules",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "El escarabajo más largo del mundo mide hasta diecisiete centímetros. Casi como tu mano entera.\n\nEs el escarabajo hércules, de las selvas de América.\n\nBuena parte de esa longitud son sus cuernos. Y no son de adorno: los machos pelean con ellos, levantan al rival como una pinza y lo tiran al suelo.\n\nY sinceramente, si me lo encuentro en la mochila, me mudo de casa.\n\nPero lo que nadie espera es su armadura.\n\nCon el aire seco es amarilla verdosa. Cuando sube la humedad, se vuelve negra.",
+  "queries_imagenes": [
+    "Dynastes hercules",
+    "Hercules beetle",
+    "Dynastes hercules male",
+    "Hercules beetle horn",
+    "Dynastes hercules black",
+    "Hercules beetle hand",
+    "Dynastes hercules female",
+    "Hercules beetle Guadeloupe"
+  ],
+  "titulo": "Este escarabajo mide 17 centímetros y cambia de color",
+  "descripcion": "El escarabajo hércules (Dynastes hercules) es el escarabajo más largo del mundo: hasta 17 cm con los cuernos, y su caparazón pasa de amarillo verdoso a negro con la humedad.\n\n#escarabajohercules #insectos #animalesraros #shorts",
+  "tags": [
+    "escarabajo hercules",
+    "Dynastes hercules",
+    "insecto mas largo",
+    "escarabajos",
+    "animales raros",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "MÁS GRANDE QUE TU MANO",
+  "prompt_miniatura": "a giant beetle with two huge horns sitting on a human hand, olive-yellow shell, rainforest background"
+}

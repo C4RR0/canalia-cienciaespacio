@@ -1,0 +1,34 @@
+{
+  "id": "short_479_pajaro_sastre",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Este pájaro cose hojas de verdad, con hilo, para fabricar su nido.\n\nEs el sastre común, un pajarito de Asia.\n\nElige una hoja grande y junta sus bordes como un cucurucho.\n\nLuego los perfora con el pico, como una aguja, y pasa por los agujeros fibras de plantas o seda de araña.\n\nYo no sé ni coser un botón: me siento humillado.\n\nY la fibra se ensancha por fuera, como un remache, y no se suelta.\n\nSi te gustan los animales con oficio, sígueme.",
+  "queries_imagenes": [
+    "Orthotomus sutorius",
+    "common tailorbird",
+    "tailorbird nest",
+    "Orthotomus sutorius nest",
+    "common tailorbird India",
+    "tailorbird leaf nest",
+    "Orthotomus sutorius male",
+    "tailorbird perched"
+  ],
+  "titulo": "El pájaro que cose hojas con hilo para hacer su nido",
+  "descripcion": "El sastre común (Orthotomus sutorius) de Asia perfora los bordes de una hoja con el pico y los une con fibras vegetales o seda de araña para hacer su nido.\n\n#pajarosastre #aves #animalesincreibles #shorts",
+  "tags": [
+    "pajaro sastre",
+    "Orthotomus sutorius",
+    "nidos de aves",
+    "aves de asia",
+    "aves",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "SABE COSER",
+  "prompt_miniatura": "a tiny olive-green bird with an upright tail next to a leaf stitched into a cup with plant fibres"
+}

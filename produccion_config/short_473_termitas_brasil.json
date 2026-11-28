@@ -1,0 +1,34 @@
+{
+  "id": "short_473_termitas_brasil",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Unas termitas de Brasil han levantado doscientos millones de montículos. Ocupan tanto como Gran Bretaña.\n\nLos más antiguos tienen casi cuatro mil años.\n\nLa ciencia no los estudió hasta dos mil dieciocho: un bosque seco los tapaba, y solo se vieron al talarlo.\n\nToda esa tierra equivale a cuatro mil pirámides de Guiza.\n\nY yo no consigo ordenar ni mi trastero.\n\nLo más loco es que dentro no vive nadie: es la tierra que sacaron al cavar sus túneles.\n\nSi te ha volado la cabeza, sígueme.",
+  "queries_imagenes": [
+    "termite mounds Caatinga",
+    "termite mounds Brazil",
+    "Syntermes",
+    "termite mound",
+    "termite mounds aerial",
+    "Caatinga Brazil",
+    "termite mounds field",
+    "termites tunnel"
+  ],
+  "titulo": "Estas termitas hicieron 200 millones de montículos",
+  "descripcion": "En el noreste de Brasil, las termitas Syntermes dirus han levantado unos 200 millones de montículos que ocupan una superficie como Gran Bretaña; los más antiguos tienen casi 4.000 años.\n\n#termitas #brasil #insectos #shorts",
+  "tags": [
+    "termitas",
+    "Syntermes dirus",
+    "montículos de termitas",
+    "brasil",
+    "insectos",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "SE VEN DESDE EL CIELO",
+  "prompt_miniatura": "aerial view of hundreds of evenly spaced earth mounds in dry scrubland in Brazil"
+}

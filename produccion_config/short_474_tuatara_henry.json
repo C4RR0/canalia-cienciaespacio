@@ -1,0 +1,34 @@
+{
+  "id": "short_474_tuatara_henry",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Este reptil fue padre por primera vez a los ciento once años.\n\nSe llama Henry y es un tuátara, un reptil de Nueva Zelanda cuyo linaje ya existía con los dinosaurios.\n\nDurante décadas vivió en un museo sin ningún interés por las hembras. Al contrario: era tan arisco que atacaba a las que le acercaban.\n\nY yo que pensaba que mi abuelo era gruñón.\n\nEntonces los veterinarios le encontraron un bulto y se lo quitaron. Estaba justo en los genitales.\n\nAños después, nacieron once crías suyas.",
+  "queries_imagenes": [
+    "Sphenodon punctatus",
+    "tuatara",
+    "tuatara Henry Southland Museum",
+    "tuatara New Zealand",
+    "Sphenodon punctatus head",
+    "tuatara juvenile",
+    "Southland Museum Invercargill",
+    "tuatara close up"
+  ],
+  "titulo": "Este reptil fue padre por primera vez a los 111 años",
+  "descripcion": "Henry, un tuátara (Sphenodon punctatus) del Museo de Southland, en Nueva Zelanda, fue padre por primera vez en 2009 con unos 111 años, tras pasar décadas sin interés por las hembras.\n\n#tuatara #reptiles #nuevazelanda #shorts",
+  "tags": [
+    "tuatara",
+    "Sphenodon punctatus",
+    "Henry tuatara",
+    "reptiles",
+    "nueva zelanda",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "PADRE CON 111 AÑOS",
+  "prompt_miniatura": "an old spiny reptile resembling a lizard with a crest on its back, close up, looking grumpy"
+}

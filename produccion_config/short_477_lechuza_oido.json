@@ -1,0 +1,34 @@
+{
+  "id": "short_477_lechuza_oido",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "cierre_suscripcion",
+  "guion": "Esta ave caza ratones en la oscuridad total. Sin ver nada, solo con el oído.\n\nEs la lechuza común. En los años setenta, unos científicos la soltaron en una sala totalmente a oscuras, con un ratón.\n\nLa lechuza lo atrapó igual.\n\nSinceramente, esto me impresiona más que cualquier visión nocturna.\n\nSu cara blanca funciona como una antena parabólica que guía el sonido.\n\nPero el gran truco está bajo las plumas: tiene un oído más alto que el otro.\n\nSi te gustan estos superpoderes, sígueme.",
+  "queries_imagenes": [
+    "Tyto alba",
+    "barn owl",
+    "barn owl hunting",
+    "barn owl flight",
+    "Tyto alba face",
+    "barn owl night",
+    "barn owl mouse",
+    "Tyto alba perched"
+  ],
+  "titulo": "Esta ave caza ratones a oscuras solo con el oído",
+  "descripcion": "La lechuza común (Tyto alba) puede cazar en oscuridad total solo con el oído: su disco facial dirige el sonido y tiene un oído más alto que el otro.\n\n#lechuza #aves #animales #shorts",
+  "tags": [
+    "lechuza comun",
+    "Tyto alba",
+    "aves nocturnas",
+    "sentidos animales",
+    "aves",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "CAZA A CIEGAS",
+  "prompt_miniatura": "a white heart-faced owl flying silently at night with talons forward over a dark field"
+}

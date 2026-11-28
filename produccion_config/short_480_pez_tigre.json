@@ -1,0 +1,34 @@
+{
+  "id": "short_480_pez_tigre",
+  "formato": "curiosidad",
+  "orientacion": "vertical",
+  "voz": "es-ES-AlvaroNeural",
+  "fuente_imagenes": "wikimedia",
+  "categoria_id": "28",
+  "privacidad": "public",
+  "tema_visual": "naturaleza",
+  "experimento": "control",
+  "guion": "Este pez salta fuera del agua y atrapa golondrinas en pleno vuelo.\n\nEs el pez tigre africano, con dientes que se le ven incluso con la boca cerrada.\n\nHabía rumores desde hacía décadas, pero nadie lo había grabado.\n\nEn dos mil catorce, unos científicos lo filmaron en un embalse de Sudáfrica. Las golondrinas bajaban rozando el agua, y el pez saltaba y las cazaba en el aire.\n\nSinceramente, ya no me fío de ningún lago.\n\nEra la primera vez que se demostraba en un pez de agua dulce.",
+  "queries_imagenes": [
+    "Hydrocynus vittatus",
+    "tigerfish",
+    "African tigerfish",
+    "Hydrocynus vittatus teeth",
+    "tigerfish Zambezi",
+    "barn swallow over water",
+    "Hirundo rustica drinking",
+    "Hydrocynus"
+  ],
+  "titulo": "Este pez salta del agua y caza golondrinas en pleno vuelo",
+  "descripcion": "El pez tigre africano (Hydrocynus vittatus) fue filmado en 2014 en un embalse de Sudáfrica saltando fuera del agua para atrapar golondrinas en vuelo.\n\n#peztigre #peces #africa #shorts",
+  "tags": [
+    "pez tigre",
+    "Hydrocynus vittatus",
+    "peces de africa",
+    "depredadores",
+    "peces",
+    "datos curiosos"
+  ],
+  "hook_miniatura": "SALE DEL AGUA",
+  "prompt_miniatura": "a silver striped fish with big sharp teeth leaping out of a river towards a swallow flying low"
+}
