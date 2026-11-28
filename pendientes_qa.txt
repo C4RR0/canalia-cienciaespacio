@@ -1,5 +1,4 @@
 short_471_pajaro_campana
-short_472_escarabajo_hercules
 short_473_termitas_brasil
 short_474_tuatara_henry
 short_475_bisonte_europeo
