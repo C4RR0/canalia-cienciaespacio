@@ -1,4 +1,3 @@
 short_471_pajaro_campana
-short_480_pez_tigre
 short_481_chotacabras_hiberna
 short_482_catedral_justo
