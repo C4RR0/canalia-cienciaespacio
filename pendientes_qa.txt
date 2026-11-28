@@ -1,5 +1,4 @@
 short_471_pajaro_campana
-short_475_bisonte_europeo
 short_476_lalibela_iglesias
 short_477_lechuza_oido
 short_478_alcatraz_picado
